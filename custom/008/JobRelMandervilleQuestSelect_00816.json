@@ -1,9 +1,0 @@
-{
-  "source_file": "exd/custom/008/JobRelMandervilleQuestSelect_00816_0_en.exd",
-  "rows": [
-    {
-      "id": "0x00000000",
-      "text": "TEXT_JOBRELMANDERVILLEQUESTSELECT_00816_TALK_ACTOR<tab>0"
-    }
-  ]
-}

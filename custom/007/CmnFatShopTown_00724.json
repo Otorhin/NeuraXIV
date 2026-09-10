@@ -1,9 +1,0 @@
-{
-  "source_file": "exd/custom/007/CmnFatShopTown_00724_0_en.exd",
-  "rows": [
-    {
-      "id": "0x00000000",
-      "text": "TEXT_CMNFATSHOPTOWN_00724_TALK_ACTOR<tab>0"
-    }
-  ]
-}

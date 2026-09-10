@@ -1,9 +1,0 @@
-{
-  "source_file": "exd/dungeon/000/DungeonElfpalace_00000_0_en.exd",
-  "rows": [
-    {
-      "id": "0x00000000",
-      "text": "TEXT_DUNGEONELFPALACE_00000_BEQLUGG_000_000<tab>Ты достаточно долго осквернял эти залы.  \nИдём, Лугус! Нашим <var 1A 02 /var>гостям<var 1A 01 /var> всё ещё недостаёт компании."
-    }
-  ]
-}

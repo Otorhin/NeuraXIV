@@ -1,9 +1,0 @@
-{
-  "source_file": "exd/custom/000/CmnDefMarketBoardGridania_00039_0_en.exd",
-  "rows": [
-    {
-      "id": "0x00000000",
-      "text": "TEXT_CMNDEFMARKETBOARDGRIDANIA_00039_DISABLE_MARKET_BOARD<tab>В данный момент рынки вам недоступны."
-    }
-  ]
-}

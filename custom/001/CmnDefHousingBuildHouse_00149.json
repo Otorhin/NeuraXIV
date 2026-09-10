@@ -1,9 +1,0 @@
-{
-  "source_file": "exd/custom/001/CmnDefHousingBuildHouse_00149_0_en.exd",
-  "rows": [
-    {
-      "id": "0x00000000",
-      "text": "TEXT_CMNDEFHOUSINGBUILDHOUSE_00149_TALK_ACTOR<tab>Та-да-аам! Дом построен!"
-    }
-  ]
-}

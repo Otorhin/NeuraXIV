@@ -1,9 +1,0 @@
-{
-  "source_file": "exd/custom/004/CtsDomReconRepurchaseBox_00485_0_en.exd",
-  "rows": [
-    {
-      "id": "0x00000000",
-      "text": "TEXT_CTSDOMRECONREPURCHASEBOX_00485_SYSTEM_000_001<tab>Контейнер явно предназначен для хранения большого количества предметов, но для каких целей — неизвестно..."
-    }
-  ]
-}
