@@ -1,0 +1,561 @@
+{
+  "source_file": "exd/GatheringSubCategory_2000_en.exd",
+  "rows": [
+    {
+      "id": "0x000007D0",
+      "text": "Coerthan Mining Folklore"
+    },
+    {
+      "id": "0x000007D1",
+      "text": "Coerthan Mining Folklore"
+    },
+    {
+      "id": "0x000007D2",
+      "text": "Coerthan Botany Folklore"
+    },
+    {
+      "id": "0x000007D3",
+      "text": "Coerthan Botany Folklore"
+    },
+    {
+      "id": "0x000007D4",
+      "text": "Dravanian Mining Folklore"
+    },
+    {
+      "id": "0x000007D5",
+      "text": "Dravanian Mining Folklore"
+    },
+    {
+      "id": "0x000007D6",
+      "text": "Dravanian Botany Folklore"
+    },
+    {
+      "id": "0x000007D7",
+      "text": "Dravanian Botany Folklore"
+    },
+    {
+      "id": "0x000007D8",
+      "text": "Abalathian Mining Folklore"
+    },
+    {
+      "id": "0x000007D9",
+      "text": "Abalathian Mining Folklore"
+    },
+    {
+      "id": "0x000007DA",
+      "text": "Abalathian Botany Folklore"
+    },
+    {
+      "id": "0x000007DB",
+      "text": "Abalathian Botany Folklore"
+    },
+    {
+      "id": "0x000007DC",
+      "text": "Gyr Abanian Mining Folklore"
+    },
+    {
+      "id": "0x000007DD",
+      "text": "Gyr Abanian Mining Folklore"
+    },
+    {
+      "id": "0x000007DE",
+      "text": "Gyr Abanian Botany Folklore"
+    },
+    {
+      "id": "0x000007DF",
+      "text": "Gyr Abanian Botany Folklore"
+    },
+    {
+      "id": "0x000007E0",
+      "text": "Othardian Mining Folklore"
+    },
+    {
+      "id": "0x000007E1",
+      "text": "Othardian Mining Folklore"
+    },
+    {
+      "id": "0x000007E2",
+      "text": "Othardian Botany Folklore"
+    },
+    {
+      "id": "0x000007E3",
+      "text": "Othardian Botany Folklore"
+    },
+    {
+      "id": "0x000007E4",
+      "text": "Vrandtic Mining Folklore"
+    },
+    {
+      "id": "0x000007E5",
+      "text": "Vrandtic Mining Folklore"
+    },
+    {
+      "id": "0x000007E6",
+      "text": "Vrandtic Botany Folklore"
+    },
+    {
+      "id": "0x000007E7",
+      "text": "Vrandtic Botany Folklore"
+    },
+    {
+      "id": "0x000007E8",
+      "text": "Northern Mining Folklore"
+    },
+    {
+      "id": "0x000007E9",
+      "text": "Northern Mining Folklore"
+    },
+    {
+      "id": "0x000007EA",
+      "text": "Northern Botany Folklore"
+    },
+    {
+      "id": "0x000007EB",
+      "text": "Northern Botany Folklore"
+    },
+    {
+      "id": "0x000007EC",
+      "text": "Celestial Mining Folklore"
+    },
+    {
+      "id": "0x000007ED",
+      "text": "Celestial Mining Folklore"
+    },
+    {
+      "id": "0x000007EE",
+      "text": "Celestial Botany Folklore"
+    },
+    {
+      "id": "0x000007EF",
+      "text": "Celestial Botany Folklore"
+    },
+    {
+      "id": "0x000007F0",
+      "text": "Ancient Mining Folklore"
+    },
+    {
+      "id": "0x000007F1",
+      "text": "Ancient Mining Folklore"
+    },
+    {
+      "id": "0x000007F2",
+      "text": "Ancient Botany Folklore"
+    },
+    {
+      "id": "0x000007F3",
+      "text": "Ancient Botany Folklore"
+    },
+    {
+      "id": "0x000007F4",
+      "text": "Yok Turali Mining Folklore"
+    },
+    {
+      "id": "0x000007F5",
+      "text": "Yok Turali Mining Folklore"
+    },
+    {
+      "id": "0x000007F6",
+      "text": "Yok Turali Botany Folklore"
+    },
+    {
+      "id": "0x000007F7",
+      "text": "Yok Turali Botany Folklore"
+    },
+    {
+      "id": "0x000007F8",
+      "text": "Xak Turali Mining Folklore"
+    },
+    {
+      "id": "0x000007F9",
+      "text": "Xak Turali Mining Folklore"
+    },
+    {
+      "id": "0x000007FA",
+      "text": "Xak Turali Botany Folklore"
+    },
+    {
+      "id": "0x000007FB",
+      "text": "Xak Turali Botany Folklore"
+    },
+    {
+      "id": "0x000007FC",
+      "text": "Alexandrian Mining Folklore"
+    },
+    {
+      "id": "0x000007FD",
+      "text": "Alexandrian Mining Folklore"
+    },
+    {
+      "id": "0x000007FE",
+      "text": "Alexandrian Botany Folklore"
+    },
+    {
+      "id": "0x000007FF",
+      "text": "Alexandrian Botany Folklore"
+    },
+    {
+      "id": "0x00000898",
+      "text": "Geological Resources"
+    },
+    {
+      "id": "0x00000899",
+      "text": "Geological Resources"
+    },
+    {
+      "id": "0x0000089A",
+      "text": "Botanical Resources"
+    },
+    {
+      "id": "0x0000089B",
+      "text": "Botanical Resources"
+    },
+    {
+      "id": "0x0000089C",
+      "text": "Geological Resources"
+    },
+    {
+      "id": "0x0000089D",
+      "text": "Geological Resources"
+    },
+    {
+      "id": "0x0000089E",
+      "text": "Botanical Resources"
+    },
+    {
+      "id": "0x0000089F",
+      "text": "Botanical Resources"
+    },
+    {
+      "id": "0x000008A0",
+      "text": "Geological Skysteel Resources I"
+    },
+    {
+      "id": "0x000008A1",
+      "text": "Geological Skysteel Resources I"
+    },
+    {
+      "id": "0x000008A2",
+      "text": "Botanical Skysteel Resources I"
+    },
+    {
+      "id": "0x000008A3",
+      "text": "Botanical Skysteel Resources I"
+    },
+    {
+      "id": "0x000008A4",
+      "text": "Geological Resources"
+    },
+    {
+      "id": "0x000008A5",
+      "text": "Geological Resources"
+    },
+    {
+      "id": "0x000008A6",
+      "text": "Botanical Resources"
+    },
+    {
+      "id": "0x000008A7",
+      "text": "Botanical Resources"
+    },
+    {
+      "id": "0x000008A8",
+      "text": "Geological Skysteel Resources II"
+    },
+    {
+      "id": "0x000008AA",
+      "text": "Botanical Skysteel Resources II"
+    },
+    {
+      "id": "0x000008AC",
+      "text": "Lv. 51"
+    },
+    {
+      "id": "0x000008AD",
+      "text": "Lv. 51"
+    },
+    {
+      "id": "0x000008AE",
+      "text": "Lv. 51"
+    },
+    {
+      "id": "0x000008AF",
+      "text": "Lv. 51"
+    },
+    {
+      "id": "0x000008B0",
+      "text": "Lv. 56"
+    },
+    {
+      "id": "0x000008B1",
+      "text": "Lv. 56"
+    },
+    {
+      "id": "0x000008B2",
+      "text": "Lv. 56"
+    },
+    {
+      "id": "0x000008B3",
+      "text": "Lv. 56"
+    },
+    {
+      "id": "0x000008B4",
+      "text": "Lv. 61"
+    },
+    {
+      "id": "0x000008B5",
+      "text": "Lv. 61"
+    },
+    {
+      "id": "0x000008B6",
+      "text": "Lv. 61"
+    },
+    {
+      "id": "0x000008B7",
+      "text": "Lv. 61"
+    },
+    {
+      "id": "0x000008B8",
+      "text": "Lv. 66"
+    },
+    {
+      "id": "0x000008B9",
+      "text": "Lv. 66"
+    },
+    {
+      "id": "0x000008BA",
+      "text": "Lv. 66"
+    },
+    {
+      "id": "0x000008BB",
+      "text": "Lv. 66"
+    },
+    {
+      "id": "0x000008BC",
+      "text": "Lv. 71"
+    },
+    {
+      "id": "0x000008BD",
+      "text": "Lv. 71"
+    },
+    {
+      "id": "0x000008BE",
+      "text": "Lv. 71"
+    },
+    {
+      "id": "0x000008BF",
+      "text": "Lv. 71"
+    },
+    {
+      "id": "0x000008C0",
+      "text": "Lv. 76"
+    },
+    {
+      "id": "0x000008C1",
+      "text": "Lv. 76"
+    },
+    {
+      "id": "0x000008C2",
+      "text": "Lv. 76"
+    },
+    {
+      "id": "0x000008C3",
+      "text": "Lv. 76"
+    },
+    {
+      "id": "0x000008C4",
+      "text": "Lv. 81"
+    },
+    {
+      "id": "0x000008C5",
+      "text": "Lv. 81"
+    },
+    {
+      "id": "0x000008C6",
+      "text": "Lv. 81"
+    },
+    {
+      "id": "0x000008C7",
+      "text": "Lv. 81"
+    },
+    {
+      "id": "0x000008C8",
+      "text": "Geological Resources"
+    },
+    {
+      "id": "0x000008C9",
+      "text": "Geological Resources"
+    },
+    {
+      "id": "0x000008CA",
+      "text": "Botanical Resources"
+    },
+    {
+      "id": "0x000008CB",
+      "text": "Botanical Resources"
+    },
+    {
+      "id": "0x000008CC",
+      "text": "Geological Skysteel Resources III"
+    },
+    {
+      "id": "0x000008CE",
+      "text": "Botanical Skysteel Resources III"
+    },
+    {
+      "id": "0x000008D0",
+      "text": "Lv. 86"
+    },
+    {
+      "id": "0x000008D1",
+      "text": "Lv. 86"
+    },
+    {
+      "id": "0x000008D2",
+      "text": "Lv. 86"
+    },
+    {
+      "id": "0x000008D3",
+      "text": "Lv. 86"
+    },
+    {
+      "id": "0x000008E0",
+      "text": "Geological Resources I"
+    },
+    {
+      "id": "0x000008E2",
+      "text": "Botanical Resources I"
+    },
+    {
+      "id": "0x000008E4",
+      "text": "Geological Resources II"
+    },
+    {
+      "id": "0x000008E6",
+      "text": "Botanical Resources II"
+    },
+    {
+      "id": "0x000008E8",
+      "text": "Geological Resources III"
+    },
+    {
+      "id": "0x000008EA",
+      "text": "Botanical Resources III"
+    },
+    {
+      "id": "0x000008EC",
+      "text": "Lv. 91"
+    },
+    {
+      "id": "0x000008ED",
+      "text": "Lv. 91"
+    },
+    {
+      "id": "0x000008EE",
+      "text": "Lv. 91"
+    },
+    {
+      "id": "0x000008EF",
+      "text": "Lv. 91"
+    },
+    {
+      "id": "0x000008F0",
+      "text": "Lv. 96"
+    },
+    {
+      "id": "0x000008F1",
+      "text": "Lv. 96"
+    },
+    {
+      "id": "0x000008F2",
+      "text": "Lv. 96"
+    },
+    {
+      "id": "0x000008F3",
+      "text": "Lv. 96"
+    },
+    {
+      "id": "0x000009C4",
+      "text": "Coerthan Fishing Folklore"
+    },
+    {
+      "id": "0x000009C5",
+      "text": "Dravanian Fishing Folklore"
+    },
+    {
+      "id": "0x000009C6",
+      "text": "Abalathian Fishing Folklore"
+    },
+    {
+      "id": "0x000009C7",
+      "text": "Gyr Abanian Fishing Folklore"
+    },
+    {
+      "id": "0x000009C8",
+      "text": "Gyr Abanian Fishing Folklore"
+    },
+    {
+      "id": "0x000009C9",
+      "text": "Othardian Fishing Folklore"
+    },
+    {
+      "id": "0x000009CA",
+      "text": "Othardian Fishing Folklore"
+    },
+    {
+      "id": "0x000009CB",
+      "text": "Vrandtic Fishing Folklore"
+    },
+    {
+      "id": "0x000009CC",
+      "text": "Vrandtic Fishing Folklore"
+    },
+    {
+      "id": "0x000009CD",
+      "text": "Northern Fishing Folklore"
+    },
+    {
+      "id": "0x000009CE",
+      "text": "Northern Fishing Folklore"
+    },
+    {
+      "id": "0x000009CF",
+      "text": "Celestial Fishing Folklore"
+    },
+    {
+      "id": "0x000009D0",
+      "text": "Celestial Fishing Folklore"
+    },
+    {
+      "id": "0x000009D1",
+      "text": "Ancient Fishing Folklore"
+    },
+    {
+      "id": "0x000009D2",
+      "text": "Ancient Fishing Folklore"
+    },
+    {
+      "id": "0x000009D3",
+      "text": "Yok Turali Fishing Folklore"
+    },
+    {
+      "id": "0x000009D4",
+      "text": "Yok Turali Fishing Folklore"
+    },
+    {
+      "id": "0x000009D5",
+      "text": "Xak Turali Fishing Folklore"
+    },
+    {
+      "id": "0x000009D6",
+      "text": "Xak Turali Fishing Folklore"
+    },
+    {
+      "id": "0x000009D7",
+      "text": "Alexandrian Fishing Folklore"
+    },
+    {
+      "id": "0x000009D8",
+      "text": "Alexandrian Fishing Folklore"
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "source_file": "exd/HalloweenNpcSelect_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "A Padjali woman as gentle yet indomitable as nature itself."
+    },
+    {
+      "id": "0x00000002",
+      "text": "A stalwart Roegadyn woman of unshakable conviction."
+    },
+    {
+      "id": "0x00000003",
+      "text": "A rugged Hyuran man unmatched in loyalty and valor."
+    },
+    {
+      "id": "0x00000004",
+      "text": "A charming and compassionate Lalafellin lady of noble birth."
+    },
+    {
+      "id": "0x00000005",
+      "text": "A courageous and clever Garlean man admired by many."
+    },
+    {
+      "id": "0x00000006",
+      "text": "A wry and ambitious Garlean man who hates to be outdone."
+    },
+    {
+      "id": "0x00000007",
+      "text": "A talented Lalafellin technician with a soft spot for a certain coinkeeper."
+    },
+    {
+      "id": "0x00000008",
+      "text": "A Roegadyn man who escaped the Empire with his diminutive brother-in-tools."
+    },
+    {
+      "id": "0x00000009",
+      "text": "An eccentric Miqo'te man crimson of both hair and eye."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "A compassionate Hyuran woman who leads a \"secret\" organization."
+    },
+    {
+      "id": "0x0000000B",
+      "text": "A formidable Roegadyn man recognized for his tactical brilliance."
+    },
+    {
+      "id": "0x0000000C",
+      "text": "A stunning Miqo'te woman famed as a peerless songstress."
+    },
+    {
+      "id": "0x0000000D",
+      "text": "A Hyuran gentleman with an irrepressibly inquisitive nature."
+    },
+    {
+      "id": "0x0000000E",
+      "text": "A loyal Miqo'te woman who assists a gentleman inspector."
+    },
+    {
+      "id": "0x0000000F",
+      "text": "A Hyuran man who is known as Eorzea's most fearsome goldsmith."
+    },
+    {
+      "id": "0x00000010",
+      "text": "An eager Lalafellin woman who is the coinkeeper of a \"secret\" organization."
+    },
+    {
+      "id": "0x00000011",
+      "text": "A Hyuran man who began life anew in a realm reborn."
+    },
+    {
+      "id": "0x00000012",
+      "text": "A blue-eyed Elezen man with a heart noble and true."
+    },
+    {
+      "id": "0x00000013",
+      "text": "A tenacious half-Elezen woman who fights for what is just."
+    },
+    {
+      "id": "0x00000014",
+      "text": "A robed Lalafellin woman of the intellectual persuasion."
+    },
+    {
+      "id": "0x00000015",
+      "text": "A proud Elezen man unmatched in the art of the lance."
+    },
+    {
+      "id": "0x00000016",
+      "text": "A daring Hyuran man who lives free as a bird."
+    },
+    {
+      "id": "0x00000017",
+      "text": "A hardy Hyuran woman who keeps her skybound crewmates in check."
+    },
+    {
+      "id": "0x00000018",
+      "text": "A Lalafellin woman with a knack for machines that soar the skies."
+    },
+    {
+      "id": "0x00000019",
+      "text": "An Elezen man of noble birth fond of gossip and hearsay."
+    },
+    {
+      "id": "0x0000001A",
+      "text": "A Hyuran man who turned his gaze heavensward."
+    },
+    {
+      "id": "0x0000001B",
+      "text": "A dauntless Hyuran man of integrity from the Far East."
+    },
+    {
+      "id": "0x0000001C",
+      "text": "A devoted Auri woman who has mastered the art of the shinobi."
+    },
+    {
+      "id": "0x0000001D",
+      "text": "A haughty but valorous Auri man with a yearning heart."
+    },
+    {
+      "id": "0x0000001E",
+      "text": "An Auri woman strong of body and stronger of will."
+    },
+    {
+      "id": "0x0000001F",
+      "text": "A sweet Auri woman who lives according to her faith."
+    },
+    {
+      "id": "0x00000020",
+      "text": "A crimson-garbed Hyuran woman fleet of foot and fist."
+    },
+    {
+      "id": "0x00000021",
+      "text": "A Roegadyn man who oversees the Confederacy's dominion of Far Eastern waters."
+    },
+    {
+      "id": "0x00000022",
+      "text": "A Hyuran man who supports his pirate chieftain as second-in-command."
+    },
+    {
+      "id": "0x00000023",
+      "text": "A Hyuran man whose strength and compassion made him a legend."
+    },
+    {
+      "id": "0x00000024",
+      "text": "A vindictive Hyuran man of savage political cunning."
+    },
+    {
+      "id": "0x00000025",
+      "text": "A Garlean man who hunts the servants of Darkness."
+    },
+    {
+      "id": "0x00000026",
+      "text": "An erudite Auri woman who holds the title of Archon."
+    },
+    {
+      "id": "0x00000027",
+      "text": "A Hyuran man inspired to take up the arms of his Ala Mhigan allies."
+    },
+    {
+      "id": "0x00000028",
+      "text": "A Hyuran man inspired to take up the arms of his Far Eastern allies."
+    },
+    {
+      "id": "0x00000029",
+      "text": "A sagacious Miqo'te woman skilled in the magical arts."
+    },
+    {
+      "id": "0x0000002A",
+      "text": "An Elezen man who reads the stars as easily as his tomes."
+    },
+    {
+      "id": "0x0000002B",
+      "text": "A handsome Hyuran man who fights to protect those he loves."
+    },
+    {
+      "id": "0x0000002C",
+      "text": "A dainty Hyuran woman who chose to carve her own fate."
+    },
+    {
+      "id": "0x0000002D",
+      "text": "A Hyuran man who keeps his pirate crew in line as their acting captain."
+    },
+    {
+      "id": "0x0000002E",
+      "text": "A Hyuran man famed for his skills as a beastmaster."
+    },
+    {
+      "id": "0x0000002F",
+      "text": "An obstinate Lalafellin woman from a distinguished family of beastmasters."
+    },
+    {
+      "id": "0x00000030",
+      "text": "A cruel Garlean man who serves as a legatus of the Empire."
+    },
+    {
+      "id": "0x00000031",
+      "text": "A Hyuran man who brought the night sky to a world flooded by Light."
+    },
+    {
+      "id": "0x00000032",
+      "text": "An Elezen man who serves as a respected member of the Forum."
+    },
+    {
+      "id": "0x00000033",
+      "text": "A compassionate Elezen woman determined to give children a brighter future."
+    },
+    {
+      "id": "0x00000034",
+      "text": "A Garlean man determined to restore the broken remains of his homeland."
+    },
+    {
+      "id": "0x00000035",
+      "text": "A Viera man who travels the world in search of esoteric curios."
+    },
+    {
+      "id": "0x00000036",
+      "text": "A Hyuran man who spends his life collecting treasures of the Far East."
+    },
+    {
+      "id": "0x00000037",
+      "text": "A Miqo'te woman who shares her body with the soul of an ancient magus."
+    },
+    {
+      "id": "0x00000038",
+      "text": "A simulacrum housing the will of a great wyrm who was reunited with his sister in the void."
+    },
+    {
+      "id": "0x00000039",
+      "text": "A shy but mathematically minded clone of an inspector extraordinaire."
+    },
+    {
+      "id": "0x0000003A",
+      "text": "A Hyuran man who crossed time and space to protect this star."
+    },
+    {
+      "id": "0x0000003B",
+      "text": "A Hrothgar woman of peerless resolve who laid eyes upon a golden city."
+    },
+    {
+      "id": "0x0000003C",
+      "text": "A reasonable Miqo'te man who proudly serves his homeland alongside his sister."
+    },
+    {
+      "id": "0x0000003D",
+      "text": "A Hyuran man who crossed vast seas to embark on his next great adventure."
+    },
+    {
+      "id": "0x0000003E",
+      "text": "A Lalafellin woman wielding a magicked brush who sought the truth of her origin."
+    },
+    {
+      "id": "0x0000003F",
+      "text": "A Hyuran man who sacrificed the gift of godhood to wander the realm."
+    },
+    {
+      "id": "0x00000040",
+      "text": "A half-voidsent woman armed with a scythe who hails from a world shrouded in Darkness."
+    },
+    {
+      "id": "0x00000041",
+      "text": "A kindly, night-worshipping Hrothgar man who holds great affection for his master."
+    },
+    {
+      "id": "0x00000042",
+      "text": "A half-Garlean man bearing the name of a hero from eras past."
+    },
+    {
+      "id": "0x00000043",
+      "text": "A young half-Garlean woman named after the sister of a legendary hero."
+    },
+    {
+      "id": "0x00000044",
+      "text": "A Garlean man whose theater company breathes life anew into bygone legends."
+    },
+    {
+      "id": "0x00000045",
+      "text": "An excitable light-heavyweight fighter and reliable second."
+    },
+    {
+      "id": "0x00000046",
+      "text": "A former heavyweight fighter and a witch for a new age."
+    },
+    {
+      "id": "0x00000047",
+      "text": "A verdant reveler, ever ready to tear up the dance floor."
+    },
+    {
+      "id": "0x00000048",
+      "text": "An adorable light-heavyweight fighter and starlet with a sting."
+    },
+    {
+      "id": "0x00000049",
+      "text": "A lone wolf in the ring and apex of the cruiserweight division."
+    },
+    {
+      "id": "0x0000004A",
+      "text": "A fierce fighter who has been to hell and lived to tell the tale."
+    },
+    {
+      "id": "0x0000004B",
+      "text": "A rebellious artist who sees the ring as her personal gallery."
+    },
+    {
+      "id": "0x0000004C",
+      "text": "A cunning heavyweight fighter cloaked in azure and guided by the tides."
+    },
+    {
+      "id": "0x0000004D",
+      "text": "A fiery heavyweight fighter who wields infernos with ease."
+    },
+    {
+      "id": "0x0000004E",
+      "text": "A devilishly divine heavyweight fighter who shows her rivals no mercy."
+    },
+    {
+      "id": "0x0000004F",
+      "text": "A ruthless heavyweight fighter who rules the Arcadion with an iron fist."
+    },
+    {
+      "id": "0x00000050",
+      "text": "A crafty commentator who serves as the voice of the Arcadion's boisterous brawls."
+    },
+    {
+      "id": "0x00000051",
+      "text": "A steadfast Garlean man who placed his faith in the Populares."
+    },
+    {
+      "id": "0x00000052",
+      "text": "A headstrong Hyuran woman who captains a rival band of sky pirates."
+    },
+    {
+      "id": "0x00000053",
+      "text": "A compassionate Elezen proprietress who runs her local tavern with pride."
+    },
+    {
+      "id": "0x00000054",
+      "text": "A jovial Hyuran man who welcomes those from all walks of life to his establishment."
+    },
+    {
+      "id": "0x00000055",
+      "text": "A shrewd-yet-easygoing Lalafellin woman who delights in her patrons' tales of adventure."
+    }
+  ]
+}

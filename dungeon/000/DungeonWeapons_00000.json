@@ -1,0 +1,33 @@
+{
+  "source_file": "exd/dungeon/000/DungeonWeapons_00000_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_DUNGEONWEAPONS_00000_MILISANDIA_000_000<tab>Обнаружен противник. Начинаю атаку!"
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_DUNGEONWEAPONS_00000_SHADOWHUNTER_100_010<tab>Вот оно. Изумрудное оружие..."
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_DUNGEONWEAPONS_00000_REX_200_010<tab>Я ждал тебя, герой Эорзеи!"
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_DUNGEONWEAPONS_00000_REX_000_010<tab>Смотри, отец! Вот какой силой мы повелеваем!"
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_DUNGEONWEAPONS_00000_CID_000_020<tab>(-Гайус-)Цель в поле зрения. Пригвоздите её ракетным залпом!"
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_DUNGEONWEAPONS_00000_ALFONSE_000_020<tab>(-Знакомый мужской голос-)Обнаружена угроза, открываю ответный огонь!"
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_DUNGEONWEAPONS_00000_CID_000_021<tab>(-Cid-)Поле сдерживания не выдержит!"
+    }
+  ]
+}

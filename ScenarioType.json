@@ -1,0 +1,21 @@
+{
+  "source_file": "exd/ScenarioType_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "C"
+    },
+    {
+      "id": "0x00000001",
+      "text": "L"
+    },
+    {
+      "id": "0x00000002",
+      "text": "G"
+    },
+    {
+      "id": "0x00000003",
+      "text": "U"
+    }
+  ]
+}

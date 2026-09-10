@@ -1,0 +1,169 @@
+{
+  "source_file": "exd/PetAction_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Away<tab>Order pet to leave the battlefield."
+    },
+    {
+      "id": "0x00000002",
+      "text": "Heel<tab>Order pet to follow behind you."
+    },
+    {
+      "id": "0x00000003",
+      "text": "Place<tab>Order pet to move to a specified location."
+    },
+    {
+      "id": "0x00000004",
+      "text": "Stay<tab>Order pet to remain where it is."
+    },
+    {
+      "id": "0x00000005",
+      "text": "Guard<tab>Order pet to refrain from attacking until you attack or are attacked."
+    },
+    {
+      "id": "0x00000006",
+      "text": "Steady<tab>Order pet to refrain from attacking until ordered to do so."
+    },
+    {
+      "id": "0x00000007",
+      "text": "Sic<tab>Order pet to attack."
+    },
+    {
+      "id": "0x00000008",
+      "text": "Obey<tab>Order pet to attack, but refrain from using certain actions until ordered to do so."
+    },
+    {
+      "id": "0x00000009",
+      "text": "Gust<tab>Deals wind damage with a potency of 90."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Backdraft<tab>Deals wind damage with a potency of 80.\n<var 48 F201F8 /var><var 49 F201F9 /var>Additional Effect:<var 49 01 /var><var 48 01 /var> 15-yalm knockback\nWhen <var 48 F201FA /var><var 49 F201FB /var>Obey<var 49 01 /var><var 48 01 /var> is active, will only execute upon command."
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Downburst<tab>Deals wind damage with a potency of 80 to target and all enemies nearby it.\nWhen <var 48 F201FA /var><var 49 F201FB /var>Obey<var 49 01 /var><var 48 01 /var> is active, will only execute upon command."
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Shining Emerald<tab>Increases target's magic damage taken by 10%.\n<var 48 F201F8 /var><var 49 F201F9 /var>Duration:<var 49 01 /var><var 48 01 /var> 15s\nWhen <var 48 F201FA /var><var 49 F201FB /var>Obey<var 49 01 /var><var 48 01 /var> is active, will only execute upon command."
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Gouge<tab>Deals earth damage with a potency of 70.\n<var 48 F201F8 /var><var 49 F201F9 /var>Additional Effect:<var 49 01 /var><var 48 01 /var> Increased enmity"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Shining Topaz<tab>Deals earth damage with a potency of 60 to all nearby enemies.\n<var 48 F201F8 /var><var 49 F201F9 /var>Additional Effect:<var 49 01 /var><var 48 01 /var> Increased enmity\nWhen <var 48 F201FA /var><var 49 F201FB /var>Obey<var 49 01 /var><var 48 01 /var> is active, will only execute upon command."
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Curl<tab>Decreases damage suffered by pet by 20%.\n<var 48 F201F8 /var><var 49 F201F9 /var>Duration:<var 49 01 /var><var 48 01 /var> 20s\nWhen <var 48 F201FA /var><var 49 F201FB /var>Obey<var 49 01 /var><var 48 01 /var> is active, will only execute upon command."
+    },
+    {
+      "id": "0x00000010",
+      "text": "Storm<tab>Deals earth damage with a potency of 60.\n<var 48 F201F8 /var><var 49 F201F9 /var>Additional Effect:<var 49 01 /var><var 48 01 /var> <var 48 F201FA /var><var 49 F201FB /var>Stun<var 49 01 /var><var 48 01 /var>\n<var 48 F201F8 /var><var 49 F201F9 /var>Duration:<var 49 01 /var><var 48 01 /var> 2s\nWhen <var 48 F201FA /var><var 49 F201FB /var>Obey<var 49 01 /var><var 48 01 /var> is active, will only execute upon command."
+    },
+    {
+      "id": "0x00000011",
+      "text": "Wind Blade<tab>Deals wind damage with a potency of 110."
+    },
+    {
+      "id": "0x00000012",
+      "text": "Shockwave<tab>Deals wind damage with a potency of 90.\n<var 48 F201F8 /var><var 49 F201F9 /var>Additional Effect:<var 49 01 /var><var 48 01 /var> 15-yalm knockback\nWhen <var 48 F201FA /var><var 49 F201FB /var>Obey<var 49 01 /var><var 48 01 /var> is active, will only execute upon command."
+    },
+    {
+      "id": "0x00000013",
+      "text": "Aerial Slash<tab>Deals wind damage with a potency of 90 to target and all enemies nearby it.\nWhen <var 48 F201FA /var><var 49 F201FB /var>Obey<var 49 01 /var><var 48 01 /var> is active, will only execute upon command."
+    },
+    {
+      "id": "0x00000014",
+      "text": "Contagion<tab>Increases target's magic damage taken by 10%.\n<var 48 F201F8 /var><var 49 F201F9 /var>Duration:<var 49 01 /var><var 48 01 /var> 15s\nWhen <var 48 F201FA /var><var 49 F201FB /var>Obey<var 49 01 /var><var 48 01 /var> is active, will only execute upon command."
+    },
+    {
+      "id": "0x00000015",
+      "text": "Aerial Blast<tab>Deals wind damage with a potency of 250 to target and all enemies nearby it.\nExecuted when master uses <var 48 F201F4 /var><var 49 F201F5 /var>Enkindle<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000016",
+      "text": "Rock Buster<tab>Deals earth damage with a potency of 85.\n<var 48 F201F8 /var><var 49 F201F9 /var>Additional Effect:<var 49 01 /var><var 48 01 /var> Increased enmity"
+    },
+    {
+      "id": "0x00000017",
+      "text": "Mountain Buster<tab>Deals earth damage with a potency of 70 to all nearby enemies.\n<var 48 F201F8 /var><var 49 F201F9 /var>Additional Effect:<var 49 01 /var><var 48 01 /var> Increased enmity\nWhen <var 48 F201FA /var><var 49 F201FB /var>Obey<var 49 01 /var><var 48 01 /var> is active, will only execute upon command."
+    },
+    {
+      "id": "0x00000018",
+      "text": "Earthen Ward<tab>Decreases damage suffered by pet by 20%.\n<var 48 F201F8 /var><var 49 F201F9 /var>Duration:<var 49 01 /var><var 48 01 /var> 20s\nWhen <var 48 F201FA /var><var 49 F201FB /var>Obey<var 49 01 /var><var 48 01 /var> is active, will only execute upon command."
+    },
+    {
+      "id": "0x00000019",
+      "text": "Landslide<tab>Deals earth damage with a potency of 70.\n<var 48 F201F8 /var><var 49 F201F9 /var>Additional Effect:<var 49 01 /var><var 48 01 /var> <var 48 F201FA /var><var 49 F201FB /var>Stun<var 49 01 /var><var 48 01 /var>\n<var 48 F201F8 /var><var 49 F201F9 /var>Duration:<var 49 01 /var><var 48 01 /var> 2s\nWhen <var 48 F201FA /var><var 49 F201FB /var>Obey<var 49 01 /var><var 48 01 /var> is active, will only execute upon command."
+    },
+    {
+      "id": "0x0000001A",
+      "text": "Earthen Fury<tab>Deals earth damage with a potency of 200 to all nearby targets.\n<var 48 F201F8 /var><var 49 F201F9 /var>Additional Effect:<var 49 01 /var><var 48 01 /var> <var 48 F201FA /var><var 49 F201FB /var>Razed Earth<var 49 01 /var><var 48 01 /var>\n<var 48 F201F8 /var><var 49 F201F9 /var>Potency:<var 49 01 /var><var 48 01 /var> 20 <var 48 F201F8 /var><var 49 F201F9 /var>\nDuration:<var 49 01 /var><var 48 01 /var> 15s\nExecuted when master uses <var 48 F201F4 /var><var 49 F201F5 /var>Enkindle<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x0000001B",
+      "text": "Crimson Cyclone<tab>Deals fire damage with a potency of 110.\n<var 48 F201F8 /var><var 49 F201F9 /var>Additional Effect:<var 49 01 /var><var 48 01 /var> <var 48 F201FA /var><var 49 F201FB /var>Stun<var 49 01 /var><var 48 01 /var>\n<var 48 F201F8 /var><var 49 F201F9 /var>Duration:<var 49 01 /var><var 48 01 /var> 2s\nWhen <var 48 F201FA /var><var 49 F201FB /var>Obey<var 49 01 /var><var 48 01 /var> is active, will only execute upon command."
+    },
+    {
+      "id": "0x0000001C",
+      "text": "Burning Strike<tab>Deals fire damage with a potency of 135."
+    },
+    {
+      "id": "0x0000001D",
+      "text": "Radiant Shield<tab>Creates a barrier around self and nearby party members.\n<var 48 F201F8 /var><var 49 F201F9 /var>Duration:<var 49 01 /var><var 48 01 /var> 20s\n<var 48 F201F8 /var><var 49 F201F9 /var>Barrier Effect:<var 49 01 /var><var 48 01 /var> When barrier is struck, increases striker's physical vulnerability by 2%\n<var 48 F201F8 /var><var 49 F201F9 /var>Duration:<var 49 01 /var><var 48 01 /var> 4s\nWhen <var 48 F201FA /var><var 49 F201FB /var>Obey<var 49 01 /var><var 48 01 /var> is active, will only execute upon command."
+    },
+    {
+      "id": "0x0000001E",
+      "text": "Flaming Crush<tab>Deals fire damage with a potency of 110 to all nearby enemies.\nWhen <var 48 F201FA /var><var 49 F201FB /var>Obey<var 49 01 /var><var 48 01 /var> is active, will only execute upon command."
+    },
+    {
+      "id": "0x0000001F",
+      "text": "Inferno<tab>Deals fire damage with a potency of 200 to all enemies in a cone before it.\n<var 48 F201F8 /var><var 49 F201F9 /var>Additional Effect:<var 49 01 /var><var 48 01 /var> Fire damage over time\n<var 48 F201F8 /var><var 49 F201F9 /var>Potency:<var 49 01 /var><var 48 01 /var> 20\n<var 48 F201F8 /var><var 49 F201F9 /var>Duration:<var 49 01 /var><var 48 01 /var> 15s\nExecuted when master uses <var 48 F201F4 /var><var 49 F201F5 /var>Enkindle<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000020",
+      "text": "Embrace<tab>Restore target's HP.\n<var 48 F201F8 /var><var 49 F201F9 /var>Cure Potency:<var 49 01 /var><var 48 01 /var> 250"
+    },
+    {
+      "id": "0x00000021",
+      "text": "Whispering Dawn<tab>Gradually restores own HP and the HP of all nearby party members.\n<var 48 F201F8 /var><var 49 F201F9 /var>Cure Potency:<var 49 01 /var><var 48 01 /var> 120\n<var 48 F201F8 /var><var 49 F201F9 /var>Duration:<var 49 01 /var><var 48 01 /var> 21s\nWhen <var 48 F201FA /var><var 49 F201FB /var>Obey<var 49 01 /var><var 48 01 /var> is active, will only execute upon command."
+    },
+    {
+      "id": "0x00000022",
+      "text": "Fey Covenant<tab>Increases magic defense of self and nearby party members by 20%.\n<var 48 F201F8 /var><var 49 F201F9 /var>Duration:<var 49 01 /var><var 48 01 /var> 20s\nWhen <var 48 F201FA /var><var 49 F201FB /var>Obey<var 49 01 /var><var 48 01 /var> is active, will only execute upon command."
+    },
+    {
+      "id": "0x00000023",
+      "text": "Fey Illumination<tab>Increases spell-based HP restoration of self and nearby party members by 10%.\n<var 48 F201F8 /var><var 49 F201F9 /var>Duration:<var 49 01 /var><var 48 01 /var> 20s\nWhen <var 48 F201FA /var><var 49 F201FB /var>Obey<var 49 01 /var><var 48 01 /var> is active, will only execute upon command."
+    },
+    {
+      "id": "0x00000024",
+      "text": "Embrace<tab>Restore target's HP.\n<var 48 F201F8 /var><var 49 F201F9 /var>Cure Potency:<var 49 01 /var><var 48 01 /var> 250"
+    },
+    {
+      "id": "0x00000025",
+      "text": "Silent Dusk<tab>Silences target.\n<var 48 F201F8 /var><var 49 F201F9 /var>Duration:<var 49 01 /var><var 48 01 /var> 1s\nWhen <var 48 F201FA /var><var 49 F201FB /var>Obey<var 49 01 /var><var 48 01 /var> is active, will only execute upon command."
+    },
+    {
+      "id": "0x00000026",
+      "text": "Fey Caress<tab>Removes a single detrimental effect from all nearby party members.\nSome effects cannot be removed.\nWhen <var 48 F201FA /var><var 49 F201FB /var>Obey<var 49 01 /var><var 48 01 /var> is active, will only execute upon command."
+    },
+    {
+      "id": "0x00000027",
+      "text": "Fey Wind<tab>Reduces weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay of self and nearby party members by 3%.\n<var 48 F201F8 /var><var 49 F201F9 /var>Duration:<var 49 01 /var><var 48 01 /var> 30s\nWhen <var 48 F201FA /var><var 49 F201FB /var>Obey<var 49 01 /var><var 48 01 /var> is active, will only execute upon command."
+    },
+    {
+      "id": "0x00000028",
+      "text": "Offensive Mode<tab>Command autoturret to focus on offensive maneuvers."
+    },
+    {
+      "id": "0x00000029",
+      "text": "Defensive Mode<tab>Command autoturret to focus on supportive maneuvers."
+    }
+  ]
+}

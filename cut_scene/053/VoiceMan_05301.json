@@ -1,0 +1,29 @@
+{
+  "source_file": "exd/cut_scene/053/VoiceMan_05301_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_VOICEMAN_05301_000010_ALPHINAUD<tab>[УДИВЛЕННАЯ РЕАКЦИЯ]"
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_VOICEMAN_05301_000020_ALISAIE<tab>[УДИВЛЕННАЯ РЕАКЦИЯ]"
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_VOICEMAN_05301_000030_RYNE<tab>[УДИВЛЕННАЯ РЕАКЦИЯ “Аххх!”]"
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_VOICEMAN_05301_000040_THANCRED<tab>Чёрт побери! Держись за что-нибудь!"
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_VOICEMAN_05301_000050_ELIDIBUS<tab>Ради моего народа─ради нашего мира я сражу тебя."
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_VOICEMAN_05301_000060_ELIDIBUS<tab>Нет... Я не могу потерпеть неудачу... Я <var 1A 02 /var>непременно<var 1A 01 /var> не подведу..."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "source_file": "exd/ChocoboRaceItem_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "Empty<tab>Your chocobo is not carrying a race item.\nOpen a treasure coffer on the course to obtain one."
+    },
+    {
+      "id": "0x00000001",
+      "text": "Choco Potion<tab>Instantly restores stamina by 10%."
+    },
+    {
+      "id": "0x00000002",
+      "text": "Stamina Tablet<tab>Prevents stamina reduction for 10 seconds. If stamina is zero, a small amount is restored."
+    },
+    {
+      "id": "0x00000003",
+      "text": "Sprint Shoes<tab>Summons a quick burst of speed."
+    },
+    {
+      "id": "0x00000004",
+      "text": "Choco Aether<tab>Allows a previously used race ability to be executed again."
+    },
+    {
+      "id": "0x00000005",
+      "text": "Bacchus's Water<tab>Sends the forerunning chocobo into a Frenzied state."
+    },
+    {
+      "id": "0x00000006",
+      "text": "Graviball<tab>Afflicts the forerunning chocobo with Heavy."
+    },
+    {
+      "id": "0x00000007",
+      "text": "Briar Caltrop<tab>Surrounds your chocobo with a ring of thorns which will sap the stamina of any chocobos that enter."
+    },
+    {
+      "id": "0x00000008",
+      "text": "Hero Tonic<tab>Invigorates your chocobo for 15 seconds, increasing its overall performance while nullifying any enfeeblements."
+    },
+    {
+      "id": "0x00000009",
+      "text": "Choco Meteor<tab>Summons a meteor from the heavens to wreak havoc on all other chocobos."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Stamina Swapper<tab>Interchanges your chocobo's stamina with that of a forerunning chocobo. Swap is made only if the forerunning chocobo has more stamina than yours."
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Spiderweb<tab>Renders the chocobo running immediately behind you unable to use items."
+    }
+  ]
+}

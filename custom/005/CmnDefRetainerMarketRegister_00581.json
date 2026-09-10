@@ -1,0 +1,105 @@
+{
+  "source_file": "exd/custom/005/CmnDefRetainerMarketRegister_00581_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_CMNDEFRETAINERMARKETREGISTER_00581_ERROR_DISABLE<tab>Прошу прощения, <var 08 E905 ((miss)) ((sir)) /var>, но в данный момент мы не принимаем новых клиентов."
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_CMNDEFRETAINERMARKETREGISTER_00581_ERROR_RETAINER_COUNT<tab>Похоже, сейчас у вас нет ни одного слуги."
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_CMNDEFRETAINERMARKETREGISTER_00581_ERROR_RETAINER_CHARGE<tab>Вы не можете выполнить это действие, пока не наймёте дополнительного слугу."
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_CMNDEFRETAINERMARKETREGISTER_00581_DEFAULT_TALK_01<tab>Ах, <var 29 EB02 /var>. Добро пожаловать в «Musica Universalis». Чем могу вам помочь?"
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_CMNDEFRETAINERMARKETREGISTER_00581_REGISTER_TALK_01<tab>Назовите имя слуги, которого желаете отправить. Кристальный экзарх попросил Фео Ула выступить своим посредником. Как именно они собираются это устроить… Что ж, я предпочёл не спрашивать."
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_CMNDEFRETAINERMARKETREGISTER_00581_REGISTER_ASK<tab>Отправить <var 2B ((<var 29 EA02 /var>)) /var> в Кристариум?"
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_CMNDEFRETAINERMARKETREGISTER_00581_REGISTER_SUCCESS<tab>Очень хорошо. Я позабочусь, чтобы Фео Ул немедленно с ними связалась."
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_CMNDEFRETAINERMARKETREGISTER_00581_REGISTER_ALREADY<tab>Полагаю, этот слуга уже отправлен в Кристариум."
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_CMNDEFRETAINERMARKETREGISTER_00581_REGISTER_FAILED<tab>Слуга не смог встретиться с Фео Улом."
+    },
+    {
+      "id": "0x00000009",
+      "text": "TEXT_CMNDEFRETAINERMARKETREGISTER_00581_MAIN_MENU_TITLE<tab>Что бы вы хотели сделать?"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "TEXT_CMNDEFRETAINERMARKETREGISTER_00581_MAIN_MENU_REGISTER<tab>Отправить слугу в Кристариум."
+    },
+    {
+      "id": "0x0000000B",
+      "text": "TEXT_CMNDEFRETAINERMARKETREGISTER_00581_MAIN_MENU_ABOUT<tab>Расспросить о рынке Кристариума."
+    },
+    {
+      "id": "0x0000000C",
+      "text": "TEXT_CMNDEFRETAINERMARKETREGISTER_00581_MAIN_MENU_CASHBACK<tab>Просмотреть ставки рыночного налога."
+    },
+    {
+      "id": "0x0000000D",
+      "text": "TEXT_CMNDEFRETAINERMARKETREGISTER_00581_MAIN_MENU_CANCEL<tab>Ничего."
+    },
+    {
+      "id": "0x0000000E",
+      "text": "TEXT_CMNDEFRETAINERMARKETREGISTER_00581_MAIN_MENU_ABOUT_01<tab>Рынок Кристариума отнюдь не велик, но вы вполне можете продавать здесь свои товары."
+    },
+    {
+      "id": "0x0000000F",
+      "text": "TEXT_CMNDEFRETAINERMARKETREGISTER_00581_MAIN_MENU_ABOUT_02<tab>Кристальный экзарх сказал мне, что Фео Уль поручено забрать твои вещи из... А ты откуда, напомни-ка?"
+    },
+    {
+      "id": "0x00000010",
+      "text": "TEXT_CMNDEFRETAINERMARKETREGISTER_00581_CASHBACK_ASK_TITLE<tab>Текущие ставки рыночного налога:"
+    },
+    {
+      "id": "0x00000011",
+      "text": "TEXT_CMNDEFRETAINERMARKETREGISTER_00581_CASHBACK_ASK<tab><var 28 ((Town)) E80201 /var>: Уменьшено"
+    },
+    {
+      "id": "0x00000012",
+      "text": "TEXT_CMNDEFRETAINERMARKETREGISTER_00581_CASHBACK_ASK_NONE<tab><var 28 ((Town)) E80201 /var>: Обычный"
+    },
+    {
+      "id": "0x00000013",
+      "text": "TEXT_CMNDEFRETAINERMARKETREGISTER_00581_CASHBACK_ASK_ABOUT<tab>Подробнее о рыночном налоге"
+    },
+    {
+      "id": "0x00000014",
+      "text": "TEXT_CMNDEFRETAINERMARKETREGISTER_00581_CASHBACK_ASK_CANCEL<tab>Вернуться"
+    },
+    {
+      "id": "0x00000015",
+      "text": "TEXT_CMNDEFRETAINERMARKETREGISTER_00581_NO_CASHBACK<tab>Налог на товары, продаваемые на рынках <var 28 ((Town)) E80201 /var>, составляет стандартные <var 20 E803 /var>%."
+    },
+    {
+      "id": "0x00000016",
+      "text": "TEXT_CMNDEFRETAINERMARKETREGISTER_00581_CASHBACK<tab>Налог на товары, продаваемые на рынках <var 28 ((Town)) E80201 /var>, снижен до <var 20 E805 /var>% до <var 07 E803 /var><var 08 E4E94E04 (( <var 20 DC /var>/<var 20 DE /var>/<var 20 DF /var>)) ((<var 20 DE /var>/<var 20 DC /var>/<var 20 DF /var>)) /var> (по земному календарю)."
+    },
+    {
+      "id": "0x00000017",
+      "text": "TEXT_CMNDEFRETAINERMARKETREGISTER_00581_CASHBACK_ABOUT_01<tab>Чтобы сделать свои рынки более привлекательными для потенциальных продавцов, города часто снижают процент налога, взимаемого с каждой продажи."
+    },
+    {
+      "id": "0x00000018",
+      "text": "TEXT_CMNDEFRETAINERMARKETREGISTER_00581_CASHBACK_ABOUT_02<tab>Периоды сниженной налоговой ставки могут завершиться раньше указанного срока, если потребуется обслуживание территорий."
+    }
+  ]
+}

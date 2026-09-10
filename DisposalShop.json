@@ -1,0 +1,197 @@
+{
+  "source_file": "exd/DisposalShop_3473408_en.exd",
+  "rows": [
+    {
+      "id": "0x00350001",
+      "text": "Spoils Trader"
+    },
+    {
+      "id": "0x00350002",
+      "text": "Certificate Exchange"
+    },
+    {
+      "id": "0x00350003",
+      "text": "Currency Exchange"
+    },
+    {
+      "id": "0x00350004",
+      "text": "Currency Exchange"
+    },
+    {
+      "id": "0x00350005",
+      "text": "Currency Exchange"
+    },
+    {
+      "id": "0x00350006",
+      "text": "Currency Exchange"
+    },
+    {
+      "id": "0x00350007",
+      "text": "Currency Exchange"
+    },
+    {
+      "id": "0x00350008",
+      "text": "Currency Exchange"
+    },
+    {
+      "id": "0x00350009",
+      "text": "Currency Exchange"
+    },
+    {
+      "id": "0x0035000A",
+      "text": "Currency Exchange"
+    },
+    {
+      "id": "0x0035000C",
+      "text": "Field Notes Exchange (Lockbox)"
+    },
+    {
+      "id": "0x0035000D",
+      "text": "Field Notes Exchange (Other)"
+    },
+    {
+      "id": "0x0035000E",
+      "text": "Field Notes Exchange (Other)"
+    },
+    {
+      "id": "0x0035000F",
+      "text": "不用品の交換"
+    },
+    {
+      "id": "0x00350015",
+      "text": "Resistance Token Acquisition (Weapons)"
+    },
+    {
+      "id": "0x00350016",
+      "text": "Resistance Token Acquisition (Gear)"
+    },
+    {
+      "id": "0x00350017",
+      "text": "Resistance Token Acquisition (Accessories)"
+    },
+    {
+      "id": "0x00350018",
+      "text": "Rakshasa Token Acquisition (Weapons)"
+    },
+    {
+      "id": "0x00350019",
+      "text": "Rakshasa Token Acquisition (Gear)"
+    },
+    {
+      "id": "0x0035001A",
+      "text": "Rakshasa Token Acquisition (Accessories)"
+    },
+    {
+      "id": "0x0035001B",
+      "text": "Eulmoran Certificates of Import (Weapons)"
+    },
+    {
+      "id": "0x0035001C",
+      "text": "Eulmoran Certificates of Import (Gear)"
+    },
+    {
+      "id": "0x0035001D",
+      "text": "Eulmoran Certificates of Import (Accessories)"
+    },
+    {
+      "id": "0x0035001E",
+      "text": "Eulmoran Certificates of Novelty (Weapons)"
+    },
+    {
+      "id": "0x0035001F",
+      "text": "Eulmoran Certificates of Novelty (Gear)"
+    },
+    {
+      "id": "0x00350020",
+      "text": "Eulmoran Certificates of Novelty (Accessories)"
+    },
+    {
+      "id": "0x00350021",
+      "text": "Eulmoran Certificates of Grandeur (Weapons)"
+    },
+    {
+      "id": "0x00350022",
+      "text": "Eulmoran Certificates of Grandeur (Gear)"
+    },
+    {
+      "id": "0x00350023",
+      "text": "Eulmoran Certificates of Grandeur (Accessories)"
+    },
+    {
+      "id": "0x00350024",
+      "text": "Hannish Certificates of Grade 1 Import (Weapons)"
+    },
+    {
+      "id": "0x00350025",
+      "text": "Hannish Certificates of Grade 1 Import (Gear)"
+    },
+    {
+      "id": "0x00350026",
+      "text": "Hannish Certificates of Grade 1 Import (Accessories)"
+    },
+    {
+      "id": "0x00350027",
+      "text": "Hannish Certificates of Grade 2 Import (Weapons)"
+    },
+    {
+      "id": "0x00350028",
+      "text": "Hannish Certificates of Grade 2 Import (Gear)"
+    },
+    {
+      "id": "0x00350029",
+      "text": "Hannish Certificates of Grade 2 Import (Accessories)"
+    },
+    {
+      "id": "0x0035002A",
+      "text": "Hannish Certificates of Grade 3 Import (Weapons)"
+    },
+    {
+      "id": "0x0035002B",
+      "text": "Hannish Certificates of Grade 3 Import (Gear)"
+    },
+    {
+      "id": "0x0035002C",
+      "text": "Hannish Certificates of Grade 3 Import (Accessories)"
+    },
+    {
+      "id": "0x0035002D",
+      "text": "Everkeep Certificates of Grade 1 Import (Weapons)"
+    },
+    {
+      "id": "0x0035002E",
+      "text": "Everkeep Certificates of Grade 1 Import (Gear)"
+    },
+    {
+      "id": "0x0035002F",
+      "text": "Everkeep Certificates of Grade 1 Import (Accessories)"
+    },
+    {
+      "id": "0x00350030",
+      "text": "Everkeep Certificates of Grade 2 Import (Weapons)"
+    },
+    {
+      "id": "0x00350031",
+      "text": "Everkeep Certificates of Grade 2 Import (Gear)"
+    },
+    {
+      "id": "0x00350032",
+      "text": "Everkeep Certificates of Grade 2 Import (Accessories)"
+    },
+    {
+      "id": "0x00350033",
+      "text": "Everkeep Certificates of Grade 3 Import (Weapons)"
+    },
+    {
+      "id": "0x00350034",
+      "text": "Everkeep Certificates of Grade 3 Import (Gear)"
+    },
+    {
+      "id": "0x00350035",
+      "text": "Everkeep Certificates of Grade 3 Import (Accessories)"
+    },
+    {
+      "id": "0x00350037",
+      "text": "Pigment Exchange"
+    }
+  ]
+}

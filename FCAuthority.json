@@ -1,0 +1,189 @@
+{
+  "source_file": "exd/FCAuthority_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "Company Profile"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Rank Settings"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Crest Design"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Company Chest Settings"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Invitations"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Applications"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Member Dismissal"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Promotion/Demotion"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Company Board"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Short Message"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Company Credits"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Executing Actions"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Discarding Actions"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "Estate Hall Access"
+    },
+    {
+      "id": "0x0000002C",
+      "text": "Estate Renaming"
+    },
+    {
+      "id": "0x0000002D",
+      "text": "Greeting Customization"
+    },
+    {
+      "id": "0x0000002E",
+      "text": "Purchase/Relinquish Land"
+    },
+    {
+      "id": "0x0000002F",
+      "text": "Hall Construction/Removal"
+    },
+    {
+      "id": "0x00000030",
+      "text": "Hall Remodeling"
+    },
+    {
+      "id": "0x00000031",
+      "text": "No Furnishing Privileges"
+    },
+    {
+      "id": "0x00000032",
+      "text": "Furnishing Placement"
+    },
+    {
+      "id": "0x00000033",
+      "text": "Furnishing Placement/Removal"
+    },
+    {
+      "id": "0x00000034",
+      "text": "Paint Fixtures/Furnishings"
+    },
+    {
+      "id": "0x00000035",
+      "text": "Guest Access/Estate Tag Settings"
+    },
+    {
+      "id": "0x00000036",
+      "text": "Message Book Management"
+    },
+    {
+      "id": "0x00000037",
+      "text": "Planting"
+    },
+    {
+      "id": "0x00000038",
+      "text": "Harvesting"
+    },
+    {
+      "id": "0x00000039",
+      "text": "Crop Disposal"
+    },
+    {
+      "id": "0x0000003A",
+      "text": "Stabling Chocobos"
+    },
+    {
+      "id": "0x0000003B",
+      "text": "Training Members' Chocobos"
+    },
+    {
+      "id": "0x0000003C",
+      "text": "Aetherial Wheel Use"
+    },
+    {
+      "id": "0x0000003D",
+      "text": "Retainer Dispatchment"
+    },
+    {
+      "id": "0x0000003E",
+      "text": "Workshop Construction/Removal"
+    },
+    {
+      "id": "0x0000003F",
+      "text": "Project Commencement/Discontinuation"
+    },
+    {
+      "id": "0x00000040",
+      "text": "Project Material Delivery"
+    },
+    {
+      "id": "0x00000041",
+      "text": "Project Progression"
+    },
+    {
+      "id": "0x00000042",
+      "text": "Project Item Collection"
+    },
+    {
+      "id": "0x00000043",
+      "text": "Prototype Creation"
+    },
+    {
+      "id": "0x00000044",
+      "text": "Registration & Dismantling"
+    },
+    {
+      "id": "0x00000045",
+      "text": "Outfitting"
+    },
+    {
+      "id": "0x00000046",
+      "text": "Color Customization"
+    },
+    {
+      "id": "0x00000047",
+      "text": "Renaming"
+    },
+    {
+      "id": "0x00000048",
+      "text": "Voyage Deployment/Recall"
+    },
+    {
+      "id": "0x00000049",
+      "text": "Voyage Finalization"
+    },
+    {
+      "id": "0x0000004A",
+      "text": "Exploratory Mission Embarkation"
+    },
+    {
+      "id": "0x0000004B",
+      "text": "Orchestrion Operation"
+    }
+  ]
+}

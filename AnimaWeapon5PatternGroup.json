@@ -1,0 +1,57 @@
+{
+  "source_file": "exd/AnimaWeapon5PatternGroup_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Blue Crafters' Scrip Tokens"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Blue Gatherers' Scrip Token"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Crafting Materials"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Amber-encased Vilekin"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Astral-aspected Materia"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Umbral-aspected Materia"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Demimateria"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Moonstones"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Primal Pieces I"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Other Items I"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Other Items II"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Primal Pieces II"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Esoterica"
+    }
+  ]
+}

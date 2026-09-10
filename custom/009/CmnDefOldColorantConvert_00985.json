@@ -1,0 +1,17 @@
+{
+  "source_file": "exd/custom/009/CmnDefOldColorantConvert_00985_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_CMNDEFOLDCOLORANTCONVERT_00985_NO_TARGET_COLORANT<tab>Нет подходящих красителей для обмена."
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_CMNDEFOLDCOLORANTCONVERT_00985_CONFIRM_DIALOG_1<tab>Вы получите:<var 29 EA02 /var>\n\nОбменять одноцветные красители?"
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_CMNDEFOLDCOLORANTCONVERT_00985_CONFIRM_DIALOG_2<tab><var 20 E803 /var> <var 08 E4E80302 ((<var 31 ((Item)) 04E8020202 /var>)) ((<var 31 ((Item)) 04E8020302 /var>)) /var>"
+    }
+  ]
+}

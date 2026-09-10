@@ -1,0 +1,41 @@
+{
+  "source_file": "exd/custom/004/RegGyrOmegaKettle_00432_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_REGGYROMEGAKETTLE_00432_KETTLE_000_000<tab>Пшшш вииии!"
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_REGGYROMEGAKETTLE_00432_SYSTEM_000_010<tab>Чайник пуст..."
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_REGGYROMEGAKETTLE_00432_KETTLE_000_020<tab>Пш-пшш..."
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_REGGYROMEGAKETTLE_00432_KETTLE_000_030<tab>Пшшш вииИИии!"
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_REGGYROMEGAKETTLE_00432_SYSTEM_000_040<tab>Чайник пуст..."
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_REGGYROMEGAKETTLE_00432_KETTLE_000_050<tab>Пш-пшш..."
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_REGGYROMEGAKETTLE_00432_KETTLE_000_060<tab>Пшшш вииИИии!"
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_REGGYROMEGAKETTLE_00432_KETTLE_000_070<tab>Пф..."
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_REGGYROMEGAKETTLE_00432_SYSTEM_000_071<tab>Содержимое чайника оставили остывать…"
+    }
+  ]
+}

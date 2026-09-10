@@ -1,0 +1,333 @@
+{
+  "source_file": "exd/AchievementCategory_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "General"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Dungeons"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Trials"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Raids"
+    },
+    {
+      "id": "0x00000005",
+      "text": "The Hunt"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Treasure Hunt"
+    },
+    {
+      "id": "0x00000007",
+      "text": "General"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Ranking"
+    },
+    {
+      "id": "0x00000009",
+      "text": "The Wolves' Den"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Frontline"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Rival Wings"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "General"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Disciples of War"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Disciples of Magic"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Disciples of the Hand"
+    },
+    {
+      "id": "0x00000010",
+      "text": "Disciples of the Land"
+    },
+    {
+      "id": "0x00000011",
+      "text": "Commendation"
+    },
+    {
+      "id": "0x00000012",
+      "text": "Gold Saucer"
+    },
+    {
+      "id": "0x00000013",
+      "text": "General"
+    },
+    {
+      "id": "0x00000014",
+      "text": "Currency"
+    },
+    {
+      "id": "0x00000015",
+      "text": "Desynthesis"
+    },
+    {
+      "id": "0x00000016",
+      "text": "Collectables"
+    },
+    {
+      "id": "0x00000017",
+      "text": "Materia"
+    },
+    {
+      "id": "0x00000018",
+      "text": "Carpenter"
+    },
+    {
+      "id": "0x00000019",
+      "text": "Blacksmith"
+    },
+    {
+      "id": "0x0000001A",
+      "text": "Armorer"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "Goldsmith"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "Leatherworker"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "Weaver"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "Alchemist"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "Culinarian"
+    },
+    {
+      "id": "0x00000020",
+      "text": "Miner"
+    },
+    {
+      "id": "0x00000021",
+      "text": "Botanist"
+    },
+    {
+      "id": "0x00000022",
+      "text": "Fisher"
+    },
+    {
+      "id": "0x00000023",
+      "text": "General"
+    },
+    {
+      "id": "0x00000024",
+      "text": "Levequests"
+    },
+    {
+      "id": "0x00000025",
+      "text": "Allied Society Quests"
+    },
+    {
+      "id": "0x00000026",
+      "text": "Seasonal Events"
+    },
+    {
+      "id": "0x00000027",
+      "text": "Sightseeing Log"
+    },
+    {
+      "id": "0x00000028",
+      "text": "La Noscea"
+    },
+    {
+      "id": "0x00000029",
+      "text": "The Black Shroud"
+    },
+    {
+      "id": "0x0000002A",
+      "text": "Thanalan"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "Coerthas"
+    },
+    {
+      "id": "0x0000002C",
+      "text": "Mor Dhona"
+    },
+    {
+      "id": "0x0000002D",
+      "text": "Abalathia's Spine"
+    },
+    {
+      "id": "0x0000002E",
+      "text": "Dravania"
+    },
+    {
+      "id": "0x0000002F",
+      "text": "Gyr Abania"
+    },
+    {
+      "id": "0x00000030",
+      "text": "Othard"
+    },
+    {
+      "id": "0x00000031",
+      "text": "Duty"
+    },
+    {
+      "id": "0x00000032",
+      "text": "General"
+    },
+    {
+      "id": "0x00000033",
+      "text": "Maelstrom"
+    },
+    {
+      "id": "0x00000034",
+      "text": "Order of the Twin Adder"
+    },
+    {
+      "id": "0x00000035",
+      "text": "Immortal Flames"
+    },
+    {
+      "id": "0x00000036",
+      "text": "Battle"
+    },
+    {
+      "id": "0x00000037",
+      "text": "Currency"
+    },
+    {
+      "id": "0x00000038",
+      "text": "Gathering"
+    },
+    {
+      "id": "0x00000039",
+      "text": "Quests"
+    },
+    {
+      "id": "0x0000003A",
+      "text": "Seasonal Events"
+    },
+    {
+      "id": "0x0000003B",
+      "text": "Dungeons"
+    },
+    {
+      "id": "0x0000003C",
+      "text": "Exploration"
+    },
+    {
+      "id": "0x0000003D",
+      "text": "Grand Company"
+    },
+    {
+      "id": "0x0000003E",
+      "text": "Relic Weapons"
+    },
+    {
+      "id": "0x0000003F",
+      "text": "Zodiac Weapons"
+    },
+    {
+      "id": "0x00000040",
+      "text": "Anima Weapons"
+    },
+    {
+      "id": "0x00000041",
+      "text": "Deep Dungeon Weapons"
+    },
+    {
+      "id": "0x00000042",
+      "text": "Eureka Weapons"
+    },
+    {
+      "id": "0x00000043",
+      "text": "Norvrandt"
+    },
+    {
+      "id": "0x00000044",
+      "text": "Resistance Weapons"
+    },
+    {
+      "id": "0x00000045",
+      "text": "All Disciplines"
+    },
+    {
+      "id": "0x00000046",
+      "text": "Skysteel Tools"
+    },
+    {
+      "id": "0x00000047",
+      "text": "Field Operations"
+    },
+    {
+      "id": "0x00000048",
+      "text": "The Northern Empty"
+    },
+    {
+      "id": "0x00000049",
+      "text": "Ilsabard"
+    },
+    {
+      "id": "0x0000004A",
+      "text": "Other"
+    },
+    {
+      "id": "0x0000004B",
+      "text": "Manderville Weapons"
+    },
+    {
+      "id": "0x0000004C",
+      "text": "Main Scenario"
+    },
+    {
+      "id": "0x0000004D",
+      "text": "Job/Role Quests"
+    },
+    {
+      "id": "0x0000004E",
+      "text": "Splendorous Tools"
+    },
+    {
+      "id": "0x0000004F",
+      "text": "Yok Tural"
+    },
+    {
+      "id": "0x00000050",
+      "text": "Xak Tural"
+    },
+    {
+      "id": "0x00000051",
+      "text": "Phantom Weapons"
+    },
+    {
+      "id": "0x00000052",
+      "text": "Cosmic Tools"
+    }
+  ]
+}

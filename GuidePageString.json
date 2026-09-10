@@ -1,0 +1,653 @@
+{
+  "source_file": "exd/GuidePageString_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Oath Gauge"
+    },
+    {
+      "id": "0x00000002",
+      "text": "This symbol indicates the defensive stance <var 48 F201FA /var><var 49 F201FB /var>Iron Will<var 49 01 /var><var 48 01 /var> is in effect, which increases enmity."
+    },
+    {
+      "id": "0x00000003",
+      "text": "You can view the job gauge description at any time from the Actions & Traits menu."
+    },
+    {
+      "id": "0x00000004",
+      "text": "Oath Gauge"
+    },
+    {
+      "id": "0x00000005",
+      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Oath Gauge<var 49 01 /var><var 48 01 /var> displays the current strength of a paladin's oath, which increases as auto-attacks are performed. A strong oath is required to execute several select actions such as <var 48 F201F4 /var><var 49 F201F5 /var>Sheltron<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Cover<var 49 01 /var><var 48 01 /var> (acquired at level 45), and <var 48 F201F4 /var><var 49 F201F5 /var>Intervention<var 49 01 /var><var 48 01 /var> (acquired at level 62), and will grow weaker upon using them.\nUsing certain actions will increase the <var 48 F201F4 /var><var 49 F201F5 /var>Oath Gauge<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000006",
+      "text": "Beast Gauge"
+    },
+    {
+      "id": "0x00000007",
+      "text": "This symbol indicates the defensive stance <var 48 F201FA /var><var 49 F201FB /var>Defiance<var 49 01 /var><var 48 01 /var> is in effect, which increases enmity."
+    },
+    {
+      "id": "0x00000008",
+      "text": "Beast Gauge"
+    },
+    {
+      "id": "0x00000009",
+      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Beast Gauge<var 49 01 /var><var 48 01 /var> displays the current strength of a warrior's wrath. This animalistic rage is required to execute several select actions such as <var 48 F201F4 /var><var 49 F201F5 /var>Inner Beast<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Steel Cyclone<var 49 01 /var><var 48 01 /var> (acquired at level 45) and will grow weaker upon using them.\nUsing certain actions will increase the <var 48 F201F4 /var><var 49 F201F5 /var>Beast Gauge<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Blood Gauge"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "This symbol indicates the defensive stance <var 48 F201FA /var><var 49 F201FB /var>Grit<var 49 01 /var><var 48 01 /var> is in effect, which increases enmity."
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Darkside Gauge"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "This timer indicates the duration of <var 48 F201FA /var><var 49 F201FB /var>Darkside<var 49 01 /var><var 48 01 /var>, which increases damage dealt. Using <var 48 F201F4 /var><var 49 F201F5 /var>Flood of Darkness<var 49 01 /var><var 48 01 /var> or <var 48 F201F4 /var><var 49 F201F5 /var>Edge of Darkness<var 49 01 /var><var 48 01 /var> (acquired at level 40) grants <var 48 F201FA /var><var 49 F201FB /var>Darkside<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Blood Gauge"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Blood Gauge<var 49 01 /var><var 48 01 /var> displays the amount of <var 48 F201FA /var><var 49 F201FB /var>Blackblood<var 49 01 /var><var 48 01 /var> a dark knight has accumulated. <var 48 F201FA /var><var 49 F201FB /var>Blackblood<var 49 01 /var><var 48 01 /var> can be consumed to execute actions such as <var 48 F201F4 /var><var 49 F201F5 /var>Bloodspiller<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Quietus<var 49 01 /var><var 48 01 /var> (acquired at level 64).\nUsing certain actions will increase the <var 48 F201F4 /var><var 49 F201F5 /var>Blood Gauge<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000010",
+      "text": "Darkside Gauge"
+    },
+    {
+      "id": "0x00000011",
+      "text": "This symbol indicates that the <var 48 F201FA /var><var 49 F201FB /var>Dark Arts<var 49 01 /var><var 48 01 /var> effect has been granted. This occurs when the barrier applied by the action <var 48 F201F4 /var><var 49 F201F5 /var>The Blackest Night<var 49 01 /var><var 48 01 /var> has absorbed the full amount of damage.\n<var 48 F201F4 /var><var 49 F201F5 /var>Flood of Darkness<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Edge of Darkness<var 49 01 /var><var 48 01 /var> can be performed by consuming <var 48 F201FA /var><var 49 F201FB /var>Dark Arts<var 49 01 /var><var 48 01 /var> instead of MP while the effect is active."
+    },
+    {
+      "id": "0x00000012",
+      "text": "Darkside Gauge"
+    },
+    {
+      "id": "0x00000013",
+      "text": "When executing <var 48 F201F4 /var><var 49 F201F5 /var>Living Shadow<var 49 01 /var><var 48 01 /var>, a second timer indicating its duration will appear."
+    },
+    {
+      "id": "0x00000014",
+      "text": "Healing Gauge"
+    },
+    {
+      "id": "0x00000015",
+      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Healing Gauge<var 49 01 /var><var 48 01 /var> displays the current number of <var 48 F201FA /var><var 49 F201FB /var>Lilies<var 49 01 /var><var 48 01 /var> a white mage has accumulated. <var 48 F201FA /var><var 49 F201FB /var>Lilies<var 49 01 /var><var 48 01 /var> are accumulated as time passes while engaged in combat.\n<var 48 F201FA /var><var 49 F201FB /var>Lilies<var 49 01 /var><var 48 01 /var> are consumed by using the actions <var 48 F201F4 /var><var 49 F201F5 /var>Afflatus Solace<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Afflatus Rapture<var 49 01 /var><var 48 01 /var> (acquired at level 76)."
+    },
+    {
+      "id": "0x00000016",
+      "text": "Healing Gauge"
+    },
+    {
+      "id": "0x00000017",
+      "text": "Performing actions that consume <var 48 F201FA /var><var 49 F201FB /var>Lilies<var 49 01 /var><var 48 01 /var> will also nourish the <var 48 F201FA /var><var 49 F201FB /var>Blood Lily<var 49 01 /var><var 48 01 /var>. The <var 48 F201FA /var><var 49 F201FB /var>Blood Lily<var 49 01 /var><var 48 01 /var> will bloom after consuming three <var 48 F201FA /var><var 49 F201FB /var>Lilies<var 49 01 /var><var 48 01 /var>, allowing the execution of <var 48 F201F4 /var><var 49 F201F5 /var>Afflatus Misery<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000018",
+      "text": "Aetherflow Gauge"
+    },
+    {
+      "id": "0x00000019",
+      "text": "Using the action <var 48 F201F4 /var><var 49 F201F5 /var>Aetherflow<var 49 01 /var><var 48 01 /var> fills the <var 48 F201F4 /var><var 49 F201F5 /var>Aetherflow Gauge<var 49 01 /var><var 48 01 /var>, which is required to use certain actions."
+    },
+    {
+      "id": "0x0000001A",
+      "text": "Faerie Gauge"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Faerie Gauge<var 49 01 /var><var 48 01 /var> displays the current amount of fae aether accumulated within a faerie. Fae aether is accumulated by using actions such as <var 48 F201F4 /var><var 49 F201F5 /var>Lustrate<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Excogitation<var 49 01 /var><var 48 01 /var> in combat, depleting the <var 48 F201F4 /var><var 49 F201F5 /var>Aetherflow Gauge<var 49 01 /var><var 48 01 /var>. Maintaining an <var 48 F201F4 /var><var 49 F201F5 /var>Aetherpact<var 49 01 /var><var 48 01 /var> consumes fae aether."
+    },
+    {
+      "id": "0x0000001C",
+      "text": "Faerie Gauge"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "Using the action <var 48 F201F4 /var><var 49 F201F5 /var>Summon Seraph<var 49 01 /var><var 48 01 /var> replaces Eos with Seraph. The <var 48 F201F4 /var><var 49 F201F5 /var>Faerie Gauge<var 49 01 /var><var 48 01 /var> will indicate how much time remains before she must return."
+    },
+    {
+      "id": "0x0000001E",
+      "text": "Arcana Gauge"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "Using the actions <var 48 F201F4 /var><var 49 F201F5 /var>Astral Draw<var 49 01 /var><var 48 01 /var> or <var 48 F201F4 /var><var 49 F201F5 /var>Umbral Draw<var 49 01 /var><var 48 01 /var> will replace <var 48 F201F4 /var><var 49 F201F5 /var>Play I<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Play II<var 49 01 /var><var 48 01 /var>, and <var 48 F201F4 /var><var 49 F201F5 /var>Play III<var 49 01 /var><var 48 01 /var> with their respective arcanum, which will be represented in the <var 48 F201F4 /var><var 49 F201F5 /var>Arcana Gauge<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000020",
+      "text": "Divination and Arcana Gauges"
+    },
+    {
+      "id": "0x00000021",
+      "text": "Using the action <var 48 F201F4 /var><var 49 F201F5 /var>Astral Draw<var 49 01 /var><var 48 01 /var> will replace <var 48 F201F4 /var><var 49 F201F5 /var>Minor Arcana<var 49 01 /var><var 48 01 /var> with <var 48 F201F4 /var><var 49 F201F5 /var>Lord of Crowns<var 49 01 /var><var 48 01 /var>, while <var 48 F201F4 /var><var 49 F201F5 /var>Umbral Draw<var 49 01 /var><var 48 01 /var> will replace it with <var 48 F201F4 /var><var 49 F201F5 /var>Lady of Crowns<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000022",
+      "text": "Chakra Gauge"
+    },
+    {
+      "id": "0x00000023",
+      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Chakra Gauge<var 49 01 /var><var 48 01 /var> indicates the number of chakra a monk currently has opened. Chakra are opened using actions such as <var 48 F201F4 /var><var 49 F201F5 /var>Steeled Meditation<var 49 01 /var><var 48 01 /var>, or by using certain weaponskills. Opening five allows for the execution of <var 48 F201F4 /var><var 49 F201F5 /var>Steel Peak<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Howling Fist<var 49 01 /var><var 48 01 /var> (acquired at level 40)."
+    },
+    {
+      "id": "0x00000024",
+      "text": "Beast Chakra Gauge"
+    },
+    {
+      "id": "0x00000025",
+      "text": "Executing certain weaponskills will open <var 48 F201FA /var><var 49 F201FB /var>Beast Chakra<var 49 01 /var><var 48 01 /var>─<var 48 F201FA /var><var 49 F201FB /var>Opo-opo Chakra<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>Coeurl Chakra<var 49 01 /var><var 48 01 /var>, or <var 48 F201FA /var><var 49 F201FB /var>Raptor Chakra<var 49 01 /var><var 48 01 /var>─in accordance with the form normally required to execute them. After opening three, you will be able to execute one of several powerful actions. Three distinct <var 48 F201FA /var><var 49 F201FB /var>Beast Chakra<var 49 01 /var><var 48 01 /var> allow the execution of <var 48 F201F4 /var><var 49 F201F5 /var>Flint Strike<var 49 01 /var><var 48 01 /var>, three of the same allow the execution of <var 48 F201F4 /var><var 49 F201F5 /var>Elixir Field<var 49 01 /var><var 48 01 /var>, and two distinct chakra with a third repeating one allow the execution of <var 48 F201F4 /var><var 49 F201F5 /var>Celestial Revolution<var 49 01 /var><var 48 01 /var>.\n\nIt is also possible to open the <var 48 F201FA /var><var 49 F201FB /var>Lunar Nadi<var 49 01 /var><var 48 01 /var> and <var 48 F201FA /var><var 49 F201FB /var>Solar Nadi<var 49 01 /var><var 48 01 /var> by executing <var 48 F201F4 /var><var 49 F201F5 /var>Elixir Field<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Flint Strike<var 49 01 /var><var 48 01 /var> respectively. Opening three <var 48 F201FA /var><var 49 F201FB /var>Beast Chakra<var 49 01 /var><var 48 01 /var> and both nadi allows the execution of <var 48 F201F4 /var><var 49 F201F5 /var>Tornado Kick<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000026",
+      "text": "Lightning Gauge"
+    },
+    {
+      "id": "0x00000027",
+      "text": "The action <var 48 F201F4 /var><var 49 F201F5 /var>Brotherhood<var 49 01 /var><var 48 01 /var> grants the effect <var 48 F201FA /var><var 49 F201FB /var>Meditative Brotherhood<var 49 01 /var><var 48 01 /var> to you and nearby party members, increasing the frequency with which you open chakra. Moreover, you can open up to ten chakra so long as you are under this effect."
+    },
+    {
+      "id": "0x00000028",
+      "text": "Dragon Gauge"
+    },
+    {
+      "id": "0x00000029",
+      "text": "This timer indicates the duration of <var 48 F201FA /var><var 49 F201FB /var>Blood of the Dragon<var 49 01 /var><var 48 01 /var>, which increases damage dealt. Using <var 48 F201F4 /var><var 49 F201F5 /var>Geirskogul<var 49 01 /var><var 48 01 /var> grants <var 48 F201FA /var><var 49 F201FB /var>Blood of the Dragon<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x0000002A",
+      "text": "Dragon Gauge"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "Upon learning the trait <var 48 F201FA /var><var 49 F201FB /var>Lance Mastery IV<var 49 01 /var><var 48 01 /var>, the actions <var 48 F201F4 /var><var 49 F201F5 /var>Raiden Thrust<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Draconian Fury<var 49 01 /var><var 48 01 /var> can be executed to sharpen the <var 48 F201FA /var><var 49 F201FB /var>Firstminds' Focus<var 49 01 /var><var 48 01 /var>, up to a maximum of 2 units. Once their focus is fully sharpened, you can execute <var 48 F201F4 /var><var 49 F201F5 /var>Wyrmwind Thrust<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x0000002D",
+      "text": "Kazematoi"
+    },
+    {
+      "id": "0x0000002E",
+      "text": "Using the action <var 48 F201F4 /var><var 49 F201F5 /var>Armor Crush<var 49 01 /var><var 48 01 /var> as part of a combo grants stacks of <var 48 F201FA /var><var 49 F201FB /var>Kazematoi<var 49 01 /var><var 48 01 /var>, represented by this gauge. Up to five stacks can be stored, and are used to increase the potency of <var 48 F201F4 /var><var 49 F201F5 /var>Aeolian Edge<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x0000002F",
+      "text": "Ninki Gauge"
+    },
+    {
+      "id": "0x00000030",
+      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Ninki Gauge<var 49 01 /var><var 48 01 /var> displays the current amount of <var 48 F201FA /var><var 49 F201FB /var>Ninki<var 49 01 /var><var 48 01 /var> a ninja has accumulated. <var 48 F201FA /var><var 49 F201FB /var>Ninki<var 49 01 /var><var 48 01 /var> slowly builds inside a ninja's body when certain weaponskills are performed and can be used to execute special ninjutsu such as <var 48 F201F4 /var><var 49 F201F5 /var>Hellfrog Medium<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Bhavacakra<var 49 01 /var><var 48 01 /var> (acquired at level 68)."
+    },
+    {
+      "id": "0x00000031",
+      "text": "Sen Gauge"
+    },
+    {
+      "id": "0x00000032",
+      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Sen Gauge<var 49 01 /var><var 48 01 /var> displays which of the 3 <var 48 F201FA /var><var 49 F201FB /var>Sen<var 49 01 /var><var 48 01 /var> effects─<var 48 F201FA /var><var 49 F201FB /var>Setsu<var 49 01 /var><var 48 01 /var> (top), <var 48 F201FA /var><var 49 F201FB /var>Getsu<var 49 01 /var><var 48 01 /var> (left), and <var 48 F201FA /var><var 49 F201FB /var>Ka<var 49 01 /var><var 48 01 /var> (right)─are currently accumulated. <var 48 F201FA /var><var 49 F201FB /var>Sen<var 49 01 /var><var 48 01 /var> is required to perform <var 48 F201F4 /var><var 49 F201F5 /var>Iaijutsu<var 49 01 /var><var 48 01 /var>, the number of <var 48 F201FA /var><var 49 F201FB /var>Sen<var 49 01 /var><var 48 01 /var> accumulated determining which weaponskill will be executed─1 for <var 48 F201F4 /var><var 49 F201F5 /var>Higanbana<var 49 01 /var><var 48 01 /var>, 2 for <var 48 F201F4 /var><var 49 F201F5 /var>Tenka Goken<var 49 01 /var><var 48 01 /var>, and 3 for <var 48 F201F4 /var><var 49 F201F5 /var>Midare Setsugekka<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000033",
+      "text": "Kenki Gauge"
+    },
+    {
+      "id": "0x00000034",
+      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Kenki Gauge<var 49 01 /var><var 48 01 /var> displays the current amount of <var 48 F201FA /var><var 49 F201FB /var>Kenki<var 49 01 /var><var 48 01 /var> a samurai has accumulated. <var 48 F201FA /var><var 49 F201FB /var>Kenki<var 49 01 /var><var 48 01 /var> slowly builds in a samurai's blade through the successful execution of weaponskills or <var 48 F201F4 /var><var 49 F201F5 /var>Third Eye<var 49 01 /var><var 48 01 /var>. <var 48 F201FA /var><var 49 F201FB /var>Kenki<var 49 01 /var><var 48 01 /var> is required to execute special devastating attacks such as <var 48 F201F4 /var><var 49 F201F5 /var>Hissatsu: Shinten<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Hissatsu: Gyoten<var 49 01 /var><var 48 01 /var> (acquired at level 54), <var 48 F201F4 /var><var 49 F201F5 /var>Hissatsu: Guren<var 49 01 /var><var 48 01 /var> (acquired at level 70), and more."
+    },
+    {
+      "id": "0x00000035",
+      "text": "Song Gauge"
+    },
+    {
+      "id": "0x00000036",
+      "text": "Singing <var 48 F201F4 /var><var 49 F201F5 /var>Mage's Ballad<var 49 01 /var><var 48 01 /var> will display the action's corresponding <var 48 F201F4 /var><var 49 F201F5 /var>Song Gauge<var 49 01 /var><var 48 01 /var>, indicating the effect's time remaining.\nIf the <var 48 F201FA /var><var 49 F201FB /var>Repertoire<var 49 01 /var><var 48 01 /var> effect is triggered while <var 48 F201F4 /var><var 49 F201F5 /var>Mage's Ballad<var 49 01 /var><var 48 01 /var> is being sung, the recast times for <var 48 F201F4 /var><var 49 F201F5 /var>Bloodletter<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Rain of Death<var 49 01 /var><var 48 01 /var> (learned at level 45) are reduced."
+    },
+    {
+      "id": "0x00000037",
+      "text": "<var 48 F201F4 /var><var 49 F201F5 /var>“詩心”<var 49 01 /var><var 48 01 /var>は<var 48 F201F4 /var><var 49 F201F5 /var>「ベノムバイト/コースティックバイト」<var 49 01 /var><var 48 01 /var>、<var 48 F201F4 /var><var 49 F201F5 /var>「ウィンドバイト/ストームバイト」<var 49 01 /var><var 48 01 /var>による継続ダメージの命中時に一定確率で発動します。戦歌を使い、詩心を付与させていくことで吟遊詩人の攻撃力を高めることができます。"
+    },
+    {
+      "id": "0x00000038",
+      "text": "Singing <var 48 F201F4 /var><var 49 F201F5 /var>Army's Paeon<var 49 01 /var><var 48 01 /var> will display the action's corresponding <var 48 F201F4 /var><var 49 F201F5 /var>Song Gauge<var 49 01 /var><var 48 01 /var>, indicating the effect's time remaining.\nIf the <var 48 F201FA /var><var 49 F201FB /var>Repertoire<var 49 01 /var><var 48 01 /var> effect is triggered while <var 48 F201F4 /var><var 49 F201F5 /var>Army's Paeon<var 49 01 /var><var 48 01 /var> is being sung, the bard is granted reduced weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay according to the number of stacks accumulated."
+    },
+    {
+      "id": "0x00000039",
+      "text": "Singing the <var 48 F201F4 /var><var 49 F201F5 /var>Wanderer's Minuet<var 49 01 /var><var 48 01 /var> will display the action's corresponding <var 48 F201F4 /var><var 49 F201F5 /var>Song Gauge<var 49 01 /var><var 48 01 /var>, indicating the effect's time remaining.\nIf the <var 48 F201FA /var><var 49 F201FB /var>Repertoire<var 49 01 /var><var 48 01 /var> effect is triggered while the <var 48 F201F4 /var><var 49 F201F5 /var>Wanderer's Minuet<var 49 01 /var><var 48 01 /var> is being sung, the action <var 48 F201F4 /var><var 49 F201F5 /var>Pitch Perfect<var 49 01 /var><var 48 01 /var> will become available. The potency of <var 48 F201F4 /var><var 49 F201F5 /var>Pitch Perfect<var 49 01 /var><var 48 01 /var> increases according to the number of <var 48 F201FA /var><var 49 F201FB /var>Repertoire<var 49 01 /var><var 48 01 /var> stacks."
+    },
+    {
+      "id": "0x0000003A",
+      "text": "Soul Voice Gauge"
+    },
+    {
+      "id": "0x0000003B",
+      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Soul Voice Gauge<var 49 01 /var><var 48 01 /var> increases in tandem with <var 48 F201FA /var><var 49 F201FB /var>Repertoire<var 49 01 /var><var 48 01 /var>, and is depleted when using the action <var 48 F201F4 /var><var 49 F201F5 /var>Apex Arrow<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x0000003C",
+      "text": "Heat Gauge"
+    },
+    {
+      "id": "0x0000003D",
+      "text": "Performing certain weaponskills will increase the <var 48 F201F4 /var><var 49 F201F5 /var>Heat Gauge<var 49 01 /var><var 48 01 /var>, and once it is high enough, the action <var 48 F201F4 /var><var 49 F201F5 /var>Hypercharge<var 49 01 /var><var 48 01 /var> will become available. Using <var 48 F201F4 /var><var 49 F201F5 /var>Hypercharge<var 49 01 /var><var 48 01 /var> overheats your weapon and allows the use of <var 48 F201F4 /var><var 49 F201F5 /var>Heat Blast<var 49 01 /var><var 48 01 /var> (acquired at level 35) and <var 48 F201F4 /var><var 49 F201F5 /var>Auto Crossbow<var 49 01 /var><var 48 01 /var> (acquired at level 52)."
+    },
+    {
+      "id": "0x0000003E",
+      "text": "Heat Gauge and Battery Gauge"
+    },
+    {
+      "id": "0x0000003F",
+      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Battery Gauge<var 49 01 /var><var 48 01 /var> accumulates when certain actions are performed and allows the placement of a <var 48 F201F4 /var><var 49 F201F5 /var>Rook Autoturret<var 49 01 /var><var 48 01 /var>, which will attack your target. It also allows the deployment of an <var 48 F201F4 /var><var 49 F201F5 /var>Automaton Queen<var 49 01 /var><var 48 01 /var> (acquired at level 80) to fight alongside you."
+    },
+    {
+      "id": "0x00000040",
+      "text": "Elemental Gauge"
+    },
+    {
+      "id": "0x00000041",
+      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Elemental Gauge<var 49 01 /var><var 48 01 /var> indicates whether you are under the influence of <var 48 F201FA /var><var 49 F201FB /var>Astral Fire<var 49 01 /var><var 48 01 /var> (after casting a <var 48 F201F4 /var><var 49 F201F5 /var>Fire<var 49 01 /var><var 48 01 /var> spell) or <var 48 F201FA /var><var 49 F201FB /var>Umbral Ice<var 49 01 /var><var 48 01 /var> (after casting a <var 48 F201F4 /var><var 49 F201F5 /var>Blizzard<var 49 01 /var><var 48 01 /var> spell). While under the influence of <var 48 F201FA /var><var 49 F201FB /var>Astral Fire<var 49 01 /var><var 48 01 /var>, all <var 48 F201F4 /var><var 49 F201F5 /var>Fire<var 49 01 /var><var 48 01 /var> spells will have increased potency, but require more MP to cast. While under the influence of <var 48 F201FA /var><var 49 F201FB /var>Umbral Ice<var 49 01 /var><var 48 01 /var>, all <var 48 F201F4 /var><var 49 F201F5 /var>Blizzard<var 49 01 /var><var 48 01 /var> spells will have no cost, and will recover MP upon striking a target. Furthermore, when maintaining stacks of <var 48 F201FA /var><var 49 F201FB /var>Astral Fire<var 49 01 /var><var 48 01 /var> or <var 48 F201FA /var><var 49 F201FB /var>Umbral Ice<var 49 01 /var><var 48 01 /var>, a spell of the opposite element can be cast at no cost but will deal reduced damage."
+    },
+    {
+      "id": "0x00000042",
+      "text": "Coming under the influence of <var 48 F201FA /var><var 49 F201FB /var>Astral Fire<var 49 01 /var><var 48 01 /var> or <var 48 F201FA /var><var 49 F201FB /var>Umbral Ice<var 49 01 /var><var 48 01 /var> will grant <var 48 F201FA /var><var 49 F201FB /var>Enochian<var 49 01 /var><var 48 01 /var>, and set the lower-right corner of the gauge aglow, indicating its effect is active. <var 48 F201FA /var><var 49 F201FB /var>Enochian<var 49 01 /var><var 48 01 /var> increases the potency of magic attacks, as well as unlocks powerful spells such as <var 48 F201F4 /var><var 49 F201F5 /var>Blizzard IV<var 49 01 /var><var 48 01 /var>. <var 48 F201FA /var><var 49 F201FB /var>Enochian<var 49 01 /var><var 48 01 /var> fades when <var 48 F201FA /var><var 49 F201FB /var>Astral Fire<var 49 01 /var><var 48 01 /var> or <var 48 F201FA /var><var 49 F201FB /var>Umbral Ice<var 49 01 /var><var 48 01 /var> expires."
+    },
+    {
+      "id": "0x00000043",
+      "text": "Casting <var 48 F201F4 /var><var 49 F201F5 /var>Freeze<var 49 01 /var><var 48 01 /var> or <var 48 F201F4 /var><var 49 F201F5 /var>Blizzard IV<var 49 01 /var><var 48 01 /var> grants 3 <var 48 F201FA /var><var 49 F201FB /var>Umbral Hearts<var 49 01 /var><var 48 01 /var> which are represented by the arrows in the gauge's lower-left corner. An <var 48 F201FA /var><var 49 F201FB /var>Umbral Heart<var 49 01 /var><var 48 01 /var> is consumed each time a <var 48 F201F4 /var><var 49 F201F5 /var>Fire<var 49 01 /var><var 48 01 /var> spell is cast, nullifying the MP cost increase applied by the <var 48 F201FA /var><var 49 F201FB /var>Astral Fire<var 49 01 /var><var 48 01 /var> status."
+    },
+    {
+      "id": "0x00000044",
+      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Enochian<var 49 01 /var><var 48 01 /var> bar will fill every 30 seconds the status is maintained. When the crystal at the bottom of the <var 48 F201F4 /var><var 49 F201F5 /var>Elemental Gauge<var 49 01 /var><var 48 01 /var> glows pink, you will be under effect of <var 48 F201FA /var><var 49 F201FB /var>Polyglot<var 49 01 /var><var 48 01 /var>, which allows the spells <var 48 F201F4 /var><var 49 F201F5 /var>Foul<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Xenoglossy<var 49 01 /var><var 48 01 /var> (acquired at level 80) to be cast, consuming a crystal."
+    },
+    {
+      "id": "0x00000045",
+      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Enochian<var 49 01 /var><var 48 01 /var> bar will fill every 30 seconds the status is maintained. When one or more crystals at the bottom of the <var 48 F201F4 /var><var 49 F201F5 /var>Elemental Gauge<var 49 01 /var><var 48 01 /var> glow pink, you will be under effect of <var 48 F201FA /var><var 49 F201FB /var>Polyglot<var 49 01 /var><var 48 01 /var>, which allows the spells <var 48 F201F4 /var><var 49 F201F5 /var>Foul<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Xenoglossy<var 49 01 /var><var 48 01 /var> (acquired at level 80) to be cast, consuming a crystal."
+    },
+    {
+      "id": "0x00000046",
+      "text": "Aetherflow Gauge"
+    },
+    {
+      "id": "0x00000047",
+      "text": "Using the action <var 48 F201F4 /var><var 49 F201F5 /var>Energy Drain<var 49 01 /var><var 48 01 /var> fills the <var 48 F201F4 /var><var 49 F201F5 /var>Aetherflow Gauge<var 49 01 /var><var 48 01 /var>, which is required to perform certain actions."
+    },
+    {
+      "id": "0x00000048",
+      "text": "Trance Gauge"
+    },
+    {
+      "id": "0x00000049",
+      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Trance Gauge<var 49 01 /var><var 48 01 /var> indicates the time remaining for the effects of <var 48 F201F4 /var><var 49 F201F5 /var>Aethercharge<var 49 01 /var><var 48 01 /var>. Executing this action also grants <var 48 F201FA /var><var 49 F201FB /var>Ruby Arcanum<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>Topaz Arcanum<var 49 01 /var><var 48 01 /var>, and <var 48 F201FA /var><var 49 F201FB /var>Emerald Arcanum<var 49 01 /var><var 48 01 /var>, which are used to summon <var 48 F201FA /var><var 49 F201FB /var>Ifrit-Egi<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>Topaz Carbuncle<var 49 01 /var><var 48 01 /var>, and <var 48 F201FA /var><var 49 F201FB /var>Emerald Carbuncle<var 49 01 /var><var 48 01 /var> respectively."
+    },
+    {
+      "id": "0x0000004A",
+      "text": "Each summon, when called forth, will tap into its respective <var 48 F201FA /var><var 49 F201FB /var>Arcanum<var 49 01 /var><var 48 01 /var>, granting you stacks of an elemental attunement, indicated on the <var 48 F201F4 /var><var 49 F201F5 /var>Trance Gauge<var 49 01 /var><var 48 01 /var>. These elemental attunements will augment <var 48 F201F4 /var><var 49 F201F5 /var>Gemshine<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Precious Brilliance<var 49 01 /var><var 48 01 /var> (acquired at level 26)."
+    },
+    {
+      "id": "0x0000004B",
+      "text": "Upon learning the trait <var 48 F201FA /var><var 49 F201FB /var>Aethercharge Mastery<var 49 01 /var><var 48 01 /var>, the <var 48 F201F4 /var><var 49 F201F5 /var>Trance Gauge<var 49 01 /var><var 48 01 /var> will indicate the remaining time for the effects of <var 48 F201F4 /var><var 49 F201F5 /var>Dreadwyrm Trance<var 49 01 /var><var 48 01 /var>. While under its effects, <var 48 F201F4 /var><var 49 F201F5 /var>Ruin III<var 49 01 /var><var 48 01 /var> is upgraded to <var 48 F201F4 /var><var 49 F201F5 /var>Astral Impulse<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Outburst<var 49 01 /var><var 48 01 /var> is upgraded to <var 48 F201F4 /var><var 49 F201F5 /var>Astral Flare<var 49 01 /var><var 48 01 /var>. <var 48 F201F4 /var><var 49 F201F5 /var>Dreadwyrm Trance<var 49 01 /var><var 48 01 /var> also grants <var 48 F201FA /var><var 49 F201FB /var>Ruby Arcanum<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>Topaz Arcanum<var 49 01 /var><var 48 01 /var>, and <var 48 F201FA /var><var 49 F201FB /var>Emerald Arcanum<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x0000004C",
+      "text": "Each summon, when called forth, will tap into its respective <var 48 F201FA /var><var 49 F201FB /var>Arcanum<var 49 01 /var><var 48 01 /var>, granting you stacks of an elemental attunement, indicated on the <var 48 F201F4 /var><var 49 F201F5 /var>Trance Gauge<var 49 01 /var><var 48 01 /var>. These elemental attunements will augment <var 48 F201F4 /var><var 49 F201F5 /var>Gemshine<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Precious Brilliance<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x0000004D",
+      "text": "Dreadwyrm Aether"
+    },
+    {
+      "id": "0x0000004E",
+      "text": "Step Gauge"
+    },
+    {
+      "id": "0x0000004F",
+      "text": "Performing a <var 48 F201F4 /var><var 49 F201F5 /var>Standard Step<var 49 01 /var><var 48 01 /var> changes the appearance of the <var 48 F201F4 /var><var 49 F201F5 /var>Step Gauge<var 49 01 /var><var 48 01 /var> and causes you to start dancing. Following the displayed icons to execute steps in the correct order and ending with <var 48 F201F4 /var><var 49 F201F5 /var>Standard Finish<var 49 01 /var><var 48 01 /var> will increase your damage dealt and that of the party member designated as your <var 48 F201FA /var><var 49 F201FB /var>Dance Partner<var 49 01 /var><var 48 01 /var>. The remaining duration of these effects is displayed beneath the <var 48 F201F4 /var><var 49 F201F5 /var>Step Gauge<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000050",
+      "text": "Fourfold Feathers"
+    },
+    {
+      "id": "0x00000051",
+      "text": "Actions such as <var 48 F201F4 /var><var 49 F201F5 /var>Reverse Cascade<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Rising Windmill<var 49 01 /var><var 48 01 /var> have a chance to grant <var 48 F201FA /var><var 49 F201FB /var>Fourfold Feathers<var 49 01 /var><var 48 01 /var>, which are consumed by <var 48 F201F4 /var><var 49 F201F5 /var>Fan Dance<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Fan Dance II<var 49 01 /var><var 48 01 /var> (acquired at level 50)."
+    },
+    {
+      "id": "0x00000052",
+      "text": "Step Gauge"
+    },
+    {
+      "id": "0x00000053",
+      "text": "Performing a <var 48 F201F4 /var><var 49 F201F5 /var>Technical Step<var 49 01 /var><var 48 01 /var> will display four icons on the <var 48 F201F4 /var><var 49 F201F5 /var>Step Gauge<var 49 01 /var><var 48 01 /var>. Executing the corresponding actions in the correct order followed by <var 48 F201F4 /var><var 49 F201F5 /var>Technical Finish<var 49 01 /var><var 48 01 /var> increases the damage dealt by you and nearby party members."
+    },
+    {
+      "id": "0x00000054",
+      "text": "Fourfold Feathers and Esprit Gauge"
+    },
+    {
+      "id": "0x00000055",
+      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Esprit Gauge<var 49 01 /var><var 48 01 /var> accumulates when you or party members under the effect of <var 48 F201FA /var><var 49 F201FB /var>Esprit<var 49 01 /var><var 48 01 /var>─granted by <var 48 F201F4 /var><var 49 F201F5 /var>Standard Finish<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Technical Finish<var 49 01 /var><var 48 01 /var>─execute weaponskills or cast spells. It is consumed by the action <var 48 F201F4 /var><var 49 F201F5 /var>Saber Dance<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000056",
+      "text": "Balance Gauge"
+    },
+    {
+      "id": "0x00000057",
+      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Balance Gauge<var 49 01 /var><var 48 01 /var> displays the current amount of <var 48 F201FA /var><var 49 F201FB /var>Black Mana<var 49 01 /var><var 48 01 /var> and <var 48 F201FA /var><var 49 F201FB /var>White Mana<var 49 01 /var><var 48 01 /var> a red mage has accumulated. <var 48 F201FA /var><var 49 F201FB /var>Black Mana<var 49 01 /var><var 48 01 /var> is accumulated by casting spells commonly associated with black magic (such as <var 48 F201F4 /var><var 49 F201F5 /var>Fire<var 49 01 /var><var 48 01 /var> or <var 48 F201F4 /var><var 49 F201F5 /var>Thunder<var 49 01 /var><var 48 01 /var>), and <var 48 F201FA /var><var 49 F201FB /var>White Mana<var 49 01 /var><var 48 01 /var> by casting spells associated with white magic (such as <var 48 F201F4 /var><var 49 F201F5 /var>Aero<var 49 01 /var><var 48 01 /var>). There are also some spells and actions that affect both."
+    },
+    {
+      "id": "0x00000058",
+      "text": "When both <var 48 F201FA /var><var 49 F201FB /var>Black Mana<var 49 01 /var><var 48 01 /var> and <var 48 F201FA /var><var 49 F201FB /var>White Mana<var 49 01 /var><var 48 01 /var> reach a certain amount, weaponskills such as <var 48 F201F4 /var><var 49 F201F5 /var>Riposte<var 49 01 /var><var 48 01 /var> become enchanted and will deal additional damage. If the gap between <var 48 F201FA /var><var 49 F201FB /var>Black Mana<var 49 01 /var><var 48 01 /var> and <var 48 F201FA /var><var 49 F201FB /var>White Mana<var 49 01 /var><var 48 01 /var> accumulation grows too large, the crystal at the top of the gauge will change color, and it will become more difficult to accumulate the lesser of the two."
+    },
+    {
+      "id": "0x00000059",
+      "text": "Powder Gauge"
+    },
+    {
+      "id": "0x0000005A",
+      "text": "This symbol indicates the defensive stance <var 48 F201FA /var><var 49 F201FB /var>Royal Guard<var 49 01 /var><var 48 01 /var> is in effect, which increases enmity."
+    },
+    {
+      "id": "0x0000005B",
+      "text": "Powder Gauge"
+    },
+    {
+      "id": "0x0000005C",
+      "text": "Performing a combo ending in <var 48 F201F4 /var><var 49 F201F5 /var>Solid Barrel<var 49 01 /var><var 48 01 /var> or <var 48 F201F4 /var><var 49 F201F5 /var>Demon Slaughter<var 49 01 /var><var 48 01 /var> (acquired at level 40) adds cartridges to the <var 48 F201F4 /var><var 49 F201F5 /var>Powder Gauge<var 49 01 /var><var 48 01 /var>, which are expended by <var 48 F201F4 /var><var 49 F201F5 /var>Burst Strike<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Gnashing Fang<var 49 01 /var><var 48 01 /var> (acquired at level 60)."
+    },
+    {
+      "id": "0x0000005D",
+      "text": "Upon learning the trait <var 48 F201FA /var><var 49 F201FB /var>Enhanced Dreadwyrm Trance<var 49 01 /var><var 48 01 /var>, it is possible to summon <var 48 F201FA /var><var 49 F201FB /var>Demi-Bahamut<var 49 01 /var><var 48 01 /var> to fight at your side. Summoning <var 48 F201FA /var><var 49 F201FB /var>Demi-Bahamut<var 49 01 /var><var 48 01 /var> also grants you <var 48 F201FA /var><var 49 F201FB /var>Ruby Arcanum<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>Topaz Arcanum<var 49 01 /var><var 48 01 /var>, and <var 48 F201FA /var><var 49 F201FB /var>Emerald Arcanum<var 49 01 /var><var 48 01 /var>. The <var 48 F201F4 /var><var 49 F201F5 /var>Trance Gauge<var 49 01 /var><var 48 01 /var> will indicate <var 48 F201FA /var><var 49 F201FB /var>Demi-Bahamut<var 49 01 /var><var 48 01 /var>'s time remaining on the battlefield, during which <var 48 F201F4 /var><var 49 F201F5 /var>Ruin III<var 49 01 /var><var 48 01 /var> will be upgraded to <var 48 F201F4 /var><var 49 F201F5 /var>Astral Impulse<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Outburst<var 49 01 /var><var 48 01 /var> to <var 48 F201F4 /var><var 49 F201F5 /var>Astral Flare<var 49 01 /var><var 48 01 /var>, and <var 48 F201F4 /var><var 49 F201F5 /var>Astral Flow<var 49 01 /var><var 48 01 /var> to <var 48 F201F4 /var><var 49 F201F5 /var>Deathflare<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x0000005E",
+      "text": "Upon learning the action <var 48 F201F4 /var><var 49 F201F5 /var>Shoha<var 49 01 /var><var 48 01 /var>, the <var 48 F201F4 /var><var 49 F201F5 /var>Meditation Gauge<var 49 01 /var><var 48 01 /var> will be displayed, indicating the number of stacks of <var 48 F201FA /var><var 49 F201FB /var>Meditation<var 49 01 /var><var 48 01 /var> you have accumulated while in combat. Stacks are acquired by executing <var 48 F201F4 /var><var 49 F201F5 /var>Iaijutsu<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Meditate<var 49 01 /var><var 48 01 /var>, or <var 48 F201F4 /var><var 49 F201F5 /var>Ogi Namikiri<var 49 01 /var><var 48 01 /var> (acquired at level 90), and are expended after executing <var 48 F201F4 /var><var 49 F201F5 /var>Shoha<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x0000005F",
+      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Chakra Gauge<var 49 01 /var><var 48 01 /var> indicates the number of chakra currently open. Opening five allows for the execution of <var 48 F201F4 /var><var 49 F201F5 /var>Steel Peak<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000060",
+      "text": "Master's Gauge"
+    },
+    {
+      "id": "0x00000061",
+      "text": "While under the effect of <var 48 F201FA /var><var 49 F201FB /var>Perfect Balance<var 49 01 /var><var 48 01 /var>, executing certain weaponskills will open <var 48 F201FA /var><var 49 F201FB /var>Beast Chakra<var 49 01 /var><var 48 01 /var>─<var 48 F201FA /var><var 49 F201FB /var>Opo-opo Chakra<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>Coeurl Chakra<var 49 01 /var><var 48 01 /var>, or <var 48 F201FA /var><var 49 F201FB /var>Raptor Chakra<var 49 01 /var><var 48 01 /var>─in accordance with the form normally required to execute them. Opening three of the same <var 48 F201FA /var><var 49 F201FB /var>Beast Chakra<var 49 01 /var><var 48 01 /var> allows the execution of <var 48 F201F4 /var><var 49 F201F5 /var>Elixir Field<var 49 01 /var><var 48 01 /var>, while three distinct chakra allow the execution of <var 48 F201F4 /var><var 49 F201F5 /var>Flint Strike<var 49 01 /var><var 48 01 /var>. It is also possible to open the <var 48 F201FA /var><var 49 F201FB /var>Lunar Nadi<var 49 01 /var><var 48 01 /var> and <var 48 F201FA /var><var 49 F201FB /var>Solar Nadi<var 49 01 /var><var 48 01 /var> by executing <var 48 F201F4 /var><var 49 F201F5 /var>Elixir Field<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Flint Strike<var 49 01 /var><var 48 01 /var> respectively. Opening three <var 48 F201FA /var><var 49 F201FB /var>Beast Chakra<var 49 01 /var><var 48 01 /var> and both nadi allows the execution of <var 48 F201F4 /var><var 49 F201F5 /var>Tornado Kick<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000062",
+      "text": "Master's Gauge and Nadi"
+    },
+    {
+      "id": "0x00000063",
+      "text": "特性<var 48 F201F4 /var><var 49 F201F5 /var>「必殺技効果アップ」<var 49 01 /var><var 48 01 /var>を修得し、<var 48 F201F4 /var><var 49 F201F5 /var>「陰陽の闘気」<var 49 01 /var><var 48 01 /var>が表示されるように\nなりました！\n必殺技「天宙脚」を実行すると<var 48 F201F4 /var><var 49 F201F5 /var>「陰の闘気」<var 49 01 /var><var 48 01 /var>が付与され、「鳳凰の舞」を実行すると<var 48 F201F4 /var><var 49 F201F5 /var>「陽の闘気」<var 49 01 /var><var 48 01 /var>が付与され、さらに「闘魂」3種が種類を問わず付与された状態になると、最強の必殺技<var 48 F201F4 /var><var 49 F201F5 /var>「夢幻闘舞」<var 49 01 /var><var 48 01 /var>が実行できます。"
+    },
+    {
+      "id": "0x00000064",
+      "text": "Arcana Gauge and Minor Arcana"
+    },
+    {
+      "id": "0x00000065",
+      "text": "<var 48 F201F4 /var><var 49 F201F5 /var>Minor Arcana<var 49 01 /var><var 48 01 /var> can be used to draw either <var 48 F201FA /var><var 49 F201FB /var>Lord of Crowns<var 49 01 /var><var 48 01 /var> or <var 48 F201FA /var><var 49 F201FB /var>Lady of Crowns<var 49 01 /var><var 48 01 /var>, which will appear in the <var 48 F201F4 /var><var 49 F201F5 /var>Arcana Gauge<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000066",
+      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Trance Gauge<var 49 01 /var><var 48 01 /var> indicates the time remaining for the effects of <var 48 F201F4 /var><var 49 F201F5 /var>Aethercharge<var 49 01 /var><var 48 01 /var>. Executing this action also grants <var 48 F201FA /var><var 49 F201FB /var>Ruby Arcanum<var 49 01 /var><var 48 01 /var>, which is used to summon <var 48 F201FA /var><var 49 F201FB /var>Ruby Carbuncle<var 49 01 /var><var 48 01 /var>. Upon reaching level 15, <var 48 F201F4 /var><var 49 F201F5 /var>Aethercharge<var 49 01 /var><var 48 01 /var> will also grant <var 48 F201FA /var><var 49 F201FB /var>Topaz Arcanum<var 49 01 /var><var 48 01 /var> for the summoning of <var 48 F201FA /var><var 49 F201FB /var>Topaz Carbuncle<var 49 01 /var><var 48 01 /var>, and at level 22 <var 48 F201FA /var><var 49 F201FB /var>Emerald Arcanum<var 49 01 /var><var 48 01 /var> for the summoning of <var 48 F201FA /var><var 49 F201FB /var>Emerald Carbuncle<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000067",
+      "text": "Each summon, when called forth, will tap into its respective <var 48 F201FA /var><var 49 F201FB /var>Arcanum<var 49 01 /var><var 48 01 /var>, granting you stacks of an elemental attunement, indicated on the <var 48 F201F4 /var><var 49 F201F5 /var>Trance Gauge<var 49 01 /var><var 48 01 /var>. These elemental attunements will augment <var 48 F201F4 /var><var 49 F201F5 /var>Gemshine<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Precious Brilliance<var 49 01 /var><var 48 01 /var> (acquired at level 26)."
+    },
+    {
+      "id": "0x00000068",
+      "text": "Each summon, when called forth, will tap into its respective <var 48 F201FA /var><var 49 F201FB /var>Arcanum<var 49 01 /var><var 48 01 /var>, granting you stacks of an elemental attunement, indicated on the <var 48 F201F4 /var><var 49 F201F5 /var>Trance Gauge<var 49 01 /var><var 48 01 /var>. These elemental attunements will augment <var 48 F201F4 /var><var 49 F201F5 /var>Gemshine<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Precious Brilliance<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000069",
+      "text": "Upon learning the trait <var 48 F201FA /var><var 49 F201FB /var>Enhanced Summon Bahamut<var 49 01 /var><var 48 01 /var>, it is possible to summon <var 48 F201FA /var><var 49 F201FB /var>Demi-Phoenix<var 49 01 /var><var 48 01 /var> to fight at your side. Summoning <var 48 F201FA /var><var 49 F201FB /var>Demi-Phoenix<var 49 01 /var><var 48 01 /var> also grants you <var 48 F201FA /var><var 49 F201FB /var>Ruby Arcanum<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>Topaz Arcanum<var 49 01 /var><var 48 01 /var>, and <var 48 F201FA /var><var 49 F201FB /var>Emerald Arcanum<var 49 01 /var><var 48 01 /var>. The <var 48 F201F4 /var><var 49 F201F5 /var>Trance Gauge<var 49 01 /var><var 48 01 /var> will indicate <var 48 F201FA /var><var 49 F201FB /var>Demi-Phoenix<var 49 01 /var><var 48 01 /var>'s time remaining on the battlefield, during which <var 48 F201F4 /var><var 49 F201F5 /var>Ruin III<var 49 01 /var><var 48 01 /var> will be upgraded to <var 48 F201F4 /var><var 49 F201F5 /var>Fountain of Fire<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Tri-disaster<var 49 01 /var><var 48 01 /var> to <var 48 F201F4 /var><var 49 F201F5 /var>Brand of Purgatory<var 49 01 /var><var 48 01 /var>, and <var 48 F201F4 /var><var 49 F201F5 /var>Astral Flow<var 49 01 /var><var 48 01 /var> to <var 48 F201F4 /var><var 49 F201F5 /var>Rekindle<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x0000006A",
+      "text": "Each summon, when called forth, will tap into its respective <var 48 F201FA /var><var 49 F201FB /var>Arcanum<var 49 01 /var><var 48 01 /var>, granting you stacks of an elemental attunement, indicated on the <var 48 F201F4 /var><var 49 F201F5 /var>Trance Gauge<var 49 01 /var><var 48 01 /var>. These elemental attunements will augment <var 48 F201F4 /var><var 49 F201F5 /var>Gemshine<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Precious Brilliance<var 49 01 /var><var 48 01 /var>. Upon learning the trait <var 48 F201FA /var><var 49 F201FB /var>Elemental Mastery<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Astral Flow<var 49 01 /var><var 48 01 /var> will also be enhanced by elemental attunement."
+    },
+    {
+      "id": "0x0000006B",
+      "text": "Coda"
+    },
+    {
+      "id": "0x0000006C",
+      "text": "Upon learning the trait <var 48 F201FA /var><var 49 F201FB /var>Minstrel's Coda<var 49 01 /var><var 48 01 /var>, singing the <var 48 F201F4 /var><var 49 F201F5 /var>Mage's Ballad<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Army's Paeon<var 49 01 /var><var 48 01 /var>, or the <var 48 F201F4 /var><var 49 F201F5 /var>Wanderer's Minuet<var 49 01 /var><var 48 01 /var> will grant a corresponding <var 48 F201FA /var><var 49 F201FB /var>Coda<var 49 01 /var><var 48 01 /var>. With at least one <var 48 F201FA /var><var 49 F201FB /var>Coda<var 49 01 /var><var 48 01 /var> active, you can execute <var 48 F201F4 /var><var 49 F201F5 /var>Radiant Finale<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x0000006D",
+      "text": "While under the effect of <var 48 F201FA /var><var 49 F201FB /var>Astral Fire III<var 49 01 /var><var 48 01 /var> or when possessing maximum stacks of <var 48 F201FA /var><var 49 F201FB /var>Umbral Ice<var 49 01 /var><var 48 01 /var> and <var 48 F201FA /var><var 49 F201FB /var>Umbral Hearts<var 49 01 /var><var 48 01 /var>, swapping to the opposite element will allow you to execute <var 48 F201F4 /var><var 49 F201F5 /var>Paradox<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x0000006E",
+      "text": "Upon learning the trait <var 48 F201FA /var><var 49 F201FB /var>Cartridge Charge II<var 49 01 /var><var 48 01 /var>, a third <var 48 F201FA /var><var 49 F201FB /var>Cartridge<var 49 01 /var><var 48 01 /var> can be stored in the <var 48 F201F4 /var><var 49 F201F5 /var>Powder Gauge<var 49 01 /var><var 48 01 /var>. <var 48 F201FA /var><var 49 F201FB /var>Cartridges<var 49 01 /var><var 48 01 /var> are added to the gauge by using combo actions such as <var 48 F201F4 /var><var 49 F201F5 /var>Solid Barrel<var 49 01 /var><var 48 01 /var> or <var 48 F201F4 /var><var 49 F201F5 /var>Demon Slaughter<var 49 01 /var><var 48 01 /var> (acquired at level 40). <var 48 F201FA /var><var 49 F201FB /var>Cartridges<var 49 01 /var><var 48 01 /var> can then be used to execute several actions such as <var 48 F201F4 /var><var 49 F201F5 /var>Burst Strike<var 49 01 /var><var 48 01 /var> or <var 48 F201F4 /var><var 49 F201F5 /var>Gnashing Fang<var 49 01 /var><var 48 01 /var> (acquired at level 60)."
+    },
+    {
+      "id": "0x0000006F",
+      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Soul Gauge<var 49 01 /var><var 48 01 /var> can be filled via the execution of certain weaponskills, or by defeating enemies afflicted with <var 48 F201FA /var><var 49 F201FB /var>Death's Design<var 49 01 /var><var 48 01 /var>. With sufficient souls stored in the gauge, you can execute actions such as <var 48 F201F4 /var><var 49 F201F5 /var>Blood Stalk<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Grim Swathe<var 49 01 /var><var 48 01 /var> (acquired at level 55), or <var 48 F201F4 /var><var 49 F201F5 /var>Gluttony<var 49 01 /var><var 48 01 /var> (acquired at level 76)."
+    },
+    {
+      "id": "0x00000070",
+      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Shroud Gauge<var 49 01 /var><var 48 01 /var> signifies the strength of your bond with your avatar. When the gauge is sufficiently filled, you can execute <var 48 F201F4 /var><var 49 F201F5 /var>Enshroud<var 49 01 /var><var 48 01 /var> to temporarily serve as host to your avatar."
+    },
+    {
+      "id": "0x00000071",
+      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Shroud Gauge<var 49 01 /var><var 48 01 /var> can be filled via the execution of certain weaponskills. With sufficient energy stored in the gauge, you can execute <var 48 F201F4 /var><var 49 F201F5 /var>Enshroud<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000072",
+      "text": "Stacks of <var 48 F201FA /var><var 49 F201FB /var>Lemure Shroud<var 49 01 /var><var 48 01 /var> can be consumed to execute <var 48 F201F4 /var><var 49 F201F5 /var>Void Reaping<var 49 01 /var><var 48 01 /var> or <var 48 F201F4 /var><var 49 F201F5 /var>Communio<var 49 01 /var><var 48 01 /var> (acquired at level 90)."
+    },
+    {
+      "id": "0x00000073",
+      "text": "Soul Gauge"
+    },
+    {
+      "id": "0x00000074",
+      "text": "Death Gauge"
+    },
+    {
+      "id": "0x00000075",
+      "text": "Eukrasia"
+    },
+    {
+      "id": "0x00000076",
+      "text": "Addersgall Gauge"
+    },
+    {
+      "id": "0x00000077",
+      "text": "<var 48 F201FA /var><var 49 F201FB /var>Eukrasia<var 49 01 /var><var 48 01 /var>, when active, can be used to enhance the effects of <var 48 F201F4 /var><var 49 F201F5 /var>Dosis<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Diagnosis<var 49 01 /var><var 48 01 /var>, and <var 48 F201F4 /var><var 49 F201F5 /var>Prognosis<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000078",
+      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Addersgall Gauge<var 49 01 /var><var 48 01 /var> indicates accumulated stacks of <var 48 F201FA /var><var 49 F201FB /var>Addersgall<var 49 01 /var><var 48 01 /var>, which are restored automatically over time. <var 48 F201FA /var><var 49 F201FB /var>Addersgall<var 49 01 /var><var 48 01 /var> can be consumed to execute actions such as <var 48 F201F4 /var><var 49 F201F5 /var>Druochole<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Kerachole<var 49 01 /var><var 48 01 /var> (acquired at level 50)."
+    },
+    {
+      "id": "0x00000079",
+      "text": "The gauge builds stacks of <var 48 F201FA /var><var 49 F201FB /var>Addersting<var 49 01 /var><var 48 01 /var> when the barrier effect of <var 48 F201F4 /var><var 49 F201F5 /var>Eukrasian Diagnosis<var 49 01 /var><var 48 01 /var> or <var 48 F201F4 /var><var 49 F201F5 /var>Eukrasian Prognosis<var 49 01 /var><var 48 01 /var> is completely absorbed. <var 48 F201FA /var><var 49 F201FB /var>Addersting<var 49 01 /var><var 48 01 /var> stacks can be used to execute actions such as <var 48 F201F4 /var><var 49 F201F5 /var>Toxikon<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Toxikon II<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x0000007A",
+      "text": "バランスゲージ/マナスタックシンボル"
+    },
+    {
+      "id": "0x0000007B",
+      "text": "<var 48 F201FA /var><var 49 F201FB /var>Mana Stacks<var 49 01 /var><var 48 01 /var> are gained by executing <var 48 F201F4 /var><var 49 F201F5 /var>Enchanted Riposte<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Enchanted Zwerchhau<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Enchanted Redoublement<var 49 01 /var><var 48 01 /var>, or <var 48 F201F4 /var><var 49 F201F5 /var>Enchanted Moulinet<var 49 01 /var><var 48 01 /var>, and are consumed by casting spells. At maximum stacks, you can cast <var 48 F201F4 /var><var 49 F201F5 /var>Verflare<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Verholy<var 49 01 /var><var 48 01 /var> (acquired at level 70)."
+    },
+    {
+      "id": "0x0000007C",
+      "text": "Once <var 48 F201FA /var><var 49 F201FB /var>Enshrouded<var 49 01 /var><var 48 01 /var>, the <var 48 F201F4 /var><var 49 F201F5 /var>Death Gauge<var 49 01 /var><var 48 01 /var> will display the time remaining to play host to your avatar, as well as your stacks of <var 48 F201FA /var><var 49 F201FB /var>Lemure Shroud<var 49 01 /var><var 48 01 /var>, which are consumed to use powerful attacks such as <var 48 F201F4 /var><var 49 F201F5 /var>Void Reaping<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Communio<var 49 01 /var><var 48 01 /var> (acquired at level 90)."
+    },
+    {
+      "id": "0x0000007D",
+      "text": "The actions <var 48 F201F4 /var><var 49 F201F5 /var>Twin Snakes<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Demolish<var 49 01 /var><var 48 01 /var> (acquired at level 30), and <var 48 F201F4 /var><var 49 F201F5 /var>Dragon Kick<var 49 01 /var><var 48 01 /var> (acquired at level 50) will grant stacks of <var 48 F201FA /var><var 49 F201FB /var>Opo-opo Fury<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>Raptor Fury<var 49 01 /var><var 48 01 /var>, or <var 48 F201FA /var><var 49 F201FB /var>Coeurl Fury<var 49 01 /var><var 48 01 /var>. The fury granted is commensurate with the form required for their execution. Other weaponskills that require these forms will consume stacks of fury to deal increased damage."
+    },
+    {
+      "id": "0x0000007E",
+      "text": "This timer indicates the duration of <var 48 F201FA /var><var 49 F201FB /var>Life of the Dragon<var 49 01 /var><var 48 01 /var>, which increases damage dealt. Using <var 48 F201F4 /var><var 49 F201F5 /var>Geirskogul<var 49 01 /var><var 48 01 /var> grants <var 48 F201FA /var><var 49 F201FB /var>Life of the Dragon<var 49 01 /var><var 48 01 /var>, and allows for the execution of more powerful actions such as <var 48 F201F4 /var><var 49 F201F5 /var>Nastrond<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Stardiver<var 49 01 /var><var 48 01 /var> (acquired at level 80)."
+    },
+    {
+      "id": "0x0000007F",
+      "text": "Using <var 48 F201F4 /var><var 49 F201F5 /var>Raiden Thrust<var 49 01 /var><var 48 01 /var> or <var 48 F201F4 /var><var 49 F201F5 /var>Draconian Fury<var 49 01 /var><var 48 01 /var> will sharpen the <var 48 F201FA /var><var 49 F201FB /var>Firstminds' Focus<var 49 01 /var><var 48 01 /var>, up to a maximum of 2 units. Once their focus is fully sharpened, you can execute <var 48 F201F4 /var><var 49 F201F5 /var>Wyrmwind Thrust<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000080",
+      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Enochian<var 49 01 /var><var 48 01 /var> bar will fill every 30 seconds the status is maintained. When one or more crystals at the bottom of the <var 48 F201F4 /var><var 49 F201F5 /var>Elemental Gauge<var 49 01 /var><var 48 01 /var> glow pink, you will be under effect of <var 48 F201FA /var><var 49 F201FB /var>Polyglot<var 49 01 /var><var 48 01 /var>, which allows the spells <var 48 F201F4 /var><var 49 F201F5 /var>Foul<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Xenoglossy<var 49 01 /var><var 48 01 /var> (acquired at level 80) to be cast, consuming a crystal."
+    },
+    {
+      "id": "0x00000081",
+      "text": "While under the effect of <var 48 F201FA /var><var 49 F201FB /var>Astral Fire<var 49 01 /var><var 48 01 /var>, casting <var 48 F201F4 /var><var 49 F201F5 /var>Fire IV<var 49 01 /var><var 48 01 /var> or <var 48 F201F4 /var><var 49 F201F5 /var>Flare<var 49 01 /var><var 48 01 /var> will grant stacks of <var 48 F201FA /var><var 49 F201FB /var>Astral Soul<var 49 01 /var><var 48 01 /var>. At maximum stacks, you can cast <var 48 F201F4 /var><var 49 F201F5 /var>Flare Star<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000082",
+      "text": "Astral Gauge"
+    },
+    {
+      "id": "0x00000083",
+      "text": "Upon learning the trait <var 48 F201FA /var><var 49 F201FB /var>Enhanced Summon Bahamut II<var 49 01 /var><var 48 01 /var>, it is possible to summon <var 48 F201FA /var><var 49 F201FB /var>Solar Bahamut<var 49 01 /var><var 48 01 /var> to fight at your side.\nSummoning <var 48 F201FA /var><var 49 F201FB /var>Solar Bahamut<var 49 01 /var><var 48 01 /var> also grants you <var 48 F201FA /var><var 49 F201FB /var>Ruby Arcanum<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>Topaz Arcanum<var 49 01 /var><var 48 01 /var>, and <var 48 F201FA /var><var 49 F201FB /var>Emerald Arcanum<var 49 01 /var><var 48 01 /var>. The <var 48 F201F4 /var><var 49 F201F5 /var>Trance Gauge<var 49 01 /var><var 48 01 /var> will indicate <var 48 F201FA /var><var 49 F201FB /var>Solar Bahamut<var 49 01 /var><var 48 01 /var>'s time remaining on the battlefield, during which <var 48 F201F4 /var><var 49 F201F5 /var>Ruin III<var 49 01 /var><var 48 01 /var> will be upgraded to <var 48 F201F4 /var><var 49 F201F5 /var>Umbral Impulse<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Tri-disaster<var 49 01 /var><var 48 01 /var> to <var 48 F201F4 /var><var 49 F201F5 /var>Umbral Flare<var 49 01 /var><var 48 01 /var>, and <var 48 F201F4 /var><var 49 F201F5 /var>Astral Flow<var 49 01 /var><var 48 01 /var> to <var 48 F201F4 /var><var 49 F201F5 /var>Sunflare<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000084",
+      "text": "Each summon, when called forth, will tap into its respective <var 48 F201FA /var><var 49 F201FB /var>Arcanum<var 49 01 /var><var 48 01 /var>, granting you stacks of an elemental attunement, indicated on the <var 48 F201F4 /var><var 49 F201F5 /var>Trance Gauge<var 49 01 /var><var 48 01 /var>. These elemental attunements will augment <var 48 F201F4 /var><var 49 F201F5 /var>Gemshine<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Precious Brilliance<var 49 01 /var><var 48 01 /var>. Upon learning the trait <var 48 F201FA /var><var 49 F201FB /var>Elemental Mastery<var 49 01 /var><var 48 01 /var> (acquired at level 86), <var 48 F201F4 /var><var 49 F201F5 /var>Astral Flow<var 49 01 /var><var 48 01 /var> will also be enhanced by elemental attunement."
+    },
+    {
+      "id": "0x00000085",
+      "text": "Vipersight"
+    },
+    {
+      "id": "0x00000086",
+      "text": "Serpent Offerings Gauge"
+    },
+    {
+      "id": "0x00000087",
+      "text": "Viper engages enemies mainly through the use of three-step combos, their primary combos beginning with either <var 48 F201F4 /var><var 49 F201F5 /var>Steel Fangs<var 49 01 /var><var 48 01 /var> or <var 48 F201F4 /var><var 49 F201F5 /var>Reaving Fangs<var 49 01 /var><var 48 01 /var>. The third step can end with one of several weaponskills, each of which grants an effect to strengthen a different combo-ending action. To reach these actions will require the use of specific combo routes.\nThe glow of <var 48 F201F4 /var><var 49 F201F5 /var>Vipersight<var 49 01 /var><var 48 01 /var>'s blades correspond with the outlining of hotbar icons to indicate the next step in a combo.\nFor example, when <var 48 F201F4 /var><var 49 F201F5 /var>Steel Fangs<var 49 01 /var><var 48 01 /var> is highlighted, the left blade of <var 48 F201F4 /var><var 49 F201F5 /var>Vipersight<var 49 01 /var><var 48 01 /var> will glow. When <var 48 F201F4 /var><var 49 F201F5 /var>Reaving Fangs<var 49 01 /var><var 48 01 /var> is highlighted, the right blade of <var 48 F201F4 /var><var 49 F201F5 /var>Vipersight<var 49 01 /var><var 48 01 /var> will glow. Moreover, the color of the gauge will indicate the step of the combo you've reached.\nFollowing these indicators will help ensure the use of combos that finish with a strengthened attack."
+    },
+    {
+      "id": "0x00000088",
+      "text": "The use of certain weaponskills will grant a <var 48 F201FA /var><var 49 F201FB /var>Rattling Coil<var 49 01 /var><var 48 01 /var>, up to a maximum of 2 stacks, indicated by <var 48 F201F4 /var><var 49 F201F5 /var>Vipersight<var 49 01 /var><var 48 01 /var>. <var 48 F201FA /var><var 49 F201FB /var>Rattling Coils<var 49 01 /var><var 48 01 /var> can be spent to execute <var 48 F201F4 /var><var 49 F201F5 /var>Uncoiled Fury<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000089",
+      "text": "Upon learning the trait <var 48 F201FA /var><var 49 F201FB /var>Enhanced Viper's Rattle<var 49 01 /var><var 48 01 /var>, a third <var 48 F201FA /var><var 49 F201FB /var>Rattling Coil<var 49 01 /var><var 48 01 /var> can be stored. <var 48 F201FA /var><var 49 F201FB /var>Rattling Coils<var 49 01 /var><var 48 01 /var> are accumulated through the use of certain actions, and can be spent to execute <var 48 F201F4 /var><var 49 F201F5 /var>Uncoiled Fury<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x0000008A",
+      "text": "The use of certain weaponskills in the execution of combos will serve to fill the <var 48 F201F4 /var><var 49 F201F5 /var>Serpent Offerings Gauge<var 49 01 /var><var 48 01 /var>. Once sufficient energy has been stored, you can activate <var 48 F201F4 /var><var 49 F201F5 /var>Reawaken<var 49 01 /var><var 48 01 /var>, which will open the <var 48 F201FA /var><var 49 F201FB /var>Anguine Tributes<var 49 01 /var><var 48 01 /var> on the gauge. These tributes can be used to execute several special weaponskills unique to your reawakened state."
+    },
+    {
+      "id": "0x0000008B",
+      "text": "Upon learning the trait <var 48 F201FA /var><var 49 F201FB /var>Enhanced Serpent's Lineage<var 49 01 /var><var 48 01 /var>, a fifth <var 48 F201FA /var><var 49 F201FB /var>Anguine Tribute<var 49 01 /var><var 48 01 /var> will be added to the gauge. Once sufficient energy has been stored, you can activate <var 48 F201F4 /var><var 49 F201F5 /var>Reawaken<var 49 01 /var><var 48 01 /var>, which will open the <var 48 F201FA /var><var 49 F201FB /var>Anguine Tributes<var 49 01 /var><var 48 01 /var> on the gauge. These tributes can be used to execute several special weaponskills unique to your reawakened state."
+    },
+    {
+      "id": "0x0000008C",
+      "text": "Canvases"
+    },
+    {
+      "id": "0x0000008D",
+      "text": "Palette Gauge"
+    },
+    {
+      "id": "0x0000008E",
+      "text": "Pictomancer eschews the stave for a brush, painting their imaginings upon a canvas and bringing them to life through magic.\n\n<var 48 F201F4 /var><var 49 F201F5 /var>Creature Motifs<var 49 01 /var><var 48 01 /var> are painted on the <var 48 F201F4 /var><var 49 F201F5 /var>Creature Canvas<var 49 01 /var><var 48 01 /var> and can be rendered to life through <var 48 F201F4 /var><var 49 F201F5 /var>Living Muse<var 49 01 /var><var 48 01 /var>, simultaneously granting a depiction of the rendered motif. Assembling <var 48 F201FA /var><var 49 F201FB /var>Depiction of Pom<var 49 01 /var><var 48 01 /var> and <var 48 F201FA /var><var 49 F201FB /var>Depiction of Wings<var 49 01 /var><var 48 01 /var> creates a <var 48 F201FA /var><var 49 F201FB /var>Moogle Portrait<var 49 01 /var><var 48 01 /var>, allowing the execution of <var 48 F201F4 /var><var 49 F201F5 /var>Mog of the Ages<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x0000008F",
+      "text": "<var 48 F201F4 /var><var 49 F201F5 /var>Weapon Motifs<var 49 01 /var><var 48 01 /var> are painted on the <var 48 F201F4 /var><var 49 F201F5 /var>Weapon Canvas<var 49 01 /var><var 48 01 /var> and can be rendered to life through <var 48 F201F4 /var><var 49 F201F5 /var>Steel Muse<var 49 01 /var><var 48 01 /var>. When a <var 48 F201FA /var><var 49 F201FB /var>hammer<var 49 01 /var><var 48 01 /var> is painted on the canvas, <var 48 F201F4 /var><var 49 F201F5 /var>Striking Muse<var 49 01 /var><var 48 01 /var> can be performed, allowing the execution of <var 48 F201F4 /var><var 49 F201F5 /var>Hammer Stamp<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000090",
+      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Palette Gauge<var 49 01 /var><var 48 01 /var> can be accumulated by executing certain aetherhue spells. Once your palette is sufficiently saturated with aether, you can consume a portion of the <var 48 F201F4 /var><var 49 F201F5 /var>Palette Gauge<var 49 01 /var><var 48 01 /var> to execute <var 48 F201F4 /var><var 49 F201F5 /var>Subtractive Palette<var 49 01 /var><var 48 01 /var>, which will temporarily alter the properties of your aetherhue spells, significantly enhancing them."
+    },
+    {
+      "id": "0x00000091",
+      "text": "<var 48 F201F4 /var><var 49 F201F5 /var>Landscape Motifs<var 49 01 /var><var 48 01 /var> are painted on the <var 48 F201F4 /var><var 49 F201F5 /var>Landscape Canvas<var 49 01 /var><var 48 01 /var> and can be rendered to life through <var 48 F201F4 /var><var 49 F201F5 /var>Scenic Muse<var 49 01 /var><var 48 01 /var>. When a <var 48 F201FA /var><var 49 F201FB /var>starry sky<var 49 01 /var><var 48 01 /var> is painted on the canvas, <var 48 F201F4 /var><var 49 F201F5 /var>Starry Muse<var 49 01 /var><var 48 01 /var> can be performed, increasing the damage dealt by self and party members."
+    },
+    {
+      "id": "0x00000092",
+      "text": "Pictomancer eschews the stave for a brush, painting their imaginings upon a canvas and bringing them to life through magic. By utilizing the <var 48 F201F4 /var><var 49 F201F5 /var>Creature Canvas<var 49 01 /var><var 48 01 /var>, the <var 48 F201F4 /var><var 49 F201F5 /var>Weapon Canvas<var 49 01 /var><var 48 01 /var>, and the <var 48 F201F4 /var><var 49 F201F5 /var>Landscape Canvas<var 49 01 /var><var 48 01 /var>, a variety of effects can be produced."
+    },
+    {
+      "id": "0x00000093",
+      "text": "<var 48 F201F4 /var><var 49 F201F5 /var>Creature Motifs<var 49 01 /var><var 48 01 /var> are painted on the <var 48 F201F4 /var><var 49 F201F5 /var>Creature Canvas<var 49 01 /var><var 48 01 /var> and can be rendered to life through <var 48 F201F4 /var><var 49 F201F5 /var>Living Muse<var 49 01 /var><var 48 01 /var>, simultaneously granting a depiction of the rendered motif. Assembling <var 48 F201FA /var><var 49 F201FB /var>Depiction of Pom<var 49 01 /var><var 48 01 /var> and <var 48 F201FA /var><var 49 F201FB /var>Depiction of Wings<var 49 01 /var><var 48 01 /var> creates a <var 48 F201FA /var><var 49 F201FB /var>Moogle Portrait<var 49 01 /var><var 48 01 /var>, allowing the execution of <var 48 F201F4 /var><var 49 F201F5 /var>Mog of the Ages<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000094",
+      "text": "<var 48 F201F4 /var><var 49 F201F5 /var>Weapon Motifs<var 49 01 /var><var 48 01 /var> are painted on the <var 48 F201F4 /var><var 49 F201F5 /var>Weapon Canvas<var 49 01 /var><var 48 01 /var> and can be rendered to life through <var 48 F201F4 /var><var 49 F201F5 /var>Steel Muse<var 49 01 /var><var 48 01 /var>. When a <var 48 F201FA /var><var 49 F201FB /var>hammer<var 49 01 /var><var 48 01 /var> is painted on the canvas, <var 48 F201F4 /var><var 49 F201F5 /var>Striking Muse<var 49 01 /var><var 48 01 /var> can be performed, allowing the execution of <var 48 F201F4 /var><var 49 F201F5 /var>Hammer Stamp<var 49 01 /var><var 48 01 /var>.\n\n<var 48 F201F4 /var><var 49 F201F5 /var>Landscape Motifs<var 49 01 /var><var 48 01 /var> are painted on the <var 48 F201F4 /var><var 49 F201F5 /var>Landscape Canvas<var 49 01 /var><var 48 01 /var> and can be rendered to life through <var 48 F201F4 /var><var 49 F201F5 /var>Scenic Muse<var 49 01 /var><var 48 01 /var>. When a <var 48 F201FA /var><var 49 F201FB /var>starry sky<var 49 01 /var><var 48 01 /var> is painted on the canvas, <var 48 F201F4 /var><var 49 F201F5 /var>Starry Muse<var 49 01 /var><var 48 01 /var> can be performed, increasing the damage dealt by self and party members."
+    },
+    {
+      "id": "0x00000095",
+      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Palette Gauge<var 49 01 /var><var 48 01 /var> and <var 48 F201FA /var><var 49 F201FB /var>White Paint<var 49 01 /var><var 48 01 /var> can be accumulated by executing certain aetherhue spells. Once your palette is sufficiently saturated with aether, you can consume a portion of the <var 48 F201F4 /var><var 49 F201F5 /var>Palette Gauge<var 49 01 /var><var 48 01 /var> to execute <var 48 F201F4 /var><var 49 F201F5 /var>Subtractive Palette<var 49 01 /var><var 48 01 /var>, which will temporarily alter the properties of your aetherhue spells, significantly enhancing them. Additionally, <var 48 F201FA /var><var 49 F201FB /var>White Paint<var 49 01 /var><var 48 01 /var> can be spent to execute <var 48 F201F4 /var><var 49 F201F5 /var>Holy in White<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000096",
+      "text": "Upon learning the trait <var 48 F201FA /var><var 49 F201FB /var>Enhanced Palette<var 49 01 /var><var 48 01 /var>, a splash of <var 48 F201FA /var><var 49 F201FB /var>White Paint<var 49 01 /var><var 48 01 /var>, when accumulated, will be converted to <var 48 F201FA /var><var 49 F201FB /var>Black Paint<var 49 01 /var><var 48 01 /var> upon the execution of <var 48 F201F4 /var><var 49 F201F5 /var>Subtractive Palette<var 49 01 /var><var 48 01 /var>, which can be spent to perform <var 48 F201F4 /var><var 49 F201F5 /var>Comet in Black<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000097",
+      "text": "Executing <var 48 F201F4 /var><var 49 F201F5 /var>Creature Motif<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Living Muse<var 49 01 /var><var 48 01 /var> in succession to assemble <var 48 F201FA /var><var 49 F201FB /var>Depiction of Pom<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>Depiction of Wings<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>Depiction of Claw<var 49 01 /var><var 48 01 /var>, and <var 48 F201FA /var><var 49 F201FB /var>Depiction of Fangs<var 49 01 /var><var 48 01 /var> creates a <var 48 F201FA /var><var 49 F201FB /var>Madeen Portrait<var 49 01 /var><var 48 01 /var>, allowing the execution of <var 48 F201F4 /var><var 49 F201F5 /var>Retribution of the Madeen<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000098",
+      "text": "Upon learning the trait <var 48 F201FA /var><var 49 F201FB /var>Void Soul<var 49 01 /var><var 48 01 /var>, weaponskills which cost <var 48 F201FA /var><var 49 F201FB /var>Lemure Shroud<var 49 01 /var><var 48 01 /var> will grant <var 48 F201FA /var><var 49 F201FB /var>Void Shroud<var 49 01 /var><var 48 01 /var> when executed. With sufficient stacks, you can execute actions such as <var 48 F201F4 /var><var 49 F201F5 /var>Lemure's Slice<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Lemure's Scythe<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000099",
+      "text": "Stacks of <var 48 F201FA /var><var 49 F201FB /var>Lemure Shroud<var 49 01 /var><var 48 01 /var> can be consumed to execute <var 48 F201F4 /var><var 49 F201F5 /var>Void Reaping<var 49 01 /var><var 48 01 /var> or <var 48 F201F4 /var><var 49 F201F5 /var>Communio<var 49 01 /var><var 48 01 /var> (acquired at level 90)."
+    },
+    {
+      "id": "0x0000009D",
+      "text": "Execution of <var 48 F201F4 /var><var 49 F201F5 /var>Bloodfest<var 49 01 /var><var 48 01 /var> will grant an affect that increases the maximum number of cartridges to 4. Upon learning the trait <var 48 F201FA /var><var 49 F201FB /var>Cartridge Charge II<var 49 01 /var><var 48 01 /var> (acquired at level 88), <var 48 F201F4 /var><var 49 F201F5 /var>Bloodfest<var 49 01 /var><var 48 01 /var> will increase the maximum number of cartridges to 6."
+    },
+    {
+      "id": "0x0000009E",
+      "text": "TP Gauge"
+    },
+    {
+      "id": "0x0000009F",
+      "text": "Inner Compass"
+    },
+    {
+      "id": "0x000000A0",
+      "text": "Upon learning the trait <var 48 F201FA /var><var 49 F201FB /var>Wild Heart<var 49 01 /var><var 48 01 /var>, you may now accumulate TP by completing combos. After accumulating at least 100 TP, you may expend it all to perform weaponskills with power proportionate to the amount of TP used. Weaponskills that require TP to execute are known as <var 48 F201F4 /var><var 49 F201F5 /var>instinctual skills<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x000000A1",
+      "text": "The Inner Compass reflects cooperation between you and your familiars. Four instinctual affinities exist for both beastmaster and familiar weaponskills: <var 48 F201FA /var><var 49 F201FB /var>Volant<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>Rampant<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>Durant<var 49 01 /var><var 48 01 /var>, and <var 48 F201FA /var><var 49 F201FB /var>Eldritch<var 49 01 /var><var 48 01 /var>. When an instinctual skill with one such affinity is executed, its corresponding symbol will light up. If either the beastmaster or familiar executes another instinctual skill within seven seconds of the previous one, an <var 48 F201FA /var><var 49 F201FB /var>instinctual combo<var 49 01 /var><var 48 01 /var> will be completed, dealing extra damage."
+    },
+    {
+      "id": "0x000000A2",
+      "text": "Furthermore, if the second instinctual skill performed runs clockwise on the Inner Compass, an <var 48 F201FA /var><var 49 F201FB /var>intentional combo<var 49 01 /var><var 48 01 /var> will be completed. Examples of intentional combo affinities are as follows:\n　・Volant → Rampant\n　・Rampant → Durant\n　・Durant → Eldritch\n　・Eldritch → Volant\n<var 48 F201FA /var><var 49 F201FB /var>Intentional combos<var 49 01 /var><var 48 01 /var> are additionally categorized by two instinctual affinities: <var 48 F201FA /var><var 49 F201FB /var>Sunstrider<var 49 01 /var><var 48 01 /var> and <var 48 F201FA /var><var 49 F201FB /var>Moonstalker<var 49 01 /var><var 48 01 /var>. Upon completion of these combos, the corresponding side of the Inner Compass will light up. Illuminating the entire Compass may trigger an incredibly powerful attack, so keep honing your skills as a beastmaster until you can accomplish such a feat.\n\nNote that the number of chained instinctual skills is recorded beneath the compass. A higher number increases the potency of extra damage dealt by combos."
+    },
+    {
+      "id": "0x000000A3",
+      "text": "Upon learning the trait <var 48 F201FA /var><var 49 F201FB /var>Wild Heart II<var 49 01 /var><var 48 01 /var>, your familiar may now accumulate TP via its auto-attacks or by executing <var 48 F201F4 /var><var 49 F201F5 /var>Parting Blow<var 49 01 /var><var 48 01 /var>. After accumulating at least 100 TP, you may order your familiar to perform its <var 48 F201F4 /var><var 49 F201F5 /var>Trick<var 49 01 /var><var 48 01 /var>, thereby expending TP to execute an instinctual skill."
+    },
+    {
+      "id": "0x000000A4",
+      "text": "Upon learning the trait <var 48 F201FA /var><var 49 F201FB /var>Wild Heart III<var 49 01 /var><var 48 01 /var>, you may now accumulate stacks of <var 48 F201FA /var><var 49 F201FB /var>Mastered Instinct<var 49 01 /var><var 48 01 /var> by completing combos with beastmaster instinctual skills. All accumulated stacks of <var 48 F201FA /var><var 49 F201FB /var>Mastered Instinct<var 49 01 /var><var 48 01 /var> will be spent upon executing <var 48 F201F4 /var><var 49 F201F5 /var>Rally<var 49 01 /var><var 48 01 /var>, which instantly increases your TP Gauge proportionate to the number of stacks spent."
+    },
+    {
+      "id": "0x000000A5",
+      "text": "Upon learning the trait <var 48 F201FA /var><var 49 F201FB /var>Wild Heart IV<var 49 01 /var><var 48 01 /var>, your familiar may now accumulate stacks of <var 48 F201FA /var><var 49 F201FB /var>Natural Instinct<var 49 01 /var><var 48 01 /var> by completing combos with familiar instinctual skills. All accumulated stacks of <var 48 F201FA /var><var 49 F201FB /var>Natural Instinct<var 49 01 /var><var 48 01 /var> will be spent upon executing <var 48 F201F4 /var><var 49 F201F5 /var>Rallying Cheer<var 49 01 /var><var 48 01 /var>, which instantly increases the Familiar TP Gauge proportionate to the number of stacks spent."
+    },
+    {
+      "id": "0x000000A6",
+      "text": "TP Gauge/Wild Heart"
+    }
+  ]
+}

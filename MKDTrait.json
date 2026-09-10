@@ -1,0 +1,81 @@
+{
+  "source_file": "exd/MKDTrait_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Enhanced Phantom Guard<tab>Improves <var 48 F201F4 /var><var 49 F201F5 /var>Phantom Guard<var 49 01 /var><var 48 01 /var>'s damage reduction effect to 90%."
+    },
+    {
+      "id": "0x00000002",
+      "text": "Enhanced Pray<tab>Increases the healing potency of <var 48 F201F4 /var><var 49 F201F5 /var>Pray<var 49 01 /var><var 48 01 /var> to 5,000."
+    },
+    {
+      "id": "0x00000003",
+      "text": "Enhanced Rage<tab>Grants the effect of <var 48 F201FA /var><var 49 F201FB /var>Pent-up Rage<var 49 01 /var><var 48 01 /var>, increasing the potency of <var 48 F201F4 /var><var 49 F201F5 /var>Deadly Blow<var 49 01 /var><var 48 01 /var> based on the amount of damage you have taken while the effect is active.\n<var 48 F201F8 /var><var 49 F201F9 /var>Duration: <var 49 01 /var><var 48 01 /var>15s"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Enhanced Phantom Kick<tab>Improves <var 48 F201F4 /var><var 49 F201F5 /var>Phantom Kick<var 49 01 /var><var 48 01 /var>'s damage increase to 7%."
+    },
+    {
+      "id": "0x00000005",
+      "text": "Enhanced Phantom Kick II<tab>Improves <var 48 F201F4 /var><var 49 F201F5 /var>Phantom Kick<var 49 01 /var><var 48 01 /var>'s damage increase to 9%."
+    },
+    {
+      "id": "0x00000006",
+      "text": "Enhanced Phantom Aim<tab>Improves <var 48 F201F4 /var><var 49 F201F5 /var>Phantom Aim<var 49 01 /var><var 48 01 /var>'s critical hit rate and direct hit rate increase to 30%, and guarantees all attacks land."
+    },
+    {
+      "id": "0x00000007",
+      "text": "Enhanced Phantom Aim II<tab>Improves <var 48 F201F4 /var><var 49 F201F5 /var>Phantom Aim<var 49 01 /var><var 48 01 /var>'s critical hit rate and direct hit rate increase to 50%, and guarantees all attacks land."
+    },
+    {
+      "id": "0x00000008",
+      "text": "Enhanced Iainuki<tab>Increases the potency of <var 48 F201F4 /var><var 49 F201F5 /var>Iainuki<var 49 01 /var><var 48 01 /var> to 500, and increases chance to instantly kill target to 10%."
+    },
+    {
+      "id": "0x00000009",
+      "text": "Enhanced Vocals<tab>Increases the effectiveness of songs in accordance with your Phantom Bard level."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Lockpicker<tab>Allows you to open locked doors in dungeons."
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Enhanced Phantom Fire<tab>Grants a 5% chance to instantly kill targets when executing <var 48 F201F4 /var><var 49 F201F5 /var>Phantom Fire<var 49 01 /var><var 48 01 /var>, with some exceptions."
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Enhanced Bell<tab>Increases the effectiveness of <var 48 F201F4 /var><var 49 F201F5 /var>Battle Bell<var 49 01 /var><var 48 01 /var> to 5%, and increases the healing potency of <var 48 F201F4 /var><var 49 F201F5 /var>Ringing Respite<var 49 01 /var><var 48 01 /var> to 3,000."
+    },
+    {
+      "id": "0x0000000D",
+      "text": "First Strike<tab>Grants <var 48 F201FA /var><var 49 F201FB /var>First Strike<var 49 01 /var><var 48 01 /var> when entering combat.\n<var 48 F201F8 /var><var 49 F201F9 /var>First Strike Effect: <var 49 01 /var><var 48 01 /var>Weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay are reduced\n<var 48 F201F8 /var><var 49 F201F9 /var>Duration: <var 49 01 /var><var 48 01 /var>25s"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Enhanced Occult Jump<tab>Increases potency of <var 48 F201F4 /var><var 49 F201F5 /var>Occult Jump<var 49 01 /var><var 48 01 /var> to 500, and increases potency of reduced damage taken effect to 90%."
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Occult Learning I<tab><var 48 F201F4 /var><var 49 F201F5 /var>Occult Missile<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Occult Aqua Breath<var 49 01 /var><var 48 01 /var> are now learnable actions.\n<var 48 F201F8 /var><var 49 F201F9 /var>Missile Effect: <var 49 01 /var><var 48 01 /var>Delivers an attack with a 35% chance to deal damage equal to 75% of target's current HP, with some exceptions\n<var 48 F201F8 /var><var 49 F201F9 /var>Occult Aqua Breath Effect: <var 49 01 /var><var 48 01 /var>Deals unaspected damage to target and all enemies nearby it"
+    },
+    {
+      "id": "0x00000010",
+      "text": "Occult Learning II<tab><var 48 F201F4 /var><var 49 F201F5 /var>Occult Aero II<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Occult Mighty Guard<var 49 01 /var><var 48 01 /var> are now learnable actions.\n<var 48 F201F8 /var><var 49 F201F9 /var>Occult Aero II Effect: <var 49 01 /var><var 48 01 /var>Deals wind damage to target\n<var 48 F201F8 /var><var 49 F201F9 /var>Occult Mighty Guard Effect: <var 49 01 /var><var 48 01 /var>Reduces damage taken by self and nearby party members by 20%"
+    },
+    {
+      "id": "0x00000011",
+      "text": "Occult Learning III<tab><var 48 F201F4 /var><var 49 F201F5 /var>Occult White Wind<var 49 01 /var><var 48 01 /var> is now a learnable action.\n<var 48 F201F8 /var><var 49 F201F9 /var>Occult White Wind Effect: <var 49 01 /var><var 48 01 /var>Restores own HP and the HP of all nearby party members by an amount equal to your current HP\nIf <var 48 F201F4 /var><var 49 F201F5 /var>Occult Aero II<var 49 01 /var><var 48 01 /var> has already been learned, <var 48 F201F4 /var><var 49 F201F5 /var>Occult Aero III<var 49 01 /var><var 48 01 /var> can also be learned.\n<var 48 F201F8 /var><var 49 F201F9 /var>Occult Aero III Effect: <var 49 01 /var><var 48 01 /var>Deals wind damage to target and all enemies nearby it"
+    },
+    {
+      "id": "0x00000012",
+      "text": "Dualcast<tab>Grants the effect of <var 48 F201FA /var><var 49 F201FB /var>Dualcast<var 49 01 /var><var 48 01 /var> upon casting any spell with a cast time. While under the effect of <var 48 F201FA /var><var 49 F201FB /var>Dualcast<var 49 01 /var><var 48 01 /var>, your next spell will require no time to cast. Effect is canceled upon execution of any action other than an ability. Auto-attacks do not cancel effect.\n<var 48 F201F8 /var><var 49 F201F9 /var>Duration: <var 49 01 /var><var 48 01 /var>15s"
+    },
+    {
+      "id": "0x00000013",
+      "text": "Adaptable<tab>Allows the changing of phantom jobs when normally prohibited, as well as during combat."
+    }
+  ]
+}

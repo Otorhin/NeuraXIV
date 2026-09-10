@@ -1,0 +1,69 @@
+{
+  "source_file": "exd/custom/005/CtsErkEureka2EventShrouded_00502_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_CTSERKEUREKA2EVENTSHROUDED_00502_EUREKAPERSON_000_220<tab>Нет, так не пойдёт. Нет, нет. Не если праведникам суждено восторжествовать."
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_CTSERKEUREKA2EVENTSHROUDED_00502_EUREKAPERSON_000_221<tab>Где ты, о носитель обетованный? Рука, достойная владеть клинком. Праведная и истинная..."
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_CTSERKEUREKA2EVENTSHROUDED_00502_EUREKAYOUNGD_000_230<tab>Давайте, убедите меня, что я ошибаюсь. Скажите, что выход есть."
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_CTSERKEUREKA2EVENTSHROUDED_00502_EUREKAYOUNGZ_000_231<tab>«Праведный и истинный носитель», если верить преданиям."
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_CTSERKEUREKA2EVENTSHROUDED_00502_EUREKAYOUNGK_000_232<tab>Как же всё это чудесно субъективно. Значит, того, кто обладает такими качествами, сочтут достойным — и потому ему ничто не будет угрожать? Вот так просто?"
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_CTSERKEUREKA2EVENTSHROUDED_00502_EUREKAYOUNGG_000_233<tab>(-Galuf-)Разве хоть что-то в этом бывает простым? Мы уже знаем, что длительное воздействие подвергает опасности саму душу носителя. Когда остальные наконец это осознали, эйкон уже одержал верх."
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_CTSERKEUREKA2EVENTSHROUDED_00502_EUREKAYOUNGD_000_234<tab>Именно..."
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_CTSERKEUREKA2EVENTSHROUDED_00502_EUREKAYOUNGZ_000_235<tab>Пока мы не придумаем способ полностью и окончательно лишить его эфира, нам остаётся лишь сохранять нынешнее положение дел. Как ни досадно."
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_CTSERKEUREKA2EVENTSHROUDED_00502_EUREKAYOUNGK_000_236<tab>Поступая так, мы лишь передаём наши проблемы следующему поколению. Разорвать потоки, «запечатать» их — любую нашу меру можно свести на нет. Весь наш прогресс обращён вспять..."
+    },
+    {
+      "id": "0x00000009",
+      "text": "TEXT_CTSERKEUREKA2EVENTSHROUDED_00502_EUREKAYOUNGD_000_237<tab>Пф. Кто бы мог подумать, что эфиром так трудно управлять, чёрт возьми?"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "TEXT_CTSERKEUREKA2EVENTSHROUDED_00502_EUREKAYOUNGG_000_238<tab>(-Galuf-)Разорвать потоки... Ба, не годится. Изменить? Нет..."
+    },
+    {
+      "id": "0x0000000B",
+      "text": "TEXT_CTSERKEUREKA2EVENTSHROUDED_00502_EUREKAYOUNGZ_000_239<tab>У Галлуфа опять такое выражение лица. Вот-вот скажет..."
+    },
+    {
+      "id": "0x0000000C",
+      "text": "TEXT_CTSERKEUREKA2EVENTSHROUDED_00502_EUREKAYOUNGG_000_240<tab>(-Galuf-)Я понял!"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "TEXT_CTSERKEUREKA2EVENTSHROUDED_00502_EUREKAYOUNGG_000_241<tab>(-Galuf-)Друзья мои, победа ещё нам по силам. Есть простой способ обратить нашу судьбу вспять. А именно — обратим течение!"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "TEXT_CTSERKEUREKA2EVENTSHROUDED_00502_SYSTEM_000_250<tab>Человека в маске нигде не видно. Однако неподалёку от места, где вы видели его в последний раз, вы замечаете небольшой предмет..."
+    },
+    {
+      "id": "0x0000000F",
+      "text": "TEXT_CTSERKEUREKA2EVENTSHROUDED_00502_TALK_ACTOR<tab>"
+    }
+  ]
+}

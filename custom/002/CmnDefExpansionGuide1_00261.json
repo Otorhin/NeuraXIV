@@ -1,0 +1,41 @@
+{
+  "source_file": "exd/custom/002/CmnDefExpansionGuide1_00261_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_CMNDEFEXPANSIONGUIDE1_00261_TEMPLEKNIGHT01580_000_000<tab>Через Врата Правосудия не пройдет никто, кому не дозволено это делать."
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_CMNDEFEXPANSIONGUIDE1_00261_SYSTEM_000_001<tab>Чтобы войти в Ишгард, необходимо сначала выполнить следующие требования:"
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_CMNDEFEXPANSIONGUIDE1_00261_SYSTEM_000_003<tab>※Необходимо завершить основной сюжетный квест «Перед рассветом»."
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_CMNDEFEXPANSIONGUIDE1_00261_SYSTEM_000_004<tab>※ В данный момент вы должны выполнять задание «Прибытие в Ишгард»."
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_CMNDEFEXPANSIONGUIDE1_00261_SYSTEM_000_005<tab>Чтобы просмотреть прогресс выполнения заданий, выберите в главном меню пункт <var 48 F201F4 /var><var 49 F201F5 /var>Задания<var 49 01 /var><var 48 01 /var>, а затем — <var 48 F201F4 /var><var 49 F201F5 /var>Журнал<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_CMNDEFEXPANSIONGUIDE1_00261_TALK_ACTOR_1<tab>"
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_CMNDEFEXPANSIONGUIDE1_00261_TALK_ACTOR_2<tab>"
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_CMNDEFEXPANSIONGUIDE1_00261_TALK_ACTOR_3<tab>"
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_CMNDEFEXPANSIONGUIDE1_00261_SYSTEM_000_002<tab>"
+    }
+  ]
+}

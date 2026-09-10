@@ -1,0 +1,53 @@
+{
+  "source_file": "exd/XPVPGroupActivity_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "The PvP team “<var 08 E909 ((<var 28 ((ObjStr)) E90901 /var>)) EB04 /var>” is formed."
+    },
+    {
+      "id": "0x00000002",
+      "text": "<var 2B ((<var 08 E4EB02EB03 ((you)) ((<var 08 E908 ((<var 31 ((ObjStr)) 03E9080202 /var>)) EB03 /var>)) /var>)) /var> <var 08 E4EB02EB03 ((join)) ((joins)) /var> the team."
+    },
+    {
+      "id": "0x00000003",
+      "text": "<var 2B ((<var 08 E4EB02EB03 ((you)) ((<var 08 E908 ((<var 31 ((ObjStr)) 03E9080202 /var>)) EB03 /var>)) /var>)) /var> <var 08 E4EB02EB03 ((leave)) ((leaves)) /var> the team."
+    },
+    {
+      "id": "0x00000004",
+      "text": "<var 2B ((<var 08 E4EB02EB03 ((you)) ((<var 08 E908 ((<var 31 ((ObjStr)) 03E9080202 /var>)) EB03 /var>)) /var>)) /var> <var 08 E4EB02EB03 ((leave)) ((leaves)) /var> the team."
+    },
+    {
+      "id": "0x00000007",
+      "text": "The team name is changed to “<var 08 E909 ((<var 28 ((ObjStr)) E90901 /var>)) EB04 /var>.”"
+    },
+    {
+      "id": "0x00000008",
+      "text": "The team crest is updated."
+    },
+    {
+      "id": "0x00000009",
+      "text": "The team is promoted to rank “<var 08 E909 ((<var 28 ((ObjStr)) E90901 /var>)) EB04 /var>.”"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "The team is demoted to rank “<var 08 E909 ((<var 28 ((ObjStr)) E90901 /var>)) EB04 /var>.”"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "A new season begins."
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Leader not found. <var 2B ((<var 08 E4EB02EB03 ((you)) ((<var 08 E908 ((<var 31 ((ObjStr)) 03E9080202 /var>)) EB03 /var>)) /var>)) /var> <var 08 E4EB02EB03 ((are)) ((is)) /var> promoted to team leader."
+    },
+    {
+      "id": "0x0000000D",
+      "text": "<var 2B ((<var 08 E4EB02EB03 ((you)) ((<var 08 E908 ((<var 31 ((ObjStr)) 03E9080202 /var>)) EB03 /var>)) /var>)) /var> <var 08 E4EB02EB03 ((are)) ((is)) /var> promoted to subleader."
+    },
+    {
+      "id": "0x0000000E",
+      "text": "<var 2B ((<var 08 E4EB02EB03 ((you)) ((<var 08 E908 ((<var 31 ((ObjStr)) 03E9080202 /var>)) EB03 /var>)) /var>)) /var> <var 08 E4EB02EB03 ((are)) ((is)) /var> promoted to team leader."
+    }
+  ]
+}

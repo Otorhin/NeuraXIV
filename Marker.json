@@ -1,0 +1,73 @@
+{
+  "source_file": "exd/Marker_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Target to Attack 1"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Target to Attack 2"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Target to Attack 3"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Target to Attack 4"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Target to Attack 5"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Target to Bind 1"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Target to Bind 2"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Target to Bind 3"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Target to Ignore 1"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Target to Ignore 2"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Square"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Circle"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Plus"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Triangle"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Target to Attack 6"
+    },
+    {
+      "id": "0x00000010",
+      "text": "Target to Attack 7"
+    },
+    {
+      "id": "0x00000011",
+      "text": "Target to Attack 8"
+    }
+  ]
+}

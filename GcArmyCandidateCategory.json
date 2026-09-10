@@ -1,0 +1,33 @@
+{
+  "source_file": "exd/GcArmyCandidateCategory_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Reason for enlistment: I was inspired by your countless deeds of heroism."
+    },
+    {
+      "id": "0x00000002",
+      "text": "Reason for enlistment: To serve both my Grand Company and my fellow Eorzeans as bravely as you do."
+    },
+    {
+      "id": "0x00000003",
+      "text": "Reason for enlistment: To challenge the limits of my abilities as you challenge yours."
+    },
+    {
+      "id": "0x00000004",
+      "text": "Reason for enlistment: I wish to emulate your calm and resourcefulness in the face of chaos."
+    },
+    {
+      "id": "0x00000005",
+      "text": "Reason for enlistment: I wish to serve under an officer whose hands can create as well as destroy."
+    },
+    {
+      "id": "0x00000006",
+      "text": "Reason for enlistment: I would follow a commander who appreciates the blessings of nature."
+    },
+    {
+      "id": "0x00000007",
+      "text": "Reason for enlistment: I wish to serve under an officer who can balance work and play."
+    }
+  ]
+}

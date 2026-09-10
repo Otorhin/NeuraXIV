@@ -1,0 +1,29 @@
+{
+  "source_file": "exd/GoldSaucerArcadeMachine_2359296_en.exd",
+  "rows": [
+    {
+      "id": "0x00240001",
+      "text": "Monster Toss<tab>It's all in the wrist!\n\nPayout:\n1-2 points → 20 MGP\n3-4 points → 30 MGP\n5～  points → 50 MGP<tab><tab>Shots Made"
+    },
+    {
+      "id": "0x00240002",
+      "text": "The Moogle's Paw<tab>Seize the day...and the loot!\n\nPayout:\nLarge item → 10 MGP\nSmall item → 25 MGP<tab><tab>"
+    },
+    {
+      "id": "0x00240003",
+      "text": "Crystal Tower Striker<tab>Swing with all your might!\n\nPayout:\nGLANCING! → 10 MGP\nCRUSHING!! → 15 MGP\nPULVERIZING!!! → 25 MGP<tab><tab>"
+    },
+    {
+      "id": "0x00240004",
+      "text": "Cuff-a-Cur<tab>Aim for the sweet spot!\n\nPayout:\nBRUISING! → 10 MGP\nPUNISHING!! → 15 MGP\nBRUTAL!!! → 25 MGP<tab><tab>"
+    },
+    {
+      "id": "0x00240005",
+      "text": "The Finer Miner<tab>Swing to determine the\nnumber of mining attempts.\nThe fewer attempts available,\nthe higher the payout!\n\nTitan → 4 times\nMorbol → 5 times\nCactuar → 6 times<tab>Swing the pickaxe to locate the\nhidden ore. The closer you are, the\nmore the mining gauge is reduced.\nYou win if the gauge reaches zero\nbefore you run out of attempts.<tab>MGP Earned"
+    },
+    {
+      "id": "0x00240006",
+      "text": "Out on a Limb<tab>Swing to determine\nthe gauge speed.\nThe higher the speed,\nthe higher the payout!\n\nTitan → Very fast\nMorbol → Fast\nCactuar → Slow<tab>Swing the hatchet to locate the\nhidden timber. The closer you are,\nthe more the gathering gauge is reduced.\nYou win if the gauge reaches zero\nbefore you run out of attempts.<tab>MGP Earned"
+    }
+  ]
+}

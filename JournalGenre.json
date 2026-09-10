@@ -1,0 +1,1209 @@
+{
+  "source_file": "exd/JournalGenre_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Seventh Umbral Era"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Seventh Astral Era"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Heavensward"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Dragonsong War"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Post-Dragonsong War"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Stormblood"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Post-Ala Mhigan Liberation"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Shadowbringers"
+    },
+    {
+      "id": "0x00000009",
+      "text": "The Voyage Home"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Dark Reprise"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Endwalker"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Newfound Adventure"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Dawntrail"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "The New Dawn"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Winter's Prelude"
+    },
+    {
+      "id": "0x00000010",
+      "text": "Primal Quests"
+    },
+    {
+      "id": "0x00000011",
+      "text": "Bahamut Quests"
+    },
+    {
+      "id": "0x00000012",
+      "text": "Crystal Tower Quests"
+    },
+    {
+      "id": "0x00000013",
+      "text": "Alexander Quests"
+    },
+    {
+      "id": "0x00000014",
+      "text": "Heavensward Primal Quests"
+    },
+    {
+      "id": "0x00000015",
+      "text": "Shadow of Mhach Quests"
+    },
+    {
+      "id": "0x00000016",
+      "text": "Omega Quests"
+    },
+    {
+      "id": "0x00000017",
+      "text": "Omega: Beyond the Rift"
+    },
+    {
+      "id": "0x00000018",
+      "text": "Return to Ivalice"
+    },
+    {
+      "id": "0x00000019",
+      "text": "The Four Lords"
+    },
+    {
+      "id": "0x0000001A",
+      "text": "Eden"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "YoRHa: Dark Apocalypse"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "Garlemald's Machinations"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "Pandæmonium"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "Pandæmonium: Epilogue"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "Myths of the Realm"
+    },
+    {
+      "id": "0x00000020",
+      "text": "The Arcadion"
+    },
+    {
+      "id": "0x00000021",
+      "text": "Echoes of Vana'diel"
+    },
+    {
+      "id": "0x00000022",
+      "text": "Main Quests"
+    },
+    {
+      "id": "0x00000023",
+      "text": "Daily Quests"
+    },
+    {
+      "id": "0x00000024",
+      "text": "Main Quests"
+    },
+    {
+      "id": "0x00000025",
+      "text": "Daily Quests"
+    },
+    {
+      "id": "0x00000026",
+      "text": "Main Quests"
+    },
+    {
+      "id": "0x00000027",
+      "text": "Daily Quests"
+    },
+    {
+      "id": "0x00000028",
+      "text": "Main Quests"
+    },
+    {
+      "id": "0x00000029",
+      "text": "Daily Quests"
+    },
+    {
+      "id": "0x0000002A",
+      "text": "Main Quests"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "Daily Quests"
+    },
+    {
+      "id": "0x0000002C",
+      "text": "Main Quests"
+    },
+    {
+      "id": "0x0000002D",
+      "text": "Daily Quests"
+    },
+    {
+      "id": "0x0000002E",
+      "text": "Main Quests"
+    },
+    {
+      "id": "0x0000002F",
+      "text": "Daily Quests"
+    },
+    {
+      "id": "0x00000030",
+      "text": "Main Quests"
+    },
+    {
+      "id": "0x00000031",
+      "text": "Daily Quests"
+    },
+    {
+      "id": "0x00000032",
+      "text": "Main Quests"
+    },
+    {
+      "id": "0x00000033",
+      "text": "Daily Quests"
+    },
+    {
+      "id": "0x00000034",
+      "text": "Main Quests"
+    },
+    {
+      "id": "0x00000035",
+      "text": "Daily Quests"
+    },
+    {
+      "id": "0x00000036",
+      "text": "Main Quests"
+    },
+    {
+      "id": "0x00000037",
+      "text": "Daily Quests"
+    },
+    {
+      "id": "0x00000038",
+      "text": "Main Quests"
+    },
+    {
+      "id": "0x00000039",
+      "text": "Daily Quests"
+    },
+    {
+      "id": "0x0000003A",
+      "text": "Main Quests"
+    },
+    {
+      "id": "0x0000003B",
+      "text": "Daily Quests"
+    },
+    {
+      "id": "0x0000003C",
+      "text": "Main Quests"
+    },
+    {
+      "id": "0x0000003D",
+      "text": "Daily Quests"
+    },
+    {
+      "id": "0x0000003E",
+      "text": "Main Quests"
+    },
+    {
+      "id": "0x0000003F",
+      "text": "Daily Quests"
+    },
+    {
+      "id": "0x00000040",
+      "text": "Main Quests"
+    },
+    {
+      "id": "0x00000041",
+      "text": "Daily Quests"
+    },
+    {
+      "id": "0x00000042",
+      "text": "Main Quests"
+    },
+    {
+      "id": "0x00000043",
+      "text": "Daily Quests"
+    },
+    {
+      "id": "0x00000044",
+      "text": "Main Quests"
+    },
+    {
+      "id": "0x00000045",
+      "text": "Daily Quests"
+    },
+    {
+      "id": "0x00000046",
+      "text": "Main Quests"
+    },
+    {
+      "id": "0x00000047",
+      "text": "Daily Quests"
+    },
+    {
+      "id": "0x00000048",
+      "text": "Main Quests"
+    },
+    {
+      "id": "0x00000049",
+      "text": "Daily Quests"
+    },
+    {
+      "id": "0x0000004A",
+      "text": "A Realm Reborn Allied Society Quests"
+    },
+    {
+      "id": "0x0000004B",
+      "text": "Heavensward Allied Society Quests"
+    },
+    {
+      "id": "0x0000004C",
+      "text": "Stormblood Allied Society Quests"
+    },
+    {
+      "id": "0x0000004D",
+      "text": "Endwalker Allied Society Quests"
+    },
+    {
+      "id": "0x0000004E",
+      "text": "Dawntrail Allied Society Quests"
+    },
+    {
+      "id": "0x0000004F",
+      "text": "Tales of the Dragonsong War"
+    },
+    {
+      "id": "0x00000050",
+      "text": "Tales from the Shadows"
+    },
+    {
+      "id": "0x00000051",
+      "text": "Tales of Newfound Adventure"
+    },
+    {
+      "id": "0x00000052",
+      "text": "Hildibrand Adventures"
+    },
+    {
+      "id": "0x00000053",
+      "text": "Further Hildibrand Adventures"
+    },
+    {
+      "id": "0x00000054",
+      "text": "Even Further Hildibrand Adventures"
+    },
+    {
+      "id": "0x00000055",
+      "text": "Somehow Further Hildibrand Adventures"
+    },
+    {
+      "id": "0x00000056",
+      "text": "Manderville Weapons"
+    },
+    {
+      "id": "0x00000057",
+      "text": "Inconceivably Further Hildibrand Adventures"
+    },
+    {
+      "id": "0x00000058",
+      "text": "Zodiac Weapons"
+    },
+    {
+      "id": "0x00000059",
+      "text": "Anima Weapons"
+    },
+    {
+      "id": "0x0000005A",
+      "text": "The Forbidden Land, Eureka"
+    },
+    {
+      "id": "0x0000005B",
+      "text": "Resistance Weapons"
+    },
+    {
+      "id": "0x0000005C",
+      "text": "Phantom Weapons"
+    },
+    {
+      "id": "0x0000005D",
+      "text": "Tales from the Calamity"
+    },
+    {
+      "id": "0x0000005E",
+      "text": "Delivery Moogle Quests"
+    },
+    {
+      "id": "0x0000005F",
+      "text": "Scholasticate Quests"
+    },
+    {
+      "id": "0x00000060",
+      "text": "Void Quests"
+    },
+    {
+      "id": "0x00000061",
+      "text": "Tataru's Grand Endeavor"
+    },
+    {
+      "id": "0x00000062",
+      "text": "Doman Adventurers' Guild Quests"
+    },
+    {
+      "id": "0x00000063",
+      "text": "Doman Reconstruction Quests"
+    },
+    {
+      "id": "0x00000064",
+      "text": "Ishgardian Restoration Main Quests"
+    },
+    {
+      "id": "0x00000065",
+      "text": "Ishgardian Restoration Sidequests"
+    },
+    {
+      "id": "0x00000066",
+      "text": "Splendorous Tools"
+    },
+    {
+      "id": "0x00000067",
+      "text": "Palace of the Dead"
+    },
+    {
+      "id": "0x00000068",
+      "text": "Heaven-on-High"
+    },
+    {
+      "id": "0x00000069",
+      "text": "Eureka Orthos"
+    },
+    {
+      "id": "0x0000006A",
+      "text": "Pilgrim's Traverse"
+    },
+    {
+      "id": "0x0000006B",
+      "text": "Island Sanctuary Quests"
+    },
+    {
+      "id": "0x0000006C",
+      "text": "Variant Dungeons"
+    },
+    {
+      "id": "0x0000006D",
+      "text": "Cosmic Exploration Main Quests"
+    },
+    {
+      "id": "0x0000006E",
+      "text": "Cosmic Exploration Sidequests"
+    },
+    {
+      "id": "0x0000006F",
+      "text": "The Occult Crescent"
+    },
+    {
+      "id": "0x00000070",
+      "text": "La Noscean Sidequests"
+    },
+    {
+      "id": "0x00000071",
+      "text": "Gridanian Sidequests"
+    },
+    {
+      "id": "0x00000072",
+      "text": "Ul'dahn Sidequests"
+    },
+    {
+      "id": "0x00000073",
+      "text": "Coerthan Sidequests"
+    },
+    {
+      "id": "0x00000074",
+      "text": "Mor Dhonan Sidequests"
+    },
+    {
+      "id": "0x00000075",
+      "text": "Ishgardian Sidequests"
+    },
+    {
+      "id": "0x00000076",
+      "text": "Abalathian Sidequests"
+    },
+    {
+      "id": "0x00000077",
+      "text": "Dravanian Forelands Sidequests"
+    },
+    {
+      "id": "0x00000078",
+      "text": "Dravanian Hinterlands Sidequests"
+    },
+    {
+      "id": "0x00000079",
+      "text": "Churning Mists Sidequests"
+    },
+    {
+      "id": "0x0000007A",
+      "text": "Idyllshire Sidequests"
+    },
+    {
+      "id": "0x0000007B",
+      "text": "Azys Lla Sidequests"
+    },
+    {
+      "id": "0x0000007C",
+      "text": "Rhalgr's Reach Sidequests"
+    },
+    {
+      "id": "0x0000007D",
+      "text": "Fringes Sidequests"
+    },
+    {
+      "id": "0x0000007E",
+      "text": "Peaks Sidequests"
+    },
+    {
+      "id": "0x0000007F",
+      "text": "Lochs Sidequests"
+    },
+    {
+      "id": "0x00000080",
+      "text": "Kugane Sidequests"
+    },
+    {
+      "id": "0x00000081",
+      "text": "Ruby Sea Sidequests"
+    },
+    {
+      "id": "0x00000082",
+      "text": "Yanxia Sidequests"
+    },
+    {
+      "id": "0x00000083",
+      "text": "Azim Steppe Sidequests"
+    },
+    {
+      "id": "0x00000084",
+      "text": "Crystarium Sidequests"
+    },
+    {
+      "id": "0x00000085",
+      "text": "Eulmore Sidequests"
+    },
+    {
+      "id": "0x00000086",
+      "text": "Lakeland Sidequests"
+    },
+    {
+      "id": "0x00000087",
+      "text": "Kholusia Sidequests"
+    },
+    {
+      "id": "0x00000088",
+      "text": "Amh Araeng Sidequests"
+    },
+    {
+      "id": "0x00000089",
+      "text": "Il Mheg Sidequests"
+    },
+    {
+      "id": "0x0000008A",
+      "text": "Rak'tika Sidequests"
+    },
+    {
+      "id": "0x0000008B",
+      "text": "Tempest Sidequests"
+    },
+    {
+      "id": "0x0000008C",
+      "text": "Old Sharlayan Sidequests"
+    },
+    {
+      "id": "0x0000008D",
+      "text": "Radz-at-Han Sidequests"
+    },
+    {
+      "id": "0x0000008E",
+      "text": "Labyrinthos Sidequests"
+    },
+    {
+      "id": "0x0000008F",
+      "text": "Thavnairian Sidequests"
+    },
+    {
+      "id": "0x00000090",
+      "text": "Garlean Sidequests"
+    },
+    {
+      "id": "0x00000091",
+      "text": "Mare Lamentorum Sidequests"
+    },
+    {
+      "id": "0x00000092",
+      "text": "Elpis Sidequests"
+    },
+    {
+      "id": "0x00000093",
+      "text": "Ultima Thule Sidequests"
+    },
+    {
+      "id": "0x00000094",
+      "text": "Tuliyollal Sidequests"
+    },
+    {
+      "id": "0x00000095",
+      "text": "Urqopacha Sidequests"
+    },
+    {
+      "id": "0x00000096",
+      "text": "Kozama'uka Sidequests"
+    },
+    {
+      "id": "0x00000097",
+      "text": "Yak T'el Sidequests"
+    },
+    {
+      "id": "0x00000098",
+      "text": "Shaaloani Sidequests"
+    },
+    {
+      "id": "0x00000099",
+      "text": "Heritage Found Sidequests"
+    },
+    {
+      "id": "0x0000009A",
+      "text": "Solution Nine Sidequests"
+    },
+    {
+      "id": "0x0000009B",
+      "text": "Living Memory Sidequests"
+    },
+    {
+      "id": "0x0000009C",
+      "text": "Gladiator Quests"
+    },
+    {
+      "id": "0x0000009D",
+      "text": "Pugilist Quests"
+    },
+    {
+      "id": "0x0000009E",
+      "text": "Marauder Quests"
+    },
+    {
+      "id": "0x0000009F",
+      "text": "Lancer Quests"
+    },
+    {
+      "id": "0x000000A0",
+      "text": "Archer Quests"
+    },
+    {
+      "id": "0x000000A1",
+      "text": "Rogue Quests"
+    },
+    {
+      "id": "0x000000A2",
+      "text": "Conjurer Quests"
+    },
+    {
+      "id": "0x000000A3",
+      "text": "Thaumaturge Quests"
+    },
+    {
+      "id": "0x000000A4",
+      "text": "Arcanist Quests"
+    },
+    {
+      "id": "0x000000A5",
+      "text": "Carpenter Quests"
+    },
+    {
+      "id": "0x000000A6",
+      "text": "Blacksmith Quests"
+    },
+    {
+      "id": "0x000000A7",
+      "text": "Armorer Quests"
+    },
+    {
+      "id": "0x000000A8",
+      "text": "Goldsmith Quests"
+    },
+    {
+      "id": "0x000000A9",
+      "text": "Leatherworker Quests"
+    },
+    {
+      "id": "0x000000AA",
+      "text": "Weaver Quests"
+    },
+    {
+      "id": "0x000000AB",
+      "text": "Alchemist Quests"
+    },
+    {
+      "id": "0x000000AC",
+      "text": "Culinarian Quests"
+    },
+    {
+      "id": "0x000000AD",
+      "text": "Miner Quests"
+    },
+    {
+      "id": "0x000000AE",
+      "text": "Botanist Quests"
+    },
+    {
+      "id": "0x000000AF",
+      "text": "Fisher Quests"
+    },
+    {
+      "id": "0x000000B0",
+      "text": "Paladin Quests"
+    },
+    {
+      "id": "0x000000B1",
+      "text": "Monk Quests"
+    },
+    {
+      "id": "0x000000B2",
+      "text": "Warrior Quests"
+    },
+    {
+      "id": "0x000000B3",
+      "text": "Dragoon Quests"
+    },
+    {
+      "id": "0x000000B4",
+      "text": "Bard Quests"
+    },
+    {
+      "id": "0x000000B5",
+      "text": "Ninja Quests"
+    },
+    {
+      "id": "0x000000B6",
+      "text": "White Mage Quests"
+    },
+    {
+      "id": "0x000000B7",
+      "text": "Black Mage Quests"
+    },
+    {
+      "id": "0x000000B8",
+      "text": "Summoner Quests"
+    },
+    {
+      "id": "0x000000B9",
+      "text": "Scholar Quests"
+    },
+    {
+      "id": "0x000000BA",
+      "text": "Dark Knight Quests"
+    },
+    {
+      "id": "0x000000BB",
+      "text": "Machinist Quests"
+    },
+    {
+      "id": "0x000000BC",
+      "text": "Astrologian Quests"
+    },
+    {
+      "id": "0x000000BD",
+      "text": "Samurai Quests"
+    },
+    {
+      "id": "0x000000BE",
+      "text": "Red Mage Quests"
+    },
+    {
+      "id": "0x000000BF",
+      "text": "Gunbreaker Quests"
+    },
+    {
+      "id": "0x000000C0",
+      "text": "Dancer Quests"
+    },
+    {
+      "id": "0x000000C1",
+      "text": "Sage Quests"
+    },
+    {
+      "id": "0x000000C2",
+      "text": "Reaper Quests"
+    },
+    {
+      "id": "0x000000C3",
+      "text": "Viper Quests"
+    },
+    {
+      "id": "0x000000C4",
+      "text": "Pictomancer Quests"
+    },
+    {
+      "id": "0x000000C5",
+      "text": "Blue Mage Quests"
+    },
+    {
+      "id": "0x000000C6",
+      "text": "Beastmaster Quests"
+    },
+    {
+      "id": "0x000000C7",
+      "text": "Facet of Forging Quests"
+    },
+    {
+      "id": "0x000000C8",
+      "text": "Facet of Crafting Quests"
+    },
+    {
+      "id": "0x000000C9",
+      "text": "Facet of Nourishing Quests"
+    },
+    {
+      "id": "0x000000CA",
+      "text": "Facet of Gathering Quests"
+    },
+    {
+      "id": "0x000000CB",
+      "text": "Facet of Fishing Quests"
+    },
+    {
+      "id": "0x000000CC",
+      "text": "Crystalline Mean Quests"
+    },
+    {
+      "id": "0x000000CD",
+      "text": "Faculty of Archaeology Quests"
+    },
+    {
+      "id": "0x000000CE",
+      "text": "Faculty of Astronomy Quests"
+    },
+    {
+      "id": "0x000000CF",
+      "text": "Faculty of Medicine Quests"
+    },
+    {
+      "id": "0x000000D0",
+      "text": "Faculty of Anthropology Quests"
+    },
+    {
+      "id": "0x000000D1",
+      "text": "Faculty of Aetherology Quests"
+    },
+    {
+      "id": "0x000000D2",
+      "text": "Studium Quests"
+    },
+    {
+      "id": "0x000000D3",
+      "text": "XRral Soj Metalwares Quests"
+    },
+    {
+      "id": "0x000000D4",
+      "text": "Epistles by Pameka Quests"
+    },
+    {
+      "id": "0x000000D5",
+      "text": "Xeerol Ja Juicecraft Quests"
+    },
+    {
+      "id": "0x000000D6",
+      "text": "Shunye's Apothecary Quests"
+    },
+    {
+      "id": "0x000000D7",
+      "text": "Fish Fancies Donuhanu Quests"
+    },
+    {
+      "id": "0x000000D8",
+      "text": "Wachumeqimeqi Quests"
+    },
+    {
+      "id": "0x000000D9",
+      "text": "Tank Role Quests (Shadowbringers)"
+    },
+    {
+      "id": "0x000000DA",
+      "text": "Healer Role Quests (Shadowbringers)"
+    },
+    {
+      "id": "0x000000DB",
+      "text": "Physical DPS Role Quests (Shadowbringers)"
+    },
+    {
+      "id": "0x000000DC",
+      "text": "Magical Ranged DPS Role Quests (Shadowbringers)"
+    },
+    {
+      "id": "0x000000DD",
+      "text": "Role Quests (Shadowbringers)"
+    },
+    {
+      "id": "0x000000DE",
+      "text": "Tank Role Quests (Endwalker)"
+    },
+    {
+      "id": "0x000000DF",
+      "text": "Healer Role Quests (Endwalker)"
+    },
+    {
+      "id": "0x000000E0",
+      "text": "Melee DPS Role Quests (Endwalker)"
+    },
+    {
+      "id": "0x000000E1",
+      "text": "Physical Ranged DPS Role Quests (Endwalker)"
+    },
+    {
+      "id": "0x000000E2",
+      "text": "Magical Ranged DPS Role Quests (Endwalker)"
+    },
+    {
+      "id": "0x000000E3",
+      "text": "Role Quests (Endwalker)"
+    },
+    {
+      "id": "0x000000E4",
+      "text": "Tank Role Quests (Dawntrail)"
+    },
+    {
+      "id": "0x000000E5",
+      "text": "Healer Role Quests (Dawntrail)"
+    },
+    {
+      "id": "0x000000E6",
+      "text": "Melee DPS Role Quests (Dawntrail)"
+    },
+    {
+      "id": "0x000000E7",
+      "text": "Physical Ranged DPS Role Quests (Dawntrail)"
+    },
+    {
+      "id": "0x000000E8",
+      "text": "Magical Ranged DPS Role Quests (Dawntrail)"
+    },
+    {
+      "id": "0x000000E9",
+      "text": "Role Quests (Dawntrail)"
+    },
+    {
+      "id": "0x000000EA",
+      "text": "Maelstrom Quests"
+    },
+    {
+      "id": "0x000000EB",
+      "text": "Order of the Twin Adder Quests"
+    },
+    {
+      "id": "0x000000EC",
+      "text": "Immortal Flames Quests"
+    },
+    {
+      "id": "0x000000ED",
+      "text": "Seasonal Events"
+    },
+    {
+      "id": "0x000000EE",
+      "text": "Heavensturn Events"
+    },
+    {
+      "id": "0x000000EF",
+      "text": "Eastern Duties"
+    },
+    {
+      "id": "0x000000F0",
+      "text": "Valentione's Day Events"
+    },
+    {
+      "id": "0x000000F1",
+      "text": "Valentione's & Little Ladies' Day Events"
+    },
+    {
+      "id": "0x000000F2",
+      "text": "Little Ladies' Day Events"
+    },
+    {
+      "id": "0x000000F3",
+      "text": "Little Ladies' & Hatching-tide Events"
+    },
+    {
+      "id": "0x000000F4",
+      "text": "Hatching-tide Events"
+    },
+    {
+      "id": "0x000000F5",
+      "text": "Gold Saucer Festivities"
+    },
+    {
+      "id": "0x000000F6",
+      "text": "Moonfire Faire Events"
+    },
+    {
+      "id": "0x000000F7",
+      "text": "Rising Events"
+    },
+    {
+      "id": "0x000000F8",
+      "text": "All Saints' Wake Events"
+    },
+    {
+      "id": "0x000000F9",
+      "text": "Starlight Celebration Events"
+    },
+    {
+      "id": "0x000000FA",
+      "text": "Other Seasonal Events"
+    },
+    {
+      "id": "0x000000FB",
+      "text": "Special Quests"
+    },
+    {
+      "id": "0x000000FC",
+      "text": "Collaboration Quests"
+    },
+    {
+      "id": "0x0000010F",
+      "text": "Battlecraft Levequests"
+    },
+    {
+      "id": "0x00000110",
+      "text": "Carpenter Levequests"
+    },
+    {
+      "id": "0x00000111",
+      "text": "Blacksmith Levequests"
+    },
+    {
+      "id": "0x00000112",
+      "text": "Armorer Levequests"
+    },
+    {
+      "id": "0x00000113",
+      "text": "Goldsmith Levequests"
+    },
+    {
+      "id": "0x00000114",
+      "text": "Leatherworker Levequests"
+    },
+    {
+      "id": "0x00000115",
+      "text": "Weaver Levequests"
+    },
+    {
+      "id": "0x00000116",
+      "text": "Alchemist Levequests"
+    },
+    {
+      "id": "0x00000117",
+      "text": "Culinarian Levequests"
+    },
+    {
+      "id": "0x00000118",
+      "text": "Miner Levequests"
+    },
+    {
+      "id": "0x00000119",
+      "text": "Botanist Levequests"
+    },
+    {
+      "id": "0x0000011A",
+      "text": "Fisher Levequests"
+    },
+    {
+      "id": "0x0000011B",
+      "text": "Maelstrom Levequests"
+    },
+    {
+      "id": "0x0000011C",
+      "text": "Order of the Twin Adder Levequests"
+    },
+    {
+      "id": "0x0000011D",
+      "text": "Immortal Flames Levequests"
+    },
+    {
+      "id": "0x0000011E",
+      "text": "Instanced Dungeons"
+    },
+    {
+      "id": "0x0000011F",
+      "text": "Instanced Raids"
+    },
+    {
+      "id": "0x00000120",
+      "text": "Trials"
+    },
+    {
+      "id": "0x00000121",
+      "text": "Instanced Dungeons"
+    },
+    {
+      "id": "0x00000122",
+      "text": "Instanced Raids"
+    },
+    {
+      "id": "0x00000123",
+      "text": "Trials"
+    },
+    {
+      "id": "0x00000124",
+      "text": "Deep Dungeons"
+    },
+    {
+      "id": "0x00000125",
+      "text": "Instanced Dungeons"
+    },
+    {
+      "id": "0x00000126",
+      "text": "Instanced Raids"
+    },
+    {
+      "id": "0x00000127",
+      "text": "Trials"
+    },
+    {
+      "id": "0x00000128",
+      "text": "Deep Dungeons"
+    },
+    {
+      "id": "0x00000129",
+      "text": "Eureka Expedition Quests"
+    },
+    {
+      "id": "0x0000012A",
+      "text": "Instanced Dungeons"
+    },
+    {
+      "id": "0x0000012B",
+      "text": "Instanced Raids"
+    },
+    {
+      "id": "0x0000012C",
+      "text": "Trials"
+    },
+    {
+      "id": "0x0000012D",
+      "text": "Save the Queen: Blades of Gunnhildr"
+    },
+    {
+      "id": "0x0000012E",
+      "text": "Instanced Dungeons"
+    },
+    {
+      "id": "0x0000012F",
+      "text": "Instanced Raids"
+    },
+    {
+      "id": "0x00000130",
+      "text": "Trials"
+    },
+    {
+      "id": "0x00000131",
+      "text": "Deep Dungeons"
+    },
+    {
+      "id": "0x00000132",
+      "text": "Criterion Dungeons"
+    },
+    {
+      "id": "0x00000133",
+      "text": "Instanced Dungeons"
+    },
+    {
+      "id": "0x00000134",
+      "text": "Instanced Raids"
+    },
+    {
+      "id": "0x00000135",
+      "text": "Trials"
+    },
+    {
+      "id": "0x00000136",
+      "text": "The Occult Crescent"
+    },
+    {
+      "id": "0x00000137",
+      "text": "Deep Dungeons"
+    },
+    {
+      "id": "0x00000138",
+      "text": "Criterion Dungeons"
+    },
+    {
+      "id": "0x00000139",
+      "text": "Crucible of the Unbroken"
+    },
+    {
+      "id": "0x0000013A",
+      "text": "Guildhests"
+    },
+    {
+      "id": "0x00000158",
+      "text": "Legacy Main Scenario Quests"
+    },
+    {
+      "id": "0x00000159",
+      "text": "Legacy Sidequests"
+    },
+    {
+      "id": "0x0000015A",
+      "text": "Legacy Class Quests"
+    },
+    {
+      "id": "0x0000015B",
+      "text": "Legacy Job Quests"
+    },
+    {
+      "id": "0x0000015C",
+      "text": "Legacy Grand Company Quests"
+    }
+  ]
+}

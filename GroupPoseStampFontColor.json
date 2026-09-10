@@ -1,0 +1,65 @@
+{
+  "source_file": "exd/GroupPoseStampFontColor_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "未設定"
+    },
+    {
+      "id": "0x00000001",
+      "text": "<var 48 02 /var><var 49 36 /var>Color 1<var 49 01 /var><var 48 01 /var>"
+    },
+    {
+      "id": "0x00000002",
+      "text": "<var 48 02 /var><var 49 37 /var>Color 3<var 49 01 /var><var 48 01 /var>"
+    },
+    {
+      "id": "0x00000003",
+      "text": "<var 48 02 /var><var 49 F202C3 /var>Color 2<var 49 01 /var><var 48 01 /var>"
+    },
+    {
+      "id": "0x00000004",
+      "text": "<var 48 02 /var><var 49 F202C2 /var>Color 4<var 49 01 /var><var 48 01 /var>"
+    },
+    {
+      "id": "0x00000005",
+      "text": "<var 48 02 /var><var 49 F202C6 /var>Color 5<var 49 01 /var><var 48 01 /var>"
+    },
+    {
+      "id": "0x00000006",
+      "text": "<var 48 02 /var><var 49 F2023A /var>Color 6<var 49 01 /var><var 48 01 /var>"
+    },
+    {
+      "id": "0x00000007",
+      "text": "<var 48 02 /var><var 49 F202C5 /var>Color 7<var 49 01 /var><var 48 01 /var>"
+    },
+    {
+      "id": "0x00000008",
+      "text": "<var 48 02 /var><var 49 F202C4 /var>Color 8<var 49 01 /var><var 48 01 /var>"
+    },
+    {
+      "id": "0x00000009",
+      "text": "<var 48 02 /var><var 49 F202C0 /var>Color 9<var 49 01 /var><var 48 01 /var>"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "<var 48 02 /var><var 49 F202C1 /var>Color 10<var 49 01 /var><var 48 01 /var>"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "<var 48 02 /var><var 49 F202BF /var>Color 11<var 49 01 /var><var 48 01 /var>"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "<var 48 02 /var><var 49 F202BC /var>Color 12<var 49 01 /var><var 48 01 /var>"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "<var 48 02 /var><var 49 F202BD /var>Color 13<var 49 01 /var><var 48 01 /var>"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "<var 48 02 /var><var 49 F202BE /var>Color 14<var 49 01 /var><var 48 01 /var>"
+    }
+  ]
+}

@@ -1,0 +1,1185 @@
+{
+  "source_file": "exd/EmjAddon_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "× <var 20 E802 /var>"
+    },
+    {
+      "id": "0x00000002",
+      "text": "残り"
+    },
+    {
+      "id": "0x00000003",
+      "text": "East"
+    },
+    {
+      "id": "0x00000004",
+      "text": "South"
+    },
+    {
+      "id": "0x00000005",
+      "text": "West"
+    },
+    {
+      "id": "0x00000006",
+      "text": "North"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Toggle Score"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Calls On"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Calls Off"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Pon!"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Chi!"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Kan!"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Riichi!"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Tsumo!"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Ron!"
+    },
+    {
+      "id": "0x00000010",
+      "text": "Riichi"
+    },
+    {
+      "id": "0x00000011",
+      "text": "Pon"
+    },
+    {
+      "id": "0x00000012",
+      "text": "Chi"
+    },
+    {
+      "id": "0x00000013",
+      "text": "Kan"
+    },
+    {
+      "id": "0x00000014",
+      "text": "Tsumo"
+    },
+    {
+      "id": "0x00000015",
+      "text": "Ron"
+    },
+    {
+      "id": "0x00000016",
+      "text": "Pass"
+    },
+    {
+      "id": "0x00000017",
+      "text": "Cancel"
+    },
+    {
+      "id": "0x00000018",
+      "text": "Close"
+    },
+    {
+      "id": "0x00000019",
+      "text": "Drew Nine Terminals or Honors"
+    },
+    {
+      "id": "0x0000001A",
+      "text": "Four Players in Riichi"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "Triple Ron"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "Four Kan Called"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "Same Wind Discarded by Four Players"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "Four-way Stalemate"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "Draw"
+    },
+    {
+      "id": "0x00000020",
+      "text": "Abort this hand?"
+    },
+    {
+      "id": "0x00000021",
+      "text": "Yes"
+    },
+    {
+      "id": "0x00000022",
+      "text": "No"
+    },
+    {
+      "id": "0x00000023",
+      "text": "Hand aborted."
+    },
+    {
+      "id": "0x00000024",
+      "text": "Withdraw from the match?"
+    },
+    {
+      "id": "0x00000025",
+      "text": "Withdraw from this ranked match?\nYou will be counted as having finished in fourth place."
+    },
+    {
+      "id": "0x00000026",
+      "text": "You have attained the highest rank."
+    },
+    {
+      "id": "0x00000027",
+      "text": "Results"
+    },
+    {
+      "id": "0x00000028",
+      "text": "Results"
+    },
+    {
+      "id": "0x00000029",
+      "text": "Called Tsumo"
+    },
+    {
+      "id": "0x0000002A",
+      "text": "Called Ron"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "East Wind"
+    },
+    {
+      "id": "0x0000002C",
+      "text": "South Wind"
+    },
+    {
+      "id": "0x0000002D",
+      "text": "West Wind"
+    },
+    {
+      "id": "0x0000002E",
+      "text": "North Wind"
+    },
+    {
+      "id": "0x0000002F",
+      "text": "Dora"
+    },
+    {
+      "id": "0x00000030",
+      "text": "Ura Dora"
+    },
+    {
+      "id": "0x00000031",
+      "text": "<var 20 E802 /var> Han"
+    },
+    {
+      "id": "0x00000032",
+      "text": "<var 20 E802 /var> Fu"
+    },
+    {
+      "id": "0x00000033",
+      "text": "Next"
+    },
+    {
+      "id": "0x00000034",
+      "text": "Mangan"
+    },
+    {
+      "id": "0x00000035",
+      "text": "Haneman"
+    },
+    {
+      "id": "0x00000036",
+      "text": "Baiman"
+    },
+    {
+      "id": "0x00000037",
+      "text": "Sanbaiman"
+    },
+    {
+      "id": "0x00000038",
+      "text": "Yakuman"
+    },
+    {
+      "id": "0x00000039",
+      "text": "Kazoe-yakuman"
+    },
+    {
+      "id": "0x0000003A",
+      "text": "Double Yakuman"
+    },
+    {
+      "id": "0x0000003B",
+      "text": "Triple Yakuman"
+    },
+    {
+      "id": "0x0000003C",
+      "text": "Time until next hand: <var 20 E802 /var>:<var 24 E803 /var>"
+    },
+    {
+      "id": "0x0000003D",
+      "text": "Time until final results: <var 20 E802 /var>:<var 24 E803 /var>"
+    },
+    {
+      "id": "0x0000003E",
+      "text": "Match Results"
+    },
+    {
+      "id": "0x0000003F",
+      "text": "Waiting for other players"
+    },
+    {
+      "id": "0x00000040",
+      "text": "End Match"
+    },
+    {
+      "id": "0x00000041",
+      "text": "●OPPONENT SELECT"
+    },
+    {
+      "id": "0x00000042",
+      "text": "●対戦者選択"
+    },
+    {
+      "id": "0x00000043",
+      "text": "●麻雀を始める"
+    },
+    {
+      "id": "0x00000044",
+      "text": "●戻る"
+    },
+    {
+      "id": "0x00000045",
+      "text": "●残り対戦者"
+    },
+    {
+      "id": "0x00000046",
+      "text": "●<var 20 E802 /var>/<var 20 E803 /var>"
+    },
+    {
+      "id": "0x00000047",
+      "text": "●まわりを気にせずカンをしまくって場を荒らす暴れん坊。"
+    },
+    {
+      "id": "0x00000048",
+      "text": "●ポンポン鳴いて「トイトイ」を狙う。"
+    },
+    {
+      "id": "0x00000049",
+      "text": "●「メンタンピン三色」が得意な正統派。他家のリーチが怖くておりちゃうことも。"
+    },
+    {
+      "id": "0x0000004A",
+      "text": "●混一が好き。カンでドラを増やして高得点を狙う。黙聴もあり油断できない。"
+    },
+    {
+      "id": "0x0000004B",
+      "text": "●お得意の四暗刻が炸裂する。"
+    },
+    {
+      "id": "0x0000004C",
+      "text": "●手をつくるのが速い。親での一発逆転は要注意。"
+    },
+    {
+      "id": "0x0000004D",
+      "text": "●伝承では古の知識をもつ理知的なおじいちゃん。牌の流れに逆らわない自然流。"
+    },
+    {
+      "id": "0x0000004E",
+      "text": "●いつ誰がこの雀荘に呼び降ろしたのか、その真実を知る者はいない。"
+    },
+    {
+      "id": "0x0000004F",
+      "text": "●"
+    },
+    {
+      "id": "0x00000053",
+      "text": "+<var 20 E802 /var>"
+    },
+    {
+      "id": "0x00000054",
+      "text": "-<var 20 E802 /var>"
+    },
+    {
+      "id": "0x00000055",
+      "text": "▲<var 20 E802 /var>"
+    },
+    {
+      "id": "0x00000056",
+      "text": "▼<var 20 E802 /var>"
+    },
+    {
+      "id": "0x00000057",
+      "text": "<var 12 0C /var> Support Features"
+    },
+    {
+      "id": "0x00000058",
+      "text": "Pass"
+    },
+    {
+      "id": "0x00000059",
+      "text": "Discard"
+    },
+    {
+      "id": "0x0000005A",
+      "text": "Discard"
+    },
+    {
+      "id": "0x0000005B",
+      "text": "Discard"
+    },
+    {
+      "id": "0x0000005C",
+      "text": "Kan!"
+    },
+    {
+      "id": "0x0000005D",
+      "text": "Pon!"
+    },
+    {
+      "id": "0x0000005E",
+      "text": "Chi!"
+    },
+    {
+      "id": "0x0000005F",
+      "text": "Riichi!"
+    },
+    {
+      "id": "0x00000060",
+      "text": "Ron!"
+    },
+    {
+      "id": "0x00000061",
+      "text": "Tsumo!"
+    },
+    {
+      "id": "0x00000062",
+      "text": "Draw nine terminals or honors"
+    },
+    {
+      "id": "0x00000063",
+      "text": "Pon!"
+    },
+    {
+      "id": "0x00000064",
+      "text": "Chi!"
+    },
+    {
+      "id": "0x00000065",
+      "text": "Kan!"
+    },
+    {
+      "id": "0x00000066",
+      "text": "Riichi!"
+    },
+    {
+      "id": "0x00000067",
+      "text": "Tsumo!"
+    },
+    {
+      "id": "0x00000068",
+      "text": "Ron!"
+    },
+    {
+      "id": "0x00000069",
+      "text": "Pon!"
+    },
+    {
+      "id": "0x0000006A",
+      "text": "Chi!"
+    },
+    {
+      "id": "0x0000006B",
+      "text": "Kan!"
+    },
+    {
+      "id": "0x0000006C",
+      "text": "Riichi!"
+    },
+    {
+      "id": "0x0000006D",
+      "text": "Tsumo!"
+    },
+    {
+      "id": "0x0000006E",
+      "text": "Ron!"
+    },
+    {
+      "id": "0x0000006F",
+      "text": "Pon!"
+    },
+    {
+      "id": "0x00000070",
+      "text": "Chi!"
+    },
+    {
+      "id": "0x00000071",
+      "text": "Kan!"
+    },
+    {
+      "id": "0x00000072",
+      "text": "Riichi!"
+    },
+    {
+      "id": "0x00000073",
+      "text": "Tsumo!"
+    },
+    {
+      "id": "0x00000074",
+      "text": "Ron!"
+    },
+    {
+      "id": "0x00000075",
+      "text": "Pon!"
+    },
+    {
+      "id": "0x00000076",
+      "text": "Chi!"
+    },
+    {
+      "id": "0x00000077",
+      "text": "Kan!"
+    },
+    {
+      "id": "0x00000078",
+      "text": "Riichi!"
+    },
+    {
+      "id": "0x00000079",
+      "text": "Tsumo!"
+    },
+    {
+      "id": "0x0000007A",
+      "text": "Ron!"
+    },
+    {
+      "id": "0x0000007B",
+      "text": "Pon!"
+    },
+    {
+      "id": "0x0000007C",
+      "text": "Chi!"
+    },
+    {
+      "id": "0x0000007D",
+      "text": "Kan!"
+    },
+    {
+      "id": "0x0000007E",
+      "text": "Riichi!"
+    },
+    {
+      "id": "0x0000007F",
+      "text": "Tsumo!"
+    },
+    {
+      "id": "0x00000080",
+      "text": "Ron!"
+    },
+    {
+      "id": "0x00000081",
+      "text": "Pon!"
+    },
+    {
+      "id": "0x00000082",
+      "text": "Chi!"
+    },
+    {
+      "id": "0x00000083",
+      "text": "Kan!"
+    },
+    {
+      "id": "0x00000084",
+      "text": "Riichi!"
+    },
+    {
+      "id": "0x00000085",
+      "text": "Tsumo!"
+    },
+    {
+      "id": "0x00000086",
+      "text": "Ron!"
+    },
+    {
+      "id": "0x00000087",
+      "text": "Pon!"
+    },
+    {
+      "id": "0x00000088",
+      "text": "Chi!"
+    },
+    {
+      "id": "0x00000089",
+      "text": "Kan!"
+    },
+    {
+      "id": "0x0000008A",
+      "text": "Riichi!"
+    },
+    {
+      "id": "0x0000008B",
+      "text": "Tsumo!"
+    },
+    {
+      "id": "0x0000008C",
+      "text": "Ron!"
+    },
+    {
+      "id": "0x0000008D",
+      "text": "Pon!"
+    },
+    {
+      "id": "0x0000008E",
+      "text": "Chi!"
+    },
+    {
+      "id": "0x0000008F",
+      "text": "Kan!"
+    },
+    {
+      "id": "0x00000090",
+      "text": "Riichi!"
+    },
+    {
+      "id": "0x00000091",
+      "text": "Tsumo!"
+    },
+    {
+      "id": "0x00000092",
+      "text": "Ron!"
+    },
+    {
+      "id": "0x00000093",
+      "text": "Pon!"
+    },
+    {
+      "id": "0x00000094",
+      "text": "Chi!"
+    },
+    {
+      "id": "0x00000095",
+      "text": "Kan!"
+    },
+    {
+      "id": "0x00000096",
+      "text": "Riichi!"
+    },
+    {
+      "id": "0x00000097",
+      "text": "Tsumo!"
+    },
+    {
+      "id": "0x00000098",
+      "text": "Ron!"
+    },
+    {
+      "id": "0x00000099",
+      "text": "Score"
+    },
+    {
+      "id": "0x0000009A",
+      "text": "Rank"
+    },
+    {
+      "id": "0x0000009B",
+      "text": "Time remaining: <var 20 E802 /var>:<var 24 E803 /var>"
+    },
+    {
+      "id": "0x0000009C",
+      "text": "East 1"
+    },
+    {
+      "id": "0x0000009D",
+      "text": "East 2"
+    },
+    {
+      "id": "0x0000009E",
+      "text": "East 3"
+    },
+    {
+      "id": "0x0000009F",
+      "text": "East 4"
+    },
+    {
+      "id": "0x000000A0",
+      "text": "South 1"
+    },
+    {
+      "id": "0x000000A1",
+      "text": "South 2"
+    },
+    {
+      "id": "0x000000A2",
+      "text": "South 3"
+    },
+    {
+      "id": "0x000000A3",
+      "text": "South 4"
+    },
+    {
+      "id": "0x000000AC",
+      "text": "One player held nine or more different types of number and honor tiles including terminals."
+    },
+    {
+      "id": "0x000000AD",
+      "text": "Four players were in riichi."
+    },
+    {
+      "id": "0x000000AE",
+      "text": "Three players called a winning hand at the same time."
+    },
+    {
+      "id": "0x000000AF",
+      "text": "Four kan were formed."
+    },
+    {
+      "id": "0x000000B0",
+      "text": "Each player discarded the same wind tile on the opening turn."
+    },
+    {
+      "id": "0x000000B1",
+      "text": "Points Gained"
+    },
+    {
+      "id": "0x000000B2",
+      "text": "In the event of a draw, <var 48 F201F4 /var><var 49 F201F5 /var>any players unable to call a winning hand<var 49 01 /var><var 48 01 /var> must pay points to those <var 48 F201FA /var><var 49 F201FB /var>able to call a winning hand<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x000000B3",
+      "text": "Tenpai!"
+    },
+    {
+      "id": "0x000000B4",
+      "text": "Noten..."
+    },
+    {
+      "id": "0x000000B5",
+      "text": "Total Rank Points"
+    },
+    {
+      "id": "0x000000B6",
+      "text": "<var 20 E802 /var><var 08 E1E80301 ((/<var 20 E803 /var>)) (()) /var>"
+    },
+    {
+      "id": "0x000000B7",
+      "text": "Current Rank"
+    },
+    {
+      "id": "0x000000B8",
+      "text": "Until Next Rank:"
+    },
+    {
+      "id": "0x000000B9",
+      "text": "Points"
+    },
+    {
+      "id": "0x000000BA",
+      "text": "<var 08 E1E80201 (( +<var 20 E802 /var>)) (( <var 20 E802 /var>)) /var>"
+    },
+    {
+      "id": "0x000000BB",
+      "text": "<var 20 E802 /var> Each"
+    },
+    {
+      "id": "0x000000BC",
+      "text": "<var 20 E802 /var> - <var 20 E803 /var>"
+    },
+    {
+      "id": "0x000000BD",
+      "text": "Honba <var 20 E802 /var>"
+    },
+    {
+      "id": "0x000000BE",
+      "text": "Please wait for other players to end their turns."
+    },
+    {
+      "id": "0x000000C5",
+      "text": "Dora (Traditional)"
+    },
+    {
+      "id": "0x000000C6",
+      "text": "Dora (Doman Mahjong)"
+    },
+    {
+      "id": "0x000000C7",
+      "text": "<var 08 E4E95101 ((<var 08 E4E94F04 ((control)) ((Ctrl)) /var>)) ((<var 1E 10 /var>)) /var>:  Show Point Difference"
+    },
+    {
+      "id": "0x000000C8",
+      "text": "Rating: <var 20 E802 /var>"
+    },
+    {
+      "id": "0x000000C9",
+      "text": "Time remaining until new hand: <var 20 E802 /var> minutes"
+    },
+    {
+      "id": "0x000000CA",
+      "text": "Time remaining until new hand: Less than one minute"
+    },
+    {
+      "id": "0x000000CB",
+      "text": "One hand remaining"
+    },
+    {
+      "id": "0x000000CC",
+      "text": "Final hand"
+    },
+    {
+      "id": "0x000000CD",
+      "text": "<var 08 E4E95101 ((<var 08 E4E94F04 ((control)) ((Ctrl)) /var>)) ((<var 1E 10 /var>)) /var>: Check Discarded Tiles"
+    },
+    {
+      "id": "0x000000CE",
+      "text": "Quadruple Yakuman"
+    },
+    {
+      "id": "0x000000CF",
+      "text": "Time remaining:"
+    },
+    {
+      "id": "0x000000D0",
+      "text": "Furiten: Prevents you from calling ron because a tile in your discard pile could have been used\nto complete a winning hand, or you missed the chance to call a winning hand.\nYou may also be subject to furiten if you are in tenpai with an open hand but no guaranteed yaku."
+    },
+    {
+      "id": "0x000000D1",
+      "text": "Auto-declare winning hand: ON"
+    },
+    {
+      "id": "0x000000D2",
+      "text": "Auto-declare winning hand: OFF"
+    },
+    {
+      "id": "0x000000D3",
+      "text": "Opponent List"
+    },
+    {
+      "id": "0x000000D4",
+      "text": "<var 29 EA02 /var>"
+    },
+    {
+      "id": "0x000000D5",
+      "text": "<var 29 EA02 /var>"
+    },
+    {
+      "id": "0x000000D6",
+      "text": "<var 29 EA02 /var>"
+    },
+    {
+      "id": "0x000000D7",
+      "text": "View Opponent List"
+    },
+    {
+      "id": "0x000000D8",
+      "text": "Rtg: <var 20 E802 /var>"
+    },
+    {
+      "id": "0x00000100",
+      "text": "Win with a drawn tile, without calling pon or chi."
+    },
+    {
+      "id": "0x00000101",
+      "text": "Win after calling riichi."
+    },
+    {
+      "id": "0x00000102",
+      "text": "Win on the turn after calling riichi."
+    },
+    {
+      "id": "0x00000103",
+      "text": "Win with the replacement tile after forming a kan."
+    },
+    {
+      "id": "0x00000104",
+      "text": "Win with a tile used by an opponent to form a kan."
+    },
+    {
+      "id": "0x00000105",
+      "text": "Win by drawing the last tile of the hand."
+    },
+    {
+      "id": "0x00000106",
+      "text": "Win by claiming the last tile of the hand."
+    },
+    {
+      "id": "0x00000107",
+      "text": "Win with a hand that consists of straights and a pair that does not use yaku tiles, and can be completed with two or more types of tile."
+    },
+    {
+      "id": "0x00000108",
+      "text": "Win with only number tiles and no terminals."
+    },
+    {
+      "id": "0x00000109",
+      "text": "Win with only number tiles and no terminals."
+    },
+    {
+      "id": "0x0000010A",
+      "text": "Win with two identical straights of the same numbers in the same suit."
+    },
+    {
+      "id": "0x0000010B",
+      "text": "Win with a yaku tile."
+    },
+    {
+      "id": "0x0000010C",
+      "text": "Win with a triplet (or kan) of east wind yaku tiles."
+    },
+    {
+      "id": "0x0000010D",
+      "text": "Win with a triplet (or kan) of south wind yaku tiles."
+    },
+    {
+      "id": "0x0000010E",
+      "text": "Win with a triplet (or kan) of west wind yaku tiles."
+    },
+    {
+      "id": "0x0000010F",
+      "text": "Win with a triplet (or kan) of north wind yaku tiles."
+    },
+    {
+      "id": "0x00000110",
+      "text": "Win with east round and east seat tiles."
+    },
+    {
+      "id": "0x00000111",
+      "text": "Win with south round and south seat tiles."
+    },
+    {
+      "id": "0x00000112",
+      "text": "Win with west round and west seat tiles."
+    },
+    {
+      "id": "0x00000113",
+      "text": "Win with north round and north seat tiles."
+    },
+    {
+      "id": "0x00000114",
+      "text": "Win with a triplet (or kan) of white dragon yaku tiles."
+    },
+    {
+      "id": "0x00000115",
+      "text": "Win with a triplet (or kan) of green dragon yaku tiles."
+    },
+    {
+      "id": "0x00000116",
+      "text": "Win with a triplet (or kan) of red dragon yaku tiles."
+    },
+    {
+      "id": "0x00000117",
+      "text": "Awards bonus han but is not a yaku by itself."
+    },
+    {
+      "id": "0x00000118",
+      "text": "Declare riichi on the first turn, then win immediately after."
+    },
+    {
+      "id": "0x00000119",
+      "text": "Win with the same straight in each suit."
+    },
+    {
+      "id": "0x0000011A",
+      "text": "Win with three straights of the same suit, forming 1, 2, 3, and 4, 5, 6, and 7, 8, 9."
+    },
+    {
+      "id": "0x0000011B",
+      "text": "Win with all melds containing terminals or honor tiles."
+    },
+    {
+      "id": "0x0000011C",
+      "text": "Win with four triplets (or kan) and a pair."
+    },
+    {
+      "id": "0x0000011D",
+      "text": "Win with three triplets of the same number in each suit."
+    },
+    {
+      "id": "0x0000011E",
+      "text": "Win with four triplets (or kan) and a pair all containing only terminals or honor tiles."
+    },
+    {
+      "id": "0x0000011F",
+      "text": "Win with three triplets (or kan) without calling pon. "
+    },
+    {
+      "id": "0x00000120",
+      "text": "Win with three kan."
+    },
+    {
+      "id": "0x00000121",
+      "text": "Win with two triplets and a pair of dragon tiles."
+    },
+    {
+      "id": "0x00000122",
+      "text": "Win with seven pairs."
+    },
+    {
+      "id": "0x00000123",
+      "text": "Win with terminals in each meld."
+    },
+    {
+      "id": "0x00000124",
+      "text": "Win with two sets of two identical straights."
+    },
+    {
+      "id": "0x00000125",
+      "text": "Win using only number tiles from one suit and honor tiles."
+    },
+    {
+      "id": "0x00000126",
+      "text": "Win using only number tiles from one suit."
+    },
+    {
+      "id": "0x00000127",
+      "text": "After all tiles have been drawn, win by having discarded only terminals and honor tiles."
+    },
+    {
+      "id": "0x00000128",
+      "text": "(Yakuman) The dealer wins on the first tile drawn."
+    },
+    {
+      "id": "0x00000129",
+      "text": "(Yakuman) Any non-dealer wins on the first tile drawn."
+    },
+    {
+      "id": "0x0000012A",
+      "text": "(Yakuman) Form a hand using only number tiles from one suit, where it is possible to call a winning hand using any number."
+    },
+    {
+      "id": "0x0000012B",
+      "text": "(Yakuman) Form a hand using only number tiles from one suit, calling a winning hand using any number."
+    },
+    {
+      "id": "0x0000012C",
+      "text": "(Yakuman) Win with three triplets of dragon tiles."
+    },
+    {
+      "id": "0x0000012D",
+      "text": "(Yakuman) Win with four triplets of wind tiles."
+    },
+    {
+      "id": "0x0000012E",
+      "text": "(Yakuman) Win with three triplets and a pair of wind tiles."
+    },
+    {
+      "id": "0x0000012F",
+      "text": "(Yakuman) Win with four triplets (or kan) without calling pon."
+    },
+    {
+      "id": "0x00000130",
+      "text": "(Yakuman) Win with four triplets (or kan) without calling pon, winning on the tile that completes a pair."
+    },
+    {
+      "id": "0x00000131",
+      "text": "(Yakuman) Win with four kan."
+    },
+    {
+      "id": "0x00000132",
+      "text": "(Yakuman) Win with only honor tiles."
+    },
+    {
+      "id": "0x00000133",
+      "text": "(Yakuman) Win with four triplets (or kan) containing only terminals."
+    },
+    {
+      "id": "0x00000134",
+      "text": "(Yakuman) Win using only green tiles."
+    },
+    {
+      "id": "0x00000135",
+      "text": "(Yakuman) Win with all terminals and each type of honor tile."
+    },
+    {
+      "id": "0x00000136",
+      "text": "(Yakuman) Win with all terminals and each type of honor tile, winning on the tile that completes a pair."
+    },
+    {
+      "id": "0x00000137",
+      "text": "Awards bonus han but is not a yaku by itself."
+    },
+    {
+      "id": "0x00000138",
+      "text": "Awards bonus han but is not a yaku by itself."
+    },
+    {
+      "id": "0x00000139",
+      "text": "(Yakuman) Win with three triplets of dragon tiles. If another player allowed the third triplet to be called, they must pay a penalty."
+    },
+    {
+      "id": "0x0000013A",
+      "text": "(Yakuman) Win with four triplets of wind tiles. If another player allowed the fourth triplet to be called, they must pay a penalty."
+    },
+    {
+      "id": "0x0000014B",
+      "text": "Characters (1)"
+    },
+    {
+      "id": "0x0000014C",
+      "text": "Characters (2)"
+    },
+    {
+      "id": "0x0000014D",
+      "text": "Characters (3)"
+    },
+    {
+      "id": "0x0000014E",
+      "text": "Characters (4)"
+    },
+    {
+      "id": "0x0000014F",
+      "text": "Characters (5)"
+    },
+    {
+      "id": "0x00000150",
+      "text": "Characters (6)"
+    },
+    {
+      "id": "0x00000151",
+      "text": "Characters (7)"
+    },
+    {
+      "id": "0x00000152",
+      "text": "Characters (8)"
+    },
+    {
+      "id": "0x00000153",
+      "text": "Characters (9)"
+    },
+    {
+      "id": "0x00000154",
+      "text": "Dots (1)"
+    },
+    {
+      "id": "0x00000155",
+      "text": "Dots (2)"
+    },
+    {
+      "id": "0x00000156",
+      "text": "Dots (3)"
+    },
+    {
+      "id": "0x00000157",
+      "text": "Dots (4)"
+    },
+    {
+      "id": "0x00000158",
+      "text": "Dots (5)"
+    },
+    {
+      "id": "0x00000159",
+      "text": "Dots (6)"
+    },
+    {
+      "id": "0x0000015A",
+      "text": "Dots (7)"
+    },
+    {
+      "id": "0x0000015B",
+      "text": "Dots (8)"
+    },
+    {
+      "id": "0x0000015C",
+      "text": "Dots (9)"
+    },
+    {
+      "id": "0x0000015D",
+      "text": "Bamboo (1)"
+    },
+    {
+      "id": "0x0000015E",
+      "text": "Bamboo (2)"
+    },
+    {
+      "id": "0x0000015F",
+      "text": "Bamboo (3)"
+    },
+    {
+      "id": "0x00000160",
+      "text": "Bamboo (4)"
+    },
+    {
+      "id": "0x00000161",
+      "text": "Bamboo (5)"
+    },
+    {
+      "id": "0x00000162",
+      "text": "Bamboo (6)"
+    },
+    {
+      "id": "0x00000163",
+      "text": "Bamboo (7)"
+    },
+    {
+      "id": "0x00000164",
+      "text": "Bamboo (8)"
+    },
+    {
+      "id": "0x00000165",
+      "text": "Bamboo (9)"
+    },
+    {
+      "id": "0x00000166",
+      "text": "East Wind"
+    },
+    {
+      "id": "0x00000167",
+      "text": "South Wind"
+    },
+    {
+      "id": "0x00000168",
+      "text": "West Wind"
+    },
+    {
+      "id": "0x00000169",
+      "text": "North Wind"
+    },
+    {
+      "id": "0x0000016A",
+      "text": "White Dragon"
+    },
+    {
+      "id": "0x0000016B",
+      "text": "Green Dragon"
+    },
+    {
+      "id": "0x0000016C",
+      "text": "Red Dragon"
+    },
+    {
+      "id": "0x0000016D",
+      "text": "Characters (5)"
+    },
+    {
+      "id": "0x0000016E",
+      "text": "Dots (5)"
+    },
+    {
+      "id": "0x0000016F",
+      "text": "Bamboo (5)"
+    }
+  ]
+}

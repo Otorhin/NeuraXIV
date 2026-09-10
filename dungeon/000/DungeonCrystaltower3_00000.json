@@ -1,0 +1,17 @@
+{
+  "source_file": "exd/dungeon/000/DungeonCrystaltower3_00000_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_DUNGEONCRYSTALTOWER3_00000_CLOUDOFDARKNESS_000_000<tab>Кто нарушает покой тьмы?  \nА-а-а, смертные из царства света.  \nВы забрели сюда не без причины..."
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_DUNGEONCRYSTALTOWER3_00000_CLOUDOFDARKNESS_000_010<tab>Я — Облако Тьмы.  \nЧто не задушу — пожру.  \nЧто не смогу пожрать — уничтожу."
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_DUNGEONCRYSTALTOWER3_00000_CLOUDOFDARKNESS_000_020<tab>Завет вечен.  \nВсе смертные пред потопом тьмы  \nбездыханными канут в Пустоту!"
+    }
+  ]
+}

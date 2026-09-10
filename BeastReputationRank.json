@@ -1,0 +1,41 @@
+{
+  "source_file": "exd/BeastReputationRank_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "None<tab>None"
+    },
+    {
+      "id": "0x00000001",
+      "text": "Neutral<tab>Neutral"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Recognized<tab>Recognized"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Friendly<tab>Friendly"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Trusted<tab>Trusted"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Respected<tab>Respected"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Honored<tab>Honored"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Sworn<tab>Sworn"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Allied<tab>Bloodsworn"
+    }
+  ]
+}

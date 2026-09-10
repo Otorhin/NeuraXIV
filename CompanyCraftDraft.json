@@ -1,0 +1,161 @@
+{
+  "source_file": "exd/CompanyCraftDraft_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "airship prototype II"
+    },
+    {
+      "id": "0x00000001",
+      "text": "airship prototype III"
+    },
+    {
+      "id": "0x00000002",
+      "text": "airship prototype IV"
+    },
+    {
+      "id": "0x00000003",
+      "text": "airship prototype V"
+    },
+    {
+      "id": "0x00000004",
+      "text": "airship prototype VI"
+    },
+    {
+      "id": "0x00000005",
+      "text": "restaurant prototype"
+    },
+    {
+      "id": "0x00000006",
+      "text": "armor shop prototype"
+    },
+    {
+      "id": "0x00000007",
+      "text": "weapon shop prototype"
+    },
+    {
+      "id": "0x00000008",
+      "text": "aetherial wheel prototype II"
+    },
+    {
+      "id": "0x00000009",
+      "text": "aetherial wheel prototype III"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "aetherial wheel prototype IV"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "aetherial wheel prototype V"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "aetherial wheel prototype VI"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "aetherial wheel prototype VII"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "wheel stand prototype II"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "moghouse prototype"
+    },
+    {
+      "id": "0x00000010",
+      "text": "wheel stand prototype III"
+    },
+    {
+      "id": "0x00000011",
+      "text": "airship prototype VII"
+    },
+    {
+      "id": "0x00000012",
+      "text": "wheel stand prototype IV"
+    },
+    {
+      "id": "0x00000013",
+      "text": "wheel stand prototype V"
+    },
+    {
+      "id": "0x00000014",
+      "text": "chocobo house prototype"
+    },
+    {
+      "id": "0x00000015",
+      "text": "paissa house prototype"
+    },
+    {
+      "id": "0x00000016",
+      "text": "Carbuncle house prototype"
+    },
+    {
+      "id": "0x00000017",
+      "text": "Shirogane Castle prototype"
+    },
+    {
+      "id": "0x00000018",
+      "text": "submersible prototype I"
+    },
+    {
+      "id": "0x00000019",
+      "text": "submersible prototype II"
+    },
+    {
+      "id": "0x0000001A",
+      "text": "submersible prototype III"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "odder otter house prototype"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "submersible prototype IV"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "submersible prototype V"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "submersible prototype VI"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "half-timbered house prototype"
+    },
+    {
+      "id": "0x00000020",
+      "text": "smithy prototype"
+    },
+    {
+      "id": "0x00000021",
+      "text": "florist prototype"
+    },
+    {
+      "id": "0x00000022",
+      "text": "forge prototype"
+    },
+    {
+      "id": "0x00000023",
+      "text": "cafe prototype"
+    },
+    {
+      "id": "0x00000024",
+      "text": "gingerbread house prototype"
+    },
+    {
+      "id": "0x00000025",
+      "text": "sukiya-zukuri prototype"
+    },
+    {
+      "id": "0x00000026",
+      "text": "country house prototype"
+    }
+  ]
+}

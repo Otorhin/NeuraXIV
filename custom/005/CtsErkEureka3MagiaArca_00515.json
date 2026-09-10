@@ -1,0 +1,17 @@
+{
+  "source_file": "exd/custom/005/CtsErkEureka3MagiaArca_00515_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_CTSERKEUREKA3MAGIAARCA_00515_SYSTEM_000_000<tab>Это странное и загадочное устройство, похоже, не работает..."
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_CTSERKEUREKA3MAGIAARCA_00515_SYSTEM_000_010<tab>Это странное и загадочное устройство, должно быть, и есть манипулятор логоса, о котором говорил Дрейк. Будем надеяться, что пользоваться им и впрямь так просто, как он утверждает..."
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_CTSERKEUREKA3MAGIAARCA_00515_TALK_ACTOR<tab>"
+    }
+  ]
+}

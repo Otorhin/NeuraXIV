@@ -1,0 +1,373 @@
+{
+  "source_file": "exd/ItemSearchCategory_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Primary Arms"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Primary Tools"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Primary Tools"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Armor"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Accessories"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Medicines"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Materials"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Other"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Pugilist's Arms"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Gladiator's Arms"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Marauder's Arms"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Archer's Arms"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Lancer's Arms"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Thaumaturge's Arms"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Conjurer's Arms"
+    },
+    {
+      "id": "0x00000010",
+      "text": "Arcanist's Arms"
+    },
+    {
+      "id": "0x00000011",
+      "text": "Shields"
+    },
+    {
+      "id": "0x00000012",
+      "text": "Dancer's Arms"
+    },
+    {
+      "id": "0x00000013",
+      "text": "Carpenter's Tools"
+    },
+    {
+      "id": "0x00000014",
+      "text": "Blacksmith's Tools"
+    },
+    {
+      "id": "0x00000015",
+      "text": "Armorer's Tools"
+    },
+    {
+      "id": "0x00000016",
+      "text": "Goldsmith's Tools"
+    },
+    {
+      "id": "0x00000017",
+      "text": "Leatherworker's Tools"
+    },
+    {
+      "id": "0x00000018",
+      "text": "Weaver's Tools"
+    },
+    {
+      "id": "0x00000019",
+      "text": "Alchemist's Tools"
+    },
+    {
+      "id": "0x0000001A",
+      "text": "Culinarian's Tools"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "Miner's Tools"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "Botanist's Tools"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "Fisher's Tools"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "Fishing Tackle"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "Head"
+    },
+    {
+      "id": "0x00000020",
+      "text": "Undershirts"
+    },
+    {
+      "id": "0x00000021",
+      "text": "Body"
+    },
+    {
+      "id": "0x00000022",
+      "text": "Undergarments"
+    },
+    {
+      "id": "0x00000023",
+      "text": "Legs"
+    },
+    {
+      "id": "0x00000024",
+      "text": "Hands"
+    },
+    {
+      "id": "0x00000025",
+      "text": "Feet"
+    },
+    {
+      "id": "0x00000026",
+      "text": "Waist"
+    },
+    {
+      "id": "0x00000027",
+      "text": "Necklaces"
+    },
+    {
+      "id": "0x00000028",
+      "text": "Earrings"
+    },
+    {
+      "id": "0x00000029",
+      "text": "Bracelets"
+    },
+    {
+      "id": "0x0000002A",
+      "text": "Rings"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "Medicine"
+    },
+    {
+      "id": "0x0000002C",
+      "text": "Ingredients"
+    },
+    {
+      "id": "0x0000002D",
+      "text": "Meals"
+    },
+    {
+      "id": "0x0000002E",
+      "text": "Seafood"
+    },
+    {
+      "id": "0x0000002F",
+      "text": "Stone"
+    },
+    {
+      "id": "0x00000030",
+      "text": "Metal"
+    },
+    {
+      "id": "0x00000031",
+      "text": "Lumber"
+    },
+    {
+      "id": "0x00000032",
+      "text": "Cloth"
+    },
+    {
+      "id": "0x00000033",
+      "text": "Leather"
+    },
+    {
+      "id": "0x00000034",
+      "text": "Bone"
+    },
+    {
+      "id": "0x00000035",
+      "text": "Reagents"
+    },
+    {
+      "id": "0x00000036",
+      "text": "Dyes"
+    },
+    {
+      "id": "0x00000037",
+      "text": "Weapon Parts"
+    },
+    {
+      "id": "0x00000038",
+      "text": "Furnishings"
+    },
+    {
+      "id": "0x00000039",
+      "text": "Materia"
+    },
+    {
+      "id": "0x0000003A",
+      "text": "Crystals"
+    },
+    {
+      "id": "0x0000003B",
+      "text": "Catalysts"
+    },
+    {
+      "id": "0x0000003C",
+      "text": "Miscellany"
+    },
+    {
+      "id": "0x0000003D",
+      "text": "Soul Crystals"
+    },
+    {
+      "id": "0x0000003E",
+      "text": "Arrows"
+    },
+    {
+      "id": "0x0000003F",
+      "text": "Quest Items"
+    },
+    {
+      "id": "0x00000040",
+      "text": "Other"
+    },
+    {
+      "id": "0x00000041",
+      "text": "Exterior Fixtures"
+    },
+    {
+      "id": "0x00000042",
+      "text": "Interior Fixtures"
+    },
+    {
+      "id": "0x00000043",
+      "text": "Outdoor Furnishings"
+    },
+    {
+      "id": "0x00000044",
+      "text": "Chairs and Beds"
+    },
+    {
+      "id": "0x00000045",
+      "text": "Tables"
+    },
+    {
+      "id": "0x00000046",
+      "text": "Tabletop"
+    },
+    {
+      "id": "0x00000047",
+      "text": "Wall-mounted"
+    },
+    {
+      "id": "0x00000048",
+      "text": "Rugs"
+    },
+    {
+      "id": "0x00000049",
+      "text": "Rogue's Arms"
+    },
+    {
+      "id": "0x0000004A",
+      "text": "Seasonal Miscellany"
+    },
+    {
+      "id": "0x0000004B",
+      "text": "Minions"
+    },
+    {
+      "id": "0x0000004C",
+      "text": "Dark Knight's Arms"
+    },
+    {
+      "id": "0x0000004D",
+      "text": "Machinist's Arms"
+    },
+    {
+      "id": "0x0000004E",
+      "text": "Astrologian's Arms"
+    },
+    {
+      "id": "0x0000004F",
+      "text": "Airship/Submersible Components"
+    },
+    {
+      "id": "0x00000050",
+      "text": "Orchestrion Components"
+    },
+    {
+      "id": "0x00000051",
+      "text": "Gardening Items"
+    },
+    {
+      "id": "0x00000052",
+      "text": "Paintings"
+    },
+    {
+      "id": "0x00000053",
+      "text": "Samurai's Arms"
+    },
+    {
+      "id": "0x00000054",
+      "text": "Red Mage's Arms"
+    },
+    {
+      "id": "0x00000055",
+      "text": "Scholar's Arms"
+    },
+    {
+      "id": "0x00000056",
+      "text": "Gunbreaker's Arms"
+    },
+    {
+      "id": "0x00000057",
+      "text": "Dancer's Arms"
+    },
+    {
+      "id": "0x00000058",
+      "text": "Reaper's Arms"
+    },
+    {
+      "id": "0x00000059",
+      "text": "Sage's Arms"
+    },
+    {
+      "id": "0x0000005A",
+      "text": "Registrable Miscellany"
+    },
+    {
+      "id": "0x0000005B",
+      "text": "Viper's Arms"
+    },
+    {
+      "id": "0x0000005C",
+      "text": "Pictomancer's Arms"
+    }
+  ]
+}

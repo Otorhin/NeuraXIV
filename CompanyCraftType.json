@@ -1,0 +1,81 @@
+{
+  "source_file": "exd/CompanyCraftType_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Wheel Stand"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Aetherial Wheel"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Airship Hull"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Airship Rigging"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Airship Forecastle"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Airship Aftcastle"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Full Estate Exterior"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Exterior Wall (Single)"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Roof"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Door"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Window"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Fence"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Signboard"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Roof Decoration"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Wall Decoration"
+    },
+    {
+      "id": "0x00000010",
+      "text": "Submersible Hull"
+    },
+    {
+      "id": "0x00000011",
+      "text": "Submersible Stern"
+    },
+    {
+      "id": "0x00000012",
+      "text": "Submersible Bow"
+    },
+    {
+      "id": "0x00000013",
+      "text": "Submersible Bridge"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "source_file": "exd/dungeon/000/DungeonFesYojinbo_00000_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_DUNGEONFESYOJINBO_00000_YOJINBO_000_000<tab>Слишком, слишком долго я ждал этого реванша!"
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_DUNGEONFESYOJINBO_00000_YOJINBO_100_000<tab>Соборо Сукэхиро, быть может, свёл нас вместе, но судьба предначертала нам  \nвновь сойтись в славной рукопашной─только с мечами!"
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_DUNGEONFESYOJINBO_00000_YOJINBO_000_001<tab>Победа будет моей в этот день!"
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_DUNGEONFESYOJINBO_00000_GILGAMESH_000_010<tab>Сдаюсь, сдаюсь!"
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_DUNGEONFESYOJINBO_00000_GILGAMESH_000_011<tab>Я взываю к вашей безграничной милости и молю о прощении! Прошу!"
+    }
+  ]
+}

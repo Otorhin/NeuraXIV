@@ -1,0 +1,25 @@
+{
+  "source_file": "exd/PerformGuideScore_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "A World Apart<tab>BGM_SCORE_001"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Wailers and Waterwheels<tab>BGM_SCORE_002"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Night in the Brume<tab>BGM_SCORE_003"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Eternal Wind<tab>BGM_SCORE_004"
+    },
+    {
+      "id": "0x00000007",
+      "text": "The Mushroomery<tab>BGM_SCORE_005"
+    }
+  ]
+}

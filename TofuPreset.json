@@ -1,0 +1,93 @@
+{
+  "source_file": "exd/TofuPreset_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Checkered (Circle)"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Checkered (Square)"
+    },
+    {
+      "id": "0x00000003",
+      "text": "未使用"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Large Enemy"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Medium Enemy"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Small Enemy"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Light Party"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Full Party - Composition 1"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Full Party - Composition 2"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Full Party - Composition 3"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Full Party - Composition 4"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "4 Waymarks - Spread"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "8 Waymarks - Spread 1"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "8 Waymarks - Spread 2"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "None"
+    },
+    {
+      "id": "0x00000010",
+      "text": "None"
+    },
+    {
+      "id": "0x00000011",
+      "text": "None"
+    },
+    {
+      "id": "0x00000012",
+      "text": "Full Party - Composition 5"
+    },
+    {
+      "id": "0x00000013",
+      "text": "4 Waymarks - Close 1"
+    },
+    {
+      "id": "0x00000014",
+      "text": "4 Waymarks - Close 2"
+    },
+    {
+      "id": "0x00000015",
+      "text": "8 Waymarks - Close 1"
+    },
+    {
+      "id": "0x00000016",
+      "text": "8 Waymarks - Close 2"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "source_file": "exd/custom/003/HouFixMansionEntrance_00359_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_HOUFIXMANSIONENTRANCE_00359_HOUSINGAREA_MENU_ENTER_MYROOM<tab>Отправляйтесь в свою квартиру."
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_HOUFIXMANSIONENTRANCE_00359_HOUSINGAREA_MENU_ENTER_LOBBY<tab>Отправляйтесь в лобби."
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_HOUFIXMANSIONENTRANCE_00359_HOUSINGAREA_MENU_ENTER_ROOM<tab>Отправляйтесь в указанную квартиру."
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_HOUFIXMANSIONENTRANCE_00359_HOUSINGAREA_MENU_EXIT<tab>Отмена"
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_HOUFIXMANSIONENTRANCE_00359_LOBBY_MENU_ENTER_MYROOM<tab>Отправляйтесь в свою квартиру."
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_HOUFIXMANSIONENTRANCE_00359_LOBBY_MENU_ENTER_ROOM<tab>Отправляйтесь в указанную квартиру."
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_HOUFIXMANSIONENTRANCE_00359_LOBBY_MENU_EXIT<tab>Отмена"
+    }
+  ]
+}

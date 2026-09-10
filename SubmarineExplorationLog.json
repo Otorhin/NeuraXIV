@@ -1,0 +1,129 @@
+{
+  "source_file": "exd/SubmarineExplorationLog_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Uncharted depths reached. Plotting course to <var 28 ((SubmarineExploration)) E80201 /var>."
+    },
+    {
+      "id": "0x00000002",
+      "text": "<var 2B ((<var 28 ((SubmarineExploration)) E80201 /var>)) /var> reached. Commencing initial survey."
+    },
+    {
+      "id": "0x00000003",
+      "text": "<var 2B ((<var 28 ((SubmarineExploration)) E80201 /var>)) /var> reached. Commencing survey."
+    },
+    {
+      "id": "0x00000004",
+      "text": "Seas clear and calm. <var 1A 02 /var><var 29 EA02 /var><var 1A 01 /var> <var 28 ((SubmarineSpecCategory)) E80301 /var> sufficient for exploration."
+    },
+    {
+      "id": "0x00000005",
+      "text": "Experiencing strong currents. Submersible <var 28 ((SubmarineSpecCategory)) E80301 /var> unaffected, but exploratory capability may be slightly hindered."
+    },
+    {
+      "id": "0x00000006",
+      "text": "Nearby volcanic activity detected. Submersible <var 28 ((SubmarineSpecCategory)) E80301 /var> unaffected, but exploratory capability may be significantly hindered."
+    },
+    {
+      "id": "0x00000007",
+      "text": "No prevailing currents detected. Submersible <var 28 ((SubmarineSpecCategory)) E80301 /var> normal."
+    },
+    {
+      "id": "0x00000008",
+      "text": "Experiencing strong currents. Submersible <var 28 ((SubmarineSpecCategory)) E80301 /var> normal, but exploratory capability may be significantly hindered."
+    },
+    {
+      "id": "0x00000009",
+      "text": "Submersible <var 28 ((SubmarineSpecCategory)) E80301 /var> dropping. Continuing exploration until rendered unable."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Several high-quality <var 31 ((Item)) 04E8020302 /var> discovered. Commencing retrieval upon determining ideal sample."
+    },
+    {
+      "id": "0x0000000B",
+      "text": "High-quality <var 31 ((Item)) 04E8020202 /var> discovered. Commencing retrieval."
+    },
+    {
+      "id": "0x0000000C",
+      "text": "<var 2B ((<var 31 ((Item)) 04E8020202 /var>)) /var> discovered. Commencing retrieval."
+    },
+    {
+      "id": "0x0000000D",
+      "text": "<var 2B ((<var 31 ((Item)) 04E8020202 /var>)) /var> discovered. Commencing retrieval."
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Optimal <var 28 ((SubmarineSpecCategory)) E80301 /var> result in excellent retrieval yield."
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Normal <var 28 ((SubmarineSpecCategory)) E80301 /var> result in average retrieval yield."
+    },
+    {
+      "id": "0x00000010",
+      "text": "Poor <var 28 ((SubmarineSpecCategory)) E80301 /var> result in disappointing retrieval yield."
+    },
+    {
+      "id": "0x00000011",
+      "text": "<var 48 F201F4 /var><var 49 F201F5 /var><var 08 E4E80302 ((<var 2B ((<var 31 ((Item)) 04E8020202 /var>)) /var>)) ((<var 20 E803 /var> <var 31 ((Item)) 04E8020402 /var>)) /var> retrieved!<var 49 01 /var><var 48 01 /var>"
+    },
+    {
+      "id": "0x00000012",
+      "text": "Additional anomalies detected. Continuing exploration."
+    },
+    {
+      "id": "0x00000013",
+      "text": "Additional anomalies detected. However, current submersible condition found insufficient for further exploration. Setting course to next destination."
+    },
+    {
+      "id": "0x00000014",
+      "text": "No additional anomalies detected in the sector."
+    },
+    {
+      "id": "0x00000015",
+      "text": "Survey of <var 28 ((SubmarineExploration)) E80201 /var> complete. <var 1A 02 /var><var 2B ((<var 29 EA03 /var>)) /var><var 1A 01 /var> performance rated as outstanding."
+    },
+    {
+      "id": "0x00000016",
+      "text": "Survey of <var 28 ((SubmarineExploration)) E80201 /var> complete. <var 1A 02 /var><var 2B ((<var 29 EA03 /var>)) /var><var 1A 01 /var> performance rated as decent."
+    },
+    {
+      "id": "0x00000017",
+      "text": "Survey of <var 28 ((SubmarineExploration)) E80201 /var> complete. <var 1A 02 /var><var 2B ((<var 29 EA03 /var>)) /var><var 1A 01 /var> performance rated as satisfactory."
+    },
+    {
+      "id": "0x00000018",
+      "text": "Survey of <var 28 ((SubmarineExploration)) E80201 /var> complete. <var 1A 02 /var><var 2B ((<var 29 EA03 /var>)) /var><var 1A 01 /var> performance rated as substandard."
+    },
+    {
+      "id": "0x00000019",
+      "text": "Survey of <var 28 ((SubmarineExploration)) E80201 /var> complete. <var 1A 02 /var><var 2B ((<var 29 EA03 /var>)) /var><var 1A 01 /var> performance rated as abysmal."
+    },
+    {
+      "id": "0x0000001A",
+      "text": "<var 48 F201F6 /var><var 49 F201F7 /var><var 1A 02 /var><var 2B ((<var 29 EA02 /var>)) /var><var 1A 01 /var> gains <var 20 E803 /var><var 08 E4E80401 (()) (((+<var 20 E804 /var>%))) /var> experience points.<var 49 01 /var><var 48 01 /var>"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "Changing course to <var 28 ((SubmarineExploration)) E80201 /var>."
+    },
+    {
+      "id": "0x0000001C",
+      "text": "All locations surveyed. Returning to workshop."
+    },
+    {
+      "id": "0x0000001D",
+      "text": "<var 48 F201F6 /var><var 49 F201F7 /var><var 2B ((<var 28 ((SubmarineExploration)) E80201 /var>)) /var> discovered!<var 49 01 /var><var 48 01 /var>"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "<var 48 F201F6 /var><var 49 F201F7 /var>Permission granted to register an additional submersible!<var 49 01 /var><var 48 01 /var>"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "<var 48 F201F6 /var><var 49 F201F7 /var><var 28 ((SubmarineMap)) E80201 /var> discovered!<var 49 01 /var><var 48 01 /var>"
+    }
+  ]
+}

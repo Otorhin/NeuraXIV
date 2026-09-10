@@ -1,0 +1,17 @@
+{
+  "source_file": "exd/custom/003/JobRel300GetRecipeAgain_00352_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_JOBREL300GETRECIPEAGAIN_00352_Q1_000_000<tab>Взять ещё одну копию записки Улан?"
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_JOBREL300GETRECIPEAGAIN_00352_RECIPEPAPER_000_000<tab>У вас уже есть копия записки Улан."
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_JOBREL300GETRECIPEAGAIN_00352_RECIPEPAPER_000_010<tab>Вы берёте копию записки Улан с её прилавка."
+    }
+  ]
+}

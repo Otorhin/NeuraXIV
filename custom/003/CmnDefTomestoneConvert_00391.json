@@ -1,0 +1,45 @@
+{
+  "source_file": "exd/custom/003/CmnDefTomestoneConvert_00391_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_CMNDEFTOMESTONECONVERT_00391_WHICH_Q<tab>Что бы вы хотели сделать?"
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_CMNDEFTOMESTONECONVERT_00391_WHICH_CANCEL<tab>Ничего."
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_CMNDEFTOMESTONECONVERT_00391_HELP<tab>Кажется, чуть ли не через день мы перестаём торговать тем или иным видом томстоунов. Рано или поздно Ровена заявляет, что возня с ними больше себя не оправдывает."
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_CMNDEFTOMESTONECONVERT_00391_TALK_NOT_HAVE<tab>Хотя, возможно, они мне ещё пригодятся. Если у тебя есть ненужные, принеси их сюда — я обменяю их на что-нибудь более ценное."
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_CMNDEFTOMESTONECONVERT_00391_TALK_Q<tab>Возможно, ведь они мне ещё пригодятся. Но если у тебя есть ненужные, я дам тебе взамен кое-что получше."
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_CMNDEFTOMESTONECONVERT_00391_EXCHANGE_Q<tab>Обменять <var 22 E803 ((,)) /var> <var 31 ((Item)) 04E8020302 /var> на <var 22 E805 ((,)) /var> <var 31 ((Item)) 04E8040302 /var>?"
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_CMNDEFTOMESTONECONVERT_00391_EXCHANGE_YES<tab>Да"
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_CMNDEFTOMESTONECONVERT_00391_EXCHANGE_NO<tab>Нет"
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_CMNDEFTOMESTONECONVERT_00391_TALK_NOT_GET<tab>О? Похоже, у тебя и так руки заняты."
+    },
+    {
+      "id": "0x00000009",
+      "text": "TEXT_CMNDEFTOMESTONECONVERT_00391_OVERMAX_Q<tab>Внимание: вы не сможете получить все <var 31 ((предмета)) 03E8020302 /var>. Всё равно продолжить?"
+    }
+  ]
+}

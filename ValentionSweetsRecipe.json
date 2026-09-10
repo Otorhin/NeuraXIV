@@ -1,0 +1,209 @@
+{
+  "source_file": "exd/ValentionSweetsRecipe_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "heart berry cake"
+    },
+    {
+      "id": "0x00000002",
+      "text": "heart berry cake"
+    },
+    {
+      "id": "0x00000003",
+      "text": "moogle berry cake"
+    },
+    {
+      "id": "0x00000004",
+      "text": "moogle berry cake"
+    },
+    {
+      "id": "0x00000005",
+      "text": "chocolate egg berry cake"
+    },
+    {
+      "id": "0x00000006",
+      "text": "chocolate egg berry cake"
+    },
+    {
+      "id": "0x00000007",
+      "text": "chocobo berry cake"
+    },
+    {
+      "id": "0x00000008",
+      "text": "chocobo berry cake"
+    },
+    {
+      "id": "0x00000009",
+      "text": "cactuar berry cake"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "cactuar berry cake"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "heart cream cake"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "heart cream cake"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "moogle cream cake"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "moogle cream cake"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "chocolate egg cream cake"
+    },
+    {
+      "id": "0x00000010",
+      "text": "chocolate egg cream cake"
+    },
+    {
+      "id": "0x00000011",
+      "text": "chocobo cream cake"
+    },
+    {
+      "id": "0x00000012",
+      "text": "chocobo cream cake"
+    },
+    {
+      "id": "0x00000013",
+      "text": "cactuar cream cake"
+    },
+    {
+      "id": "0x00000014",
+      "text": "cactuar cream cake"
+    },
+    {
+      "id": "0x00000015",
+      "text": "heart chocolate cake"
+    },
+    {
+      "id": "0x00000016",
+      "text": "heart chocolate cake"
+    },
+    {
+      "id": "0x00000017",
+      "text": "moogle chocolate cake"
+    },
+    {
+      "id": "0x00000018",
+      "text": "moogle chocolate cake"
+    },
+    {
+      "id": "0x00000019",
+      "text": "double chocolate cake"
+    },
+    {
+      "id": "0x0000001A",
+      "text": "double chocolate cake"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "chocobo chocolate cake"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "chocobo chocolate cake"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "cactuar chocolate cake"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "cactuar chocolate cake"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "heart lemon cake"
+    },
+    {
+      "id": "0x00000020",
+      "text": "heart lemon cake"
+    },
+    {
+      "id": "0x00000021",
+      "text": "moogle lemon cake"
+    },
+    {
+      "id": "0x00000022",
+      "text": "moogle lemon cake"
+    },
+    {
+      "id": "0x00000023",
+      "text": "chocolate egg lemon cake"
+    },
+    {
+      "id": "0x00000024",
+      "text": "chocolate egg lemon cake"
+    },
+    {
+      "id": "0x00000025",
+      "text": "chocobo lemon cake"
+    },
+    {
+      "id": "0x00000026",
+      "text": "chocobo lemon cake"
+    },
+    {
+      "id": "0x00000027",
+      "text": "cactuar lemon cake"
+    },
+    {
+      "id": "0x00000028",
+      "text": "cactuar lemon cake"
+    },
+    {
+      "id": "0x00000029",
+      "text": "heart pistachio cake"
+    },
+    {
+      "id": "0x0000002A",
+      "text": "heart pistachio cake"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "moogle pistachio cake"
+    },
+    {
+      "id": "0x0000002C",
+      "text": "moogle pistachio cake"
+    },
+    {
+      "id": "0x0000002D",
+      "text": "chocolate egg pistachio cake"
+    },
+    {
+      "id": "0x0000002E",
+      "text": "chocolate egg pistachio cake"
+    },
+    {
+      "id": "0x0000002F",
+      "text": "chocobo pistachio cake"
+    },
+    {
+      "id": "0x00000030",
+      "text": "chocobo pistachio cake"
+    },
+    {
+      "id": "0x00000031",
+      "text": "cactuar pistachio cake"
+    },
+    {
+      "id": "0x00000032",
+      "text": "cactuar pistachio cake"
+    },
+    {
+      "id": "0x00000033",
+      "text": "adventurer special"
+    }
+  ]
+}

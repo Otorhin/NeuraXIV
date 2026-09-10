@@ -1,0 +1,21 @@
+{
+  "source_file": "exd/CompanyCraftManufactoryState_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "-"
+    },
+    {
+      "id": "0x00000001",
+      "text": "Normal"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Excellent"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Outstanding"
+    }
+  ]
+}

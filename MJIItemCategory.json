@@ -1,0 +1,45 @@
+{
+  "source_file": "exd/MJIItemCategory_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Material<tab>Materials"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Rare Material<tab>Rare Materials"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Gardening Starter<tab>Gardening Starters"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Produce<tab>Produce"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Leavings<tab>Leavings"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Feed<tab>Feed"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Restraint<tab>Restraints"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Tool<tab>Tools"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Isleworks Handicraft<tab>Isleworks Handicrafts"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "●手形<tab>"
+    }
+  ]
+}

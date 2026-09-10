@@ -1,0 +1,69 @@
+{
+  "source_file": "exd/HowToCategory_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "None"
+    },
+    {
+      "id": "0x00000001",
+      "text": "All"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Adventuring Basics"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Movement"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Battle"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Quests"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Items"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Gear"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Duty"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Levequests"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Grand Companies"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Free Companies"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Crafting"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Gathering"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Fishing"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Gold Saucer"
+    }
+  ]
+}

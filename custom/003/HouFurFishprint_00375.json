@@ -1,0 +1,29 @@
+{
+  "source_file": "exd/custom/003/HouFurFishprint_00375_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_HOUFURFISHPRINT_00375_Q1_000_000<tab>На витрине: <var 28 ((Item)) E8020A /var>"
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_HOUFURFISHPRINT_00375_Q1_000_001<tab>На витрине: ничего"
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_HOUFURFISHPRINT_00375_A1_000_002<tab>Комплект «Рыбацкий отпечаток»"
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_HOUFURFISHPRINT_00375_A1_000_003<tab>Убрать «Отпечаток рыболова»"
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_HOUFURFISHPRINT_00375_A1_000_004<tab>Выйти"
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_HOUFURFISHPRINT_00375_Q2_000_000<tab>Если убрать <var 2B ((<var 31 ((Item)) 04E8020202 /var>)) /var> из оправы, он будет утрачен. Вы уверены, что хотите продолжить?"
+    }
+  ]
+}

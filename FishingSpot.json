@@ -1,0 +1,305 @@
+{
+  "source_file": "exd/FishingSpot_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "REACH!<tab>FAIL!<tab>"
+    },
+    {
+      "id": "0x00000011",
+      "text": "You sense something larger than even a giant takitaro!<tab>You no longer sense anything out of the ordinary.<tab>The presence looms large once more!"
+    },
+    {
+      "id": "0x00000015",
+      "text": "You sense something massive just below the surface!<tab>You no longer sense anything out of the ordinary.<tab>The mysterious mass returns!"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "The water falls dark...<tab>A faint glow returns to the water.<tab>Again the water darkens!"
+    },
+    {
+      "id": "0x0000003A",
+      "text": "A golden figure lurks near the surface!<tab>The golden figure has retreated to the murky depths.<tab>The golden figure rises once more!"
+    },
+    {
+      "id": "0x0000004A",
+      "text": "Something large has risen from the depths to feed!<tab>You no longer sense anything out of the ordinary.<tab>The large predator hungers once more!"
+    },
+    {
+      "id": "0x0000005E",
+      "text": "You sense something even more terrible than Canavan in the waters before you!<tab>You no longer sense anything out of the ordinary.<tab>The terror strikes again!"
+    },
+    {
+      "id": "0x0000006C",
+      "text": "You sense a new legend might be told this day...<tab>You no longer sense anything out of the ordinary.<tab>The legend continues!"
+    },
+    {
+      "id": "0x00000070",
+      "text": "It smells of a rat...<tab>The stench has abated.<tab>The reek intensifies!"
+    },
+    {
+      "id": "0x0000007C",
+      "text": "You sense something deep beneath the magma...<tab>You no longer sense anything out of the ordinary.<tab>The magma swells once more!"
+    },
+    {
+      "id": "0x0000007F",
+      "text": "Something glimmers near the riverbed...<tab>You no longer perceive anything out of the ordinary.<tab>The riverbed glimmers once more!"
+    },
+    {
+      "id": "0x00000086",
+      "text": "You sense the lord of these skies has returned...<tab>You no longer sense anything out of the ordinary.<tab>Again, you sense a humbling presence..."
+    },
+    {
+      "id": "0x0000008B",
+      "text": "Lady Luck has sidled up beside you...<tab>The good lady has departed.<tab>It seems Lady Luck has given you another chance!"
+    },
+    {
+      "id": "0x00000092",
+      "text": "Something wondrous this way comes...<tab>You no longer sense anything out of the ordinary.<tab>Something wondrous wends its way back!"
+    },
+    {
+      "id": "0x000000A8",
+      "text": "The lake begins to radiate all the colors of the rainbow!<tab>The glow fades...<tab>The rainbow returns!"
+    },
+    {
+      "id": "0x000000BE",
+      "text": "The stones beneath the water begin shifting hither and thither.<tab>The stones are stationary once again.<tab>The stones clatter back to life!"
+    },
+    {
+      "id": "0x000000C4",
+      "text": "A massive shadow slides across the loch floor.<tab>The shadow is no more.<tab>Again the shadow looms!"
+    },
+    {
+      "id": "0x000000D4",
+      "text": "You see the flickering light of eyes beneath the waters.<tab>The flickering light fades...<tab>The light flickers back to life!"
+    },
+    {
+      "id": "0x000000D7",
+      "text": "You sense eyes staring up at you from the sandy waters...<tab>You no longer sense anything out of the ordinary.<tab>The eyes gaze at you once more!"
+    },
+    {
+      "id": "0x000000E0",
+      "text": "A glimmering jade figure drifts beneath the waters.<tab>The glimmer fades into the depths.<tab>The glimmering jade figure drifts back to the surface!"
+    },
+    {
+      "id": "0x000000E8",
+      "text": "A large shadow dances along the loch floor.<tab>The shadow is no more.<tab>The shadow dances back into view!"
+    },
+    {
+      "id": "0x000000ED",
+      "text": "The visage of a gormless-looking Roegadyn stares at you from beneath the waters.<tab>The face vanishes back into the depths.<tab>The Roegadyn faces you once more!"
+    },
+    {
+      "id": "0x000000EE",
+      "text": "The ocean begins to twinkle like the stars in the sky.<tab>The twinkle fades to nothing.<tab>Again the ocean twinkles!"
+    },
+    {
+      "id": "0x000000EF",
+      "text": "A shadow evoking the Lord of the Whorl slithers across the ocean.<tab>The shadow has disappeared.<tab>The shadow slithers back across your field of vision!"
+    },
+    {
+      "id": "0x000000F0",
+      "text": "The coral begins to wriggle about on the ocean floor.<tab>The wriggling stops.<tab>The wriggling begins once again."
+    },
+    {
+      "id": "0x000000F1",
+      "text": "You see a metallic glint just beneath the waters.<tab>The glint vanishes.<tab>You catch sight of the glint once more."
+    },
+    {
+      "id": "0x000000F2",
+      "text": "A massive boulder begins to writhe on the ocean floor.<tab>The boulder ceases to move.<tab>The boulder begins to writhe again."
+    },
+    {
+      "id": "0x000000F3",
+      "text": "You spot a glimmer of crimson, as if a ruby has floated to the surface of the ocean.<tab>All hint of crimson vanishes.<tab>The glimmer of crimson flashes into view once more."
+    },
+    {
+      "id": "0x000000F4",
+      "text": "The shadow lurking under the surface belongs to a beast spoken of only in legend.<tab>The shadow is no more.<tab>The shadow emerges from the depths once again."
+    },
+    {
+      "id": "0x000000F6",
+      "text": "An aura of violent menace rises from the depths!<tab>The sense of menace dissipates.<tab>The aura of violent menace returns!"
+    },
+    {
+      "id": "0x000000F7",
+      "text": "You glimpse the writhing silhouette of some vast tentacle moving just beneath the water.<tab>The undulating shadow has withdrawn.<tab>You sense the undulating shadow once again."
+    },
+    {
+      "id": "0x000000F8",
+      "text": "You glance down into a pair of astoundingly goblin-like eyes.<tab>You no longer feel the weight of that goblin-like gaze.<tab>You feel that goblin-like glaze boring into you again."
+    },
+    {
+      "id": "0x000000F9",
+      "text": "You rub your eyes, certain you'd seen a creature with no business being out on the ocean.<tab>The out-of-place creature has moved on...or never was.<tab>The out-of-place creature is back in place."
+    },
+    {
+      "id": "0x000000FA",
+      "text": "A graceful, leafy form appears, swirling and dancing beneath the waves.<tab>The leafy form has swept on out of sight.<tab>The leafy form swirls gracefully back into view."
+    },
+    {
+      "id": "0x000000FB",
+      "text": "A dull cracking and crunching sound echoes up from the sea floor.<tab>The crunching, cracking sounds fade into silence.<tab>The cracking and crunching sounds resound in your ears once again."
+    },
+    {
+      "id": "0x00000103",
+      "text": "A reptilian tail writhes and splashes up to the surface!<tab>The splashing subsides.<tab>The splashing returns with renewed vigor!"
+    },
+    {
+      "id": "0x0000010C",
+      "text": "The Font's aquatic flora undulates with sudden activity! <tab>The activity subsides...<tab>The aquatic flora undulates with activity anew!"
+    },
+    {
+      "id": "0x0000010D",
+      "text": "A massive, ship-shaped silhouette darkens the waters before you.<tab>The shadowy silhouette returns to the depths.<tab>The waters are once again darkened with the ship-shaped silhouette. "
+    },
+    {
+      "id": "0x0000010E",
+      "text": "A layer of ice suddenly forms upon the lake's surface!<tab>The frozen surface thaws.<tab>The lake's surface begins to freeze once again!"
+    },
+    {
+      "id": "0x0000011D",
+      "text": "A profound melancholy swells within you!<tab>The melancholy passes as swiftly as it came...<tab>You are seized by melancholy once more!"
+    },
+    {
+      "id": "0x0000011E",
+      "text": "A large fin breaches the ocean surface!<tab>The fin sinks under the surface and out of sight...<tab>The fin breaches the water's surface again!"
+    },
+    {
+      "id": "0x0000011F",
+      "text": "A lethal predator draws close to the ship!<tab>The predator loses interest...<tab>The lethal predator draws close with renewed interest!"
+    },
+    {
+      "id": "0x00000120",
+      "text": "A strip of red and white floats under the water's surface!<tab>You lose sight of the colorful fish...<tab>You catch sight of the colorful fish again!"
+    },
+    {
+      "id": "0x00000121",
+      "text": "Something blue glitters deep under the water!<tab>The glittering vanishes...<tab>The glittering blue form reappears!"
+    },
+    {
+      "id": "0x00000122",
+      "text": "You feel hungry eyes track your every move!<tab>The hungry thing decides to feast elsewhere...<tab>The hungry thing returns!"
+    },
+    {
+      "id": "0x00000123",
+      "text": "The sea temperature rises suddenly!<tab>The temperature of the water returns to normal...<tab>The sea temperature begins to rise again!"
+    },
+    {
+      "id": "0x00000124",
+      "text": "The seaweed glimmers with a strange light!<tab>The seaweed glimmers no more...<tab>The seaweed glimmers anew!"
+    },
+    {
+      "id": "0x00000125",
+      "text": "The scent of plums rises from the waters!<tab>The scent of plums disappears...<tab>The scent of plums wafts forth again!"
+    },
+    {
+      "id": "0x0000012E",
+      "text": "An emerald glimmer flickers beneath the surface!<tab>The emerald glimmer is no more...<tab>The glimmering emerald form looms forth again!"
+    },
+    {
+      "id": "0x00000139",
+      "text": "A sinuous shadow writhes beneath the water!<tab>You lose sight of the sinuous shadow...<tab>The writhing shadow appears beneath the water once more!"
+    },
+    {
+      "id": "0x0000013B",
+      "text": "A heart-shaped shadow flitters through the water!<tab>The heart-shaped shadow fades out of sight...<tab>The heart-shaped shadow flitters back into your field of vision!"
+    },
+    {
+      "id": "0x00000141",
+      "text": "You are overcome with a sudden icy chill!<tab>Your body warms as the chill recedes...<tab>The mysterious chill returns with an icy vengeance!"
+    },
+    {
+      "id": "0x00000146",
+      "text": "The surrounding air begins to crackle with lightning energy!<tab>The lightning energy dissipates...<tab>The air once again courses with lightning energy!"
+    },
+    {
+      "id": "0x00000149",
+      "text": "You sight the shadow of an enormous serpent!<tab>The serpentine shadow winds out of sight...<tab>The serpentine shadow looms once again!"
+    },
+    {
+      "id": "0x0000014C",
+      "text": "A sharp, glinting form darts into view!<tab>You lose sight of the glinting form...<tab>The glinting form darts sharply back into view!"
+    },
+    {
+      "id": "0x0000014D",
+      "text": "A colossal shadow lurks beneath the waves...<tab>You lose sight of the colossal shadow...<tab>The colossal shadow appears beneath the water once more!"
+    },
+    {
+      "id": "0x0000014E",
+      "text": "You sense a watchful gaze from beneath the water!<tab>The water-bound watcher loses interest...<tab>You sense the watchful gaze fix upon you once more!"
+    },
+    {
+      "id": "0x0000014F",
+      "text": "What appears to be a nearby island writhes before your eyes!<tab>The movement you sensed must have been a trick of the light...<tab>The apparent landmass once again teems with motion!"
+    },
+    {
+      "id": "0x00000150",
+      "text": "A vibrant shadow darts through the water!<tab>The vibrance fades out of sight...<tab>The vibrant shadow looms near again!"
+    },
+    {
+      "id": "0x00000151",
+      "text": "A forked form wends through the depths!<tab>The forked form recedes from view...<tab>The wending form makes a pointed return!"
+    },
+    {
+      "id": "0x00002725",
+      "text": "You spot a massive shadow drifting along beneath the clouds.<tab>The shadow is no more.<tab>The looming shadow appears beneath the clouds once again."
+    },
+    {
+      "id": "0x00002727",
+      "text": "You glimpse the blurred form of some flying creature as it flashes across the sky.<tab>Like a living bolt of lightning, the creature flickers past and is gone.<tab>"
+    },
+    {
+      "id": "0x00002750",
+      "text": "Something glints white beneath the water!<tab>The glint was all too fleeting...<tab>The glinting white form reappears!"
+    },
+    {
+      "id": "0x00002767",
+      "text": "You glimpse a draconic form writhe up from the depths!<tab>The draconic figure fades from view...<tab>The draconic form looms forth once again!"
+    },
+    {
+      "id": "0x00002791",
+      "text": "A pallid visage appears beneath the surface!<tab>The pale creature distorts and vanishes...<tab>You sight the pallid visage once more!"
+    },
+    {
+      "id": "0x0000279F",
+      "text": "A bulbous shadow appears in the water!<tab>The shadow floats away...<tab>The bulbous shadow drifts back into sight!"
+    },
+    {
+      "id": "0x000027A7",
+      "text": "A lethal-looking blue barb breaks the surface!<tab>The barb disappears beneath the surface...<tab>The blue barb breaks the surface once more!"
+    },
+    {
+      "id": "0x000027A8",
+      "text": "Within the glass, a large stone...writhes?<tab>You lose sight of the writhing stone...<tab>You see the stone move once again!"
+    },
+    {
+      "id": "0x000027C5",
+      "text": "A rock-like mass stirs beneath the ocean depths!<tab>You lose sight of the stirring mass...<tab>You spy the rock-like mass stirring once more!"
+    },
+    {
+      "id": "0x000027CE",
+      "text": "The glimmer of a jade figure catches your eye beneath the waters!<tab>The glimmer of jade fades from sight...<tab>The glimmer of jade returns to the water's surface!"
+    },
+    {
+      "id": "0x000027E6",
+      "text": "A large leafy form undulates beneath the surface!<tab>The leafy form recedes from view...<tab>The large form makes a leafy return to the surface!"
+    },
+    {
+      "id": "0x000027EC",
+      "text": "You spy a tiny sparkling jewel in the water!<tab>The sparkling suddenly ceases...<tab>The jeweled creature darts back into view!"
+    },
+    {
+      "id": "0x000027EF",
+      "text": "A frond-like form stirs in the water!<tab>You lose sight of the frond-like form...<tab>The frond-like form begins to stir once more!"
+    },
+    {
+      "id": "0x000027F2",
+      "text": "A flowery, vine-like creature writhes underwater!<tab>The vine-like creature wends away...<tab>You sight the writhing vine once again!"
+    },
+    {
+      "id": "0x000027F4",
+      "text": "What appears to be a shimmering, patterned sash flutters into view!<tab>The shimmering sash flutters away...<tab>The fluttering creature returns!"
+    }
+  ]
+}

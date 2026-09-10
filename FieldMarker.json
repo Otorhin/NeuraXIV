@@ -1,0 +1,41 @@
+{
+  "source_file": "exd/FieldMarker_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Waymark A"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Waymark B"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Waymark C"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Waymark D"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Waymark 1"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Waymark 2"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Waymark 3"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Waymark 4"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Clear Waymarks"
+    }
+  ]
+}

@@ -1,0 +1,817 @@
+{
+  "source_file": "exd/XBMItem_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "belt of constitution<tab>belts of constitution<tab>Belt of Constitution<tab>Maximum HP +20%<tab>Increases maximum HP."
+    },
+    {
+      "id": "0x00000002",
+      "text": "ring of sacrifice<tab>rings of sacrifice<tab>Ring of Sacrifice<tab>Revives beastmaster upon KO by sacrificing the summoned familiar.\nIneffective if a familiar is not summoned.<tab>Sacrifices familiar to revive beastmaster."
+    },
+    {
+      "id": "0x00000003",
+      "text": "ring of curing<tab>rings of curing<tab>Ring of Curing<tab>Recovers 25% of maximum HP at the end of battles.<tab>Recovers HP after battles."
+    },
+    {
+      "id": "0x00000004",
+      "text": "chemist's satchel<tab>chemist's satchels<tab>Chemist's Satchel<tab>Procures one random beast potion upon resting at campsites.<tab>Grants beast potions at campsites."
+    },
+    {
+      "id": "0x00000005",
+      "text": "hexed hat<tab>hexed hats<tab>Hexed Hat<tab>Magic Vulnerability -10%<tab>Reduces magic damage taken."
+    },
+    {
+      "id": "0x00000006",
+      "text": "suit of steel armor<tab>suits of steel armor<tab>Steel Armor<tab>Physical Vulnerability -15%<tab>Reduces physical damage taken."
+    },
+    {
+      "id": "0x00000007",
+      "text": "crown of the wild<tab>crowns of the wild<tab>Crown of the Wild<tab>Physical Damage Dealt +10%\nCritical Hit Rate +3%\n※Effects also apply to summoned familiar.<tab>Increases physical damage dealt and critical hit rate. Familiar-friendly."
+    },
+    {
+      "id": "0x00000008",
+      "text": "staff of the wise<tab>staves of the wise<tab>Staff of the Wise<tab>Magic Damage Dealt +20%\n※Effects also apply to summoned familiar.<tab>Increases magic damage dealt. Familiar-friendly."
+    },
+    {
+      "id": "0x00000009",
+      "text": "power armlet<tab>power armlets<tab>Power Armlet<tab>Physical Damage Dealt +12%\nEvasion +3%<tab>Increases physical damage dealt and evasion."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "twisted headband<tab>twisted headbands<tab>Twisted Headband<tab>Physical Damage Dealt +5%\nPhysical Vulnerability -5%<tab>Increases physical damage dealt. Reduces physical damage taken."
+    },
+    {
+      "id": "0x0000000B",
+      "text": "green beret<tab>green berets<tab>Green Beret<tab>Critical Hit Power +35\nDamage Dealt +3%\nMaximum HP +7%<tab>Increases critical hit power, damage dealt, and maximum HP."
+    },
+    {
+      "id": "0x0000000C",
+      "text": "pair of mystic boots<tab>pairs of mystic boots<tab>Mystic Boots<tab>Evasion +8%\nMovement Speed +50%\nIncreases HP recovery via actions and crucible items by 15%.<tab>Increases evasion, movement speed, and HP recovery."
+    },
+    {
+      "id": "0x0000000D",
+      "text": "ring of protection<tab>rings of protection<tab>Ring of Protection<tab>Damage Taken -10%\nMaximum HP +7%<tab>Reduces damage taken. Increases maximum HP."
+    },
+    {
+      "id": "0x0000000E",
+      "text": "ice shield<tab>ice shields<tab>Ice Shield<tab>Damage Taken -30%\n<var 48 F201FA /var><var 49 F201FB /var>Slow<var 49 01 /var><var 48 01 /var> +10%\n30% chance to absorb ice damage as HP.<tab>Reduces damage taken. Inflicts Slow on self. May absorb ice damage. "
+    },
+    {
+      "id": "0x0000000F",
+      "text": "earth shield<tab>earth shields<tab>Earth Shield<tab>30% chance to absorb earth damage as HP.\n10% chance to grant <var 48 F201FA /var><var 49 F201FB /var>Stoneskin<var 49 01 /var><var 48 01 /var> upon blocking with shield.\n<var 48 F2023B /var><var 49 F2023C /var>Stoneskin Effect:<var 49 01 /var><var 48 01 /var> Absorbs damage totaling 15% of maximum HP\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 60s<tab>May absorb earth damage. May grant Stoneskin upon shield block."
+    },
+    {
+      "id": "0x00000010",
+      "text": "water shield<tab>water shields<tab>Water Shield<tab>Block Strength +50%\n30% chance to absorb water damage as HP.\n10% chance to grant <var 48 F201FA /var><var 49 F201FB /var>Reflect<var 49 01 /var><var 48 01 /var> upon blocking with shield.\n<var 48 F2023B /var><var 49 F2023C /var>Reflect Effect:<var 49 01 /var><var 48 01 /var> Reflects most magic attacks back at the caster\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 60s<tab>Increases block strength. May absorb water damage. May grant Reflect upon shield block."
+    },
+    {
+      "id": "0x00000011",
+      "text": "force shield<tab>force shields<tab>Force Shield<tab>Block Strength +75%\nMagic Vulnerability -10%<tab>Increases block strength. Reduces magic damage taken."
+    },
+    {
+      "id": "0x00000012",
+      "text": "crimson ribbon<tab>crimson ribbons<tab>Crimson Ribbon<tab>Petrification Resistance +100%\nBlind Resistance +100%\nParalysis Resistance +100%<tab>Increases petrification, blind, and paralysis resistances."
+    },
+    {
+      "id": "0x00000013",
+      "text": "pair of Genji gloves<tab>pairs of Genji gloves<tab>Genji Gloves<tab>Damage Dealt +12%\nParalysis Resistance +100%\n10% chance to recover TP upon completing a combo with a beastmaster instinctual skill.<tab>Increases damage dealt and paralysis resistance. May recover TP upon familiar combo."
+    },
+    {
+      "id": "0x00000014",
+      "text": "Genji greatshield<tab>Genji greatshields<tab>Genji Greatshield<tab>Block Strength +30%\nEvasion +10%<tab>Increases block strength and evasion."
+    },
+    {
+      "id": "0x00000015",
+      "text": "suit of Genji armor<tab>suits of Genji armor<tab>Genji Armor<tab>Movement Speed -20%\nDamage Taken -20%\nMaximum HP +30%<tab>Reduces movement speed and damage taken. Increases maximum HP."
+    },
+    {
+      "id": "0x00000016",
+      "text": "pair of silver specs<tab>pairs of silver specs<tab>Silver Specs<tab>Critical Hit Rate +15%\nBlind Resistance +100%<tab>Increases critical hit rate and blind resistance."
+    },
+    {
+      "id": "0x00000017",
+      "text": "angel robe<tab>angel robes<tab>Angel Robe<tab>Damage Taken -7%\nPoison Resistance +100%\n5% chance to grant one stack of <var 48 F201FA /var><var 49 F201FB /var>Rehabilitation<var 49 01 /var><var 48 01 /var> upon suffering damage.\n<var 48 F2023B /var><var 49 F2023C /var>Rehabilitation Effect:<var 49 01 /var><var 48 01 /var> Restores 3% of maximum HP at regular intervals\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 12s\n<var 48 F2023B /var><var 49 F2023C /var>Maximum Stacks:<var 49 01 /var><var 48 01 /var> 8<tab>Reduces damage taken. Increases poison resistance. May recover HP upon suffering damage."
+    },
+    {
+      "id": "0x00000018",
+      "text": "master shield<tab>master shields<tab>Master Shield<tab>Block Strength +125%\nDamage Taken -25%\nMaximum HP +35%<tab>Increases block strength and maximum HP. Reduces damage taken."
+    },
+    {
+      "id": "0x00000019",
+      "text": "mystic veil<tab>mystic veils<tab>Mystic Veil<tab>Magic Damage Dealt +18%\nMagic Vulnerability -15%\nIncreases HP recovery via actions and crucible items by 15%.<tab>Increases magic damage dealt and HP recovery. Reduces magic damage taken."
+    },
+    {
+      "id": "0x0000001A",
+      "text": "black cowl<tab>black cowls<tab>Black Cowl<tab>Maximum HP +6%\nEvasion +8%\nSleep Resistance +100%<tab>Increases maximum HP, evasion, and sleep resistance."
+    },
+    {
+      "id": "0x0000001B",
+      "text": "hero's crown<tab>hero's crowns<tab>Hero's Crown<tab>Maximum HP +30%\nDamage Dealt +18%\nGrants <var 48 F201FA /var><var 49 F201FB /var>Excellence<var 49 01 /var><var 48 01 /var> upon completing a combo with a beastmaster instinctual skill.\n<var 48 F2023B /var><var 49 F2023C /var>Excellence Effect:<var 49 01 /var><var 48 01 /var> Nullifies most attacks and increases damage dealt by 10%\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 9s<tab>Increases maximum HP and damage dealt. Grants Excellence upon familiar combo."
+    },
+    {
+      "id": "0x0000001C",
+      "text": "mirage vest<tab>mirage vests<tab>Mirage Vest<tab>20% chance to grant one stack of <var 48 F201FA /var><var 49 F201FB /var>Blink<var 49 01 /var><var 48 01 /var> upon suffering damage.\n<var 48 F2023B /var><var 49 F2023C /var>Blink Effect:<var 49 01 /var><var 48 01 /var> Nullifies most physical attacks, reducing one stack per nullification\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 120s<tab>May grant Blink upon suffering damage."
+    },
+    {
+      "id": "0x0000001D",
+      "text": "suit of soulreaper's armor<tab>suits of soulreaper's armor<tab>Soulreaper's Armor<tab>Maximum HP +10%\nDamage Taken -5%\nDoom Resistance +100%<tab>Increases maximum HP and doom resistance. Reduces damage taken."
+    },
+    {
+      "id": "0x0000001E",
+      "text": "suit of briar armor<tab>suits of briar armor<tab>Briar Armor<tab>Deals unaspected damage with a potency of 360 each time you suffer physical damage.\nCounter damage is affected by magic damage increase effects of other beast gear, items, and abilities.<tab>Counters upon suffering physical damage."
+    },
+    {
+      "id": "0x0000001F",
+      "text": "coward's knife<tab>coward's knives<tab>Coward's Knife<tab>Damage Dealt +1%\n35% chance to offer escape from an enemy space, thus avoiding battle and forfeiting loot. Ineffective on elite enemy or boss spaces.\nGrants one stack of <var 48 F201FA /var><var 49 F201FB /var>Guerrilla Tactics<var 49 01 /var><var 48 01 /var> upon fleeing.\n<var 48 F2023B /var><var 49 F2023C /var>Guerrilla Tactics Effect:<var 49 01 /var><var 48 01 /var> Increases damage dealt by 18% and evasion by 4%<tab>Increases damage dealt. May offer chance to flee enemy spaces."
+    },
+    {
+      "id": "0x00000020",
+      "text": "umbral mantle<tab>umbral mantles<tab>Umbral Mantle<tab>Maximum HP +12%\n25% chance to recover TP upon completing a combo with a beastmaster instinctual skill.<tab>Increases maximum HP. May recover TP upon familiar combo."
+    },
+    {
+      "id": "0x00000021",
+      "text": "umbral band<tab>umbral bands<tab>Umbral Band<tab>Physical Vulnerability -9%\n10% chance to recover TP upon completing a combo with a beastmaster instinctual skill.<tab>Reduces physical damage taken. May recover TP upon familiar combo."
+    },
+    {
+      "id": "0x00000022",
+      "text": "umbral wristlet<tab>umbral wristlets<tab>Umbral Wristlet<tab>Magic Vulnerability -15%\nMaximum HP +5%\nStun Resistance +100%<tab>Reduces magic damage taken. Increases maximum HP and stun resistance."
+    },
+    {
+      "id": "0x00000023",
+      "text": "astral mantle<tab>astral mantles<tab>Astral Mantle<tab><var 48 F201FA /var><var 49 F201FB /var>Rapid Recast<var 49 01 /var><var 48 01 /var> +25%\nDamage Taken -7%\nMaximum HP +15%<tab>Grants Rapid Recast. Reduces damage taken. Increases maximum HP."
+    },
+    {
+      "id": "0x00000024",
+      "text": "astral band<tab>astral bands<tab>Astral Band<tab><var 48 F201FA /var><var 49 F201FB /var>Rapid Recast<var 49 01 /var><var 48 01 /var> +15%\nPhysical Vulnerability -8%<tab>Grants Rapid Recast. Reduces physical damage taken."
+    },
+    {
+      "id": "0x00000025",
+      "text": "astral wristlet<tab>astral wristlets<tab>Astral Wristlet<tab><var 48 F201FA /var><var 49 F201FB /var>Rapid Recast<var 49 01 /var><var 48 01 /var> +15%\nMagic Vulnerability -8%<tab>Grants Rapid Recast. Reduces magic damage taken."
+    },
+    {
+      "id": "0x00000026",
+      "text": "flame-wreathed axe<tab>flame-wreathed axes<tab>Flame-wreathed Axe<tab>Deals additional fire damage with a potency of 240 after each auto-attack.\nAdditional damage is affected by magic damage increase effects of other beast gear, items, and abilities.\nWhen carrying multiple pieces of beast gear that influence auto-attacks, only one will take effect.<tab>Adds fire damage to auto-attacks."
+    },
+    {
+      "id": "0x00000027",
+      "text": "icebitten axe<tab>icebitten axes<tab>Icebitten Axe<tab>Deals additional ice damage with a potency of 240 after each auto-attack.\nAdditional damage is affected by magic damage increase effects of other beast gear, items, and abilities.\nWhen carrying multiple pieces of beast gear that influence auto-attacks, only one will take effect.<tab>Adds ice damage to auto-attacks."
+    },
+    {
+      "id": "0x00000028",
+      "text": "thunderstruck axe<tab>thunderstruck axes<tab>Thunderstruck Axe<tab>Deals additional lightning damage with a potency of 240 after each auto-attack.\nAdditional damage is affected by magic damage increase effects of other beast gear, items, and abilities.\nWhen carrying multiple pieces of beast gear that influence auto-attacks, only one will take effect.<tab>Adds lightning damage to auto-attacks."
+    },
+    {
+      "id": "0x00000029",
+      "text": "earthcrushed axe<tab>earthcrushed axes<tab>Earthcrushed Axe<tab>Deals additional earth damage with a potency of 240 after each auto-attack.\nAdditional damage is affected by magic damage increase effects of other beast gear, items, and abilities.\nWhen carrying multiple pieces of beast gear that influence auto-attacks, only one will take effect.<tab>Adds earth damage to auto-attacks."
+    },
+    {
+      "id": "0x0000002A",
+      "text": "deepdrowned axe<tab>deepdrowned axes<tab>Deepdrowned Axe<tab>Deals additional water damage with a potency of 240 after each auto-attack.\nAdditional damage is affected by magic damage increase effects of other beast gear, items, and abilities.\nWhen carrying multiple pieces of beast gear that influence auto-attacks, only one will take effect.<tab>Adds water damage to auto-attacks."
+    },
+    {
+      "id": "0x0000002B",
+      "text": "windblown axe<tab>windblown axes<tab>Windblown Axe<tab>Deals additional wind damage with a potency of 240 after each auto-attack.\nAdditional damage is affected by magic damage increase effects of other beast gear, items, and abilities.\nWhen carrying multiple pieces of beast gear that influence auto-attacks, only one will take effect.<tab>Adds wind damage to auto-attacks."
+    },
+    {
+      "id": "0x0000002C",
+      "text": "ninja suit<tab>ninja suits<tab>Ninja Suit<tab>Maximum HP +17%\nEvasion +8%\nGrants one stack of <var 48 F201FA /var><var 49 F201FB /var>Haste<var 49 01 /var><var 48 01 /var> for each attack evaded.\n<var 48 F2023B /var><var 49 F2023C /var>Haste Effect:<var 49 01 /var><var 48 01 /var> Reduces weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay by 2%\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 60s\n<var 48 F2023B /var><var 49 F2023C /var>Maximum Stacks:<var 49 01 /var><var 48 01 /var> 5<tab>Increases maximum HP and evasion. Grants Haste upon dodging."
+    },
+    {
+      "id": "0x0000002D",
+      "text": "pair of ninja gloves<tab>pairs of ninja gloves<tab>Ninja Gloves<tab><var 48 F201FA /var><var 49 F201FB /var>Haste<var 49 01 /var><var 48 01 /var> +2%\nPhysical Damage Dealt +3%<tab>Grants Haste. Increases physical damage dealt."
+    },
+    {
+      "id": "0x0000002E",
+      "text": "ninja eyepatch<tab>ninja eyepatches<tab>Ninja Eyepatch<tab><var 48 F201FA /var><var 49 F201FB /var>Haste<var 49 01 /var><var 48 01 /var> +5%\nCritical Hit Rate +5%<tab>Grants Haste. Increases critical hit rate."
+    },
+    {
+      "id": "0x0000002F",
+      "text": "wind shield<tab>wind shields<tab>Wind Shield<tab>30% chance to absorb wind damage as HP.\n50% chance to grant <var 48 F201FA /var><var 49 F201FB /var>Blink<var 49 01 /var><var 48 01 /var> upon blocking with shield.\n<var 48 F2023B /var><var 49 F2023C /var>Blink Effect:<var 49 01 /var><var 48 01 /var> Nullifies most physical attacks, reducing one stack per nullification\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 120s<tab>May absorb wind damage. May grant Blink upon shield block."
+    },
+    {
+      "id": "0x00000030",
+      "text": "wind mask<tab>wind masks<tab>Wind Mask<tab>Magic Vulnerability -10%\nIncreases HP recovery via actions and crucible items by 15%.\nGrants <var 48 F201FA /var><var 49 F201FB /var>Keen Edge<var 49 01 /var><var 48 01 /var> upon evading an attack.\n<var 48 F2023B /var><var 49 F2023C /var>Keen Edge Effect:<var 49 01 /var><var 48 01 /var> Inflicts damage over time on self in exchange for increasing damage dealt by 30%\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 21s<tab>Reduces magic damage taken. Increases HP recovery. Grants Keen Edge upon dodging."
+    },
+    {
+      "id": "0x00000031",
+      "text": "suit of wind armor<tab>suits of wind armor<tab>Wind Armor<tab>Damage Taken -15%\nMagic Damage Dealt +20%\nIncreases HP recovery via actions and crucible items by 30%.<tab>Reduces damage taken. Increases magic damage dealt and HP recovery."
+    },
+    {
+      "id": "0x00000032",
+      "text": "heavy axe<tab>heavy axes<tab>Heavy Axe<tab>Damage Dealt +25%\nMovement Speed -20%<tab>Increases damage dealt. Reduces movement speed."
+    },
+    {
+      "id": "0x00000033",
+      "text": "suit of mythril armor<tab>suits of mythril armor<tab>Mythril Armor<tab>Damage Taken -15%\nMaximum HP +15%<tab>Reduces damage taken. Increases maximum HP."
+    },
+    {
+      "id": "0x00000034",
+      "text": "pair of mythril gloves<tab>pairs of mythril gloves<tab>Mythril Gloves<tab>Damage Taken -5%\nPhysical Damage Dealt +5%\nMaximum HP +5%<tab>Reduces damage taken. Increases physical damage dealt and maximum HP."
+    },
+    {
+      "id": "0x00000035",
+      "text": "pair of mythril greaves<tab>pairs of mythril greaves<tab>Mythril Greaves<tab>Damage Taken -10%\nMaximum HP +5%<tab>Reduces damage taken. Increases maximum HP."
+    },
+    {
+      "id": "0x00000036",
+      "text": "beast mask<tab>beast masks<tab>Beast Mask<tab>Physical Vulnerability -10%\nCritical Hit Rate +15%<tab>Reduces physical damage taken. Increases critical hit rate."
+    },
+    {
+      "id": "0x00000037",
+      "text": "beastly knife<tab>beastly knives<tab>Beastly Knife<tab>Critical Hit Rate +8%\n25% chance to grant one stack of <var 48 F201FA /var><var 49 F201FB /var>Damage Up<var 49 01 /var><var 48 01 /var> upon landing a critical hit.\n<var 48 F2023B /var><var 49 F2023C /var>Damage Up Effect:<var 49 01 /var><var 48 01 /var> Increases damage dealt by 3%\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 30s\n<var 48 F2023B /var><var 49 F2023C /var>Maximum Stacks:<var 49 01 /var><var 48 01 /var> 8<tab>Increases critical hit rate. May increase damage dealt upon critical hit."
+    },
+    {
+      "id": "0x00000038",
+      "text": "beast earring<tab>beast earrings<tab>Beast Earring<tab>Critical Hit Rate +15%\nMaximum HP +2%<tab>Increases critical hit rate and maximum HP."
+    },
+    {
+      "id": "0x00000039",
+      "text": "thief's knife<tab>thief's knives<tab>Thief's Knife<tab><var 48 F201FA /var><var 49 F201FB /var>Haste<var 49 01 /var><var 48 01 /var> +1%\nGrants two items on treasure spaces.<tab>Grants Haste and two items on treasure spaces."
+    },
+    {
+      "id": "0x0000003A",
+      "text": "set of thief's garb<tab>sets of thief's garb<tab>Thief's Garb<tab>Loot Drop Rate +80%\nDamage Taken -8%\nMaximum HP +18%<tab>Increases loot drop rate and maximum HP. Reduces damage taken."
+    },
+    {
+      "id": "0x0000003B",
+      "text": "pair of thief's gloves<tab>pairs of thief's gloves<tab>Thief's Gloves<tab>Loot Drop Rate +70%\n<var 48 F201FA /var><var 49 F201FB /var>Haste<var 49 01 /var><var 48 01 /var> +2%<tab>Increases loot drop rate. Grants Haste."
+    },
+    {
+      "id": "0x0000003C",
+      "text": "pair of thief's boots<tab>pairs of thief's boots<tab>Thief's Boots<tab>Loot Drop Rate +40%\nEvasion +2%<tab>Increases loot drop rate and evasion."
+    },
+    {
+      "id": "0x0000003D",
+      "text": "thunder axe<tab>thunder axes<tab>Thunder Axe<tab>Damage Dealt +30%\n5% chance to inflict <var 48 F201FA /var><var 49 F201FB /var>Stun<var 49 01 /var><var 48 01 /var> on self upon suffering damage.\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 3s<tab>Increases damage dealt. May inflict Stun on self upon suffering damage."
+    },
+    {
+      "id": "0x0000003E",
+      "text": "suit of thunder armor<tab>suits of thunder armor<tab>Thunder Armor<tab>30% chance to absorb lightning damage as HP.\n5% chance of granting one stack of <var 48 F201FA /var><var 49 F201FB /var>High Wire<var 49 01 /var><var 48 01 /var> upon landing a critical hit.\n<var 48 F2023B /var><var 49 F2023C /var>High Wire Effect:<var 49 01 /var><var 48 01 /var> Increases damage dealt by 10% and reduces damage taken by 5%\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 180s\n<var 48 F2023B /var><var 49 F2023C /var>Maximum Stacks:<var 49 01 /var><var 48 01 /var> 4<tab>May absorb lightning damage. May grant High Wire upon critical hit."
+    },
+    {
+      "id": "0x0000003F",
+      "text": "warded shield<tab>warded shields<tab>Warded Shield<tab>Grants one stack of <var 48 F201FA /var><var 49 F201FB /var>Magic Vulnerability Down<var 49 01 /var><var 48 01 /var> upon blocking with shield.\n<var 48 F2023B /var><var 49 F2023C /var>Magic Vulnerability Down Effect:<var 49 01 /var><var 48 01 /var> Reduces magic damage taken by 5%\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 60s\n<var 48 F2023B /var><var 49 F2023C /var>Maximum Stacks:<var 49 01 /var><var 48 01 /var> 8<tab>Reduces magic damage taken upon shield block."
+    },
+    {
+      "id": "0x00000040",
+      "text": "gold hairpin<tab>gold hairpins<tab>Gold Hairpin<tab><var 48 F201FA /var><var 49 F201FB /var>Rapid Recast<var 49 01 /var><var 48 01 /var> +10%\n25% chance to recover TP upon completing a combo with a beastmaster instinctual skill.<tab>Grants Rapid Recast. May recover TP upon familiar combo."
+    },
+    {
+      "id": "0x00000041",
+      "text": "flame knife<tab>flame knives<tab>Flame Knife<tab>Damage Dealt +25%\n<var 48 F201FA /var><var 49 F201FB /var>Haste<var 49 01 /var><var 48 01 /var> +5%\n10% chance to inflict <var 48 F201FA /var><var 49 F201FB /var>Chains of Condemnation<var 49 01 /var><var 48 01 /var> on self upon landing a critical hit.\n<var 48 F2023B /var><var 49 F2023C /var>Chains of Condemnation Effect:<var 49 01 /var><var 48 01 /var> Suffers magic damage upon moving\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 9s<tab>Increases damage dealt. Grants Haste. May inflict Chains of Condemnation on self upon critical hit."
+    },
+    {
+      "id": "0x00000042",
+      "text": "flame shield<tab>flame shields<tab>Flame Shield<tab>Block Strength +50%\nDamage Dealt +3%\n30% chance to absorb fire damage as HP.<tab>Increases block strength and damage dealt. May absorb fire damage."
+    },
+    {
+      "id": "0x00000043",
+      "text": "merchant's cap<tab>merchant's caps<tab>Merchant's Cap<tab>Territory Tokens Earned +25%\nCritical Hit Rate -10%\nDamage Dealt +5%<tab>Increases territory tokens earned and damage dealt. Reduces critical hit rate."
+    },
+    {
+      "id": "0x00000044",
+      "text": "set of merchant's garb<tab>sets of merchant's garb<tab>Merchant's Garb<tab>Territory Tokens Earned +25%\nPhysical Vulnerability -10%<tab>Increases territory tokens earned. Reduces physical damage taken."
+    },
+    {
+      "id": "0x00000045",
+      "text": "pair of merchant's shoes<tab>pairs of merchant's shoes<tab>Merchant's Shoes<tab>Territory Tokens Earned +25%\nEvasion +4%\nMaximum HP +12%<tab>Increases territory tokens earned, evasion, and maximum HP."
+    },
+    {
+      "id": "0x00000046",
+      "text": "spirited ring<tab>spirited rings<tab>Spirited Ring<tab>Maximum HP +3%\nTP Accumulation +25%<tab>Increases TP accumulation and maximum HP."
+    },
+    {
+      "id": "0x00000047",
+      "text": "demonic helm<tab>demonic helms<tab>Demonic Helm<tab>Damage Dealt +20%\nTP Accumulation +20%\n1% chance to inflict <var 48 F201FA /var><var 49 F201FB /var>Doom<var 49 01 /var><var 48 01 /var> on self upon suffering damage.\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 2s<tab>Increases damage dealt and TP accumulation. May inflict Doom on self upon suffering damage."
+    },
+    {
+      "id": "0x00000048",
+      "text": "suit of demonic armor<tab>suits of demonic armor<tab>Demonic Armor<tab>Maximum HP +5%\nTP Accumulation +5%\nGrants one stack of <var 48 F201FA /var><var 49 F201FB /var>High Wire<var 49 01 /var><var 48 01 /var> upon defeating an enemy.\n<var 48 F2023B /var><var 49 F2023C /var>High Wire Effect:<var 49 01 /var><var 48 01 /var> Increases damage dealt by 10% and reduces damage taken by 5%\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 180s\n<var 48 F2023B /var><var 49 F2023C /var>Maximum Stacks:<var 49 01 /var><var 48 01 /var> 4<tab>Increases maximum HP and TP accumulation. Grants High Wire upon defeating enemies."
+    },
+    {
+      "id": "0x00000049",
+      "text": "empress hairpin<tab>empress hairpins<tab>Empress Hairpin<tab>Evasion +10%\nMaximum HP -8%\n2% chance to grant one stack of <var 48 F201FA /var><var 49 F201FB /var>Rehabilitation<var 49 01 /var><var 48 01 /var> upon landing a critical hit.\n<var 48 F2023B /var><var 49 F2023C /var>Rehabilitation Effect:<var 49 01 /var><var 48 01 /var> Restores 3% of maximum HP at regular intervals\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 12s\n<var 48 F2023B /var><var 49 F2023C /var>Maximum Stacks:<var 49 01 /var><var 48 01 /var> 8<tab>Increases evasion. Reduces maximum HP. May recover HP upon critical hit."
+    },
+    {
+      "id": "0x0000004A",
+      "text": "haste belt<tab>haste belts<tab>Haste Belt<tab><var 48 F201FA /var><var 49 F201FB /var>Haste<var 49 01 /var><var 48 01 /var> +6%<tab>Grants Haste."
+    },
+    {
+      "id": "0x0000004B",
+      "text": "warrior's buckler<tab>warrior's bucklers<tab>Warrior's Buckler<tab>Block Strength +100%\nPhysical Vulnerability -5%\nMaximum HP +2%<tab>Increases block strength and maximum HP. Reduces physical damage taken."
+    },
+    {
+      "id": "0x0000004C",
+      "text": "G1 beast potion<tab>G1 beast potions<tab>G1 Beast Potion<tab>Restores 10% of HP to self or familiar.<tab>"
+    },
+    {
+      "id": "0x0000004D",
+      "text": "G2 beast potion<tab>G2 beast potions<tab>G2 Beast Potion<tab>Restores 23% of HP to self or familiar.<tab>"
+    },
+    {
+      "id": "0x0000004E",
+      "text": "G3 beast potion<tab>G3 beast potions<tab>G3 Beast Potion<tab>Restores 36% of HP to self or familiar.<tab>"
+    },
+    {
+      "id": "0x0000004F",
+      "text": "G4 beast potion<tab>G4 beast potions<tab>G4 Beast Potion<tab>Restores 50% of HP to self or familiar.<tab>"
+    },
+    {
+      "id": "0x00000050",
+      "text": "pinch of G1 crucible ash<tab>pinches of G1 crucible ash<tab>G1 Crucible Ash<tab>Restores 10% of HP to self and nearby allies.<tab>"
+    },
+    {
+      "id": "0x00000051",
+      "text": "pinch of G2 crucible ash<tab>pinches of G2 crucible ash<tab>G2 Crucible Ash<tab>Restores 25% of HP to self and nearby allies.<tab>"
+    },
+    {
+      "id": "0x00000052",
+      "text": "pinch of G3 crucible ash<tab>pinches of G3 crucible ash<tab>G3 Crucible Ash<tab>Restores 40% of HP to self and nearby allies.<tab>"
+    },
+    {
+      "id": "0x00000053",
+      "text": "bottle of crucible antidote<tab>bottles of crucible antidote<tab>Crucible Antidote<tab>Instantly cures most instances of poison for self or familiar, restoring 25% of maximum HP upon success.\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x00000054",
+      "text": "crucible needle<tab>crucible needles<tab>Crucible Needle<tab>Instantly cures most instances of petrification for familiar, restoring 50% of maximum HP upon success. Additionally grants <var 48 F201FA /var><var 49 F201FB /var>Stoneskin<var 49 01 /var><var 48 01 /var>.\n<var 48 F2023B /var><var 49 F2023C /var>Stoneskin Effect:<var 49 01 /var><var 48 01 /var> Absorbs damage totaling 50% of maximum HP\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 60s\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x00000055",
+      "text": "bottle of crucible eye drops<tab>bottles of crucible eye drops<tab>Crucible Eye Drops<tab>Instantly cures most instances of blindness for self or familiar, restoring 25% of maximum HP upon success.\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x00000056",
+      "text": "phial of G1 antipoison soul serum<tab>phials of G1 antipoison soul serum<tab>G1 Antipoison Soul Serum<tab>Increases poison resistance by 100% for self or familiar.\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 180s\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> When carrying a crimson ribbon, restores 50% of target's total HP\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x00000057",
+      "text": "phial of G2 antipoison soul serum<tab>phials of G2 antipoison soul serum<tab>G2 Antipoison Soul Serum<tab>Increases poison resistance by 100% for self and nearby allies.\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 300s\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> When carrying a crimson ribbon, restores 50% of target's total HP\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x00000058",
+      "text": "phial of G1 antiparalysis soul serum<tab>phials of G1 antiparalysis soul serum<tab>G1 Antiparalysis Soul Serum<tab>Increases paralysis resistance by 100% for self or familiar.\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 180s\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> When carrying a crimson ribbon, restores 50% of target's total HP\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x00000059",
+      "text": "phial of G2 antiparalysis soul serum<tab>phials of G2 antiparalysis soul serum<tab>G2 Antiparalysis Soul Serum<tab>Increases paralysis resistance by 100% for self and nearby allies.\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 300s\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> When carrying a crimson ribbon, restores 50% of target's total HP\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x0000005A",
+      "text": "phial of G1 antiblind soul serum<tab>phials of G1 antiblind soul serum<tab>G1 Antiblind Soul Serum<tab>Increases blind resistance by 100% for self or familiar.\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 180s\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> When carrying a crimson ribbon, restores 50% of target's total HP\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x0000005B",
+      "text": "phial of G2 antiblind soul serum<tab>phials of G2 antiblind soul serum<tab>G2 Antiblind Soul Serum<tab>Increases blind resistance by 100% for self and nearby allies.\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 300s\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> When carrying a crimson ribbon, restores 50% of target's total HP\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x0000005C",
+      "text": "phial of G1 antipetrification soul serum<tab>phials of G1 antipetrification soul serum<tab>G1 Antipetrification Soul Serum<tab>Increases petrification resistance by 100% for self or familiar.\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 180s\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> When carrying a crimson ribbon, restores 50% of target's total HP\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x0000005D",
+      "text": "phial of G2 antipetrification soul serum<tab>phials of G2 antipetrification soul serum<tab>G2 Antipetrification Soul Serum<tab>Increases petrification resistance by 100% for self and nearby allies.\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 300s\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> When carrying a crimson ribbon, restores 50% of target's total HP\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x0000005E",
+      "text": "phial of G1 antisleep soul serum<tab>phials of G1 antisleep soul serum<tab>G1 Antisleep Soul Serum<tab>Increases sleep resistance by 100% for self or familiar.\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 180s\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> When carrying a crimson ribbon, restores 50% of target's total HP\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x0000005F",
+      "text": "phial of G2 antisleep soul serum<tab>phials of G2 antisleep soul serum<tab>G2 Antisleep Soul Serum<tab>Increases sleep resistance by 100% for self and nearby allies.\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 300s\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> When carrying a crimson ribbon, restores 50% of target's total HP\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x00000060",
+      "text": "blessed horn<tab>blessed horns<tab>Blessed Horn<tab>Revives an incapacitated familiar.\n※Can only be used while traversing a Crucible board.<tab>"
+    },
+    {
+      "id": "0x00000061",
+      "text": "beastly smokebomb<tab>beastly smokebombs<tab>Beastly Smokebomb<tab>Creates a distraction, allowing escape from battle. Ineffective against elite enemies and bosses.\nUse by selecting “Flee” upon an enemy space.<tab>"
+    },
+    {
+      "id": "0x00000062",
+      "text": "G1 beastmaster reraiser<tab>G1 beastmaster reraisers<tab>G1 Beastmaster Reraiser<tab>Grants <var 48 F201FA /var><var 49 F201FB /var>Reraise<var 49 01 /var><var 48 01 /var> to self.\n<var 48 F2023B /var><var 49 F2023C /var>Reraise Effect:<var 49 01 /var><var 48 01 /var> 70% chance of automatic revival upon KO<tab>"
+    },
+    {
+      "id": "0x00000063",
+      "text": "G2 beastmaster reraiser<tab>G2 beastmaster reraisers<tab>G2 Beastmaster Reraiser<tab>Grants <var 48 F201FA /var><var 49 F201FB /var>Reraise<var 49 01 /var><var 48 01 /var> to self.\n<var 48 F2023B /var><var 49 F2023C /var>Reraise Effect:<var 49 01 /var><var 48 01 /var> 95% chance of automatic revival upon KO<tab>"
+    },
+    {
+      "id": "0x00000064",
+      "text": "thief's eye<tab>thief's eyes<tab>Thief's Eye<tab>Triples the loot drop rate for the next enemy space cleared.\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 30m\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x00000065",
+      "text": "merchant's eye<tab>merchant's eyes<tab>Merchant's Eye<tab>Doubles the territory tokens earned for the next enemy space cleared.\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 30m\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x00000066",
+      "text": "phial of crucible tannin<tab>phials of crucible tannin<tab>Crucible Tannin<tab>Grants <var 48 F201FA /var><var 49 F201FB /var>Tough Skin<var 49 01 /var><var 48 01 /var> to self or familiar.\n<var 48 F2023B /var><var 49 F2023C /var>Tough Skin Effect:<var 49 01 /var><var 48 01 /var> Reduces damage taken by 20%\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 60s\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> When carrying an ice shield, duration increases to 90s\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x00000067",
+      "text": "phial of crucible stimulant<tab>phials of crucible stimulant<tab>Crucible Stimulant<tab>Grants <var 48 F201FA /var><var 49 F201FB /var>Hasty Spirit<var 49 01 /var><var 48 01 /var> to self or familiar.\n<var 48 F2023B /var><var 49 F2023C /var>Hasty Spirit Effect:<var 49 01 /var><var 48 01 /var> Reduces weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay by 15%\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 60s\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> When carrying thief's gloves, duration increases to 90s\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x00000068",
+      "text": "potion of tempered strength<tab>potions of tempered strength<tab>Potion of Tempered Strength<tab>Grants <var 48 F201FA /var><var 49 F201FB /var>Liquid Strength<var 49 01 /var><var 48 01 /var> to self or familiar.\n<var 48 F2023B /var><var 49 F2023C /var>Liquid Strength Effect:<var 49 01 /var><var 48 01 /var> Increases physical damage dealt by 30%\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 15s\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x00000069",
+      "text": "potion of feral strength<tab>potions of feral strength<tab>Potion of Feral Strength<tab>Inflicts <var 48 F201FA /var><var 49 F201FB /var>Stun<var 49 01 /var><var 48 01 /var> while also granting <var 48 F201FA /var><var 49 F201FB /var>Liquid Strength<var 49 01 /var><var 48 01 /var> to self or familiar.\n<var 48 F2023B /var><var 49 F2023C /var>Stun Duration:<var 49 01 /var><var 48 01 /var> 15s\n<var 48 F2023B /var><var 49 F2023C /var>Liquid Strength Effect:<var 49 01 /var><var 48 01 /var> Increases physical damage dealt by 45%\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 30s\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x0000006A",
+      "text": "potion of tempered magic<tab>potions of tempered magic<tab>Potion of Tempered Magic<tab>Grants <var 48 F201FA /var><var 49 F201FB /var>Liquid Magic<var 49 01 /var><var 48 01 /var> to self or familiar.\n<var 48 F2023B /var><var 49 F2023C /var>Liquid Magic Effect:<var 49 01 /var><var 48 01 /var> Increases magic damage dealt by 30%\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 15s\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x0000006B",
+      "text": "potion of feral magic<tab>potions of feral magic<tab>Potion of Feral Magic<tab>Inflicts <var 48 F201FA /var><var 49 F201FB /var>Nightmare<var 49 01 /var><var 48 01 /var> while also granting <var 48 F201FA /var><var 49 F201FB /var>Liquid Magic<var 49 01 /var><var 48 01 /var> to self or familiar.\n<var 48 F2023B /var><var 49 F2023C /var>Nightmare Duration:<var 49 01 /var><var 48 01 /var> 30s\n<var 48 F2023B /var><var 49 F2023C /var>Liquid Magic Effect:<var 49 01 /var><var 48 01 /var> Increases magic damage dealt by 50%\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 30s\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x0000006C",
+      "text": "potion of tempered intensity<tab>potions of tempered intensity<tab>Potion of Tempered Intensity<tab>Grants <var 48 F201FA /var><var 49 F201FB /var>Liquid Intensity<var 49 01 /var><var 48 01 /var> to self or familiar.\n<var 48 F2023B /var><var 49 F2023C /var>Liquid Intensity Effect:<var 49 01 /var><var 48 01 /var> Increases critical hit rate by 30%\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 30s\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> When carrying silver specs, duration increases to 60s\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x0000006D",
+      "text": "potion of feral intensity<tab>potions of feral intensity<tab>Potion of Feral Intensity<tab>Inflicts <var 48 F201FA /var><var 49 F201FB /var>Petrification<var 49 01 /var><var 48 01 /var> while also granting <var 48 F201FA /var><var 49 F201FB /var>Liquid Intensity<var 49 01 /var><var 48 01 /var> to self or familiar.\n<var 48 F2023B /var><var 49 F2023C /var>Petrification Duration:<var 49 01 /var><var 48 01 /var> 15s\n<var 48 F2023B /var><var 49 F2023C /var>Liquid Intensity Effect:<var 49 01 /var><var 48 01 /var> Increases critical hit rate by 50%\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 30s\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> When carrying silver specs, duration increases to 60s\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x0000006E",
+      "text": "potion of tempered evasion<tab>potions of tempered evasion<tab>Potion of Tempered Evasion<tab>Grants <var 48 F201FA /var><var 49 F201FB /var>Liquid Evasion<var 49 01 /var><var 48 01 /var> to self or familiar.\n<var 48 F2023B /var><var 49 F2023C /var>Liquid Evasion Effect:<var 49 01 /var><var 48 01 /var> Increases evasion by 25%\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 30s\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x0000006F",
+      "text": "potion of feral evasion<tab>potions of feral evasion<tab>Potion of Feral Evasion<tab>Inflicts <var 48 F201FA /var><var 49 F201FB /var>Blind<var 49 01 /var><var 48 01 /var> while also granting <var 48 F201FA /var><var 49 F201FB /var>Liquid Evasion<var 49 01 /var><var 48 01 /var> to self or familiar.\n<var 48 F2023B /var><var 49 F2023C /var>Blind Duration:<var 49 01 /var><var 48 01 /var> 30s\n<var 48 F2023B /var><var 49 F2023C /var>Liquid Evasion Effect:<var 49 01 /var><var 48 01 /var> Increases evasion by 25%\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 60s\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x00000070",
+      "text": "potion of tempered constitution<tab>potions of tempered constitution<tab>Potion of Tempered Constitution<tab>Grants <var 48 F201FA /var><var 49 F201FB /var>Liquid Constitution<var 49 01 /var><var 48 01 /var> while also restoring 10% of HP to self or familiar.\n<var 48 F2023B /var><var 49 F2023C /var>Liquid Constitution Effect:<var 49 01 /var><var 48 01 /var> Increases maximum HP by 20%\nEffect ends upon combat completion.\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x00000071",
+      "text": "potion of feral constitution<tab>potions of feral constitution<tab>Potion of Feral Constitution<tab>Inflicts <var 48 F201FA /var><var 49 F201FB /var>Pollen<var 49 01 /var><var 48 01 /var> while also granting <var 48 F201FA /var><var 49 F201FB /var>Liquid Constitution<var 49 01 /var><var 48 01 /var> and restoring 10% of HP to self or familiar.\n<var 48 F2023B /var><var 49 F2023C /var>Pollen Duration:<var 49 01 /var><var 48 01 /var> 180s\n<var 48 F2023B /var><var 49 F2023C /var>Liquid Constitution Effect:<var 49 01 /var><var 48 01 /var> Increases maximum HP by 30%\nEffect ends upon combat completion.\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x00000072",
+      "text": "potion of breathtaking swiftness<tab>potions of breathtaking swiftness<tab>Potion of Breathtaking Swiftness<tab>Grants <var 48 F201FA /var><var 49 F201FB /var>Spirit of the Breathtaker<var 49 01 /var><var 48 01 /var> to self.\n<var 48 F2023B /var><var 49 F2023C /var>Spirit of the Breathtaker Effect:<var 49 01 /var><var 48 01 /var> Increases movement speed by 20%, evasion by 5%, and poison resistance by 100%\nEffect ends upon combat completion.\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x00000073",
+      "text": "crucible feather<tab>crucible feathers<tab>Crucible Feather<tab>Grants 100 TP to self or familiar.\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> When carrying a spirited ring, grants 250 TP\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x00000074",
+      "text": "bottle of G1 wildfire weakener<tab>bottles of G1 wildfire weakener<tab>G1 Wildfire Weakener<tab>Grants <var 48 F201FA /var><var 49 F201FB /var>Through Fire<var 49 01 /var><var 48 01 /var> to self and nearby allies.\n<var 48 F2023B /var><var 49 F2023C /var>Through Fire Effect:<var 49 01 /var><var 48 01 /var> 50% chance to absorb fire damage as HP\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 15s\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x00000075",
+      "text": "bottle of G2 wildfire weakener<tab>bottles of G2 wildfire weakener<tab>G2 Wildfire Weakener<tab>Grants <var 48 F201FA /var><var 49 F201FB /var>Through Fire<var 49 01 /var><var 48 01 /var> to self and nearby allies.\n<var 48 F2023B /var><var 49 F2023C /var>Through Fire Effect:<var 49 01 /var><var 48 01 /var> 70% chance to absorb fire damage as HP\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 15s\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x00000076",
+      "text": "bottle of G1 wildwave weakener<tab>bottles of G1 wildwave weakener<tab>G1 Wildwave Weakener<tab>Grants <var 48 F201FA /var><var 49 F201FB /var>Through Water<var 49 01 /var><var 48 01 /var> to self and nearby allies.\n<var 48 F2023B /var><var 49 F2023C /var>Through Water Effect:<var 49 01 /var><var 48 01 /var> 50% chance to absorb water damage as HP\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 15s\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x00000077",
+      "text": "bottle of G2 wildwave weakener<tab>bottles of G2 wildwave weakener<tab>G2 Wildwave Weakener<tab>Grants <var 48 F201FA /var><var 49 F201FB /var>Through Water<var 49 01 /var><var 48 01 /var> to self and nearby allies.\n<var 48 F2023B /var><var 49 F2023C /var>Through Water Effect:<var 49 01 /var><var 48 01 /var> 70% chance to absorb water damage as HP\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 15s\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x00000078",
+      "text": "bottle of G1 wildearth weakener<tab>bottles of G1 wildearth weakener<tab>G1 Wildearth Weakener<tab>Grants <var 48 F201FA /var><var 49 F201FB /var>Through Earth<var 49 01 /var><var 48 01 /var> to self and nearby allies.\n<var 48 F2023B /var><var 49 F2023C /var>Through Earth Effect:<var 49 01 /var><var 48 01 /var> 50% chance to absorb earth damage as HP\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 15s\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x00000079",
+      "text": "bottle of G2 wildearth weakener<tab>bottles of G2 wildearth weakener<tab>G2 Wildearth Weakener<tab>Grants <var 48 F201FA /var><var 49 F201FB /var>Through Earth<var 49 01 /var><var 48 01 /var> to self and nearby allies.\n<var 48 F2023B /var><var 49 F2023C /var>Through Earth Effect:<var 49 01 /var><var 48 01 /var> 70% chance to absorb earth damage as HP\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 15s\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x0000007A",
+      "text": "bottle of G1 wildthunder weakener<tab>bottles of G1 wildthunder weakener<tab>G1 Wildthunder Weakener<tab>Grants <var 48 F201FA /var><var 49 F201FB /var>Through Thunder<var 49 01 /var><var 48 01 /var> to self and nearby allies.\n<var 48 F2023B /var><var 49 F2023C /var>Through Thunder Effect:<var 49 01 /var><var 48 01 /var> 50% chance to absorb lightning damage as HP\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 15s\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x0000007B",
+      "text": "bottle of G2 wildthunder weakener<tab>bottles of G2 wildthunder weakener<tab>G2 Wildthunder Weakener<tab>Grants <var 48 F201FA /var><var 49 F201FB /var>Through Thunder<var 49 01 /var><var 48 01 /var> to self and nearby allies.\n<var 48 F2023B /var><var 49 F2023C /var>Through Thunder Effect:<var 49 01 /var><var 48 01 /var> 70% chance to absorb lightning damage as HP\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 15s\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x0000007C",
+      "text": "bottle of G1 wildgale weakener<tab>bottles of G1 wildgale weakener<tab>G1 Wildgale Weakener<tab>Grants <var 48 F201FA /var><var 49 F201FB /var>Through Wind<var 49 01 /var><var 48 01 /var> to self and nearby allies.\n<var 48 F2023B /var><var 49 F2023C /var>Through Wind Effect:<var 49 01 /var><var 48 01 /var> 50% chance to absorb wind damage as HP\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 15s\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x0000007D",
+      "text": "bottle of G2 wildgale weakener<tab>bottles of G2 wildgale weakener<tab>G2 Wildgale Weakener<tab>Grants <var 48 F201FA /var><var 49 F201FB /var>Through Wind<var 49 01 /var><var 48 01 /var> to self and nearby allies.\n<var 48 F2023B /var><var 49 F2023C /var>Through Wind Effect:<var 49 01 /var><var 48 01 /var> 70% chance to absorb wind damage as HP\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 15s\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x0000007E",
+      "text": "bottle of G1 wildfreeze weakener<tab>bottles of G1 wildfreeze weakener<tab>G1 Wildfreeze Weakener<tab>Grants <var 48 F201FA /var><var 49 F201FB /var>Through Ice<var 49 01 /var><var 48 01 /var> to self and nearby allies.\n<var 48 F2023B /var><var 49 F2023C /var>Through Ice Effect:<var 49 01 /var><var 48 01 /var> 50% chance to absorb ice damage as HP\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 15s\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x0000007F",
+      "text": "bottle of G2 wildfreeze weakener<tab>bottles of G2 wildfreeze weakener<tab>G2 Wildfreeze Weakener<tab>Grants <var 48 F201FA /var><var 49 F201FB /var>Through Ice<var 49 01 /var><var 48 01 /var> to self and nearby allies.\n<var 48 F2023B /var><var 49 F2023C /var>Through Ice Effect:<var 49 01 /var><var 48 01 /var> 70% chance to absorb ice damage as HP\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 15s\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x00000080",
+      "text": "fang of fire<tab>fangs of fire<tab>Fang of Fire<tab>Deals ranged fire damage with a potency of 2,500 to target and all enemies within 12 yalms of it.\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> Targets suffering from <var 48 F201FA /var><var 49 F201FB /var>Deep Freeze<var 49 01 /var><var 48 01 /var> receive additional damage with a potency of 1,000\nDamage is affected by magic damage increase effects of other beast gear, items, or abilities.\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x00000081",
+      "text": "fang of ice<tab>fangs of ice<tab>Fang of Ice<tab>Deals ranged ice damage with a potency of 2,000 to target and all enemies within 12 yalms of it.\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> Afflicts target with <var 48 F201FA /var><var 49 F201FB /var>Deep Freeze<var 49 01 /var><var 48 01 /var>\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 20s\nDamage is affected by magic damage increase effects of other beast gear, items, and abilities.\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x00000082",
+      "text": "fang of water<tab>fangs of water<tab>Fang of Water<tab>Deals ranged water damage with a potency of 2,000 to target and all enemies within 12 yalms of it.\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> Removes one beneficial status from target, thereby granting 100 TP\nDamage is affected by magic damage increase effects of other beast gear, items, and abilities.\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x00000083",
+      "text": "fang of lightning<tab>fangs of lightning<tab>Fang of Lightning<tab>Deals ranged lightning damage with a potency of 2,000 to target and all enemies within 12 yalms of it.\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> Afflicts target with <var 48 F201FA /var><var 49 F201FB /var>Paralysis<var 49 01 /var><var 48 01 /var>\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 30s\nDamage is affected by magic damage increase effects of other beast gear, items, and abilities.\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x00000084",
+      "text": "fang of earth<tab>fangs of earth<tab>Fang of Earth<tab>Deals ranged earth damage with a potency of 2,000 to target and all enemies within 12 yalms of it.\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> Afflicts target with <var 48 F201FA /var><var 49 F201FB /var>Heavy<var 49 01 /var><var 48 01 /var>\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 60s\nDamage is affected by magic damage increase effects of other beast gear, items, and abilities.\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x00000085",
+      "text": "fang of wind<tab>fangs of wind<tab>Fang of Wind<tab>Deals ranged wind damage with a potency of 2,000 to target and all enemies within 12 yalms of it.\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> 15-yalm knockback\nDamage is affected by magic damage increase effects of other beast gear, items, and abilities.\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x00000086",
+      "text": "vampiric fang<tab>vampiric fangs<tab>Vampiric Fang<tab>Deals ranged piercing physical damage with a potency of 1,500 to target and all enemies within 12 yalms of it.\nPotency increases up to 3,300 as your maximum HP increases, and damage is partially absorbed as HP.\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x00000087",
+      "text": "bottle of vampiric essence<tab>bottles of vampiric essence<tab>Vampiric Essence<tab>Grants <var 48 F201FA /var><var 49 F201FB /var>Life Siphon<var 49 01 /var><var 48 01 /var> to self or familiar.\n<var 48 F2023B /var><var 49 F2023C /var>Life Siphon Effect:<var 49 01 /var><var 48 01 /var> Absorbs 10% of damage dealt as HP\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 60s\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> When carrying demonic armor, duration increases to 90s\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x00000088",
+      "text": "tome of reflection<tab>tomes of reflection<tab>Tome of Reflection<tab>Grants <var 48 F201FA /var><var 49 F201FB /var>Reflect<var 49 01 /var><var 48 01 /var> to self or familiar.\n<var 48 F2023B /var><var 49 F2023C /var>Reflect Effect:<var 49 01 /var><var 48 01 /var> Reflects most magic attacks back at the caster\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 30s\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> When carrying a hexed hat, duration increases to 60s\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x00000089",
+      "text": "tome of the impervious<tab>tomes of the impervious<tab>Tome of the Impervious<tab>Grants five stacks of <var 48 F201FA /var><var 49 F201FB /var>Blink<var 49 01 /var><var 48 01 /var> to self or familiar.\n<var 48 F2023B /var><var 49 F2023C /var>Blink Effect:<var 49 01 /var><var 48 01 /var> Nullifies most physical attacks, reducing one stack per nullification\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 120s\n<var 48 F2023B /var><var 49 F2023C /var>Spirit of the Breathtaker Effect:<var 49 01 /var><var 48 01 /var> Grants three additional stacks\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x0000008A",
+      "text": "pinch of temporal sand<tab>pinches of temporal sands<tab>Temporal Sand<tab>Grants <var 48 F201FA /var><var 49 F201FB /var>Sandstill<var 49 01 /var><var 48 01 /var> to self.\n<var 48 F2023B /var><var 49 F2023C /var>Sandstill Effect:<var 49 01 /var><var 48 01 /var> Returns you to the moment combat commences upon incapacitation\n※Can only be used outside of combat.<tab>"
+    },
+    {
+      "id": "0x0000008B",
+      "text": "pinch of celestial sand<tab>pinches of celestial sands<tab>Celestial Sand<tab>Calls down a <var 48 02 /var><var 49 11 /var>Starstorm<var 48 01 /var><var 49 01 /var> that deals fire damage with a potency of 3,000 to target and all enemies within 18 yalms of it.\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> Increases <var 48 02 /var><var 49 11 /var>TP Gauge<var 48 01 /var><var 49 01 /var> by 50 for every enemy hit\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> Reduces target's fire resistance by 20%\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 60s\nDamage is affected by magic damage increase effects of other beast gear, items, and abilities.\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x0000008C",
+      "text": "beast potion kit<tab>beast potion kits<tab>Beast Potion Kit<tab>Grants <var 48 F201FA /var><var 49 F201FB /var>Auto-potion<var 49 01 /var><var 48 01 /var> to self.\n<var 48 F2023B /var><var 49 F2023C /var>Auto-potion Effect:<var 49 01 /var><var 48 01 /var> Restores 40% of HP automatically when HP falls below 50%\n50% chance for the effect to expire when triggered. Chance is reduced to 10% when under the effect of <var 48 F201FA /var><var 49 F201FB /var>Spirit of the Breathtaker<var 49 01 /var><var 48 01 /var>.\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 150s\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> When carrying thief's garb, duration increases to 240s\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x0000008D",
+      "text": "beast remedy kit<tab>beast remedy kits<tab>Beast Remedy Kit<tab>Grants <var 48 F201FA /var><var 49 F201FB /var>Auto-remedy<var 49 01 /var><var 48 01 /var> to self.\n<var 48 F2023B /var><var 49 F2023C /var>Auto-remedy Effect:<var 49 01 /var><var 48 01 /var> Automatically cures the next status ailment suffered\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 240s\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x0000008E",
+      "text": "spellforge tome<tab>spellforge tomes<tab>Spellforge Tome<tab>Ensures all attacks deal magic damage. Effects also apply to familiars.\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 180s\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x0000008F",
+      "text": "steelsting tome<tab>steelsting tomes<tab>Steelsting Tome<tab>Ensures all attacks deliver physical damage. Effects also apply to familiars.\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 180s\n※Can only be used on Crucible battlegrounds.<tab>"
+    },
+    {
+      "id": "0x00000090",
+      "text": "G1 primafodder<tab>G1 primafodders<tab>G1 Primafodder<tab>Maximum HP +15%\nDamage Dealt +5%\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> Restores 10% of HP upon consumption\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> Increases familiar's earned EXP by 25%\n[Suitable for beastkin, vilekin, cloudkin, seedkin, wavekin, scalekin, soulkin, and ashkin.]<tab>"
+    },
+    {
+      "id": "0x00000091",
+      "text": "G2 primafodder<tab>G2 primafodders<tab>G2 Primafodder<tab>Maximum HP +30%\nDamage Dealt +10%\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> Restores 18% of HP upon consumption\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> Increases familiar's earned EXP by 50%\n[Suitable for beastkin, vilekin, cloudkin, seedkin, wavekin, scalekin, soulkin, and ashkin.]<tab>"
+    },
+    {
+      "id": "0x00000092",
+      "text": "meat simular<tab>meat simulars<tab>Meat Simular<tab>Physical Damage Dealt +20%\n[Suitable for beastkin, vilekin, cloudkin, seedkin, wavekin, scalekin, and ashkin.]<tab>"
+    },
+    {
+      "id": "0x00000093",
+      "text": "hydrolixer<tab>hydrolixers<tab>Hydrolixer<tab><var 48 02 /var><var 49 11 /var>Aetheric Burst<var 48 01 /var><var 49 01 /var> Potency +35%\n[Suitable for beastkin, vilekin, cloudkin, seedkin, wavekin, scalekin, and ashkin.]<tab>"
+    },
+    {
+      "id": "0x00000094",
+      "text": "honey simular<tab>honey simulars<tab>Honey Simular<tab>Physical Vulnerability -25%\n<var 48 02 /var><var 49 11 /var>Aetheric Burst<var 48 01 /var><var 49 01 /var> Potency +10%\n[Suitable for beastkin, vilekin, cloudkin, seedkin, wavekin, scalekin, and ashkin.]<tab>"
+    },
+    {
+      "id": "0x00000095",
+      "text": "crab ball simular<tab>crab ball simulars<tab>Crab Ball Simular<tab>Critical Hit Rate +35%\nMagic Vulnerability -30%\nMaximum HP +10%\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> Restores 7% of HP upon consumption\n[Suitable for soulkin.]<tab>"
+    },
+    {
+      "id": "0x00000096",
+      "text": "banana simular<tab>banana simulars<tab>Banana Simular<tab><var 48 02 /var><var 49 11 /var>Aetheric Burst<var 48 01 /var><var 49 01 /var> Potency +10%\nGrants one stack of <var 48 F201FA /var><var 49 F201FB /var>Physical Damage Up<var 49 01 /var><var 48 01 /var> upon landing a critical hit.\n<var 48 F2023B /var><var 49 F2023C /var>Physical Damage Up Effect:<var 49 01 /var><var 48 01 /var> Increases physical damage dealt by 10%\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 30s\n<var 48 F2023B /var><var 49 F2023C /var>Maximum Stacks:<var 49 01 /var><var 48 01 /var> 5\n[Suitable for beastkin, vilekin, cloudkin, seedkin, wavekin, scalekin, and ashkin.]<tab>"
+    },
+    {
+      "id": "0x00000097",
+      "text": "berry simular<tab>berry simulars<tab>Berry Simular<tab>Critical Hit Power +60\n<var 48 02 /var><var 49 11 /var>Aetheric Burst<var 48 01 /var><var 49 01 /var> Potency +10%\n[Suitable for beastkin, vilekin, cloudkin, seedkin, wavekin, scalekin, and ashkin.]<tab>"
+    },
+    {
+      "id": "0x00000098",
+      "text": "egg simular<tab>egg simulars<tab>Egg Simular<tab><var 48 F201FA /var><var 49 F201FB /var>Haste<var 49 01 /var><var 48 01 /var> +5%\nPhysical Damage Dealt +25%\n[Suitable for beastkin, vilekin, cloudkin, wavekin, and scalekin.]<tab>"
+    },
+    {
+      "id": "0x00000099",
+      "text": "yellow egg simular<tab>yellow egg simulars<tab>Yellow Egg Simular<tab><var 48 F201FA /var><var 49 F201FB /var>Haste<var 49 01 /var><var 48 01 /var> +15%\nDamage Dealt +5%\nMaximum HP +35%\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> Restores 20% of HP upon consumption\n[Suitable for seedkin.]<tab>"
+    },
+    {
+      "id": "0x0000009A",
+      "text": "tomato simular<tab>tomato simulars<tab>Tomato Simular<tab>Evasion +10%\nPhysical Damage Dealt +10%\n[Suitable for beastkin, vilekin, cloudkin, seedkin, wavekin, and ashkin.]<tab>"
+    },
+    {
+      "id": "0x0000009B",
+      "text": "milk simular<tab>milk simulars<tab>Milk Simular<tab><var 48 F201FA /var><var 49 F201FB /var>Haste<var 49 01 /var><var 48 01 /var> +5%\nMaximum HP +50%\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> Restores 26% of HP upon consumption\n[Suitable for beastkin, vilekin, cloudkin, wavekin, and scalekin.]<tab>"
+    },
+    {
+      "id": "0x0000009C",
+      "text": "rolanberry cheese simular<tab>rolanberry cheese simulars<tab>Rolanberry Cheese Simular<tab><var 48 F201FA /var><var 49 F201FB /var>Haste<var 49 01 /var><var 48 01 /var> +5%\n<var 48 02 /var><var 49 11 /var>Aetheric Burst<var 48 01 /var><var 49 01 /var> Potency +25%\n[Suitable for beastkin, vilekin, cloudkin, wavekin, and scalekin.]<tab>"
+    },
+    {
+      "id": "0x0000009D",
+      "text": "porcini simular<tab>porcini simulars<tab>Porcini Simular<tab>Poison Resistance +100%\nDamage Taken -10%\n[Suitable for beastkin, vilekin, cloudkin, seedkin, wavekin, scalekin, soulkin, and ashkin.]<tab>"
+    },
+    {
+      "id": "0x0000009E",
+      "text": "morel simular<tab>morel simulars<tab>Morel Simular<tab>Paralysis Resistance +100%\nDamage Taken -10%\n[Suitable for beastkin, vilekin, cloudkin, seedkin, wavekin, scalekin, soulkin, and ashkin.]<tab>"
+    },
+    {
+      "id": "0x0000009F",
+      "text": "black truffle simular<tab>black truffle simulars<tab>Black Truffle Simular<tab>Blind Resistance +100%\nDamage Taken -10%\n[Suitable for beastkin, vilekin, cloudkin, seedkin, wavekin, scalekin, soulkin, and ashkin.]<tab>"
+    },
+    {
+      "id": "0x000000A0",
+      "text": "white truffle simular<tab>white truffle simulars<tab>White Truffle Simular<tab>Petrification Resistance +100%\nDamage Taken -10%\n[Suitable for beastkin, vilekin, cloudkin, seedkin, wavekin, scalekin, soulkin, and ashkin.]<tab>"
+    },
+    {
+      "id": "0x000000A1",
+      "text": "mushroom simular<tab>mushroom simulars<tab>Mushroom Simular<tab>Sleep Resistance +100%\nDamage Taken -10%\n[Suitable for beastkin, vilekin, cloudkin, seedkin, wavekin, scalekin, soulkin, and ashkin.]<tab>"
+    },
+    {
+      "id": "0x000000A2",
+      "text": "sole simular<tab>sole simulars<tab>Sole Simular<tab>Physical Damage Dealt +20%\nTP Accumulation +50%\n[Suitable for cloudkin.]<tab>"
+    },
+    {
+      "id": "0x000000A3",
+      "text": "magnum water<tab>magnum waters<tab>Magnum Water<tab>Maximum HP +30%\nDamage Dealt +15%\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> Restores 18% of HP upon consumption\nGrants one stack of <var 48 F201FA /var><var 49 F201FB /var>Rehabilitation<var 49 01 /var><var 48 01 /var> upon defeating an enemy.\n<var 48 F2023B /var><var 49 F2023C /var>Rehabilitation Effect:<var 49 01 /var><var 48 01 /var> Restores 3% of maximum HP at regular intervals\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 6s\n<var 48 F2023B /var><var 49 F2023C /var>Maximum Stacks:<var 49 01 /var><var 48 01 /var> 8\n[Suitable for wavekin.]<tab>"
+    },
+    {
+      "id": "0x000000A4",
+      "text": "blood simular<tab>blood simulars<tab>Blood Simular<tab>Critical Hit Rate +50%\nDamage Dealt +35%\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> Inflicts damage over time on self\n[Suitable for vilekin.]<tab>"
+    },
+    {
+      "id": "0x000000A5",
+      "text": "noble blood simular<tab>noble blood simulars<tab>Noble Blood Simular<tab>Maximum HP +20%\nCritical Hit Rate +15%\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> Restores 13% of HP upon consumption\n5% chance to grant one stack of <var 48 F201FA /var><var 49 F201FB /var>Rehabilitation<var 49 01 /var><var 48 01 /var> upon landing a critical hit.\n<var 48 F2023B /var><var 49 F2023C /var>Rehabilitation Effect:<var 49 01 /var><var 48 01 /var> Restores 3% of maximum HP at regular intervals\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 6s\n<var 48 F2023B /var><var 49 F2023C /var>Maximum Stacks:<var 49 01 /var><var 48 01 /var> 8\n[Suitable for wavekin.]<tab>"
+    },
+    {
+      "id": "0x000000A6",
+      "text": "lily simular<tab>lily simulars<tab>Lily Simular<tab>Damage Dealt +10%\nDamage Taken -10%\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> Preserves the effects of feed when resting at a campsite\n[Suitable for beastkin, vilekin, cloudkin, seedkin, wavekin, scalekin, soulkin, and ashkin.]<tab>"
+    },
+    {
+      "id": "0x000000A7",
+      "text": "flounder simular<tab>flounder simulars<tab>Flounder Simular<tab>Physical Damage Dealt +10%\n30% chance to recover TP upon completing a combo with a familiar instinctual skill.\n[Suitable for beastkin, vilekin, seedkin, wavekin, scalekin, and ashkin.]<tab>"
+    },
+    {
+      "id": "0x000000A8",
+      "text": "white scorpion simular<tab>white scorpion simulars<tab>White Scorpion Simular<tab>Grants <var 48 F201FA /var><var 49 F201FB /var>Reflect<var 49 01 /var><var 48 01 /var> when summoned by a beastmaster.\n<var 48 F2023B /var><var 49 F2023C /var>Reflect Effect:<var 49 01 /var><var 48 01 /var> Reflects most magic attacks back at the caster\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 60s\n[Suitable for scalekin.]<tab>"
+    },
+    {
+      "id": "0x000000A9",
+      "text": "black scorpion simular<tab>black scorpion simulars<tab>Black Scorpion Simular<tab>Damage Dealt +15%\nDamage Taken -35%\n3% chance to inflict <var 48 F201FA /var><var 49 F201FB /var>Poison<var 49 01 /var><var 48 01 /var> on self upon suffering damage.\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 30s\n[Suitable for scalekin.]<tab>"
+    },
+    {
+      "id": "0x000000AA",
+      "text": "herring simular<tab>herring simulars<tab>Herring Simular<tab><var 48 02 /var><var 49 11 /var>Aetheric Burst<var 48 01 /var><var 49 01 /var> Potency +25%\n35% chance to recover TP upon completing a combo with a familiar instinctual skill.\n[Suitable for cloudkin.]<tab>"
+    },
+    {
+      "id": "0x000000AB",
+      "text": "angelfish simular<tab>angelfish simulars<tab>Angelfish Simular<tab>Damage Taken -10%\nTP Accumulation +30%\n[Suitable for beastkin, vilekin, seedkin, wavekin, and ashkin.]<tab>"
+    },
+    {
+      "id": "0x000000AC",
+      "text": "grape simular<tab>grape simulars<tab>Grape Simular<tab>Critical Hit Rate +35%\nPhysical Damage Dealt +15%\n[Suitable for beastkin, vilekin, cloudkin, seedkin, wavekin, scalekin, and ashkin.]<tab>"
+    },
+    {
+      "id": "0x000000AD",
+      "text": "orange simular<tab>orange simulars<tab>Orange Simular<tab>Critical Hit Rate +25%\n<var 48 02 /var><var 49 11 /var>Aetheric Burst<var 48 01 /var><var 49 01 /var> Potency +20%\n[Suitable for beastkin, vilekin, cloudkin, seedkin, wavekin, scalekin, and ashkin.]<tab>"
+    },
+    {
+      "id": "0x000000AE",
+      "text": "lugworm simular<tab>lugworm simulars<tab>Lugworm Simular<tab>Maximum HP +30%\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> Restores 18% of HP upon consumption\nGrants one stack of <var 48 F201FA /var><var 49 F201FB /var>Magic Vulnerability Down<var 49 01 /var><var 48 01 /var> upon suffering damage.\n<var 48 F2023B /var><var 49 F2023C /var>Magic Vulnerability Down Effect:<var 49 01 /var><var 48 01 /var> Reduces magic damage taken by 5%\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 60s\n<var 48 F2023B /var><var 49 F2023C /var>Maximum Stacks:<var 49 01 /var><var 48 01 /var> 8\n[Suitable for soulkin.]<tab>"
+    },
+    {
+      "id": "0x000000AF",
+      "text": "crucible tonic<tab>crucible tonics<tab>Crucible Tonic<tab>Grants one stack of <var 48 F201FA /var><var 49 F201FB /var>High Wire<var 49 01 /var><var 48 01 /var> upon defeating an enemy.\n<var 48 F2023B /var><var 49 F2023C /var>High Wire Effect:<var 49 01 /var><var 48 01 /var> Increases damage dealt by 15% and reduces damage taken by 8%\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 60s\n<var 48 F2023B /var><var 49 F2023C /var>Maximum Stacks:<var 49 01 /var><var 48 01 /var> 4\n[Suitable for beastkin, vilekin, cloudkin, seedkin, wavekin, scalekin, soulkin, and ashkin.]<tab>"
+    },
+    {
+      "id": "0x000000B0",
+      "text": "carrot simular<tab>carrot simulars<tab>Carrot Simular<tab>Evasion +10%\n<var 48 02 /var><var 49 11 /var>Aetheric Burst<var 48 01 /var><var 49 01 /var> Potency +5%\n[Suitable for beastkin, vilekin, cloudkin, seedkin, wavekin, and ashkin.]<tab>"
+    },
+    {
+      "id": "0x000000B1",
+      "text": "onion simular<tab>onion simulars<tab>Onion Simular<tab>Evasion +15%\nDamage Taken -5%\n[Suitable for beastkin, vilekin, cloudkin, seedkin, wavekin, and ashkin.]<tab>"
+    },
+    {
+      "id": "0x000000B2",
+      "text": "lettuce simular<tab>lettuce simulars<tab>Lettuce Simular<tab>Evasion +5%\nGrants one stack of <var 48 F201FA /var><var 49 F201FB /var>High Wire<var 49 01 /var><var 48 01 /var> for each attack evaded.\n<var 48 F2023B /var><var 49 F2023C /var>High Wire Effect:<var 49 01 /var><var 48 01 /var> Increases damage dealt by 15% and reduces damage taken by 8%\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 60s\n<var 48 F2023B /var><var 49 F2023C /var>Maximum Stacks:<var 49 01 /var><var 48 01 /var> 4\n[Suitable for beastkin, vilekin, cloudkin, seedkin, wavekin, and ashkin.]<tab>"
+    },
+    {
+      "id": "0x000000B3",
+      "text": "lemon simular<tab>lemon simulars<tab>Lemon Simular<tab><var 48 02 /var><var 49 11 /var>Aetheric Burst<var 48 01 /var><var 49 01 /var> Potency +10%\nGrants one stack of <var 48 F201FA /var><var 49 F201FB /var>Blink<var 49 01 /var><var 48 01 /var> upon landing a critical hit.\n<var 48 F2023B /var><var 49 F2023C /var>Blink Effect:<var 49 01 /var><var 48 01 /var> Nullifies most physical attacks, reducing one stack per nullification\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 120s\n<var 48 F2023B /var><var 49 F2023C /var>Maximum Stacks:<var 49 01 /var><var 48 01 /var> 5\n[Suitable for beastkin, vilekin, cloudkin, seedkin, wavekin, scalekin, and ashkin.]<tab>"
+    },
+    {
+      "id": "0x000000B4",
+      "text": "untaming oil<tab>untaming oils<tab>Untaming Oil<tab><var 48 F201FA /var><var 49 F201FB /var>Haste<var 49 01 /var><var 48 01 /var> +20%\nGrants one stack of <var 48 F201FA /var><var 49 F201FB /var>High Wire<var 49 01 /var><var 48 01 /var> for each combo completed with a familiar instinctual skill.\n<var 48 F2023B /var><var 49 F2023C /var>High Wire Effect:<var 49 01 /var><var 48 01 /var> Increases damage dealt by 15% and reduces damage taken by 8%\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 60s\n<var 48 F2023B /var><var 49 F2023C /var>Maximum Stacks:<var 49 01 /var><var 48 01 /var> 4\n[Suitable for soulkin.]<tab>"
+    },
+    {
+      "id": "0x000000B5",
+      "text": "mucus simular<tab>mucus simulars<tab>Mucus Simular<tab>Damage Dealt +30%\nDamage Taken -30%\nInflicts <var 48 F201FA /var><var 49 F201FB /var>Nightmare<var 49 01 /var><var 48 01 /var> on self upon landing a critical hit.\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 30s\n[Suitable for beastkin, vilekin, cloudkin, seedkin, wavekin, scalekin, and ashkin.]<tab>"
+    },
+    {
+      "id": "0x000000B6",
+      "text": "sap simular<tab>sap simulars<tab>Sap Simular<tab>Physical Vulnerability -40%\n<var 48 02 /var><var 49 11 /var>Aetheric Burst<var 48 01 /var><var 49 01 /var> Potency +20%\n[Suitable for scalekin.]<tab>"
+    },
+    {
+      "id": "0x000000B7",
+      "text": "salt simular<tab>salt simulars<tab>Salt Simular<tab>Evasion +25%\n15% chance to grant <var 48 F201FA /var><var 49 F201FB /var>Stoneskin<var 49 01 /var><var 48 01 /var> upon evading an attack.\n<var 48 F2023B /var><var 49 F2023C /var>Stoneskin Effect:<var 49 01 /var><var 48 01 /var> Absorbs damage equivalent to 12% of maximum HP\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 60s\n[Suitable for soulkin.]<tab>"
+    },
+    {
+      "id": "0x000000B8",
+      "text": "syrup simular<tab>syrup simulars<tab>Syrup Simular<tab>Damage Dealt +30%\nPhysical Vulnerability -30%\n3% chance to inflict <var 48 F201FA /var><var 49 F201FB /var>Paralysis<var 49 01 /var><var 48 01 /var> on self upon suffering damage.\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 30s\n[Suitable for vilekin.]<tab>"
+    },
+    {
+      "id": "0x000000B9",
+      "text": "cream cheese simular<tab>cream cheese simulars<tab>Cream Cheese Simular<tab>Maximum HP +50%\nDamage Taken -20%\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> Restores 26% of HP upon consumption\n50% chance to grant one stack of <var 48 F201FA /var><var 49 F201FB /var>Haste<var 49 01 /var><var 48 01 /var> upon suffering damage.\n<var 48 F2023B /var><var 49 F2023C /var>Haste Effect:<var 49 01 /var><var 48 01 /var> Reduces weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay by 3%\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 60s\n<var 48 F2023B /var><var 49 F2023C /var>Maximum Stacks:<var 49 01 /var><var 48 01 /var> 5\n[Suitable for seedkin.]<tab>"
+    },
+    {
+      "id": "0x000000BA",
+      "text": "red egg simular<tab>red egg simulars<tab>Red Egg Simular<tab><var 48 F201FA /var><var 49 F201FB /var>Haste<var 49 01 /var><var 48 01 /var> +15%\nDamage Dealt +30%\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> Inflicts damage over time on self\n[Suitable for beastkin, vilekin, cloudkin, wavekin, and scalekin.]<tab>"
+    },
+    {
+      "id": "0x000000BB",
+      "text": "toast simular<tab>toast simulars<tab>Toast Simular<tab>Magic Vulnerability -30%\n[Suitable for beastkin, vilekin, cloudkin, seedkin, wavekin, scalekin, and ashkin.]<tab>"
+    },
+    {
+      "id": "0x000000BC",
+      "text": "cornbread simular<tab>cornbread simulars<tab>Cornbread Simular<tab>Magic Vulnerability -40%\n<var 48 02 /var><var 49 11 /var>Aetheric Burst<var 48 01 /var><var 49 01 /var> Potency +10%\nMaximum HP +15%\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> Restores 10% of HP upon consumption\n[Suitable for vilekin.]<tab>"
+    },
+    {
+      "id": "0x000000BD",
+      "text": "mandrake simular<tab>mandrake simulars<tab>Mandrake Simular<tab>Physical Damage Dealt +40%\nInflicts <var 48 F201FA /var><var 49 F201FB /var>Blind<var 49 01 /var><var 48 01 /var> on self upon landing a critical hit.\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 30s\n[Suitable for beastkin, vilekin, cloudkin, seedkin, wavekin, scalekin, soulkin, and ashkin.]<tab>"
+    },
+    {
+      "id": "0x000000BE",
+      "text": "tarantula simular<tab>tarantula simulars<tab>Tarantula Simular<tab>Critical Hit Rate +25%\nGrants one stack of <var 48 F201FA /var><var 49 F201FB /var>Damage Up<var 49 01 /var><var 48 01 /var> upon landing a critical hit.\n<var 48 F2023B /var><var 49 F2023C /var>Damage Up Effect:<var 49 01 /var><var 48 01 /var> Increases damage dealt by 10%\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 60s\n<var 48 F2023B /var><var 49 F2023C /var>Maximum Stacks:<var 49 01 /var><var 48 01 /var> 5\n[Suitable for soulkin.]<tab>"
+    },
+    {
+      "id": "0x000000BF",
+      "text": "belladonna simular<tab>belladonna simulars<tab>Belladonna Simular<tab>Damage Taken -30%\nMaximum HP +30%\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> Restores 18% of HP upon consumption\n3% chance to inflict <var 48 F201FA /var><var 49 F201FB /var>Petrification<var 49 01 /var><var 48 01 /var> on self upon suffering damage.\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 30s\n[Suitable for beastkin, vilekin, cloudkin, seedkin, wavekin, scalekin, soulkin, and ashkin.]<tab>"
+    },
+    {
+      "id": "0x000000C0",
+      "text": "steak simular<tab>steak simulars<tab>Steak Simular<tab>Delivers blunt physical damage with a potency of 350 each time your familiar suffers physical damage.\nCounter damage is affected by physical damage increase effects of other feed and crucible items, and your familiar's strength.\n[Suitable for beastkin, vilekin, cloudkin, scalekin, and ashkin.]<tab>"
+    },
+    {
+      "id": "0x000000C1",
+      "text": "roe simular<tab>roe simulars<tab>Roe Simular<tab><var 48 02 /var><var 49 11 /var>Aetheric Burst<var 48 01 /var><var 49 01 /var> Potency +10%\n30% chance to recover TP upon completing a combo with a familiar instinctual skill.\n[Suitable for beastkin, vilekin, seedkin, wavekin, scalekin, and ashkin.]<tab>"
+    },
+    {
+      "id": "0x000000C2",
+      "text": "herbal tea simular<tab>herbal tea simulars<tab>Herbal Tea Simular<tab>Grants <var 48 F201FA /var><var 49 F201FB /var>Stoneskin<var 49 01 /var><var 48 01 /var> when summoned by a beastmaster.\n<var 48 F2023B /var><var 49 F2023C /var>Stoneskin Effect:<var 49 01 /var><var 48 01 /var> Absorbs damage equivalent to 24% of maximum HP\n<var 48 F2023B /var><var 49 F2023C /var>Duration:<var 49 01 /var><var 48 01 /var> 60s\n[Suitable for beastkin, vilekin, cloudkin, seedkin, wavekin, scalekin, and ashkin.]<tab>"
+    },
+    {
+      "id": "0x000000C3",
+      "text": "honeycomb simular<tab>honeycomb simulars<tab>Honeycomb Simular<tab>Physical Vulnerability -30%\nDamage Dealt +10%\n30% chance to recover TP upon completing a combo with a familiar instinctual skill.\n[Suitable for soulkin.]<tab>"
+    },
+    {
+      "id": "0x000000C4",
+      "text": "orange juice simular<tab>orange juice simulars<tab>Orange Juice Simular<tab>Magic Damage Dealt +30%\n<var 48 02 /var><var 49 11 /var>Aetheric Burst<var 48 01 /var><var 49 01 /var> Potency +15%\n[Suitable for beastkin, vilekin, cloudkin, seedkin, wavekin, scalekin, and ashkin.]<tab>"
+    },
+    {
+      "id": "0x000000C5",
+      "text": "grape juice simular<tab>grape juice simulars<tab>Grape Juice Simular<tab>Physical Damage Dealt +30%\n<var 48 02 /var><var 49 11 /var>Aetheric Burst<var 48 01 /var><var 49 01 /var> Potency +50%\nMaximum HP -80%\n[Suitable for beastkin, vilekin, cloudkin, seedkin, wavekin, scalekin, and ashkin.]<tab>"
+    },
+    {
+      "id": "0x000000C6",
+      "text": "skewer simular<tab>skewer simulars<tab>Skewer Simular<tab><var 48 F201FA /var><var 49 F201FB /var>Slow<var 49 01 /var><var 48 01 /var> +200%\nPhysical Damage Dealt +50%\n[Suitable for beastkin, vilekin, cloudkin, seedkin, wavekin, scalekin, and ashkin.]<tab>"
+    },
+    {
+      "id": "0x000000C7",
+      "text": "pineapple juice simular<tab>pineapple juice simulars<tab>Pineapple Juice Simular<tab><var 48 F201FA /var><var 49 F201FB /var>Slow<var 49 01 /var><var 48 01 /var> +200%\nMagic Damage Dealt +50%\n[Suitable for beastkin, vilekin, cloudkin, seedkin, wavekin, scalekin, and ashkin.]<tab>"
+    },
+    {
+      "id": "0x000000C8",
+      "text": "oyster simular<tab>oyster simulars<tab>Oyster Simular<tab>Increases <var 48 02 /var><var 49 11 /var>Familiar TP Gauge<var 48 01 /var><var 49 01 /var> by 100 upon commencing battle or when summoned by a beastmaster during combat.\n[Suitable for cloudkin.]<tab>"
+    },
+    {
+      "id": "0x000000C9",
+      "text": "blue cheese simular<tab>blue cheese simulars<tab>Blue Cheese Simular<tab>Deals unaspected damage with a potency of 350 each time your familiar suffers magic damage.\nCounter damage is affected by magic damage increase effects of other feed and crucible items, and your familiar's intelligence.\n[Suitable for seedkin and wavekin.]<tab>"
+    },
+    {
+      "id": "0x000000CA",
+      "text": "cottage cheese simular<tab>cottage cheese simulars<tab>Cottage Cheese Simular<tab>Maximum HP +30%\n<var 48 F201FA /var><var 49 F201FB /var>Haste<var 49 01 /var><var 48 01 /var> +15%\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> Restores 18% of HP upon consumption\n30% chance to recover TP upon completing a combo with a familiar instinctual skill.\n[Suitable for vilekin.]<tab>"
+    },
+    {
+      "id": "0x000000CB",
+      "text": "lassi simular<tab>lassi simulars<tab>Lassi Simular<tab>Maximum HP +30%\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> Restores 18% of HP upon consumption\n<var 48 F2023B /var><var 49 F2023C /var>Additional Effect:<var 49 01 /var><var 48 01 /var> Completely restores HP at campsites\n[Suitable for beastkin, vilekin, cloudkin, seedkin, wavekin, and scalekin.]<tab>"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "source_file": "exd/BgcArmyActionTransient_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Orders squadron to engage the enemy.\nCan only be executed while on a <var 48 F201FA /var><var 49 F201FB /var>command mission<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000002",
+      "text": "Orders squadron to disengage the enemy and fall back.\nCan only be executed while on a <var 48 F201FA /var><var 49 F201FB /var>command mission<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000003",
+      "text": "Orders squadron to re-engage the enemy.\nCan only be executed while on a <var 48 F201FA /var><var 49 F201FB /var>command mission<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000004",
+      "text": "Orders squadron to execute a limit break on a single target. Also increases damage dealt by party members within a 20-yalm range.\nCan only be executed while on a <var 48 F201FA /var><var 49 F201FB /var>command mission<var 49 01 /var><var 48 01 /var>, limit gauge is at level 1, and all three squadron members are conscious."
+    },
+    {
+      "id": "0x00000005",
+      "text": "Displays Order Hotbar.\nCan only be executed while on a <var 48 F201FA /var><var 49 F201FB /var>command mission<var 49 01 /var><var 48 01 /var>."
+    }
+  ]
+}

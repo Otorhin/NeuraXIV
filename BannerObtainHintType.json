@@ -1,0 +1,489 @@
+{
+  "source_file": "exd/BannerObtainHintType_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Obtained from gladiator quest progression."
+    },
+    {
+      "id": "0x00000002",
+      "text": "Obtained from marauder quest progression."
+    },
+    {
+      "id": "0x00000003",
+      "text": "Obtained from conjurer quest progression."
+    },
+    {
+      "id": "0x00000004",
+      "text": "Obtained from pugilist quest progression."
+    },
+    {
+      "id": "0x00000005",
+      "text": "Obtained from lancer quest progression."
+    },
+    {
+      "id": "0x00000006",
+      "text": "Obtained from rogue quest progression."
+    },
+    {
+      "id": "0x00000007",
+      "text": "Obtained from archer quest progression."
+    },
+    {
+      "id": "0x00000008",
+      "text": "Obtained from thaumaturge quest progression."
+    },
+    {
+      "id": "0x00000009",
+      "text": "Obtained from arcanist quest progression."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Obtained from carpenter quest progression."
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Obtained from blacksmith quest progression."
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Obtained from armorer quest progression."
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Obtained from goldsmith quest progression."
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Obtained from leatherworker quest progression."
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Obtained from weaver quest progression."
+    },
+    {
+      "id": "0x00000010",
+      "text": "Obtained from alchemist quest progression."
+    },
+    {
+      "id": "0x00000011",
+      "text": "Obtained from culinarian quest progression."
+    },
+    {
+      "id": "0x00000012",
+      "text": "Obtained from miner quest progression."
+    },
+    {
+      "id": "0x00000013",
+      "text": "Obtained from botanist quest progression."
+    },
+    {
+      "id": "0x00000014",
+      "text": "Obtained from fisher quest progression."
+    },
+    {
+      "id": "0x00000015",
+      "text": "Obtained from paladin quest progression."
+    },
+    {
+      "id": "0x00000016",
+      "text": "Obtained from warrior quest progression."
+    },
+    {
+      "id": "0x00000017",
+      "text": "Obtained from dark knight quest progression."
+    },
+    {
+      "id": "0x00000018",
+      "text": "Obtained from gunbreaker quest progression."
+    },
+    {
+      "id": "0x00000019",
+      "text": "Obtained from white mage quest progression."
+    },
+    {
+      "id": "0x0000001A",
+      "text": "Obtained from scholar quest progression."
+    },
+    {
+      "id": "0x0000001B",
+      "text": "Obtained from astrologian quest progression."
+    },
+    {
+      "id": "0x0000001C",
+      "text": "Obtained from sage quest progression."
+    },
+    {
+      "id": "0x0000001D",
+      "text": "Obtained from monk quest progression."
+    },
+    {
+      "id": "0x0000001E",
+      "text": "Obtained from dragoon quest progression."
+    },
+    {
+      "id": "0x0000001F",
+      "text": "Obtained from ninja quest progression."
+    },
+    {
+      "id": "0x00000020",
+      "text": "Obtained from samurai quest progression."
+    },
+    {
+      "id": "0x00000021",
+      "text": "Obtained from reaper quest progression."
+    },
+    {
+      "id": "0x00000022",
+      "text": "Obtained from bard quest progression."
+    },
+    {
+      "id": "0x00000023",
+      "text": "Obtained from machinist quest progression."
+    },
+    {
+      "id": "0x00000024",
+      "text": "Obtained from dancer quest progression."
+    },
+    {
+      "id": "0x00000025",
+      "text": "Obtained from black mage quest progression."
+    },
+    {
+      "id": "0x00000026",
+      "text": "Obtained from summoner quest progression."
+    },
+    {
+      "id": "0x00000027",
+      "text": "Obtained from red mage quest progression."
+    },
+    {
+      "id": "0x00000028",
+      "text": "Obtained from blue mage quest progression."
+    },
+    {
+      "id": "0x00000029",
+      "text": "Obtained from Seventh Umbral Era main scenario quest progression."
+    },
+    {
+      "id": "0x0000002A",
+      "text": "Obtained from Heavensward main scenario quest progression."
+    },
+    {
+      "id": "0x0000002B",
+      "text": "Obtained from Stormblood main scenario quest progression."
+    },
+    {
+      "id": "0x0000002C",
+      "text": "Obtained from Shadowbringers main scenario quest progression."
+    },
+    {
+      "id": "0x0000002D",
+      "text": "Obtained from Endwalker main scenario quest progression."
+    },
+    {
+      "id": "0x0000002E",
+      "text": "Obtained from A Realm Reborn allied society quest progression."
+    },
+    {
+      "id": "0x0000002F",
+      "text": "Obtained from Heavensward allied society quest progression."
+    },
+    {
+      "id": "0x00000030",
+      "text": "Obtained from Stormblood allied society quest progression."
+    },
+    {
+      "id": "0x00000031",
+      "text": "Obtained from Shadowbringers allied society quest progression."
+    },
+    {
+      "id": "0x00000032",
+      "text": "Obtained from Endwalker allied society quest progression."
+    },
+    {
+      "id": "0x00000033",
+      "text": "Obtained from A Realm Reborn sidequest progression."
+    },
+    {
+      "id": "0x00000034",
+      "text": "Obtained from Heavensward sidequest progression."
+    },
+    {
+      "id": "0x00000035",
+      "text": "Obtained from Stormblood sidequest progression."
+    },
+    {
+      "id": "0x00000036",
+      "text": "Obtained from Shadowbringers sidequest progression."
+    },
+    {
+      "id": "0x00000037",
+      "text": "Obtained from Endwalker sidequest progression."
+    },
+    {
+      "id": "0x0000003D",
+      "text": "Obtained by unlocking the relevant Ultimate raid from A Realm Reborn."
+    },
+    {
+      "id": "0x0000003E",
+      "text": "Obtained by unlocking the relevant Ultimate raid from Heavensward."
+    },
+    {
+      "id": "0x0000003F",
+      "text": "Obtained by unlocking the relevant Ultimate raid from Stormblood."
+    },
+    {
+      "id": "0x00000040",
+      "text": "Obtained by unlocking the relevant Ultimate raid from Shadowbringers."
+    },
+    {
+      "id": "0x00000041",
+      "text": "Obtained by unlocking the relevant Ultimate raid from Endwalker."
+    },
+    {
+      "id": "0x00000042",
+      "text": "Obtained by clearing the relevant dungeon from A Realm Reborn."
+    },
+    {
+      "id": "0x00000043",
+      "text": "Obtained by clearing the relevant dungeon from Heavensward."
+    },
+    {
+      "id": "0x00000044",
+      "text": "Obtained by clearing the relevant dungeon from Stormblood."
+    },
+    {
+      "id": "0x00000045",
+      "text": "Obtained by clearing the relevant dungeon from Shadowbringers."
+    },
+    {
+      "id": "0x00000046",
+      "text": "Obtained by clearing the relevant dungeon from Endwalker."
+    },
+    {
+      "id": "0x00000047",
+      "text": "Obtained by completing the relevant trial from A Realm Reborn."
+    },
+    {
+      "id": "0x00000048",
+      "text": "Obtained by completing the relevant trial from Heavensward."
+    },
+    {
+      "id": "0x00000049",
+      "text": "Obtained by completing the relevant trial from Stormblood."
+    },
+    {
+      "id": "0x0000004A",
+      "text": "Obtained by completing the relevant trial from Shadowbringers."
+    },
+    {
+      "id": "0x0000004B",
+      "text": "Obtained by completing the relevant trial from Endwalker."
+    },
+    {
+      "id": "0x0000004C",
+      "text": "Obtained from A Realm Reborn: Chronicles of a New Era quest progression."
+    },
+    {
+      "id": "0x0000004D",
+      "text": "Obtained from Heavensward: Chronicles of a New Era quest progression."
+    },
+    {
+      "id": "0x0000004E",
+      "text": "Obtained from Stormblood: Chronicles of a New Era quest progression."
+    },
+    {
+      "id": "0x0000004F",
+      "text": "Obtained from Shadowbringers: Chronicles of a New Era quest progression."
+    },
+    {
+      "id": "0x00000050",
+      "text": "Obtained from Endwalker: Chronicles of a New Era quest progression."
+    },
+    {
+      "id": "0x00000051",
+      "text": "Obtained by completing the relevant alliance raid from A Realm Reborn."
+    },
+    {
+      "id": "0x00000052",
+      "text": "Obtained by completing the relevant alliance raid from Heavensward."
+    },
+    {
+      "id": "0x00000053",
+      "text": "Obtained by completing the relevant alliance raid from Stormblood."
+    },
+    {
+      "id": "0x00000054",
+      "text": "Obtained by completing the relevant alliance raid from Shadowbringers."
+    },
+    {
+      "id": "0x00000055",
+      "text": "Obtained by completing the relevant alliance raid from Endwalker."
+    },
+    {
+      "id": "0x00000056",
+      "text": "Obtained from viper quest progression."
+    },
+    {
+      "id": "0x00000057",
+      "text": "Obtained from pictomancer quest progression."
+    },
+    {
+      "id": "0x00000058",
+      "text": "Obtained from Dawntrail main scenario quest progression."
+    },
+    {
+      "id": "0x00000059",
+      "text": "Obtained from Dawntrail allied society quest progression."
+    },
+    {
+      "id": "0x0000005A",
+      "text": "Obtained from Dawntrail sidequest progression."
+    },
+    {
+      "id": "0x0000005B",
+      "text": "Obtained by unlocking the relevant Ultimate raid from Dawntrail."
+    },
+    {
+      "id": "0x0000005C",
+      "text": "Obtained by clearing the relevant dungeon from Dawntrail."
+    },
+    {
+      "id": "0x0000005D",
+      "text": "Obtained by completing the relevant trial from Dawntrail."
+    },
+    {
+      "id": "0x0000005E",
+      "text": "Obtained from Dawntrail: Chronicles of a New Era quest progression."
+    },
+    {
+      "id": "0x0000005F",
+      "text": "Obtained by completing the relevant alliance raid from Dawntrail."
+    },
+    {
+      "id": "0x00000060",
+      "text": "Obtained from A Realm Reborn role quest progression."
+    },
+    {
+      "id": "0x00000061",
+      "text": "Obtained from Heavensward role quest progression."
+    },
+    {
+      "id": "0x00000062",
+      "text": "Obtained from Stormblood role quest progression."
+    },
+    {
+      "id": "0x00000063",
+      "text": "Obtained from Shadowbringers role quest progression."
+    },
+    {
+      "id": "0x00000064",
+      "text": "Obtained from Endwalker role quest progression."
+    },
+    {
+      "id": "0x00000065",
+      "text": "Obtained from Dawntrail role quest progression."
+    },
+    {
+      "id": "0x00000066",
+      "text": "Obtained by completing the relevant normal raid from A Realm Reborn."
+    },
+    {
+      "id": "0x00000067",
+      "text": "Obtained by completing the relevant normal raid from Heavensward."
+    },
+    {
+      "id": "0x00000068",
+      "text": "Obtained by completing the relevant normal raid from Stormblood."
+    },
+    {
+      "id": "0x00000069",
+      "text": "Obtained by completing the relevant normal raid from Shadowbringers."
+    },
+    {
+      "id": "0x0000006A",
+      "text": "Obtained by completing the relevant normal raid from Endwalker."
+    },
+    {
+      "id": "0x0000006B",
+      "text": "Obtained by completing the relevant normal raid from Dawntrail."
+    },
+    {
+      "id": "0x0000006C",
+      "text": "Obtained from A Realm Reborn special quest progression."
+    },
+    {
+      "id": "0x0000006D",
+      "text": "Obtained from Heavensward special quest progression."
+    },
+    {
+      "id": "0x0000006E",
+      "text": "Obtained from Stormblood special quest progression."
+    },
+    {
+      "id": "0x0000006F",
+      "text": "Obtained from Shadowbringers special quest progression."
+    },
+    {
+      "id": "0x00000070",
+      "text": "Obtained from Endwalker special quest progression."
+    },
+    {
+      "id": "0x00000071",
+      "text": "Obtained from Dawntrail special quest progression."
+    },
+    {
+      "id": "0x00000072",
+      "text": "Obtained by unlocking the relevant chaotic alliance raid from A Realm Reborn."
+    },
+    {
+      "id": "0x00000073",
+      "text": "Obtained by unlocking the relevant chaotic alliance raid from Heavensward."
+    },
+    {
+      "id": "0x00000074",
+      "text": "Obtained by unlocking the relevant chaotic alliance raid from Stormblood."
+    },
+    {
+      "id": "0x00000075",
+      "text": "Obtained by unlocking the relevant chaotic alliance raid from Shadowbringers."
+    },
+    {
+      "id": "0x00000076",
+      "text": "Obtained by unlocking the relevant chaotic alliance raid from Endwalker."
+    },
+    {
+      "id": "0x00000077",
+      "text": "Obtained by unlocking the relevant chaotic alliance raid from Dawntrail."
+    },
+    {
+      "id": "0x00000078",
+      "text": "Obtained by completing the relevant chaotic alliance raid from A Realm Reborn."
+    },
+    {
+      "id": "0x00000079",
+      "text": "Obtained by completing the relevant chaotic alliance raid from Heavensward."
+    },
+    {
+      "id": "0x0000007A",
+      "text": "Obtained by completing the relevant chaotic alliance raid from Stormblood."
+    },
+    {
+      "id": "0x0000007B",
+      "text": "Obtained by completing the relevant chaotic alliance raid from Shadowbringers."
+    },
+    {
+      "id": "0x0000007C",
+      "text": "Obtained by completing the relevant chaotic alliance raid from Endwalker."
+    },
+    {
+      "id": "0x0000007D",
+      "text": "Obtained by completing the relevant chaotic alliance raid from Dawntrail."
+    },
+    {
+      "id": "0x0000007E",
+      "text": "Obtained from beastmaster quest progression."
+    }
+  ]
+}

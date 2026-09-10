@@ -1,0 +1,29 @@
+{
+  "source_file": "exd/custom/004/HouFurWallpaperPartition_00437_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_HOUFURWALLPAPERPARTITION_00437_Q1_000_000<tab>Текущий дизайн: <var 28 ((Item)) E8020A /var>"
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_HOUFURWALLPAPERPARTITION_00437_Q1_000_001<tab>Текущий дизайн: отсутствует"
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_HOUFURWALLPAPERPARTITION_00437_A1_000_002<tab>Применить дизайн"
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_HOUFURWALLPAPERPARTITION_00437_A1_000_003<tab>Удалить дизайн"
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_HOUFURWALLPAPERPARTITION_00437_A1_000_004<tab>Выйти"
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_HOUFURWALLPAPERPARTITION_00437_Q2_000_000<tab>При удалении из раздела <var 2B ((<var 31 ((Item)) 03E8020202 /var>)) /var> будет выброшен. Вы уверены, что хотите продолжить?"
+    }
+  ]
+}

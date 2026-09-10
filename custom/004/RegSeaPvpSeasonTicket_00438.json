@@ -1,0 +1,65 @@
+{
+  "source_file": "exd/custom/004/RegSeaPvpSeasonTicket_00438_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_REGSEAPVPSEASONTICKET_00438_SEASONREWARD2_000_000<tab>Ах, а вот и кровожадный волк, <var 08 E905 ((queen)) ((king)) /var> стаи! Если при тебе Волчьи ошейники, я сниму их с твоей крепкой шеи и выдам награду."
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_REGSEAPVPSEASONTICKET_00438_MENU_000_000<tab>Что вы хотите сделать?"
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_REGSEAPVPSEASONTICKET_00438_MENU_000_001<tab>Обменять на оружие. (10 ошейников)"
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_REGSEAPVPSEASONTICKET_00438_MENU_000_002<tab>Обмен на волчьи знаки. (1 ошейник)"
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_REGSEAPVPSEASONTICKET_00438_MENU_000_003<tab>Спросите о волчьих ошейниках."
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_REGSEAPVPSEASONTICKET_00438_MENU_000_004<tab>Уйти."
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_REGSEAPVPSEASONTICKET_00438_SEASONREWARD2_001_000<tab>Ошейники дома оставил, что ли? Я-то думал, у такого бешеного зверя, как ты, припрятано хотя бы с два десятка."
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_REGSEAPVPSEASONTICKET_00438_SEASONREWARD2_001_001<tab>Хм, похоже, ты уже набрал разрешённый максимум Волчьих меток. Таковы правила, уж извини."
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_REGSEAPVPSEASONTICKET_00438_ASK_000_000<tab>Обменять волчий ошейник на <var 22 E804 ((,)) /var> <var 31 ((Item)) 04E8030302 /var>?"
+    },
+    {
+      "id": "0x00000009",
+      "text": "TEXT_REGSEAPVPSEASONTICKET_00438_ASK_000_001<tab>Внимание: вы не сможете получить все Волчьи метки. Всё равно продолжить?"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "TEXT_REGSEAPVPSEASONTICKET_00438_SEASONREWARD2_002_000<tab>Вот твои волчьи метки. Ты их заслужил."
+    },
+    {
+      "id": "0x0000000B",
+      "text": "TEXT_REGSEAPVPSEASONTICKET_00438_SYSTEM_002_000<tab>Транзакция отменена."
+    },
+    {
+      "id": "0x0000000C",
+      "text": "TEXT_REGSEAPVPSEASONTICKET_00438_SEASONREWARD2_003_000<tab>Волчьи ошейники — свидетельство вашего мастерства. Их выдают в конце сезона «Пира» в зависимости от вашего рейтинга."
+    },
+    {
+      "id": "0x0000000D",
+      "text": "TEXT_REGSEAPVPSEASONTICKET_00438_SEASONREWARD2_003_001<tab>Количество ошейников зависит от вашего уровня на конец сезона. Чем выше уровень, тем больше вы получите. Так что выпускайте когти и клыки — рвите и кромсайте себе путь к славе!"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "TEXT_REGSEAPVPSEASONTICKET_00438_SEASONREWARD2_003_002<tab>Учти, волчьи ошейники нужны не только для красоты. Здесь их можно обменять на волчьи метки и оружие. Не хватает ошейников на желаемую вещь? Если жаждешь её заполучить, добудь ещё в следующем сезоне."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "source_file": "exd/HousingMateAuthority_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Adding/Removing/Dyeing Furnishings"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Planting"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Harvesting"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Crop Disposal"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Stabling Chocobos"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Orchestrion Operation"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Message Book Management"
+    }
+  ]
+}

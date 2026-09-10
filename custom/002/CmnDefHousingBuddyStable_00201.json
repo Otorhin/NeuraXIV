@@ -1,0 +1,257 @@
+{
+  "source_file": "exd/custom/002/CmnDefHousingBuddyStable_00201_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_NONE<tab>Выберите тему."
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_MAIN_MENU_TITLE<tab>Чокобо в стойле: <var 20 E802 /var>  \nЧистота стойла: <var 09 E803 ((Удовлетворительная)) ((Плохая)) ((Хорошая)) /var>"
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_MAIN_MENU_LIST<tab>Ухаживать за выбранным чокобо"
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_MAIN_MENU_MY_CHOCOBO<tab>Позаботьтесь о своём чокобо"
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_MAIN_MENU_CLEAN_STABLE<tab>Чистая конюшня"
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_MAIN_MENU_EXPLAIN<tab>Узнать о разведении чокобо"
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_MAIN_MENU_CANCEL<tab>Выйти"
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_MAIN_MENU_LEAVE_MY_CHOCOBO<tab>Поставить моего чокобо в стойло"
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_MAIN_MENU_CONFIRM_CLEAN<tab>Очистить конюшню зачарованной метлой?"
+    },
+    {
+      "id": "0x00000009",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_MAIN_MENU_CONFIRM_CLEAN_YES<tab>Да"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_MAIN_MENU_CONFIRM_CLEAN_NO<tab>Нет"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_MAIN_MENU_CONFIRM_LEAVE<tab>Поставить чокобо в конюшню?"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_MAIN_MENU_CONFIRM_LEAVE_YES<tab>Да"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_MAIN_MENU_CONFIRM_LEAVE_NO<tab>Нет"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_MENU_EXPLAIN_TRAIN_A<tab>Тренировка моего чокобо"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_MENU_EXPLAIN_TRAIN_B<tab>Особый корм"
+    },
+    {
+      "id": "0x00000010",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_MENU_EXPLAIN_TRAIN_C<tab>Тренировка чужих чокобо"
+    },
+    {
+      "id": "0x00000011",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_MENU_EXPLAIN_CHANGE_COLOR_A<tab>Закуски"
+    },
+    {
+      "id": "0x00000012",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_MENU_EXPLAIN_CHANGE_COLOR_B<tab>Восстановление цвета оперения"
+    },
+    {
+      "id": "0x00000013",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_MENU_EXPLAIN_CLEAN<tab>Содержание стойла в чистоте"
+    },
+    {
+      "id": "0x00000014",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_MENU_EXPLAIN_CANCEL<tab>Вернуться"
+    },
+    {
+      "id": "0x00000015",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_EXPLAIN_TRAIN_A1<tab>Тренировать чокобо можно, пока он находится в стойле. Это принесёт ему опыт спутника. Чтобы тренировать чокобо, сначала необходимо подготовить <var 48 F201F4 /var><var 49 F201F5 /var>корм<var 49 01 /var><var 48 01 /var>, который можно использовать как <var 48 F201F4 /var><var 49 F201F5 /var>лакомство<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000016",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_EXPLAIN_TRAIN_A2<tab>После тренировки нужно дать своему чокобо отдохнуть и восстановиться, прежде чем тренировать его снова."
+    },
+    {
+      "id": "0x00000017",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_EXPLAIN_TRAIN_A3<tab>Когда ваш чокобо наберёт максимальное количество опыта компаньона для своего текущего ранга, вы сможете повысить его ранг в бою."
+    },
+    {
+      "id": "0x00000018",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_EXPLAIN_TRAIN_A4<tab>Кроме того, если ваш чокобо уже достиг максимального ранга, после тренировки его можно покормить тхавнайрским луком, чтобы повысить предельный ранг."
+    },
+    {
+      "id": "0x00000019",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_EXPLAIN_TRAIN_A5<tab>Также можно тренировать чокобо других игроков, если у вас есть соответствующие полномочия. Однако обратите внимание: вы не можете повышать максимальный ранг чужих чокобо или влиять на их предпочтения в корме."
+    },
+    {
+      "id": "0x0000001A",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_EXPLAIN_TRAIN_A6<tab>Чокобо должны отдыхать и восстанавливаться между тренировками. Однако, поскольку новые стимулы идут им на пользу, в этот период того же чокобо могут тренировать и другие участники─после этого им придется подождать, прежде чем они снова смогут это сделать."
+    },
+    {
+      "id": "0x0000001B",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_EXPLAIN_TRAIN_B1<tab>Некоторые виды корма наделяют вашего чокобо полезными эффектами, когда вы призываете его в бой."
+    },
+    {
+      "id": "0x0000001C",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_EXPLAIN_TRAIN_B2<tab>В такой корм входят корни куриэля, бутоны силькиса, тыквы миметта и плоды пахсаны."
+    },
+    {
+      "id": "0x0000001D",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_EXPLAIN_TRAIN_B3<tab>Если постоянно угощать чокобо одним и тем же кормом, он начнёт считать его <var 48 F201F4 /var><var 49 F201F5 /var>любимым кормом<var 49 01 /var><var 48 01 /var>, и при вызове чокобо усилятся полезные эффекты этого корма."
+    },
+    {
+      "id": "0x0000001E",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_EXPLAIN_TRAIN_B4<tab>Кроме того, когда ваш чокобо достигнет максимального ранга, скормите ему тхавнайрский лук, чтобы повысить этот предел."
+    },
+    {
+      "id": "0x0000001F",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_EXPLAIN_TRAIN_C1<tab>При наличии соответствующих полномочий вы можете тренировать чужих чокобо."
+    },
+    {
+      "id": "0x00000020",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_EXPLAIN_TRAIN_C2<tab>Если вы решите разделить своё личное имение с другим игроком, вы можете предоставить ему право размещать своего чокобо в конюшне, а также тренировать чужих чокобо."
+    },
+    {
+      "id": "0x00000021",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_EXPLAIN_TRAIN_C3<tab>В случае с апартаментами вы также можете тренировать чокобо тех, у кого есть комната в том же здании."
+    },
+    {
+      "id": "0x00000022",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_EXPLAIN_TRAIN_C4<tab>Прежде чем другой игрок сможет тренировать вашего чокобо, после его помещения в стойло должно пройти определённое время."
+    },
+    {
+      "id": "0x00000023",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_EXPLAIN_TRAIN_C5<tab>Тренировки, проводимые владельцем чокобо, считаются отдельными от тренировок, проводимых кем-либо ещё, поэтому время восстановления после одних не влияет на другие. Кроме того, вы не можете повышать максимальный ранг чужих чокобо или влиять на их предпочтения в корме."
+    },
+    {
+      "id": "0x00000024",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_EXPLAIN_CLEAN_1<tab>Тренировка будет эффективнее, если чокобо содержится в чистой конюшне."
+    },
+    {
+      "id": "0x00000025",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_EXPLAIN_CLEAN_2<tab>Конюшни можно чистить с помощью <var 48 F201F4 /var><var 49 F201F5 /var>волшебных мётел для конюшен<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000026",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_EXPLAIN_CHANGE_COLOR_A1<tab>Если хочешь изменить оперение своего чокобо, можешь <var 48 F201F4 /var><var 49 F201F5 /var>угощать<var 49 01 /var><var 48 01 /var> его лакомствами."
+    },
+    {
+      "id": "0x00000027",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_EXPLAIN_CHANGE_COLOR_A2<tab>К лакомствам относятся яблоки Ксельфатола, валфрукты, мамукские груши, ананасы Сиэлдалес, ягоды О'Гоморо и доманские сливы. Каждое из этих лакомств по-своему влияет на оперение вашего чокобо."
+    },
+    {
+      "id": "0x00000028",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_EXPLAIN_CHANGE_COLOR_A3<tab>После первого кормления чокобо необходимо дать ему отдохнуть в стойле не менее шести часов, чтобы цвет его оперения изменился."
+    },
+    {
+      "id": "0x00000029",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_EXPLAIN_CHANGE_COLOR_A4<tab>Если вы преждевременно заберёте чокобо из конюшни, ничего не изменится."
+    },
+    {
+      "id": "0x0000002A",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_EXPLAIN_CHANGE_COLOR_B1<tab>Если покормить чокобо лимоном Хана, его оперение вновь станет жёлтым."
+    },
+    {
+      "id": "0x0000002B",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_MY_CHOCOBO_TITLE<tab>Выберите вариант."
+    },
+    {
+      "id": "0x0000002C",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_MY_CHOCOBO_TRAIN<tab>Обучи моего чокобо."
+    },
+    {
+      "id": "0x0000002D",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_MY_CHOCOBO_FEED<tab>Покормить моего чокобо."
+    },
+    {
+      "id": "0x0000002E",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_MY_CHOCOBO_RENAME<tab>Переименовать моего чокобо."
+    },
+    {
+      "id": "0x0000002F",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_MY_CHOCOBO_GET<tab>Призови моего чокобо."
+    },
+    {
+      "id": "0x00000030",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_MY_CHOCOBO_DETAIL<tab>Осмотреть чокобо."
+    },
+    {
+      "id": "0x00000031",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_MY_CHOCOBO_CANCEL<tab>Вернуться."
+    },
+    {
+      "id": "0x00000032",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_CONFIRM_GET_MY_CHOCOBO<tab>Забрать своего чокобо из конюшни?"
+    },
+    {
+      "id": "0x00000033",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_MY_CHOCOBO_NOT_TRAIN<tab>Тренировать моего чокобо. (Отдыхает <var 08 E1E80201 ((<var 20 E802 /var> мин.)) ((менее 1 мин.)) /var>)"
+    },
+    {
+      "id": "0x00000034",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_MY_CHOCOBO_NOT_GET<tab>Призвать моего чокобо. (Отдыхает ещё <var 08 E1E80201 ((<var 20 E802 /var>м)) ((менее 1 мин.)) /var>)"
+    },
+    {
+      "id": "0x00000035",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_PROMPT_BUDDY_RENAME_TITLE<tab>Пожалуйста, переименуйте своего личного чокобо."
+    },
+    {
+      "id": "0x00000036",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_PROMPT_BUDDY_RENAME_CAPTION<tab>Имя"
+    },
+    {
+      "id": "0x00000037",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_PROMPT_BUDDY_RENAME_MES0<tab>Имена должны содержать от 2 до 20 букв; допускаются апострофы, но не дефисы."
+    },
+    {
+      "id": "0x00000038",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_PROMPT_BUDDY_RENAME_MES1<tab>"
+    },
+    {
+      "id": "0x00000039",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_PROMPT_BUDDY_RENAME_MES2<tab>"
+    },
+    {
+      "id": "0x0000003A",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_PROMPT_BUDDY_RENAME_SUCCESS<tab>Вашему чокобо присвоено новое имя: <var 29 EA02 /var>."
+    },
+    {
+      "id": "0x0000003B",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_CONFIRM_GET_MY_CHOCOBO2<tab>Оперение чокобо не изменится, если преждевременно вывести его из конюшни. Вы уверены, что хотите это сделать?"
+    },
+    {
+      "id": "0x0000003C",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_CONFIRM_GET_MY_CHOCOBO2_YES<tab>Да"
+    },
+    {
+      "id": "0x0000003D",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_CONFIRM_GET_MY_CHOCOBO2_NO<tab>Нет"
+    },
+    {
+      "id": "0x0000003E",
+      "text": "TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_SUB_MENU_TITLE<tab>Смена окраса оперения через <var 08 E1E80201 ((<var 20 E802 /var>ч<var 08 E1E80301 ((<var 20 E803 /var>м)) (()) /var>)) ((<var 08 E1E80301 ((<var 20 E803 /var>м)) ((1м)) /var>)) /var>  \nВыберите вариант."
+    }
+  ]
+}

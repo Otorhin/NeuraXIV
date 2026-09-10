@@ -1,0 +1,361 @@
+{
+  "source_file": "exd/GoldSaucerTextData_0_en.exd",
+  "rows": [
+    {
+      "id": "0x0000000B",
+      "text": "Training Course"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Sagolii Road"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Costa del Sol"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Tranquil Paths"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Training Course"
+    },
+    {
+      "id": "0x00000010",
+      "text": "Maiden"
+    },
+    {
+      "id": "0x00000011",
+      "text": "R-40"
+    },
+    {
+      "id": "0x00000012",
+      "text": "R-60"
+    },
+    {
+      "id": "0x00000013",
+      "text": "R-80"
+    },
+    {
+      "id": "0x00000014",
+      "text": "R-100"
+    },
+    {
+      "id": "0x00000015",
+      "text": "R-120"
+    },
+    {
+      "id": "0x00000016",
+      "text": "R-140"
+    },
+    {
+      "id": "0x00000017",
+      "text": "R-160"
+    },
+    {
+      "id": "0x00000018",
+      "text": "R-180"
+    },
+    {
+      "id": "0x00000019",
+      "text": "R-200"
+    },
+    {
+      "id": "0x0000001A",
+      "text": "R-220"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "R-240"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "R-300"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "Open"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "1st"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "2nd"
+    },
+    {
+      "id": "0x00000020",
+      "text": "3rd"
+    },
+    {
+      "id": "0x00000021",
+      "text": "4th"
+    },
+    {
+      "id": "0x00000022",
+      "text": "5th"
+    },
+    {
+      "id": "0x00000023",
+      "text": "6th"
+    },
+    {
+      "id": "0x00000024",
+      "text": "7th"
+    },
+    {
+      "id": "0x00000025",
+      "text": "8th"
+    },
+    {
+      "id": "0x00000026",
+      "text": "<var 28 ((GoldSaucerTextData)) E80301 /var>: <var 28 ((GoldSaucerTextData)) E80201 /var>"
+    },
+    {
+      "id": "0x00000027",
+      "text": "Progress: <var 20 E802 /var>%"
+    },
+    {
+      "id": "0x00000028",
+      "text": "Place: <var 29 EA02 /var>"
+    },
+    {
+      "id": "0x00000033",
+      "text": "Vase Off"
+    },
+    {
+      "id": "0x00000034",
+      "text": "Vases Delivered"
+    },
+    {
+      "id": "0x0000003D",
+      "text": "The Time of My Life"
+    },
+    {
+      "id": "0x0000003E",
+      "text": "Step upon the main stage and memorize the routine for the big dance number."
+    },
+    {
+      "id": "0x0000003F",
+      "text": "Memorize the routine of the Lords and Ladies of the Dance and flawlessly perform on cue ten moves or more."
+    },
+    {
+      "id": "0x00000040",
+      "text": "First Verse"
+    },
+    {
+      "id": "0x00000041",
+      "text": "Second Verse"
+    },
+    {
+      "id": "0x00000042",
+      "text": "Third Verse"
+    },
+    {
+      "id": "0x00000043",
+      "text": "Fourth Verse"
+    },
+    {
+      "id": "0x00000044",
+      "text": "Flawless Moves"
+    },
+    {
+      "id": "0x00000047",
+      "text": "Any Way the Wind Blows"
+    },
+    {
+      "id": "0x00000048",
+      "text": "Step upon the main stage and test your wits against Typhon─snorter extraordinaire. Can you remain on the dais until time expires, or will you find yourself gone with the wind?"
+    },
+    {
+      "id": "0x00000049",
+      "text": "Anticipate where Typhon's next nasal eruption will occur and maneuver to a location where you think you will be safe."
+    },
+    {
+      "id": "0x0000004A",
+      "text": "Snorts Avoided"
+    },
+    {
+      "id": "0x00000051",
+      "text": "Skinchange We Can Believe In"
+    },
+    {
+      "id": "0x00000052",
+      "text": "A wicked imp has taken on the form of an upstanding Gold Saucer patron and is hiding somewhere on the premises. Locate the GATE client's exact double and deliver it a healthy dose of brightash."
+    },
+    {
+      "id": "0x0000005B",
+      "text": "Cliffhanger"
+    },
+    {
+      "id": "0x00000065",
+      "text": "Purchase a Mini Cactpot ticket"
+    },
+    {
+      "id": "0x00000068",
+      "text": "<var 28 ((GoldSaucerTextData)) E80201 /var><var 08 E1E80301 (( [Rating: <var 20 E803 /var>～<var 20 E804 /var>])) (()) /var>."
+    },
+    {
+      "id": "0x00000069",
+      "text": "<var 28 ((GoldSaucerTextData)) E80201 /var>."
+    },
+    {
+      "id": "0x0000006A",
+      "text": "<var 28 ((ChocoboRaceChallenge)) E80201 /var><var 08 E1E80301 (( [Rating: <var 20 E803 /var>])) (()) /var>."
+    },
+    {
+      "id": "0x0000006E",
+      "text": "Welcome to the training course!"
+    },
+    {
+      "id": "0x0000006F",
+      "text": "Follow all the race trainer's instructions."
+    },
+    {
+      "id": "0x00000070",
+      "text": "Training course complete!"
+    },
+    {
+      "id": "0x00000071",
+      "text": "???"
+    },
+    {
+      "id": "0x00000072",
+      "text": "Accelerate."
+    },
+    {
+      "id": "0x00000073",
+      "text": "Accelerate until stamina is spent."
+    },
+    {
+      "id": "0x00000074",
+      "text": "Accelerate to full speed, then decelerate."
+    },
+    {
+      "id": "0x00000075",
+      "text": "Steer."
+    },
+    {
+      "id": "0x00000076",
+      "text": "Trigger a magicked panel."
+    },
+    {
+      "id": "0x00000077",
+      "text": "Jump."
+    },
+    {
+      "id": "0x00000078",
+      "text": "Open a treasure coffer."
+    },
+    {
+      "id": "0x00000079",
+      "text": "Use a race item."
+    },
+    {
+      "id": "0x00000083",
+      "text": "Mini Cactpot rules are simple. First, you select three numbers from the eight hidden on your ticket. Next, you select one of eight lines─vertical, horizontal, or diagonal."
+    },
+    {
+      "id": "0x00000084",
+      "text": "Once you've selected a line, all the numbers are uncovered with the sum of the three in the line you chose determining your MGP payout. It's that easy!"
+    },
+    {
+      "id": "0x00000085",
+      "text": "Now all that's left is to select a four-digit number. The winning number will be selected at a later date. If the last digit of your number matches the winning number, you win 4th prize. If the last two match, you win 3rd prize. If the last three match, you win 2nd, and if all your numbers match, you take home the grand prize."
+    },
+    {
+      "id": "0x0000008B",
+      "text": "Chocobo Challenge"
+    },
+    {
+      "id": "0x0000008C",
+      "text": "チャレンジ1"
+    },
+    {
+      "id": "0x0000008D",
+      "text": "チャレンジ2"
+    },
+    {
+      "id": "0x0000008E",
+      "text": "チャレンジ3"
+    },
+    {
+      "id": "0x0000008F",
+      "text": "チャレンジ4"
+    },
+    {
+      "id": "0x00000090",
+      "text": "チャレンジ5"
+    },
+    {
+      "id": "0x00000091",
+      "text": "チャレンジ6"
+    },
+    {
+      "id": "0x00000092",
+      "text": "チャレンジ7"
+    },
+    {
+      "id": "0x00000093",
+      "text": "チャレンジ8"
+    },
+    {
+      "id": "0x00000094",
+      "text": "チャレンジ9"
+    },
+    {
+      "id": "0x00000095",
+      "text": "チャレンジ10"
+    },
+    {
+      "id": "0x00000096",
+      "text": "チャレンジ11"
+    },
+    {
+      "id": "0x00000097",
+      "text": "チャレンジ12"
+    },
+    {
+      "id": "0x00000098",
+      "text": "チャレンジ13"
+    },
+    {
+      "id": "0x00000099",
+      "text": "チャレンジ14"
+    },
+    {
+      "id": "0x0000009A",
+      "text": "チャレンジ15"
+    },
+    {
+      "id": "0x000000A1",
+      "text": "Leap of Faith"
+    },
+    {
+      "id": "0x000000AB",
+      "text": "Air Force One"
+    },
+    {
+      "id": "0x000000B5",
+      "text": "The Slice Is Right"
+    },
+    {
+      "id": "0x000000B6",
+      "text": "Attacks Evaded"
+    },
+    {
+      "id": "0x000000B7",
+      "text": "Current MGP"
+    },
+    {
+      "id": "0x000000B8",
+      "text": "Avoid Yojimbo's attacks, collect MGP, and most importantly, don't fall off!"
+    },
+    {
+      "id": "0x000000B9",
+      "text": "Stay on the stage at all costs and grab what prizes you can."
+    }
+  ]
+}

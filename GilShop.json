@@ -1,0 +1,3589 @@
+{
+  "source_file": "exd/GilShop_262144_en.exd",
+  "rows": [
+    {
+      "id": "0x00040007",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004000E",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040014",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040024",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040025",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004002F",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040039",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040041",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x00040044",
+      "text": "Purchase Battle Accessories"
+    },
+    {
+      "id": "0x00040045",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x00040046",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x00040047",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x00040048",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x00040049",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x0004004A",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x0004004B",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x0004004D",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x0004004E",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x0004004F",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x00040050",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x00040051",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x00040052",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x00040053",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x00040054",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x00040055",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x00040056",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x00040057",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x00040058",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x00040059",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x0004005A",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x0004005B",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x0004005C",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x0004005D",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x0004005E",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x0004005F",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x00040060",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x00040061",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x00040062",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x00040063",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x00040064",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x00040065",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x00040066",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x00040067",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x00040068",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x00040069",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x0004006A",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x0004006B",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x0004006C",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x0004006D",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x0004006E",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x0004006F",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x00040070",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x00040072",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x00040073",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x00040074",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x00040075",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x00040076",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x00040077",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x00040078",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x00040079",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x0004007A",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x0004007B",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x0004007C",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x0004007D",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x0004007E",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x0004007F",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x00040080",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x00040081",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x00040082",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x00040083",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x00040084",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x00040085",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x00040086",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x00040087",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x00040088",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x00040089",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x0004008A",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x0004008B",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x0004008C",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x0004008D",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x0004008E",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x0004008F",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x00040090",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x00040091",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x00040092",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x00040093",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x00040094",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x00040095",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x00040096",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x00040097",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x00040098",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x00040099",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x0004009A",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x0004009B",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x0004009C",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x0004009D",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x0004009E",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x0004009F",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x000400A0",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x000400A1",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x000400A2",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000400A3",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x000400A4",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x000400A5",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x000400A6",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000400A7",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x000400A8",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x000400A9",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x000400AA",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000400AB",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x000400AC",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x000400AD",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x000400AE",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000400AF",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x000400B0",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x000400B1",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x000400B2",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000400B3",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x000400B4",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x000400B5",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x000400B6",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000400B7",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x000400B8",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x000400B9",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x000400BA",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000400BB",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x000400BC",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x000400BD",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x000400BE",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000400BF",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x000400C0",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x000400C1",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x000400C2",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000400C3",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x000400C4",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x000400C5",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x000400C6",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000400C7",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x000400C8",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x000400C9",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x000400CA",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x000400CB",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000400CC",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x000400CD",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x000400CF",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000400D0",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x000400D1",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x000400D2",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x000400D3",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000400D4",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x000400D5",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x000400D6",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x000400D7",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000400D8",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x000400D9",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x000400DA",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x000400DB",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000400DC",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x000400DD",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x000400DE",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x000400DF",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000400E0",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x000400E1",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x000400E2",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x000400E3",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000400E4",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000400E5",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x000400E6",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x000400E7",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x000400EA",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000400EB",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x000400EC",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x000400ED",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x000400EE",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000400EF",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x000400F0",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x000400F1",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x000400F2",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000400F3",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x000400F4",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x000400F5",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x000400F6",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000400F7",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000400F8",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000400F9",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x000400FA",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x000400FB",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x000400FC",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000400FD",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x000400FE",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x000400FF",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x00040100",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x00040101",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x00040102",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x00040103",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x00040108",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x00040109",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x0004010A",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x0004010B",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x0004010C",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x0004010D",
+      "text": "Purchase Battle Gear"
+    },
+    {
+      "id": "0x00040113",
+      "text": "Purchase Furnishings (Exterior, Garden, Orchestrion)"
+    },
+    {
+      "id": "0x00040114",
+      "text": "Purchase Furnishings (Exterior, Garden, Orchestrion)"
+    },
+    {
+      "id": "0x00040115",
+      "text": "Purchase Furnishings (Exterior, Garden, Orchestrion)"
+    },
+    {
+      "id": "0x00040116",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004012B",
+      "text": "Purchase Lv. 50 Gear (DoW)"
+    },
+    {
+      "id": "0x0004012C",
+      "text": "Purchase Lv. 50 Gear (DoM)"
+    },
+    {
+      "id": "0x0004012D",
+      "text": "Purchase Lv. 50 Arms & Tools"
+    },
+    {
+      "id": "0x0004012E",
+      "text": "Purchase Quest Rewards I"
+    },
+    {
+      "id": "0x00040131",
+      "text": "Purchase Achievement Rewards I"
+    },
+    {
+      "id": "0x00040132",
+      "text": "Purchase Achievement Rewards II"
+    },
+    {
+      "id": "0x0004013B",
+      "text": "Purchase Glamouring Items"
+    },
+    {
+      "id": "0x0004013C",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004013D",
+      "text": "Purchase Items (Lumber, Metal, Stone, Bone, Leather)"
+    },
+    {
+      "id": "0x0004013E",
+      "text": "Purchase Items (Cloth, Reagents)"
+    },
+    {
+      "id": "0x0004013F",
+      "text": "Purchase Items (Gardening, Dyes)"
+    },
+    {
+      "id": "0x00040144",
+      "text": "Purchase Gender-specific Gear (Male)"
+    },
+    {
+      "id": "0x00040145",
+      "text": "Purchase Gender-specific Gear (Female)"
+    },
+    {
+      "id": "0x00040146",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040147",
+      "text": "Purchase Items (Catalysts)"
+    },
+    {
+      "id": "0x00040148",
+      "text": "Purchase (Cooking Ingredients)"
+    },
+    {
+      "id": "0x00040158",
+      "text": "Purchase Novelty Gear"
+    },
+    {
+      "id": "0x00040159",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004015B",
+      "text": "Purchase Race Chocobo Forms"
+    },
+    {
+      "id": "0x0004015C",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004015D",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004015E",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004015F",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040160",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040161",
+      "text": "Replicate Excalibur Zeta."
+    },
+    {
+      "id": "0x00040162",
+      "text": "Replicate Ragnarok Zeta."
+    },
+    {
+      "id": "0x00040163",
+      "text": "Replicate the Kaiser Knuckles Zeta."
+    },
+    {
+      "id": "0x00040164",
+      "text": "Replicate Longinus Zeta."
+    },
+    {
+      "id": "0x00040165",
+      "text": "Replicate the Sasuke's Blades Zeta."
+    },
+    {
+      "id": "0x00040166",
+      "text": "Replicate the Yoichi Bow Zeta."
+    },
+    {
+      "id": "0x00040167",
+      "text": "Replicate the Lilith Rod Zeta."
+    },
+    {
+      "id": "0x00040168",
+      "text": "Replicate Apocalypse Zeta."
+    },
+    {
+      "id": "0x00040169",
+      "text": "Replicate Nirvana Zeta."
+    },
+    {
+      "id": "0x0004016A",
+      "text": "Replicate Last Resort Zeta."
+    },
+    {
+      "id": "0x0004016B",
+      "text": "Replicate the Aegis Shield Zeta."
+    },
+    {
+      "id": "0x0004016D",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040171",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040173",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040174",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040175",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x00040176",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x00040177",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x00040178",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x00040179",
+      "text": "Purchase Battle Gear (DoW)"
+    },
+    {
+      "id": "0x0004017A",
+      "text": "Purchase Battle Gear (DoM)"
+    },
+    {
+      "id": "0x0004017B",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x0004017C",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x0004017D",
+      "text": "Purchase Battle Gear (DoW)"
+    },
+    {
+      "id": "0x0004017E",
+      "text": "Purchase Battle Gear (DoM)"
+    },
+    {
+      "id": "0x0004017F",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x00040180",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x00040181",
+      "text": "Purchase Battle Gear (DoW)"
+    },
+    {
+      "id": "0x00040182",
+      "text": "Purchase Battle Gear (DoM)"
+    },
+    {
+      "id": "0x00040183",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x00040184",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x00040185",
+      "text": "Purchase Battle Gear (DoW)"
+    },
+    {
+      "id": "0x00040186",
+      "text": "Purchase Battle Gear (DoM)"
+    },
+    {
+      "id": "0x00040188",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x00040189",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x0004018A",
+      "text": "Purchase Battle Gear (DoW)"
+    },
+    {
+      "id": "0x0004018B",
+      "text": "Purchase Battle Gear (DoM)"
+    },
+    {
+      "id": "0x0004018C",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x0004018D",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x0004018E",
+      "text": "Purchase Battle Gear (DoW)"
+    },
+    {
+      "id": "0x0004018F",
+      "text": "Purchase Battle Gear (DoM)"
+    },
+    {
+      "id": "0x00040190",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x00040191",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x00040192",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x00040193",
+      "text": "Purchase Battle Gear (DoW)"
+    },
+    {
+      "id": "0x00040194",
+      "text": "Purchase Battle Gear (DoM)"
+    },
+    {
+      "id": "0x00040195",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x00040196",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x00040197",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x00040198",
+      "text": "Purchase Battle Gear (DoW)"
+    },
+    {
+      "id": "0x00040199",
+      "text": "Purchase Battle Gear (DoM)"
+    },
+    {
+      "id": "0x0004019A",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x0004019B",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x0004019C",
+      "text": "Purchase Battle Gear (DoW)"
+    },
+    {
+      "id": "0x0004019D",
+      "text": "Purchase Battle Gear (DoM)"
+    },
+    {
+      "id": "0x0004019E",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004019F",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000401A4",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000401A5",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x000401A6",
+      "text": "Purchase Battle Gear (DoW)"
+    },
+    {
+      "id": "0x000401A7",
+      "text": "Purchase Battle Gear (DoM)"
+    },
+    {
+      "id": "0x000401A9",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x000401AA",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000401AB",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x000401AC",
+      "text": "Purchase Battle Gear (DoW)"
+    },
+    {
+      "id": "0x000401AD",
+      "text": "Purchase Battle Gear (DoM)"
+    },
+    {
+      "id": "0x000401AE",
+      "text": "Purchase Minions (Gil)"
+    },
+    {
+      "id": "0x000401B9",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000401BA",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000401BB",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000401BC",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000401D1",
+      "text": "Deal in Kettles"
+    },
+    {
+      "id": "0x000401D2",
+      "text": "Replicate Awoken Weapons"
+    },
+    {
+      "id": "0x000401D3",
+      "text": "Replicate Anima Weapons"
+    },
+    {
+      "id": "0x000401D4",
+      "text": "Purchase Items (Gil)"
+    },
+    {
+      "id": "0x000401DD",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000401DE",
+      "text": "Purchase Field Gear"
+    },
+    {
+      "id": "0x000401E1",
+      "text": "Replicate Hyperconductive Weapons"
+    },
+    {
+      "id": "0x000401E2",
+      "text": "Purchase Moonfire Faire Items I"
+    },
+    {
+      "id": "0x000401E3",
+      "text": "Purchase Moonfire Faire Items II"
+    },
+    {
+      "id": "0x000401E4",
+      "text": "Purchase All Saints' Wake Items"
+    },
+    {
+      "id": "0x000401E5",
+      "text": "Purchase Starlight Celebration Items"
+    },
+    {
+      "id": "0x000401E6",
+      "text": "Purchase Heavensturn Items"
+    },
+    {
+      "id": "0x000401E7",
+      "text": "Purchase Valentione's Day Items"
+    },
+    {
+      "id": "0x000401E8",
+      "text": "Purchase Little Ladies' Day Items"
+    },
+    {
+      "id": "0x000401E9",
+      "text": "Purchase Hatching-tide Items"
+    },
+    {
+      "id": "0x000401EA",
+      "text": "Purchase Other Seasonal Event Items"
+    },
+    {
+      "id": "0x000401EB",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000401EC",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000401ED",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000401EE",
+      "text": "Purchase Items I"
+    },
+    {
+      "id": "0x000401EF",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000401F0",
+      "text": "Purchase Battle Accessories"
+    },
+    {
+      "id": "0x000401F1",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000401F2",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000401F3",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000401F4",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000401F5",
+      "text": "Replicate Anima Weapons II"
+    },
+    {
+      "id": "0x000401F6",
+      "text": "Purchase Seasonal Event Rewards"
+    },
+    {
+      "id": "0x000401F7",
+      "text": "Purchase Seasonal Event Rewards"
+    },
+    {
+      "id": "0x000401F8",
+      "text": "Purchase Items (Gil)"
+    },
+    {
+      "id": "0x000401FC",
+      "text": "Replicate Sharp Anima Weapons"
+    },
+    {
+      "id": "0x000401FD",
+      "text": "Replicate Complete Anima Weapons"
+    },
+    {
+      "id": "0x000401FE",
+      "text": "Purchase Furnishings (Interior)"
+    },
+    {
+      "id": "0x000401FF",
+      "text": "Purchase Furnishings (Chairs, Beds)"
+    },
+    {
+      "id": "0x00040200",
+      "text": "Purchase Furnishings (Tables, Food)"
+    },
+    {
+      "id": "0x00040201",
+      "text": "Purchase Furnishings (Shelves, Rugs, Lighting)"
+    },
+    {
+      "id": "0x00040202",
+      "text": "Purchase Furnishings (Other)"
+    },
+    {
+      "id": "0x00040203",
+      "text": "Purchase Paintings (La Noscea)"
+    },
+    {
+      "id": "0x00040204",
+      "text": "Purchase Paintings (The Black Shroud)"
+    },
+    {
+      "id": "0x00040205",
+      "text": "Purchase Paintings (Thanalan)"
+    },
+    {
+      "id": "0x00040206",
+      "text": "Purchase Paintings (Coerthas, Mor Dhona)"
+    },
+    {
+      "id": "0x00040209",
+      "text": "Purchase Seasonal Event Rewards"
+    },
+    {
+      "id": "0x0004020A",
+      "text": "Purchase Seasonal Event Rewards"
+    },
+    {
+      "id": "0x0004020B",
+      "text": "Purchase Seasonal Event Rewards"
+    },
+    {
+      "id": "0x0004020F",
+      "text": "Purchase Lalafellin Gear"
+    },
+    {
+      "id": "0x00040210",
+      "text": "Purchase Roegadyn Gear"
+    },
+    {
+      "id": "0x00040211",
+      "text": "Purchase Elezen Gear"
+    },
+    {
+      "id": "0x00040212",
+      "text": "Purchase Hyuran Gear"
+    },
+    {
+      "id": "0x00040213",
+      "text": "Purchase Miqo'te Gear"
+    },
+    {
+      "id": "0x00040214",
+      "text": "Purchase Auri Gear"
+    },
+    {
+      "id": "0x00040215",
+      "text": "Repurchase Paladin Gear"
+    },
+    {
+      "id": "0x00040216",
+      "text": "Repurchase Warrior Gear"
+    },
+    {
+      "id": "0x00040217",
+      "text": "Repurchase Dark Knight Gear"
+    },
+    {
+      "id": "0x00040218",
+      "text": "Repurchase Monk Gear"
+    },
+    {
+      "id": "0x00040219",
+      "text": "Repurchase Dragoon Gear"
+    },
+    {
+      "id": "0x0004021A",
+      "text": "Repurchase Ninja Gear"
+    },
+    {
+      "id": "0x0004021B",
+      "text": "Repurchase Bard Gear"
+    },
+    {
+      "id": "0x0004021C",
+      "text": "Repurchase Machinist Gear"
+    },
+    {
+      "id": "0x0004021D",
+      "text": "Repurchase Black Mage Gear"
+    },
+    {
+      "id": "0x0004021E",
+      "text": "Repurchase Summoner Gear"
+    },
+    {
+      "id": "0x0004021F",
+      "text": "Repurchase White Mage Gear"
+    },
+    {
+      "id": "0x00040220",
+      "text": "Repurchase Scholar Gear"
+    },
+    {
+      "id": "0x00040221",
+      "text": "Repurchase Astrologian Gear"
+    },
+    {
+      "id": "0x00040222",
+      "text": "Purchase Furnishings (Garden, Orchestrion)"
+    },
+    {
+      "id": "0x00040223",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040224",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040225",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040226",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040227",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040228",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040229",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004022A",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004022B",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004022C",
+      "text": "Purchase Gear (Lv. 1-9)"
+    },
+    {
+      "id": "0x0004022D",
+      "text": "Purchase Gear (Lv. 10-19)"
+    },
+    {
+      "id": "0x0004022E",
+      "text": "Purchase Gear (Lv. 20-29)"
+    },
+    {
+      "id": "0x0004022F",
+      "text": "Purchase Gear (Lv. 30-39)"
+    },
+    {
+      "id": "0x00040230",
+      "text": "Purchase Gear (Lv. 40-49)"
+    },
+    {
+      "id": "0x00040231",
+      "text": "Purchase Gear (Lv. 1-9)"
+    },
+    {
+      "id": "0x00040232",
+      "text": "Purchase Gear (Lv. 10-19)"
+    },
+    {
+      "id": "0x00040233",
+      "text": "Purchase Gear (Lv. 20-29)"
+    },
+    {
+      "id": "0x00040234",
+      "text": "Purchase Gear (Lv. 30-39)"
+    },
+    {
+      "id": "0x00040235",
+      "text": "Purchase Gear (Lv. 40-49)"
+    },
+    {
+      "id": "0x00040236",
+      "text": "Purchase Gear (Lv. 1-9)"
+    },
+    {
+      "id": "0x00040237",
+      "text": "Purchase Gear (Lv. 10-19)"
+    },
+    {
+      "id": "0x00040238",
+      "text": "Purchase Gear (Lv. 20-29)"
+    },
+    {
+      "id": "0x00040239",
+      "text": "Purchase Gear (Lv. 30-39)"
+    },
+    {
+      "id": "0x0004023A",
+      "text": "Purchase Gear (Lv. 40-49)"
+    },
+    {
+      "id": "0x0004023B",
+      "text": "Purchase Weapons (Lv. 1-9)"
+    },
+    {
+      "id": "0x0004023C",
+      "text": "Purchase Weapons (Lv. 10-19)"
+    },
+    {
+      "id": "0x0004023D",
+      "text": "Purchase Weapons (Lv. 20-29)"
+    },
+    {
+      "id": "0x0004023E",
+      "text": "Purchase Weapons (Lv. 30-39)"
+    },
+    {
+      "id": "0x0004023F",
+      "text": "Purchase Weapons (Lv. 40-49)"
+    },
+    {
+      "id": "0x00040240",
+      "text": "Purchase Weapons (Lv. 1-9)"
+    },
+    {
+      "id": "0x00040241",
+      "text": "Purchase Weapons (Lv. 10-19)"
+    },
+    {
+      "id": "0x00040242",
+      "text": "Purchase Weapons (Lv. 20-29)"
+    },
+    {
+      "id": "0x00040243",
+      "text": "Purchase Weapons (Lv. 30-39)"
+    },
+    {
+      "id": "0x00040244",
+      "text": "Purchase Weapons (Lv. 40-49)"
+    },
+    {
+      "id": "0x00040245",
+      "text": "Purchase Tools (Lv. 1-9)"
+    },
+    {
+      "id": "0x00040246",
+      "text": "Purchase Tools (Lv. 10-19)"
+    },
+    {
+      "id": "0x00040247",
+      "text": "Purchase Tools (Lv. 20-29)"
+    },
+    {
+      "id": "0x00040248",
+      "text": "Purchase Tools (Lv. 30-39)"
+    },
+    {
+      "id": "0x00040249",
+      "text": "Purchase Tools (Lv. 40-49)"
+    },
+    {
+      "id": "0x0004024A",
+      "text": "Purchase Tools (Lv. 1-9)"
+    },
+    {
+      "id": "0x0004024B",
+      "text": "Purchase Tools (Lv. 10-19)"
+    },
+    {
+      "id": "0x0004024C",
+      "text": "Purchase Tools (Lv. 20-29)"
+    },
+    {
+      "id": "0x0004024D",
+      "text": "Purchase Tools (Lv. 30-39)"
+    },
+    {
+      "id": "0x0004024E",
+      "text": "Purchase Tools (Lv. 40-49)"
+    },
+    {
+      "id": "0x0004024F",
+      "text": "Purchase Battlecraft Accessories"
+    },
+    {
+      "id": "0x00040250",
+      "text": "Purchase Fieldcraft/Tradecraft Accessories"
+    },
+    {
+      "id": "0x00040251",
+      "text": "Purchase Gear (Lv. 50)"
+    },
+    {
+      "id": "0x00040252",
+      "text": "Purchase Gear (Lv. 52)"
+    },
+    {
+      "id": "0x00040253",
+      "text": "Purchase Gear (Lv. 54)"
+    },
+    {
+      "id": "0x00040254",
+      "text": "Purchase Gear (Lv. 56)"
+    },
+    {
+      "id": "0x00040255",
+      "text": "Purchase Gear (Lv. 58)"
+    },
+    {
+      "id": "0x00040257",
+      "text": "Purchase Gear (Lv. 50)"
+    },
+    {
+      "id": "0x00040258",
+      "text": "Purchase Gear (Lv. 52)"
+    },
+    {
+      "id": "0x00040259",
+      "text": "Purchase Gear (Lv. 54)"
+    },
+    {
+      "id": "0x0004025A",
+      "text": "Purchase Gear (Lv. 56)"
+    },
+    {
+      "id": "0x0004025B",
+      "text": "Purchase Gear (Lv. 58)"
+    },
+    {
+      "id": "0x0004025D",
+      "text": "Purchase Gear (Lv. 50-60)"
+    },
+    {
+      "id": "0x0004025E",
+      "text": "Purchase Weapons (Lv. 50)"
+    },
+    {
+      "id": "0x0004025F",
+      "text": "Purchase Weapons (Lv. 52)"
+    },
+    {
+      "id": "0x00040260",
+      "text": "Purchase Weapons (Lv. 54)"
+    },
+    {
+      "id": "0x00040261",
+      "text": "Purchase Weapons (Lv. 56)"
+    },
+    {
+      "id": "0x00040262",
+      "text": "Purchase Weapons (Lv. 58)"
+    },
+    {
+      "id": "0x00040264",
+      "text": "Purchase Weapons (Lv. 50)"
+    },
+    {
+      "id": "0x00040265",
+      "text": "Purchase Weapons (Lv. 52)"
+    },
+    {
+      "id": "0x00040266",
+      "text": "Purchase Weapons (Lv. 54)"
+    },
+    {
+      "id": "0x00040267",
+      "text": "Purchase Weapons (Lv. 56)"
+    },
+    {
+      "id": "0x00040268",
+      "text": "Purchase Weapons (Lv. 58)"
+    },
+    {
+      "id": "0x0004026A",
+      "text": "Purchase Tools (Lv. 50-60)"
+    },
+    {
+      "id": "0x0004026B",
+      "text": "Purchase Tools (Lv. 50-60)"
+    },
+    {
+      "id": "0x0004026C",
+      "text": "Purchase Battlecraft Accessories"
+    },
+    {
+      "id": "0x0004026D",
+      "text": "Purchase Fieldcraft/Tradecraft Accessories"
+    },
+    {
+      "id": "0x0004026E",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004026F",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040270",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040271",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040272",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040273",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040274",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040275",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040276",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040277",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040278",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040279",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004027A",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004027B",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004027C",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004027D",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004027E",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004027F",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040280",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040281",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040282",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040283",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040284",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040285",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040286",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040287",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040288",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040289",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004028A",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004028B",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004028C",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004028D",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004028E",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004028F",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040290",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040291",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040292",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040293",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040294",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040295",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040296",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040297",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040298",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040299",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004029A",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004029B",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004029D",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004029E",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402A1",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402A2",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402A3",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402A4",
+      "text": "Purchase Battlecraft Gear (Lv. 60)"
+    },
+    {
+      "id": "0x000402A5",
+      "text": "Purchase Battlecraft Gear (DoW)"
+    },
+    {
+      "id": "0x000402A6",
+      "text": "Purchase Battlecraft Gear (DoW)"
+    },
+    {
+      "id": "0x000402A7",
+      "text": "Purchase Battlecraft Gear (DoW)"
+    },
+    {
+      "id": "0x000402A8",
+      "text": "Purchase Battlecraft Gear (DoW)"
+    },
+    {
+      "id": "0x000402A9",
+      "text": "Purchase Battlecraft Gear (DoW)"
+    },
+    {
+      "id": "0x000402AB",
+      "text": "Purchase Battlecraft Gear (Lv. 60)"
+    },
+    {
+      "id": "0x000402AC",
+      "text": "Purchase Battlecraft Gear (DoM)"
+    },
+    {
+      "id": "0x000402AD",
+      "text": "Purchase Battlecraft Gear (DoM)"
+    },
+    {
+      "id": "0x000402AE",
+      "text": "Purchase Battlecraft Gear (DoM)"
+    },
+    {
+      "id": "0x000402AF",
+      "text": "Purchase Battlecraft Gear (DoM)"
+    },
+    {
+      "id": "0x000402B0",
+      "text": "Purchase Battlecraft Gear (DoM)"
+    },
+    {
+      "id": "0x000402B2",
+      "text": "Purchase Tradecraft Gear"
+    },
+    {
+      "id": "0x000402B3",
+      "text": "Purchase Weapons (Lv. 60)"
+    },
+    {
+      "id": "0x000402B4",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x000402B5",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x000402B6",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x000402B7",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x000402B8",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x000402BA",
+      "text": "Purchase Weapons (Lv. 60)"
+    },
+    {
+      "id": "0x000402BB",
+      "text": "Purchase Fieldcraft Gear"
+    },
+    {
+      "id": "0x000402BC",
+      "text": "Purchase Tradecraft Primary Tools"
+    },
+    {
+      "id": "0x000402BD",
+      "text": "Purchase Tradecraft Secondary Tools"
+    },
+    {
+      "id": "0x000402BE",
+      "text": "Purchase Fieldcraft Tools"
+    },
+    {
+      "id": "0x000402BF",
+      "text": "Purchase Battlecraft Accessories"
+    },
+    {
+      "id": "0x000402C0",
+      "text": "Purchase Battlecraft Accessories"
+    },
+    {
+      "id": "0x000402C1",
+      "text": "Purchase Battlecraft Accessories"
+    },
+    {
+      "id": "0x000402C2",
+      "text": "Purchase Battlecraft Accessories"
+    },
+    {
+      "id": "0x000402C3",
+      "text": "Purchase Battlecraft Accessories"
+    },
+    {
+      "id": "0x000402C4",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000402C5",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000402C6",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000402C7",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000402C8",
+      "text": "Purchase Fieldcraft/Tradecraft Gear"
+    },
+    {
+      "id": "0x000402C9",
+      "text": "Purchase Fieldcraft/Tradecraft Gear"
+    },
+    {
+      "id": "0x000402CA",
+      "text": "Purchase Fieldcraft/Tradecraft Gear"
+    },
+    {
+      "id": "0x000402CB",
+      "text": "Purchase Fieldcraft/Tradecraft Gear"
+    },
+    {
+      "id": "0x000402CC",
+      "text": "Purchase Fieldcraft/Tradecraft Gear"
+    },
+    {
+      "id": "0x000402CD",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402CE",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402CF",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402D0",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402D1",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402D2",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402D3",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402D4",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402D5",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402D6",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402D7",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402D8",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402D9",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402DA",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402DB",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402DC",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402DD",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402DE",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402DF",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402E0",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402E1",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402E2",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402E3",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402E4",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402E5",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402E6",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402E7",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402E8",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402E9",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402EA",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402EB",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402EC",
+      "text": "Purchase Paintings (Gyr Abania)"
+    },
+    {
+      "id": "0x000402ED",
+      "text": "Purchase Paintings (Othard)"
+    },
+    {
+      "id": "0x000402EE",
+      "text": "Purchase Seasonal Event Rewards"
+    },
+    {
+      "id": "0x000402EF",
+      "text": "Purchase Seasonal Event Rewards"
+    },
+    {
+      "id": "0x000402F0",
+      "text": "Purchase Lv. 70 Arms "
+    },
+    {
+      "id": "0x000402F1",
+      "text": "Purchase Lv. 70 Gear (DoW) I"
+    },
+    {
+      "id": "0x000402F2",
+      "text": "Purchase Lv. 70 Gear (DoW) II"
+    },
+    {
+      "id": "0x000402F3",
+      "text": "Purchase Lv. 70 Gear (DoM) "
+    },
+    {
+      "id": "0x000402F4",
+      "text": "Replicate Anima Lux Weapons"
+    },
+    {
+      "id": "0x000402F5",
+      "text": "Purchase Glamouring Items"
+    },
+    {
+      "id": "0x000402F6",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402FA",
+      "text": "Purchase Paintings (Dravania)"
+    },
+    {
+      "id": "0x000402FB",
+      "text": "Purchase Paintings (Abalathia's Spine)"
+    },
+    {
+      "id": "0x000402FC",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000402FE",
+      "text": "Enter Boutique"
+    },
+    {
+      "id": "0x000402FF",
+      "text": "Purchase Tools (Lv. 60)"
+    },
+    {
+      "id": "0x00040300",
+      "text": "Purchase Tools (Lv. 63)"
+    },
+    {
+      "id": "0x00040301",
+      "text": "Purchase Tools (Lv. 65)"
+    },
+    {
+      "id": "0x00040302",
+      "text": "Purchase Gear (Lv. 60)"
+    },
+    {
+      "id": "0x00040303",
+      "text": "Purchase Gear (Lv. 63)"
+    },
+    {
+      "id": "0x00040304",
+      "text": "Purchase Gear (Lv. 65)"
+    },
+    {
+      "id": "0x00040305",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040306",
+      "text": "Replicate Eureka Weapons (DoW)"
+    },
+    {
+      "id": "0x00040308",
+      "text": "Purchase Quest Rewards I"
+    },
+    {
+      "id": "0x0004030A",
+      "text": "Replicate Eureka Weapons (DoM)"
+    },
+    {
+      "id": "0x0004030E",
+      "text": "Purchase Blue Mage Arms & Gear"
+    },
+    {
+      "id": "0x00040310",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040311",
+      "text": "Purchase Items II"
+    },
+    {
+      "id": "0x00040312",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040315",
+      "text": "Purchase Weapons (Lv. 62)"
+    },
+    {
+      "id": "0x00040316",
+      "text": "Purchase Weapons (Lv. 64)"
+    },
+    {
+      "id": "0x00040317",
+      "text": "Purchase Weapons (Lv. 66)"
+    },
+    {
+      "id": "0x00040318",
+      "text": "Purchase Weapons (Lv. 68)"
+    },
+    {
+      "id": "0x00040319",
+      "text": "Purchase Weapons (Lv. 70)"
+    },
+    {
+      "id": "0x0004031A",
+      "text": "Purchase Gear (Lv. 62)"
+    },
+    {
+      "id": "0x0004031B",
+      "text": "Purchase Gear (Lv. 64)"
+    },
+    {
+      "id": "0x0004031C",
+      "text": "Purchase Gear (Lv. 66)"
+    },
+    {
+      "id": "0x0004031D",
+      "text": "Purchase Gear (Lv. 68)"
+    },
+    {
+      "id": "0x0004031E",
+      "text": "Purchase Gear (Lv. 70)"
+    },
+    {
+      "id": "0x0004031F",
+      "text": "Purchase Gear (Lv. 62)"
+    },
+    {
+      "id": "0x00040320",
+      "text": "Purchase Gear (Lv. 64)"
+    },
+    {
+      "id": "0x00040321",
+      "text": "Purchase Gear (Lv. 66)"
+    },
+    {
+      "id": "0x00040322",
+      "text": "Purchase Gear (Lv. 68)"
+    },
+    {
+      "id": "0x00040323",
+      "text": "Purchase Gear (Lv. 70)"
+    },
+    {
+      "id": "0x00040324",
+      "text": "Purchase Battlecraft Accessories"
+    },
+    {
+      "id": "0x00040325",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040326",
+      "text": "Purchase Fieldcraft/Tradecraft Accessories"
+    },
+    {
+      "id": "0x00040327",
+      "text": "Purchase Lv. 60 Gear"
+    },
+    {
+      "id": "0x00040328",
+      "text": "Purchase Furnishings (Partitions, Wall Decorations)"
+    },
+    {
+      "id": "0x00040329",
+      "text": "Purchase Battlecraft Gear (DoW)"
+    },
+    {
+      "id": "0x0004032A",
+      "text": "Purchase Battlecraft Gear (DoW)"
+    },
+    {
+      "id": "0x0004032B",
+      "text": "Purchase Battlecraft Gear (DoW)"
+    },
+    {
+      "id": "0x0004032C",
+      "text": "Purchase Battlecraft Gear (DoW)"
+    },
+    {
+      "id": "0x0004032D",
+      "text": "Purchase Battlecraft Gear (DoW)"
+    },
+    {
+      "id": "0x0004032E",
+      "text": "Purchase Battlecraft Gear (DoM)"
+    },
+    {
+      "id": "0x0004032F",
+      "text": "Purchase Battlecraft Gear (DoM)"
+    },
+    {
+      "id": "0x00040330",
+      "text": "Purchase Battlecraft Gear (DoM)"
+    },
+    {
+      "id": "0x00040331",
+      "text": "Purchase Battlecraft Gear (DoM)"
+    },
+    {
+      "id": "0x00040332",
+      "text": "Purchase Battlecraft Gear (DoM)"
+    },
+    {
+      "id": "0x00040333",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x00040334",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x00040335",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x00040336",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x00040337",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x00040338",
+      "text": "Purchase Battlecraft Accessories"
+    },
+    {
+      "id": "0x00040339",
+      "text": "Purchase Battlecraft Accessories"
+    },
+    {
+      "id": "0x0004033A",
+      "text": "Purchase Battlecraft Accessories"
+    },
+    {
+      "id": "0x0004033B",
+      "text": "Purchase Battlecraft Accessories"
+    },
+    {
+      "id": "0x0004033C",
+      "text": "Purchase Battlecraft Accessories"
+    },
+    {
+      "id": "0x0004033D",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x0004033E",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x0004033F",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x00040340",
+      "text": "Purchase Tradecraft Primary Tools"
+    },
+    {
+      "id": "0x00040341",
+      "text": "Purchase Tradecraft Secondary Tools"
+    },
+    {
+      "id": "0x00040342",
+      "text": "Purchase Fieldcraft Tools"
+    },
+    {
+      "id": "0x00040343",
+      "text": "Purchase Fieldcraft/Tradecraft Gear"
+    },
+    {
+      "id": "0x00040344",
+      "text": "Purchase Fieldcraft/Tradecraft Gear"
+    },
+    {
+      "id": "0x00040345",
+      "text": "Purchase Fieldcraft/Tradecraft Gear"
+    },
+    {
+      "id": "0x00040346",
+      "text": "Purchase Fieldcraft/Tradecraft Gear"
+    },
+    {
+      "id": "0x00040347",
+      "text": "Purchase Tradecraft Gear"
+    },
+    {
+      "id": "0x00040348",
+      "text": "Purchase Fieldcraft Gear"
+    },
+    {
+      "id": "0x00040349",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004034A",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004034B",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004034C",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004034D",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004034E",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004034F",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040350",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040351",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040352",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040353",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040354",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040355",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040356",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040357",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040358",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040359",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004035A",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004035B",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004035C",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004035D",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004035E",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004035F",
+      "text": "Purchase Viera Gear"
+    },
+    {
+      "id": "0x00040360",
+      "text": "Purchase Hrothgar Gear"
+    },
+    {
+      "id": "0x00040361",
+      "text": "Purchase Seasonal Event Rewards"
+    },
+    {
+      "id": "0x00040362",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040363",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040364",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040365",
+      "text": "Purchase Paintings (The First)"
+    },
+    {
+      "id": "0x00040366",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040367",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040368",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040369",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x0004036A",
+      "text": "Purchase Gear"
+    },
+    {
+      "id": "0x0004036B",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004036D",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004036E",
+      "text": "Purchase Skysteel Prototypes"
+    },
+    {
+      "id": "0x0004036F",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040370",
+      "text": "Purchase Skysteel Replicas"
+    },
+    {
+      "id": "0x00040371",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040372",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x00040373",
+      "text": "Purchase Gear"
+    },
+    {
+      "id": "0x00040374",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040375",
+      "text": "Purchase Scavenged Gear"
+    },
+    {
+      "id": "0x00040376",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040377",
+      "text": "Purchase Resistance Weapon Replicas (DoW) I"
+    },
+    {
+      "id": "0x00040378",
+      "text": "Purchase Resistance Weapon Replicas (DoW) II"
+    },
+    {
+      "id": "0x00040379",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004037A",
+      "text": "Purchase Items III"
+    },
+    {
+      "id": "0x0004037B",
+      "text": "Purchase Items II"
+    },
+    {
+      "id": "0x00040380",
+      "text": "Purchase Resistance Weapon Replicas (DoM)"
+    },
+    {
+      "id": "0x00040382",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040383",
+      "text": "Purchase Luxuries"
+    },
+    {
+      "id": "0x00040384",
+      "text": "Purchase Luxuries"
+    },
+    {
+      "id": "0x00040385",
+      "text": "Purchase Achievement Rewards III"
+    },
+    {
+      "id": "0x0004038C",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x0004038D",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x0004038E",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x0004038F",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x00040390",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x00040391",
+      "text": "Purchase Battlecraft Gear (DoW)"
+    },
+    {
+      "id": "0x00040392",
+      "text": "Purchase Battlecraft Gear (DoW)"
+    },
+    {
+      "id": "0x00040393",
+      "text": "Purchase Battlecraft Gear (DoW)"
+    },
+    {
+      "id": "0x00040394",
+      "text": "Purchase Battlecraft Gear (DoW)"
+    },
+    {
+      "id": "0x00040395",
+      "text": "Purchase Battlecraft Gear (DoW)"
+    },
+    {
+      "id": "0x00040396",
+      "text": "Purchase Battlecraft Gear (DoM)"
+    },
+    {
+      "id": "0x00040397",
+      "text": "Purchase Battlecraft Gear (DoM)"
+    },
+    {
+      "id": "0x00040398",
+      "text": "Purchase Battlecraft Gear (DoM)"
+    },
+    {
+      "id": "0x00040399",
+      "text": "Purchase Battlecraft Gear (DoM)"
+    },
+    {
+      "id": "0x0004039A",
+      "text": "Purchase Battlecraft Gear (DoM)"
+    },
+    {
+      "id": "0x0004039B",
+      "text": "Purchase Battlecraft Accessories"
+    },
+    {
+      "id": "0x0004039C",
+      "text": "Purchase Battlecraft Accessories"
+    },
+    {
+      "id": "0x0004039D",
+      "text": "Purchase Battlecraft Accessories"
+    },
+    {
+      "id": "0x0004039E",
+      "text": "Purchase Battlecraft Accessories"
+    },
+    {
+      "id": "0x0004039F",
+      "text": "Purchase Battlecraft Accessories"
+    },
+    {
+      "id": "0x000403A0",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000403A1",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000403A2",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000403A3",
+      "text": "Purchase Tradecraft Primary Tools"
+    },
+    {
+      "id": "0x000403A4",
+      "text": "Purchase Tradecraft Secondary Tools"
+    },
+    {
+      "id": "0x000403A5",
+      "text": "Purchase Fieldcraft Tools"
+    },
+    {
+      "id": "0x000403A6",
+      "text": "Purchase Fieldcraft/Tradecraft Gear"
+    },
+    {
+      "id": "0x000403A7",
+      "text": "Purchase Fieldcraft/Tradecraft Gear"
+    },
+    {
+      "id": "0x000403A8",
+      "text": "Purchase Fieldcraft/Tradecraft Gear"
+    },
+    {
+      "id": "0x000403A9",
+      "text": "Purchase Tradecraft Gear"
+    },
+    {
+      "id": "0x000403AA",
+      "text": "Purchase Fieldcraft Gear"
+    },
+    {
+      "id": "0x000403AB",
+      "text": "Purchase Weapons (Lv. 70)"
+    },
+    {
+      "id": "0x000403AC",
+      "text": "Purchase Weapons (Lv. 72)"
+    },
+    {
+      "id": "0x000403AD",
+      "text": "Purchase Weapons (Lv. 74)"
+    },
+    {
+      "id": "0x000403AE",
+      "text": "Purchase Weapons (Lv. 76)"
+    },
+    {
+      "id": "0x000403AF",
+      "text": "Purchase Weapons (Lv. 78)"
+    },
+    {
+      "id": "0x000403B0",
+      "text": "Purchase Weapons (Lv. 80)"
+    },
+    {
+      "id": "0x000403B1",
+      "text": "Purchase Gear (Lv. 70)"
+    },
+    {
+      "id": "0x000403B2",
+      "text": "Purchase Gear (Lv. 72)"
+    },
+    {
+      "id": "0x000403B3",
+      "text": "Purchase Gear (Lv. 74)"
+    },
+    {
+      "id": "0x000403B4",
+      "text": "Purchase Gear (Lv. 76)"
+    },
+    {
+      "id": "0x000403B5",
+      "text": "Purchase Gear (Lv. 78)"
+    },
+    {
+      "id": "0x000403B6",
+      "text": "Purchase Gear (Lv. 80)"
+    },
+    {
+      "id": "0x000403B7",
+      "text": "Purchase Gear (Lv. 70)"
+    },
+    {
+      "id": "0x000403B8",
+      "text": "Purchase Gear (Lv. 72)"
+    },
+    {
+      "id": "0x000403B9",
+      "text": "Purchase Gear (Lv. 74)"
+    },
+    {
+      "id": "0x000403BA",
+      "text": "Purchase Gear (Lv. 76)"
+    },
+    {
+      "id": "0x000403BB",
+      "text": "Purchase Gear (Lv. 78)"
+    },
+    {
+      "id": "0x000403BC",
+      "text": "Purchase Gear (Lv. 80)"
+    },
+    {
+      "id": "0x000403BD",
+      "text": "Purchase Battlecraft Accessories"
+    },
+    {
+      "id": "0x000403BE",
+      "text": "Purchase Fieldcraft/Tradecraft Accessories"
+    },
+    {
+      "id": "0x000403BF",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000403C0",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000403C1",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000403C2",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000403C3",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000403C4",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000403C5",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000403C6",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000403C7",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000403C8",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000403C9",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000403CA",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000403CB",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000403CC",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000403CD",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000403CE",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000403CF",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000403D0",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000403D1",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000403D2",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000403D3",
+      "text": "Purchase Gardening Items"
+    },
+    {
+      "id": "0x000403D4",
+      "text": "アイテムの購入"
+    },
+    {
+      "id": "0x000403D5",
+      "text": "アイテムの購入"
+    },
+    {
+      "id": "0x000403D6",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000403D7",
+      "text": "アイテムの購入"
+    },
+    {
+      "id": "0x000403D8",
+      "text": "アイテムの購入"
+    },
+    {
+      "id": "0x000403D9",
+      "text": "アイテムの購入"
+    },
+    {
+      "id": "0x000403DA",
+      "text": "Purchase Paintings (The Northern Empty)"
+    },
+    {
+      "id": "0x000403DB",
+      "text": "Purchase Paintings (Ilsabard)"
+    },
+    {
+      "id": "0x000403DC",
+      "text": "Purchase Paintings (The World Unsundered)"
+    },
+    {
+      "id": "0x000403DD",
+      "text": "Purchase Paintings (The Sea of Stars)"
+    },
+    {
+      "id": "0x000403DE",
+      "text": "Purchase Quest Rewards II"
+    },
+    {
+      "id": "0x000403DF",
+      "text": "Repurchase Samurai Gear"
+    },
+    {
+      "id": "0x000403E0",
+      "text": "Repurchase Red Mage Gear"
+    },
+    {
+      "id": "0x000403E1",
+      "text": "Repurchase Gunbreaker Gear"
+    },
+    {
+      "id": "0x000403E2",
+      "text": "Repurchase Dancer Gear"
+    },
+    {
+      "id": "0x000403E3",
+      "text": "Repurchase Reaper Gear"
+    },
+    {
+      "id": "0x000403E4",
+      "text": "Repurchase Sage Gear"
+    },
+    {
+      "id": "0x000403E5",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000403E6",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000403E7",
+      "text": "Purchase Gear"
+    },
+    {
+      "id": "0x000403E8",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000403E9",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000403EA",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000403EB",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000403EC",
+      "text": "アイテムの購入"
+    },
+    {
+      "id": "0x000403ED",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000403EE",
+      "text": "アイテムの購入"
+    },
+    {
+      "id": "0x000403EF",
+      "text": "Purchase Manderville Weapon Replicas (DoW) I"
+    },
+    {
+      "id": "0x000403F5",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x000403F6",
+      "text": "Purchase Gear"
+    },
+    {
+      "id": "0x000403F7",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000403F8",
+      "text": "Purchase Splendorous Replicas"
+    },
+    {
+      "id": "0x000403FC",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x000403FF",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040401",
+      "text": "Purchase Manderville Weapon Replicas (DoW) II"
+    },
+    {
+      "id": "0x00040402",
+      "text": "Purchase Furnishings (Phasmascapes)"
+    },
+    {
+      "id": "0x00040403",
+      "text": "Purchase Manderville Weapon Replicas (DoM)"
+    },
+    {
+      "id": "0x00040404",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x00040405",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x00040406",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x00040407",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x00040408",
+      "text": "Purchase Weapons"
+    },
+    {
+      "id": "0x00040409",
+      "text": "Purchase Battlecraft Gear (DoW)"
+    },
+    {
+      "id": "0x0004040A",
+      "text": "Purchase Battlecraft Gear (DoW)"
+    },
+    {
+      "id": "0x0004040B",
+      "text": "Purchase Battlecraft Gear (DoW)"
+    },
+    {
+      "id": "0x0004040C",
+      "text": "Purchase Battlecraft Gear (DoW)"
+    },
+    {
+      "id": "0x0004040D",
+      "text": "Purchase Battlecraft Gear (DoW)"
+    },
+    {
+      "id": "0x0004040E",
+      "text": "Purchase Battlecraft Gear (DoM)"
+    },
+    {
+      "id": "0x0004040F",
+      "text": "Purchase Battlecraft Gear (DoM)"
+    },
+    {
+      "id": "0x00040410",
+      "text": "Purchase Battlecraft Gear (DoM)"
+    },
+    {
+      "id": "0x00040411",
+      "text": "Purchase Battlecraft Gear (DoM)"
+    },
+    {
+      "id": "0x00040412",
+      "text": "Purchase Battlecraft Gear (DoM)"
+    },
+    {
+      "id": "0x00040413",
+      "text": "Purchase Battlecraft Accessories"
+    },
+    {
+      "id": "0x00040414",
+      "text": "Purchase Battlecraft Accessories"
+    },
+    {
+      "id": "0x00040415",
+      "text": "Purchase Battlecraft Accessories"
+    },
+    {
+      "id": "0x00040416",
+      "text": "Purchase Battlecraft Accessories"
+    },
+    {
+      "id": "0x00040417",
+      "text": "Purchase Battlecraft Accessories"
+    },
+    {
+      "id": "0x00040418",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x00040419",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x0004041A",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x0004041B",
+      "text": "Purchase Tradecraft Primary Tools"
+    },
+    {
+      "id": "0x0004041C",
+      "text": "Purchase Tradecraft Secondary Tools"
+    },
+    {
+      "id": "0x0004041D",
+      "text": "Purchase Fieldcraft Tools"
+    },
+    {
+      "id": "0x0004041E",
+      "text": "Purchase Fieldcraft/Tradecraft Gear"
+    },
+    {
+      "id": "0x0004041F",
+      "text": "Purchase Fieldcraft/Tradecraft Gear"
+    },
+    {
+      "id": "0x00040420",
+      "text": "Purchase Fieldcraft/Tradecraft Gear"
+    },
+    {
+      "id": "0x00040421",
+      "text": "Purchase Tradecraft Gear"
+    },
+    {
+      "id": "0x00040422",
+      "text": "Purchase Fieldcraft Gear"
+    },
+    {
+      "id": "0x00040423",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040424",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040425",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040426",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040427",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040428",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040429",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004042A",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004042B",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004042C",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004042D",
+      "text": "Purchase Lv. 80 Arms & Gear"
+    },
+    {
+      "id": "0x00040435",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040436",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040437",
+      "text": "Purchase Paintings (Yok Tural)"
+    },
+    {
+      "id": "0x00040438",
+      "text": "Purchase Paintings (Xak Tural)"
+    },
+    {
+      "id": "0x00040439",
+      "text": "Purchase Paintings (Unlost World)"
+    },
+    {
+      "id": "0x0004043A",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040441",
+      "text": "Purchase Furnishings (Pillars, Decorations)"
+    },
+    {
+      "id": "0x00040445",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040446",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040447",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004044D",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x0004044E",
+      "text": "Purchase Gear"
+    },
+    {
+      "id": "0x00040450",
+      "text": "Purchase Tools (Carpenter/Blacksmith/Armorer)"
+    },
+    {
+      "id": "0x00040451",
+      "text": "Purchase Tools (Carpenter/Blacksmith/Armorer)"
+    },
+    {
+      "id": "0x00040452",
+      "text": "Purchase Tools (Carpenter/Blacksmith/Armorer)"
+    },
+    {
+      "id": "0x00040453",
+      "text": "Purchase Tools (Carpenter/Blacksmith/Armorer)"
+    },
+    {
+      "id": "0x00040454",
+      "text": "Purchase Tools (Carpenter/Blacksmith/Armorer)"
+    },
+    {
+      "id": "0x00040455",
+      "text": "Purchase Tools (Goldsmith/Leatherworker/Weaver)"
+    },
+    {
+      "id": "0x00040456",
+      "text": "Purchase Tools (Goldsmith/Leatherworker/Weaver)"
+    },
+    {
+      "id": "0x00040457",
+      "text": "Purchase Tools (Goldsmith/Leatherworker/Weaver)"
+    },
+    {
+      "id": "0x00040458",
+      "text": "Purchase Tools (Goldsmith/Leatherworker/Weaver)"
+    },
+    {
+      "id": "0x00040459",
+      "text": "Purchase Tools (Goldsmith/Leatherworker/Weaver)"
+    },
+    {
+      "id": "0x0004045A",
+      "text": "Purchase Tools (Miner/Botanist/Fisher)"
+    },
+    {
+      "id": "0x0004045B",
+      "text": "Purchase Tools (Miner/Botanist/Fisher)"
+    },
+    {
+      "id": "0x0004045C",
+      "text": "Purchase Tools (Miner/Botanist/Fisher)"
+    },
+    {
+      "id": "0x0004045D",
+      "text": "Purchase Tools (Miner/Botanist/Fisher)"
+    },
+    {
+      "id": "0x0004045E",
+      "text": "Purchase Tools (Miner/Botanist/Fisher)"
+    },
+    {
+      "id": "0x0004045F",
+      "text": "Purchase Tradecraft Gear"
+    },
+    {
+      "id": "0x00040460",
+      "text": "Purchase Tradecraft Gear"
+    },
+    {
+      "id": "0x00040461",
+      "text": "Purchase Tradecraft Gear"
+    },
+    {
+      "id": "0x00040462",
+      "text": "Purchase Tradecraft Gear"
+    },
+    {
+      "id": "0x00040463",
+      "text": "Purchase Tradecraft Gear"
+    },
+    {
+      "id": "0x00040464",
+      "text": "Purchase Fieldcraft Gear"
+    },
+    {
+      "id": "0x00040465",
+      "text": "Purchase Fieldcraft Gear"
+    },
+    {
+      "id": "0x00040466",
+      "text": "Purchase Fieldcraft Gear"
+    },
+    {
+      "id": "0x00040467",
+      "text": "Purchase Fieldcraft Gear"
+    },
+    {
+      "id": "0x00040468",
+      "text": "Purchase Fieldcraft Gear"
+    },
+    {
+      "id": "0x00040469",
+      "text": "Purchase Accessories"
+    },
+    {
+      "id": "0x0004046A",
+      "text": "Purchase Accessories"
+    },
+    {
+      "id": "0x0004046B",
+      "text": "Purchase Accessories"
+    },
+    {
+      "id": "0x0004046C",
+      "text": "Purchase Accessories"
+    },
+    {
+      "id": "0x0004046D",
+      "text": "Purchase Accessories"
+    },
+    {
+      "id": "0x0004046E",
+      "text": "Purchase Tools (Alchemist/Culinarian)"
+    },
+    {
+      "id": "0x0004046F",
+      "text": "Purchase Tools (Alchemist/Culinarian)"
+    },
+    {
+      "id": "0x00040470",
+      "text": "Purchase Tools (Alchemist/Culinarian)"
+    },
+    {
+      "id": "0x00040471",
+      "text": "Purchase Tools (Alchemist/Culinarian)"
+    },
+    {
+      "id": "0x00040472",
+      "text": "Purchase Tools (Alchemist/Culinarian)"
+    },
+    {
+      "id": "0x00040473",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040474",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x00040475",
+      "text": "Purchase Gear"
+    },
+    {
+      "id": "0x00040477",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x0004047E",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040482",
+      "text": "Purchase Items"
+    },
+    {
+      "id": "0x00040483",
+      "text": "Purchase Beastmaster Arms & Gear"
+    }
+  ]
+}

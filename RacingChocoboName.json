@@ -1,0 +1,6437 @@
+{
+  "source_file": "exd/RacingChocoboName_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000003",
+      "text": "Teioh"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Ambré"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Ambrée"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Argent"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Azure"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Black"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Blanc"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Blanche"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Blaue"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Blauer"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Blaues"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Bleu"
+    },
+    {
+      "id": "0x00000010",
+      "text": "Bleue"
+    },
+    {
+      "id": "0x00000011",
+      "text": "Blond"
+    },
+    {
+      "id": "0x00000012",
+      "text": "Blonde"
+    },
+    {
+      "id": "0x00000013",
+      "text": "Blue"
+    },
+    {
+      "id": "0x00000014",
+      "text": "Brun"
+    },
+    {
+      "id": "0x00000015",
+      "text": "Brune"
+    },
+    {
+      "id": "0x00000016",
+      "text": "Carmin"
+    },
+    {
+      "id": "0x00000017",
+      "text": "Céleste"
+    },
+    {
+      "id": "0x00000018",
+      "text": "Cerise"
+    },
+    {
+      "id": "0x00000019",
+      "text": "Cérulé"
+    },
+    {
+      "id": "0x0000001A",
+      "text": "Cerulean"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "Cérulée"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "Claybank"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "Cobalt"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "Crimson"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "Cuivré"
+    },
+    {
+      "id": "0x00000020",
+      "text": "Cuivrée"
+    },
+    {
+      "id": "0x00000021",
+      "text": "Doré"
+    },
+    {
+      "id": "0x00000022",
+      "text": "Dorée"
+    },
+    {
+      "id": "0x00000023",
+      "text": "Dun"
+    },
+    {
+      "id": "0x00000024",
+      "text": "Écarlate"
+    },
+    {
+      "id": "0x00000025",
+      "text": "Gelbe"
+    },
+    {
+      "id": "0x00000026",
+      "text": "Gelber"
+    },
+    {
+      "id": "0x00000027",
+      "text": "Gelbes"
+    },
+    {
+      "id": "0x00000028",
+      "text": "Gold"
+    },
+    {
+      "id": "0x00000029",
+      "text": "Goldene"
+    },
+    {
+      "id": "0x0000002A",
+      "text": "Goldener"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "Goldenes"
+    },
+    {
+      "id": "0x0000002C",
+      "text": "Green"
+    },
+    {
+      "id": "0x0000002D",
+      "text": "Grey"
+    },
+    {
+      "id": "0x0000002E",
+      "text": "Grüne"
+    },
+    {
+      "id": "0x0000002F",
+      "text": "Grüner"
+    },
+    {
+      "id": "0x00000030",
+      "text": "Grünes"
+    },
+    {
+      "id": "0x00000031",
+      "text": "Incarnat"
+    },
+    {
+      "id": "0x00000032",
+      "text": "Incarnate"
+    },
+    {
+      "id": "0x00000033",
+      "text": "Indigo"
+    },
+    {
+      "id": "0x00000034",
+      "text": "Ivory"
+    },
+    {
+      "id": "0x00000035",
+      "text": "Jais"
+    },
+    {
+      "id": "0x00000036",
+      "text": "Jaune"
+    },
+    {
+      "id": "0x00000037",
+      "text": "Midori"
+    },
+    {
+      "id": "0x00000038",
+      "text": "Nacarat"
+    },
+    {
+      "id": "0x00000039",
+      "text": "Noir"
+    },
+    {
+      "id": "0x0000003A",
+      "text": "Noire"
+    },
+    {
+      "id": "0x0000003B",
+      "text": "Ocre"
+    },
+    {
+      "id": "0x0000003C",
+      "text": "Ocré"
+    },
+    {
+      "id": "0x0000003D",
+      "text": "Ocrée"
+    },
+    {
+      "id": "0x0000003E",
+      "text": "Or"
+    },
+    {
+      "id": "0x0000003F",
+      "text": "Orange"
+    },
+    {
+      "id": "0x00000040",
+      "text": "Pastel"
+    },
+    {
+      "id": "0x00000041",
+      "text": "Pers"
+    },
+    {
+      "id": "0x00000042",
+      "text": "Pourpre"
+    },
+    {
+      "id": "0x00000043",
+      "text": "Red"
+    },
+    {
+      "id": "0x00000044",
+      "text": "Rote"
+    },
+    {
+      "id": "0x00000045",
+      "text": "Roter"
+    },
+    {
+      "id": "0x00000046",
+      "text": "Rotes"
+    },
+    {
+      "id": "0x00000047",
+      "text": "Rouge"
+    },
+    {
+      "id": "0x00000048",
+      "text": "Rousse"
+    },
+    {
+      "id": "0x00000049",
+      "text": "Roux"
+    },
+    {
+      "id": "0x0000004A",
+      "text": "Rubican"
+    },
+    {
+      "id": "0x0000004B",
+      "text": "Scarlet"
+    },
+    {
+      "id": "0x0000004C",
+      "text": "Schwarze"
+    },
+    {
+      "id": "0x0000004D",
+      "text": "Schwarzer"
+    },
+    {
+      "id": "0x0000004E",
+      "text": "Schwarzes"
+    },
+    {
+      "id": "0x0000004F",
+      "text": "Silber"
+    },
+    {
+      "id": "0x00000050",
+      "text": "Silberne"
+    },
+    {
+      "id": "0x00000051",
+      "text": "Silberner"
+    },
+    {
+      "id": "0x00000052",
+      "text": "Silbernes"
+    },
+    {
+      "id": "0x00000053",
+      "text": "Silver"
+    },
+    {
+      "id": "0x00000054",
+      "text": "Smalt"
+    },
+    {
+      "id": "0x00000055",
+      "text": "Sorrel"
+    },
+    {
+      "id": "0x00000056",
+      "text": "Vermeil"
+    },
+    {
+      "id": "0x00000057",
+      "text": "Vermeille"
+    },
+    {
+      "id": "0x00000058",
+      "text": "Vert"
+    },
+    {
+      "id": "0x00000059",
+      "text": "Verte"
+    },
+    {
+      "id": "0x0000005A",
+      "text": "Violet"
+    },
+    {
+      "id": "0x0000005B",
+      "text": "Violette"
+    },
+    {
+      "id": "0x0000005C",
+      "text": "Weiße"
+    },
+    {
+      "id": "0x0000005D",
+      "text": "Weißer"
+    },
+    {
+      "id": "0x0000005E",
+      "text": "Weißes"
+    },
+    {
+      "id": "0x0000005F",
+      "text": "Xanthous"
+    },
+    {
+      "id": "0x00000060",
+      "text": "Yellow"
+    },
+    {
+      "id": "0x00000061",
+      "text": "Acier"
+    },
+    {
+      "id": "0x00000062",
+      "text": "Aetherial"
+    },
+    {
+      "id": "0x00000063",
+      "text": "Agate"
+    },
+    {
+      "id": "0x00000064",
+      "text": "Airain"
+    },
+    {
+      "id": "0x00000065",
+      "text": "Amber"
+    },
+    {
+      "id": "0x00000066",
+      "text": "Ambre"
+    },
+    {
+      "id": "0x00000067",
+      "text": "Amethyst"
+    },
+    {
+      "id": "0x00000068",
+      "text": "Beryl"
+    },
+    {
+      "id": "0x00000069",
+      "text": "Béryl"
+    },
+    {
+      "id": "0x0000006A",
+      "text": "Bronze"
+    },
+    {
+      "id": "0x0000006B",
+      "text": "Charbon"
+    },
+    {
+      "id": "0x0000006C",
+      "text": "Cinder"
+    },
+    {
+      "id": "0x0000006D",
+      "text": "Copper"
+    },
+    {
+      "id": "0x0000006E",
+      "text": "Corail"
+    },
+    {
+      "id": "0x0000006F",
+      "text": "Cristal"
+    },
+    {
+      "id": "0x00000070",
+      "text": "Crystal"
+    },
+    {
+      "id": "0x00000071",
+      "text": "Cuivre"
+    },
+    {
+      "id": "0x00000072",
+      "text": "Darksteel"
+    },
+    {
+      "id": "0x00000073",
+      "text": "Diamant"
+    },
+    {
+      "id": "0x00000074",
+      "text": "Diamond"
+    },
+    {
+      "id": "0x00000075",
+      "text": "Eisen"
+    },
+    {
+      "id": "0x00000076",
+      "text": "Electrum"
+    },
+    {
+      "id": "0x00000077",
+      "text": "Ember"
+    },
+    {
+      "id": "0x00000078",
+      "text": "Émeraude"
+    },
+    {
+      "id": "0x00000079",
+      "text": "Fer"
+    },
+    {
+      "id": "0x0000007A",
+      "text": "Garnet"
+    },
+    {
+      "id": "0x0000007B",
+      "text": "Grenat"
+    },
+    {
+      "id": "0x0000007C",
+      "text": "Iron"
+    },
+    {
+      "id": "0x0000007D",
+      "text": "Jade"
+    },
+    {
+      "id": "0x0000007E",
+      "text": "Kristall"
+    },
+    {
+      "id": "0x0000007F",
+      "text": "Metal"
+    },
+    {
+      "id": "0x00000080",
+      "text": "Métal"
+    },
+    {
+      "id": "0x00000081",
+      "text": "Métallique"
+    },
+    {
+      "id": "0x00000082",
+      "text": "Mythril"
+    },
+    {
+      "id": "0x00000083",
+      "text": "Obsidian"
+    },
+    {
+      "id": "0x00000084",
+      "text": "Obsidienne"
+    },
+    {
+      "id": "0x00000085",
+      "text": "Opale"
+    },
+    {
+      "id": "0x00000086",
+      "text": "Perle"
+    },
+    {
+      "id": "0x00000087",
+      "text": "Platinum"
+    },
+    {
+      "id": "0x00000088",
+      "text": "Quartz"
+    },
+    {
+      "id": "0x00000089",
+      "text": "Rubin"
+    },
+    {
+      "id": "0x0000008A",
+      "text": "Rubis"
+    },
+    {
+      "id": "0x0000008B",
+      "text": "Ruby"
+    },
+    {
+      "id": "0x0000008C",
+      "text": "Saphir"
+    },
+    {
+      "id": "0x0000008D",
+      "text": "Schatz"
+    },
+    {
+      "id": "0x0000008E",
+      "text": "Seidige"
+    },
+    {
+      "id": "0x0000008F",
+      "text": "Seidiger"
+    },
+    {
+      "id": "0x00000090",
+      "text": "Seidiges"
+    },
+    {
+      "id": "0x00000091",
+      "text": "Silky"
+    },
+    {
+      "id": "0x00000092",
+      "text": "Sphene"
+    },
+    {
+      "id": "0x00000093",
+      "text": "Stone"
+    },
+    {
+      "id": "0x00000094",
+      "text": "Topaze"
+    },
+    {
+      "id": "0x00000095",
+      "text": "Turquoise"
+    },
+    {
+      "id": "0x00000096",
+      "text": "Velvet"
+    },
+    {
+      "id": "0x00000097",
+      "text": "Velveteen"
+    },
+    {
+      "id": "0x00000098",
+      "text": "Wootz"
+    },
+    {
+      "id": "0x00000099",
+      "text": "Adoré"
+    },
+    {
+      "id": "0x0000009A",
+      "text": "Adorée"
+    },
+    {
+      "id": "0x0000009B",
+      "text": "Best"
+    },
+    {
+      "id": "0x0000009C",
+      "text": "Bester"
+    },
+    {
+      "id": "0x0000009D",
+      "text": "Blinding"
+    },
+    {
+      "id": "0x0000009E",
+      "text": "Bloody"
+    },
+    {
+      "id": "0x0000009F",
+      "text": "Bon"
+    },
+    {
+      "id": "0x000000A0",
+      "text": "Bonne"
+    },
+    {
+      "id": "0x000000A1",
+      "text": "Chic"
+    },
+    {
+      "id": "0x000000A2",
+      "text": "Clair"
+    },
+    {
+      "id": "0x000000A3",
+      "text": "Claire"
+    },
+    {
+      "id": "0x000000A4",
+      "text": "Cool"
+    },
+    {
+      "id": "0x000000A5",
+      "text": "Dunkle"
+    },
+    {
+      "id": "0x000000A6",
+      "text": "Dunkler"
+    },
+    {
+      "id": "0x000000A7",
+      "text": "Dunkles"
+    },
+    {
+      "id": "0x000000A8",
+      "text": "Easy"
+    },
+    {
+      "id": "0x000000A9",
+      "text": "Élancé"
+    },
+    {
+      "id": "0x000000AA",
+      "text": "Élancée"
+    },
+    {
+      "id": "0x000000AB",
+      "text": "Elder"
+    },
+    {
+      "id": "0x000000AC",
+      "text": "Excellent"
+    },
+    {
+      "id": "0x000000AD",
+      "text": "Excellente"
+    },
+    {
+      "id": "0x000000AE",
+      "text": "Fantastic"
+    },
+    {
+      "id": "0x000000AF",
+      "text": "Filant"
+    },
+    {
+      "id": "0x000000B0",
+      "text": "Filante"
+    },
+    {
+      "id": "0x000000B1",
+      "text": "Fine"
+    },
+    {
+      "id": "0x000000B2",
+      "text": "Fraîche"
+    },
+    {
+      "id": "0x000000B3",
+      "text": "Frais"
+    },
+    {
+      "id": "0x000000B4",
+      "text": "Geölte"
+    },
+    {
+      "id": "0x000000B5",
+      "text": "Geölter"
+    },
+    {
+      "id": "0x000000B6",
+      "text": "Geöltes"
+    },
+    {
+      "id": "0x000000B7",
+      "text": "Glorieuse"
+    },
+    {
+      "id": "0x000000B8",
+      "text": "Glorieux"
+    },
+    {
+      "id": "0x000000B9",
+      "text": "Good"
+    },
+    {
+      "id": "0x000000BA",
+      "text": "Grand"
+    },
+    {
+      "id": "0x000000BB",
+      "text": "Gute"
+    },
+    {
+      "id": "0x000000BC",
+      "text": "Guter"
+    },
+    {
+      "id": "0x000000BD",
+      "text": "Gutes"
+    },
+    {
+      "id": "0x000000BE",
+      "text": "Helle"
+    },
+    {
+      "id": "0x000000BF",
+      "text": "Heller"
+    },
+    {
+      "id": "0x000000C0",
+      "text": "Helles"
+    },
+    {
+      "id": "0x000000C1",
+      "text": "Hot"
+    },
+    {
+      "id": "0x000000C2",
+      "text": "Hyper"
+    },
+    {
+      "id": "0x000000C3",
+      "text": "Klapprige"
+    },
+    {
+      "id": "0x000000C4",
+      "text": "Klappriger"
+    },
+    {
+      "id": "0x000000C5",
+      "text": "Klappriges"
+    },
+    {
+      "id": "0x000000C6",
+      "text": "Limber"
+    },
+    {
+      "id": "0x000000C7",
+      "text": "Magnificent"
+    },
+    {
+      "id": "0x000000C8",
+      "text": "Magnifique"
+    },
+    {
+      "id": "0x000000C9",
+      "text": "Maximum"
+    },
+    {
+      "id": "0x000000CA",
+      "text": "Meilleur"
+    },
+    {
+      "id": "0x000000CB",
+      "text": "Meilleure"
+    },
+    {
+      "id": "0x000000CC",
+      "text": "Méritant"
+    },
+    {
+      "id": "0x000000CD",
+      "text": "Méritante"
+    },
+    {
+      "id": "0x000000CE",
+      "text": "Natural"
+    },
+    {
+      "id": "0x000000CF",
+      "text": "Negative"
+    },
+    {
+      "id": "0x000000D0",
+      "text": "Neo"
+    },
+    {
+      "id": "0x000000D1",
+      "text": "Old"
+    },
+    {
+      "id": "0x000000D2",
+      "text": "Optimal"
+    },
+    {
+      "id": "0x000000D3",
+      "text": "Optimale"
+    },
+    {
+      "id": "0x000000D4",
+      "text": "Parfait"
+    },
+    {
+      "id": "0x000000D5",
+      "text": "Parfaite"
+    },
+    {
+      "id": "0x000000D6",
+      "text": "Perfect"
+    },
+    {
+      "id": "0x000000D7",
+      "text": "Poetic"
+    },
+    {
+      "id": "0x000000D8",
+      "text": "Positive"
+    },
+    {
+      "id": "0x000000D9",
+      "text": "Premium"
+    },
+    {
+      "id": "0x000000DA",
+      "text": "Pur"
+    },
+    {
+      "id": "0x000000DB",
+      "text": "Pure"
+    },
+    {
+      "id": "0x000000DC",
+      "text": "Pures"
+    },
+    {
+      "id": "0x000000DD",
+      "text": "Radiante"
+    },
+    {
+      "id": "0x000000DE",
+      "text": "Raging"
+    },
+    {
+      "id": "0x000000DF",
+      "text": "Rich"
+    },
+    {
+      "id": "0x000000E0",
+      "text": "Rising"
+    },
+    {
+      "id": "0x000000E1",
+      "text": "Robuste"
+    },
+    {
+      "id": "0x000000E2",
+      "text": "Saint"
+    },
+    {
+      "id": "0x000000E3",
+      "text": "Sainte"
+    },
+    {
+      "id": "0x000000E4",
+      "text": "Saurer"
+    },
+    {
+      "id": "0x000000E5",
+      "text": "Saures"
+    },
+    {
+      "id": "0x000000E6",
+      "text": "Special"
+    },
+    {
+      "id": "0x000000E7",
+      "text": "Spécial"
+    },
+    {
+      "id": "0x000000E8",
+      "text": "Spéciale"
+    },
+    {
+      "id": "0x000000E9",
+      "text": "Super"
+    },
+    {
+      "id": "0x000000EA",
+      "text": "Superbe"
+    },
+    {
+      "id": "0x000000EB",
+      "text": "Sweet"
+    },
+    {
+      "id": "0x000000EC",
+      "text": "Transient"
+    },
+    {
+      "id": "0x000000ED",
+      "text": "Ultimate"
+    },
+    {
+      "id": "0x000000EE",
+      "text": "Ultime"
+    },
+    {
+      "id": "0x000000EF",
+      "text": "Ultra"
+    },
+    {
+      "id": "0x000000F0",
+      "text": "Vivid"
+    },
+    {
+      "id": "0x000000F1",
+      "text": "Wicked"
+    },
+    {
+      "id": "0x000000F2",
+      "text": "Wonder"
+    },
+    {
+      "id": "0x000000F3",
+      "text": "Wonderful"
+    },
+    {
+      "id": "0x000000F5",
+      "text": "Beau"
+    },
+    {
+      "id": "0x000000F6",
+      "text": "Beauté"
+    },
+    {
+      "id": "0x000000F7",
+      "text": "Beautiful"
+    },
+    {
+      "id": "0x000000F8",
+      "text": "Beauty"
+    },
+    {
+      "id": "0x000000F9",
+      "text": "Bel"
+    },
+    {
+      "id": "0x000000FA",
+      "text": "Belle"
+    },
+    {
+      "id": "0x000000FB",
+      "text": "Charisma"
+    },
+    {
+      "id": "0x000000FC",
+      "text": "Charmant"
+    },
+    {
+      "id": "0x000000FD",
+      "text": "Charmante"
+    },
+    {
+      "id": "0x000000FE",
+      "text": "Charmanter"
+    },
+    {
+      "id": "0x000000FF",
+      "text": "Charmantes"
+    },
+    {
+      "id": "0x00000100",
+      "text": "Dandy"
+    },
+    {
+      "id": "0x00000101",
+      "text": "Edle"
+    },
+    {
+      "id": "0x00000102",
+      "text": "Edler"
+    },
+    {
+      "id": "0x00000103",
+      "text": "Edles"
+    },
+    {
+      "id": "0x00000104",
+      "text": "Elegant"
+    },
+    {
+      "id": "0x00000105",
+      "text": "Élégant"
+    },
+    {
+      "id": "0x00000106",
+      "text": "Elegante"
+    },
+    {
+      "id": "0x00000107",
+      "text": "Élégante"
+    },
+    {
+      "id": "0x00000108",
+      "text": "Fat"
+    },
+    {
+      "id": "0x00000109",
+      "text": "Gallant"
+    },
+    {
+      "id": "0x0000010A",
+      "text": "Gorgeous"
+    },
+    {
+      "id": "0x0000010B",
+      "text": "Joli"
+    },
+    {
+      "id": "0x0000010C",
+      "text": "Jolie"
+    },
+    {
+      "id": "0x0000010D",
+      "text": "Pretty"
+    },
+    {
+      "id": "0x0000010E",
+      "text": "Princely"
+    },
+    {
+      "id": "0x0000010F",
+      "text": "Stylish"
+    },
+    {
+      "id": "0x00000110",
+      "text": "Wilde"
+    },
+    {
+      "id": "0x00000111",
+      "text": "Wilder"
+    },
+    {
+      "id": "0x00000112",
+      "text": "Wildes"
+    },
+    {
+      "id": "0x00000113",
+      "text": "Ambitious"
+    },
+    {
+      "id": "0x00000114",
+      "text": "Angry"
+    },
+    {
+      "id": "0x00000115",
+      "text": "Ardent"
+    },
+    {
+      "id": "0x00000116",
+      "text": "Ardente"
+    },
+    {
+      "id": "0x00000117",
+      "text": "Audacieuse"
+    },
+    {
+      "id": "0x00000118",
+      "text": "Audacieux"
+    },
+    {
+      "id": "0x00000119",
+      "text": "Battante"
+    },
+    {
+      "id": "0x0000011A",
+      "text": "Benevolent"
+    },
+    {
+      "id": "0x0000011B",
+      "text": "Blistering"
+    },
+    {
+      "id": "0x0000011C",
+      "text": "Bold"
+    },
+    {
+      "id": "0x0000011D",
+      "text": "Braver"
+    },
+    {
+      "id": "0x0000011E",
+      "text": "Braves"
+    },
+    {
+      "id": "0x0000011F",
+      "text": "Brilliant"
+    },
+    {
+      "id": "0x00000120",
+      "text": "Calme"
+    },
+    {
+      "id": "0x00000121",
+      "text": "Candid"
+    },
+    {
+      "id": "0x00000122",
+      "text": "Candide"
+    },
+    {
+      "id": "0x00000123",
+      "text": "Chanceuse"
+    },
+    {
+      "id": "0x00000124",
+      "text": "Chanceux"
+    },
+    {
+      "id": "0x00000125",
+      "text": "Daring"
+    },
+    {
+      "id": "0x00000126",
+      "text": "Dutiful"
+    },
+    {
+      "id": "0x00000127",
+      "text": "Eager"
+    },
+    {
+      "id": "0x00000128",
+      "text": "Fier"
+    },
+    {
+      "id": "0x00000129",
+      "text": "Fière"
+    },
+    {
+      "id": "0x0000012A",
+      "text": "Fougueuse"
+    },
+    {
+      "id": "0x0000012B",
+      "text": "Fougueux"
+    },
+    {
+      "id": "0x0000012C",
+      "text": "Fringant"
+    },
+    {
+      "id": "0x0000012D",
+      "text": "Fringante"
+    },
+    {
+      "id": "0x0000012E",
+      "text": "Furie"
+    },
+    {
+      "id": "0x0000012F",
+      "text": "Fury"
+    },
+    {
+      "id": "0x00000130",
+      "text": "Galopante"
+    },
+    {
+      "id": "0x00000131",
+      "text": "Groove"
+    },
+    {
+      "id": "0x00000132",
+      "text": "Hardi"
+    },
+    {
+      "id": "0x00000133",
+      "text": "Hardie"
+    },
+    {
+      "id": "0x00000134",
+      "text": "Humble"
+    },
+    {
+      "id": "0x00000135",
+      "text": "Impétueuse"
+    },
+    {
+      "id": "0x00000136",
+      "text": "Impétueux"
+    },
+    {
+      "id": "0x00000137",
+      "text": "Innocent"
+    },
+    {
+      "id": "0x00000138",
+      "text": "Innocente"
+    },
+    {
+      "id": "0x00000139",
+      "text": "Jolly"
+    },
+    {
+      "id": "0x0000013A",
+      "text": "Joyeuse"
+    },
+    {
+      "id": "0x0000013B",
+      "text": "Joyeux"
+    },
+    {
+      "id": "0x0000013C",
+      "text": "Kluge"
+    },
+    {
+      "id": "0x0000013D",
+      "text": "Kluger"
+    },
+    {
+      "id": "0x0000013E",
+      "text": "Kluges"
+    },
+    {
+      "id": "0x0000013F",
+      "text": "Melancholy"
+    },
+    {
+      "id": "0x00000140",
+      "text": "Merciless"
+    },
+    {
+      "id": "0x00000141",
+      "text": "Merry"
+    },
+    {
+      "id": "0x00000142",
+      "text": "Nana"
+    },
+    {
+      "id": "0x00000143",
+      "text": "Patient"
+    },
+    {
+      "id": "0x00000144",
+      "text": "Patiente"
+    },
+    {
+      "id": "0x00000145",
+      "text": "Pensive"
+    },
+    {
+      "id": "0x00000146",
+      "text": "Peureuse"
+    },
+    {
+      "id": "0x00000147",
+      "text": "Peureux"
+    },
+    {
+      "id": "0x00000148",
+      "text": "Prodigue"
+    },
+    {
+      "id": "0x00000149",
+      "text": "Pureté"
+    },
+    {
+      "id": "0x0000014A",
+      "text": "Reckless"
+    },
+    {
+      "id": "0x0000014B",
+      "text": "Restless"
+    },
+    {
+      "id": "0x0000014C",
+      "text": "Rieur"
+    },
+    {
+      "id": "0x0000014D",
+      "text": "Rieuse"
+    },
+    {
+      "id": "0x0000014E",
+      "text": "Sagace"
+    },
+    {
+      "id": "0x0000014F",
+      "text": "Sanfte"
+    },
+    {
+      "id": "0x00000150",
+      "text": "Sanfter"
+    },
+    {
+      "id": "0x00000151",
+      "text": "Sanftes"
+    },
+    {
+      "id": "0x00000152",
+      "text": "Serein"
+    },
+    {
+      "id": "0x00000153",
+      "text": "Sereine"
+    },
+    {
+      "id": "0x00000154",
+      "text": "Silent"
+    },
+    {
+      "id": "0x00000155",
+      "text": "Somber"
+    },
+    {
+      "id": "0x00000156",
+      "text": "Sombre"
+    },
+    {
+      "id": "0x00000157",
+      "text": "Stern"
+    },
+    {
+      "id": "0x00000158",
+      "text": "Stürmische"
+    },
+    {
+      "id": "0x00000159",
+      "text": "Stürmischer"
+    },
+    {
+      "id": "0x0000015A",
+      "text": "Stürmisches"
+    },
+    {
+      "id": "0x0000015B",
+      "text": "Timide"
+    },
+    {
+      "id": "0x0000015C",
+      "text": "Touched"
+    },
+    {
+      "id": "0x0000015D",
+      "text": "Tranquil"
+    },
+    {
+      "id": "0x0000015E",
+      "text": "Tranquille"
+    },
+    {
+      "id": "0x0000015F",
+      "text": "Treue"
+    },
+    {
+      "id": "0x00000160",
+      "text": "Treuer"
+    },
+    {
+      "id": "0x00000161",
+      "text": "Treues"
+    },
+    {
+      "id": "0x00000162",
+      "text": "Turbulent"
+    },
+    {
+      "id": "0x00000163",
+      "text": "Turbulente"
+    },
+    {
+      "id": "0x00000164",
+      "text": "Verve"
+    },
+    {
+      "id": "0x00000165",
+      "text": "Vif"
+    },
+    {
+      "id": "0x00000166",
+      "text": "Vive"
+    },
+    {
+      "id": "0x00000167",
+      "text": "Vorwitzige"
+    },
+    {
+      "id": "0x00000168",
+      "text": "Vorwitziger"
+    },
+    {
+      "id": "0x00000169",
+      "text": "Vorwitziges"
+    },
+    {
+      "id": "0x0000016A",
+      "text": "Wild"
+    },
+    {
+      "id": "0x0000016B",
+      "text": "Amour"
+    },
+    {
+      "id": "0x0000016C",
+      "text": "Ange"
+    },
+    {
+      "id": "0x0000016D",
+      "text": "Angel"
+    },
+    {
+      "id": "0x0000016E",
+      "text": "Animus"
+    },
+    {
+      "id": "0x0000016F",
+      "text": "Äther"
+    },
+    {
+      "id": "0x00000170",
+      "text": "Atma"
+    },
+    {
+      "id": "0x00000171",
+      "text": "Âtma"
+    },
+    {
+      "id": "0x00000172",
+      "text": "Avenir"
+    },
+    {
+      "id": "0x00000173",
+      "text": "Bonheur"
+    },
+    {
+      "id": "0x00000174",
+      "text": "Brilliance"
+    },
+    {
+      "id": "0x00000175",
+      "text": "Chaos"
+    },
+    {
+      "id": "0x00000176",
+      "text": "Devil"
+    },
+    {
+      "id": "0x00000177",
+      "text": "Divin"
+    },
+    {
+      "id": "0x00000178",
+      "text": "Divine"
+    },
+    {
+      "id": "0x00000179",
+      "text": "Dream"
+    },
+    {
+      "id": "0x0000017A",
+      "text": "End"
+    },
+    {
+      "id": "0x0000017B",
+      "text": "Engel"
+    },
+    {
+      "id": "0x0000017C",
+      "text": "Espoir"
+    },
+    {
+      "id": "0x0000017D",
+      "text": "Esprit"
+    },
+    {
+      "id": "0x0000017E",
+      "text": "Eternal"
+    },
+    {
+      "id": "0x0000017F",
+      "text": "Éternel"
+    },
+    {
+      "id": "0x00000180",
+      "text": "Éternelle"
+    },
+    {
+      "id": "0x00000181",
+      "text": "Evil"
+    },
+    {
+      "id": "0x00000182",
+      "text": "Ewige"
+    },
+    {
+      "id": "0x00000183",
+      "text": "Ewiger"
+    },
+    {
+      "id": "0x00000184",
+      "text": "Ewiges"
+    },
+    {
+      "id": "0x00000185",
+      "text": "Fairy"
+    },
+    {
+      "id": "0x00000186",
+      "text": "Farfadet"
+    },
+    {
+      "id": "0x00000187",
+      "text": "Fee"
+    },
+    {
+      "id": "0x00000188",
+      "text": "Fée"
+    },
+    {
+      "id": "0x00000189",
+      "text": "Fortune"
+    },
+    {
+      "id": "0x0000018A",
+      "text": "Geist"
+    },
+    {
+      "id": "0x0000018B",
+      "text": "Genesis"
+    },
+    {
+      "id": "0x0000018C",
+      "text": "Génie"
+    },
+    {
+      "id": "0x0000018D",
+      "text": "Ghost"
+    },
+    {
+      "id": "0x0000018E",
+      "text": "Grâce"
+    },
+    {
+      "id": "0x0000018F",
+      "text": "Harmony"
+    },
+    {
+      "id": "0x00000190",
+      "text": "Hope"
+    },
+    {
+      "id": "0x00000191",
+      "text": "Illusion"
+    },
+    {
+      "id": "0x00000192",
+      "text": "Immortal"
+    },
+    {
+      "id": "0x00000193",
+      "text": "Joy"
+    },
+    {
+      "id": "0x00000194",
+      "text": "Justice"
+    },
+    {
+      "id": "0x00000195",
+      "text": "Legend"
+    },
+    {
+      "id": "0x00000196",
+      "text": "Legende"
+    },
+    {
+      "id": "0x00000197",
+      "text": "Légende"
+    },
+    {
+      "id": "0x00000198",
+      "text": "Liberty"
+    },
+    {
+      "id": "0x00000199",
+      "text": "Liebe"
+    },
+    {
+      "id": "0x0000019A",
+      "text": "Lucky"
+    },
+    {
+      "id": "0x0000019B",
+      "text": "Lutin"
+    },
+    {
+      "id": "0x0000019C",
+      "text": "Magic"
+    },
+    {
+      "id": "0x0000019D",
+      "text": "Malevolent"
+    },
+    {
+      "id": "0x0000019E",
+      "text": "Miracle"
+    },
+    {
+      "id": "0x0000019F",
+      "text": "Néant"
+    },
+    {
+      "id": "0x000001A0",
+      "text": "Nexus"
+    },
+    {
+      "id": "0x000001A1",
+      "text": "Novus"
+    },
+    {
+      "id": "0x000001A2",
+      "text": "Nozomi"
+    },
+    {
+      "id": "0x000001A3",
+      "text": "Oracle"
+    },
+    {
+      "id": "0x000001A4",
+      "text": "Passion"
+    },
+    {
+      "id": "0x000001A5",
+      "text": "Peace"
+    },
+    {
+      "id": "0x000001A6",
+      "text": "Prodige"
+    },
+    {
+      "id": "0x000001A7",
+      "text": "Rêve"
+    },
+    {
+      "id": "0x000001A8",
+      "text": "Spirit"
+    },
+    {
+      "id": "0x000001A9",
+      "text": "Terror"
+    },
+    {
+      "id": "0x000001AA",
+      "text": "Wunder"
+    },
+    {
+      "id": "0x000001AB",
+      "text": "Akane"
+    },
+    {
+      "id": "0x000001AC",
+      "text": "Aoba"
+    },
+    {
+      "id": "0x000001AD",
+      "text": "Ayame"
+    },
+    {
+      "id": "0x000001AE",
+      "text": "Bleuet"
+    },
+    {
+      "id": "0x000001AF",
+      "text": "Camelia"
+    },
+    {
+      "id": "0x000001B0",
+      "text": "Camélia"
+    },
+    {
+      "id": "0x000001B1",
+      "text": "Campanule"
+    },
+    {
+      "id": "0x000001B2",
+      "text": "Cannelle"
+    },
+    {
+      "id": "0x000001B3",
+      "text": "Capucine"
+    },
+    {
+      "id": "0x000001B4",
+      "text": "Citron"
+    },
+    {
+      "id": "0x000001B5",
+      "text": "Clématite"
+    },
+    {
+      "id": "0x000001B6",
+      "text": "Coriandre"
+    },
+    {
+      "id": "0x000001B7",
+      "text": "Ebony"
+    },
+    {
+      "id": "0x000001B8",
+      "text": "Enzian"
+    },
+    {
+      "id": "0x000001B9",
+      "text": "Fleur"
+    },
+    {
+      "id": "0x000001BA",
+      "text": "Flora"
+    },
+    {
+      "id": "0x000001BB",
+      "text": "Flore"
+    },
+    {
+      "id": "0x000001BC",
+      "text": "Flower"
+    },
+    {
+      "id": "0x000001BD",
+      "text": "Gingembre"
+    },
+    {
+      "id": "0x000001BE",
+      "text": "Ginger"
+    },
+    {
+      "id": "0x000001BF",
+      "text": "Iris"
+    },
+    {
+      "id": "0x000001C0",
+      "text": "Jacinthe"
+    },
+    {
+      "id": "0x000001C1",
+      "text": "Jasmin"
+    },
+    {
+      "id": "0x000001C2",
+      "text": "Jasmine"
+    },
+    {
+      "id": "0x000001C3",
+      "text": "Kaede"
+    },
+    {
+      "id": "0x000001C4",
+      "text": "Kiku"
+    },
+    {
+      "id": "0x000001C5",
+      "text": "Laurel"
+    },
+    {
+      "id": "0x000001C6",
+      "text": "Lavande"
+    },
+    {
+      "id": "0x000001C7",
+      "text": "Lilas"
+    },
+    {
+      "id": "0x000001C8",
+      "text": "Lily"
+    },
+    {
+      "id": "0x000001C9",
+      "text": "Lys"
+    },
+    {
+      "id": "0x000001CA",
+      "text": "Mandragora"
+    },
+    {
+      "id": "0x000001CB",
+      "text": "Mandragore"
+    },
+    {
+      "id": "0x000001CC",
+      "text": "Mimosa"
+    },
+    {
+      "id": "0x000001CD",
+      "text": "Momiji"
+    },
+    {
+      "id": "0x000001CE",
+      "text": "Momo"
+    },
+    {
+      "id": "0x000001CF",
+      "text": "Muguet"
+    },
+    {
+      "id": "0x000001D0",
+      "text": "Myosotis"
+    },
+    {
+      "id": "0x000001D1",
+      "text": "Nénuphar"
+    },
+    {
+      "id": "0x000001D3",
+      "text": "Olive"
+    },
+    {
+      "id": "0x000001D4",
+      "text": "Orchid"
+    },
+    {
+      "id": "0x000001D5",
+      "text": "Orchidee"
+    },
+    {
+      "id": "0x000001D6",
+      "text": "Orchidée"
+    },
+    {
+      "id": "0x000001D7",
+      "text": "Paprika"
+    },
+    {
+      "id": "0x000001D8",
+      "text": "Pensée"
+    },
+    {
+      "id": "0x000001D9",
+      "text": "Piment"
+    },
+    {
+      "id": "0x000001DA",
+      "text": "Pomme"
+    },
+    {
+      "id": "0x000001DB",
+      "text": "Rice"
+    },
+    {
+      "id": "0x000001DC",
+      "text": "Rose"
+    },
+    {
+      "id": "0x000001DD",
+      "text": "Safran"
+    },
+    {
+      "id": "0x000001DE",
+      "text": "Sakura"
+    },
+    {
+      "id": "0x000001DF",
+      "text": "Tournesol"
+    },
+    {
+      "id": "0x000001E0",
+      "text": "Tulipe"
+    },
+    {
+      "id": "0x000001E1",
+      "text": "Zitrone"
+    },
+    {
+      "id": "0x000001E2",
+      "text": "Adder"
+    },
+    {
+      "id": "0x000001E3",
+      "text": "Aile"
+    },
+    {
+      "id": "0x000001E4",
+      "text": "Ailé"
+    },
+    {
+      "id": "0x000001E5",
+      "text": "Apkallu"
+    },
+    {
+      "id": "0x000001E6",
+      "text": "Avian"
+    },
+    {
+      "id": "0x000001E7",
+      "text": "Ayu"
+    },
+    {
+      "id": "0x000001E8",
+      "text": "Bat"
+    },
+    {
+      "id": "0x000001E9",
+      "text": "Beak"
+    },
+    {
+      "id": "0x000001EA",
+      "text": "Bec"
+    },
+    {
+      "id": "0x000001EB",
+      "text": "Beetle"
+    },
+    {
+      "id": "0x000001EC",
+      "text": "Blood"
+    },
+    {
+      "id": "0x000001ED",
+      "text": "Bone"
+    },
+    {
+      "id": "0x000001F0",
+      "text": "Camail"
+    },
+    {
+      "id": "0x000001F1",
+      "text": "Chanfrein"
+    },
+    {
+      "id": "0x000001F2",
+      "text": "Claw"
+    },
+    {
+      "id": "0x000001F4",
+      "text": "Condor"
+    },
+    {
+      "id": "0x000001F6",
+      "text": "Coursier"
+    },
+    {
+      "id": "0x000001F7",
+      "text": "Crête"
+    },
+    {
+      "id": "0x000001F9",
+      "text": "Daune"
+    },
+    {
+      "id": "0x000001FA",
+      "text": "Destrier"
+    },
+    {
+      "id": "0x000001FB",
+      "text": "Dobbin"
+    },
+    {
+      "id": "0x000001FC",
+      "text": "Dodo"
+    },
+    {
+      "id": "0x000001FD",
+      "text": "Draconique"
+    },
+    {
+      "id": "0x000001FE",
+      "text": "Dragon"
+    },
+    {
+      "id": "0x000001FF",
+      "text": "Duvet"
+    },
+    {
+      "id": "0x00000200",
+      "text": "Eagle"
+    },
+    {
+      "id": "0x00000203",
+      "text": "Eye"
+    },
+    {
+      "id": "0x00000204",
+      "text": "Face"
+    },
+    {
+      "id": "0x00000205",
+      "text": "Feather"
+    },
+    {
+      "id": "0x00000206",
+      "text": "Feder"
+    },
+    {
+      "id": "0x00000207",
+      "text": "Flaum"
+    },
+    {
+      "id": "0x00000208",
+      "text": "Fledgling"
+    },
+    {
+      "id": "0x00000209",
+      "text": "Foot"
+    },
+    {
+      "id": "0x0000020A",
+      "text": "Fox"
+    },
+    {
+      "id": "0x0000020B",
+      "text": "Fuchs"
+    },
+    {
+      "id": "0x0000020C",
+      "text": "Genet"
+    },
+    {
+      "id": "0x0000020D",
+      "text": "Goose"
+    },
+    {
+      "id": "0x0000020E",
+      "text": "Hatchling"
+    },
+    {
+      "id": "0x0000020F",
+      "text": "Hayabusa"
+    },
+    {
+      "id": "0x00000210",
+      "text": "Heart"
+    },
+    {
+      "id": "0x00000211",
+      "text": "Hengst"
+    },
+    {
+      "id": "0x00000212",
+      "text": "Hiryu"
+    },
+    {
+      "id": "0x00000213",
+      "text": "Jarret"
+    },
+    {
+      "id": "0x00000214",
+      "text": "Jay"
+    },
+    {
+      "id": "0x00000215",
+      "text": "Küken"
+    },
+    {
+      "id": "0x00000216",
+      "text": "Leaper"
+    },
+    {
+      "id": "0x00000217",
+      "text": "Leg"
+    },
+    {
+      "id": "0x00000218",
+      "text": "Licorne"
+    },
+    {
+      "id": "0x00000219",
+      "text": "Manticore"
+    },
+    {
+      "id": "0x0000021A",
+      "text": "Miel"
+    },
+    {
+      "id": "0x0000021B",
+      "text": "Minotaur"
+    },
+    {
+      "id": "0x0000021C",
+      "text": "Mustang"
+    },
+    {
+      "id": "0x0000021D",
+      "text": "Orochi"
+    },
+    {
+      "id": "0x0000021E",
+      "text": "Palefroi"
+    },
+    {
+      "id": "0x0000021F",
+      "text": "Patte"
+    },
+    {
+      "id": "0x00000220",
+      "text": "Pâturon"
+    },
+    {
+      "id": "0x00000221",
+      "text": "Pegasus"
+    },
+    {
+      "id": "0x00000222",
+      "text": "Pelican"
+    },
+    {
+      "id": "0x00000223",
+      "text": "Penne"
+    },
+    {
+      "id": "0x00000224",
+      "text": "Phénix"
+    },
+    {
+      "id": "0x00000225",
+      "text": "Phoenix"
+    },
+    {
+      "id": "0x00000226",
+      "text": "Phurble"
+    },
+    {
+      "id": "0x00000227",
+      "text": "Piaf"
+    },
+    {
+      "id": "0x00000228",
+      "text": "Plumage"
+    },
+    {
+      "id": "0x00000229",
+      "text": "Plume"
+    },
+    {
+      "id": "0x0000022A",
+      "text": "Pony"
+    },
+    {
+      "id": "0x0000022B",
+      "text": "Poulet"
+    },
+    {
+      "id": "0x0000022C",
+      "text": "Poussin"
+    },
+    {
+      "id": "0x0000022D",
+      "text": "Poussinet"
+    },
+    {
+      "id": "0x0000022E",
+      "text": "Raven"
+    },
+    {
+      "id": "0x0000022F",
+      "text": "Rémige"
+    },
+    {
+      "id": "0x00000230",
+      "text": "Robin"
+    },
+    {
+      "id": "0x00000231",
+      "text": "Roussin"
+    },
+    {
+      "id": "0x00000232",
+      "text": "Schnabel"
+    },
+    {
+      "id": "0x00000233",
+      "text": "Schweif"
+    },
+    {
+      "id": "0x00000234",
+      "text": "Schwinge"
+    },
+    {
+      "id": "0x00000235",
+      "text": "Serpent"
+    },
+    {
+      "id": "0x00000236",
+      "text": "Serre"
+    },
+    {
+      "id": "0x00000237",
+      "text": "Stallion"
+    },
+    {
+      "id": "0x00000238",
+      "text": "Steed"
+    },
+    {
+      "id": "0x00000239",
+      "text": "Stute"
+    },
+    {
+      "id": "0x0000023A",
+      "text": "Sumpter"
+    },
+    {
+      "id": "0x0000023B",
+      "text": "Tail"
+    },
+    {
+      "id": "0x0000023C",
+      "text": "Talon"
+    },
+    {
+      "id": "0x0000023D",
+      "text": "Trotter"
+    },
+    {
+      "id": "0x0000023E",
+      "text": "Trotteur"
+    },
+    {
+      "id": "0x0000023F",
+      "text": "Unicorn"
+    },
+    {
+      "id": "0x00000240",
+      "text": "Vogel"
+    },
+    {
+      "id": "0x00000241",
+      "text": "Volatile"
+    },
+    {
+      "id": "0x00000242",
+      "text": "Vulture"
+    },
+    {
+      "id": "0x00000243",
+      "text": "Wing"
+    },
+    {
+      "id": "0x00000244",
+      "text": "Winged"
+    },
+    {
+      "id": "0x00000245",
+      "text": "Zu"
+    },
+    {
+      "id": "0x00000246",
+      "text": "Campagnard"
+    },
+    {
+      "id": "0x00000247",
+      "text": "Campagnarde"
+    },
+    {
+      "id": "0x00000248",
+      "text": "Cap"
+    },
+    {
+      "id": "0x00000249",
+      "text": "Citadin"
+    },
+    {
+      "id": "0x0000024A",
+      "text": "Citadine"
+    },
+    {
+      "id": "0x0000024B",
+      "text": "Comet"
+    },
+    {
+      "id": "0x0000024C",
+      "text": "Comète"
+    },
+    {
+      "id": "0x0000024D",
+      "text": "Crag"
+    },
+    {
+      "id": "0x0000024E",
+      "text": "Desert"
+    },
+    {
+      "id": "0x0000024F",
+      "text": "Désert"
+    },
+    {
+      "id": "0x00000250",
+      "text": "Eastern"
+    },
+    {
+      "id": "0x00000251",
+      "text": "Eclipse"
+    },
+    {
+      "id": "0x00000252",
+      "text": "Éclipse"
+    },
+    {
+      "id": "0x00000253",
+      "text": "Étoile"
+    },
+    {
+      "id": "0x00000254",
+      "text": "Flood"
+    },
+    {
+      "id": "0x00000255",
+      "text": "Forest"
+    },
+    {
+      "id": "0x00000256",
+      "text": "Galaxie"
+    },
+    {
+      "id": "0x00000257",
+      "text": "Galaxy"
+    },
+    {
+      "id": "0x00000258",
+      "text": "Gekko"
+    },
+    {
+      "id": "0x00000259",
+      "text": "Highland"
+    },
+    {
+      "id": "0x0000025A",
+      "text": "Himmel"
+    },
+    {
+      "id": "0x0000025B",
+      "text": "Jungle"
+    },
+    {
+      "id": "0x0000025C",
+      "text": "Jupiter"
+    },
+    {
+      "id": "0x0000025D",
+      "text": "Komet"
+    },
+    {
+      "id": "0x0000025E",
+      "text": "Luna"
+    },
+    {
+      "id": "0x0000025F",
+      "text": "Lunar"
+    },
+    {
+      "id": "0x00000260",
+      "text": "Lune"
+    },
+    {
+      "id": "0x00000261",
+      "text": "Mars"
+    },
+    {
+      "id": "0x00000262",
+      "text": "Mercure"
+    },
+    {
+      "id": "0x00000263",
+      "text": "Mercury"
+    },
+    {
+      "id": "0x00000264",
+      "text": "Méridional"
+    },
+    {
+      "id": "0x00000265",
+      "text": "Méridionale"
+    },
+    {
+      "id": "0x00000266",
+      "text": "Meteor"
+    },
+    {
+      "id": "0x00000267",
+      "text": "Mond"
+    },
+    {
+      "id": "0x00000268",
+      "text": "Montagnard"
+    },
+    {
+      "id": "0x00000269",
+      "text": "Montagnarde"
+    },
+    {
+      "id": "0x0000026A",
+      "text": "Moon"
+    },
+    {
+      "id": "0x0000026B",
+      "text": "Nebula"
+    },
+    {
+      "id": "0x0000026C",
+      "text": "Nebulous"
+    },
+    {
+      "id": "0x0000026D",
+      "text": "Neptune"
+    },
+    {
+      "id": "0x0000026E",
+      "text": "Nether"
+    },
+    {
+      "id": "0x0000026F",
+      "text": "Northern"
+    },
+    {
+      "id": "0x00000270",
+      "text": "Nova"
+    },
+    {
+      "id": "0x00000271",
+      "text": "Occidental"
+    },
+    {
+      "id": "0x00000272",
+      "text": "Occidentale"
+    },
+    {
+      "id": "0x00000273",
+      "text": "Oriental"
+    },
+    {
+      "id": "0x00000274",
+      "text": "Orientale"
+    },
+    {
+      "id": "0x00000275",
+      "text": "Pluto"
+    },
+    {
+      "id": "0x00000276",
+      "text": "Pluton"
+    },
+    {
+      "id": "0x00000277",
+      "text": "Quasar"
+    },
+    {
+      "id": "0x00000278",
+      "text": "Road"
+    },
+    {
+      "id": "0x00000279",
+      "text": "Saturn"
+    },
+    {
+      "id": "0x0000027A",
+      "text": "Saturne"
+    },
+    {
+      "id": "0x0000027B",
+      "text": "Sea"
+    },
+    {
+      "id": "0x0000027C",
+      "text": "Septentrional"
+    },
+    {
+      "id": "0x0000027D",
+      "text": "Septentrionale"
+    },
+    {
+      "id": "0x0000027E",
+      "text": "Solar"
+    },
+    {
+      "id": "0x0000027F",
+      "text": "Soleil"
+    },
+    {
+      "id": "0x00000280",
+      "text": "Southern"
+    },
+    {
+      "id": "0x00000281",
+      "text": "Star"
+    },
+    {
+      "id": "0x00000282",
+      "text": "Stardust"
+    },
+    {
+      "id": "0x00000283",
+      "text": "Stream"
+    },
+    {
+      "id": "0x00000285",
+      "text": "Sun"
+    },
+    {
+      "id": "0x00000286",
+      "text": "Sylvan"
+    },
+    {
+      "id": "0x00000287",
+      "text": "Titan"
+    },
+    {
+      "id": "0x00000288",
+      "text": "Univers"
+    },
+    {
+      "id": "0x00000289",
+      "text": "Universe"
+    },
+    {
+      "id": "0x0000028A",
+      "text": "Uranus"
+    },
+    {
+      "id": "0x0000028B",
+      "text": "Ushio"
+    },
+    {
+      "id": "0x0000028C",
+      "text": "Vega"
+    },
+    {
+      "id": "0x0000028D",
+      "text": "Véga"
+    },
+    {
+      "id": "0x0000028E",
+      "text": "Venus"
+    },
+    {
+      "id": "0x0000028F",
+      "text": "Vénus"
+    },
+    {
+      "id": "0x00000290",
+      "text": "West"
+    },
+    {
+      "id": "0x00000291",
+      "text": "Western"
+    },
+    {
+      "id": "0x00000292",
+      "text": "Air"
+    },
+    {
+      "id": "0x00000293",
+      "text": "Akatsuki"
+    },
+    {
+      "id": "0x00000294",
+      "text": "Aki"
+    },
+    {
+      "id": "0x00000295",
+      "text": "Arashi"
+    },
+    {
+      "id": "0x00000296",
+      "text": "Arc-en-ciel"
+    },
+    {
+      "id": "0x00000297",
+      "text": "Automne"
+    },
+    {
+      "id": "0x00000298",
+      "text": "Autumn"
+    },
+    {
+      "id": "0x00000299",
+      "text": "Blitz"
+    },
+    {
+      "id": "0x0000029A",
+      "text": "Blizzard"
+    },
+    {
+      "id": "0x0000029B",
+      "text": "Bourrasque"
+    },
+    {
+      "id": "0x0000029C",
+      "text": "Breeze"
+    },
+    {
+      "id": "0x0000029D",
+      "text": "Brise"
+    },
+    {
+      "id": "0x0000029E",
+      "text": "Ciel"
+    },
+    {
+      "id": "0x0000029F",
+      "text": "Cloud"
+    },
+    {
+      "id": "0x000002A0",
+      "text": "Cyclone"
+    },
+    {
+      "id": "0x000002A1",
+      "text": "Dark"
+    },
+    {
+      "id": "0x000002A2",
+      "text": "Donner"
+    },
+    {
+      "id": "0x000002A3",
+      "text": "Echo"
+    },
+    {
+      "id": "0x000002A4",
+      "text": "Éclair"
+    },
+    {
+      "id": "0x000002A5",
+      "text": "Été"
+    },
+    {
+      "id": "0x000002A6",
+      "text": "Flurry"
+    },
+    {
+      "id": "0x000002A7",
+      "text": "Fog"
+    },
+    {
+      "id": "0x000002A8",
+      "text": "Frost"
+    },
+    {
+      "id": "0x000002A9",
+      "text": "Frosty"
+    },
+    {
+      "id": "0x000002AA",
+      "text": "Fubuki"
+    },
+    {
+      "id": "0x000002AB",
+      "text": "Fulgurant"
+    },
+    {
+      "id": "0x000002AC",
+      "text": "Fulgurante"
+    },
+    {
+      "id": "0x000002AD",
+      "text": "Fuyu"
+    },
+    {
+      "id": "0x000002AE",
+      "text": "Gale"
+    },
+    {
+      "id": "0x000002AF",
+      "text": "Gloom"
+    },
+    {
+      "id": "0x000002B0",
+      "text": "Gust"
+    },
+    {
+      "id": "0x000002B1",
+      "text": "Hanakaze"
+    },
+    {
+      "id": "0x000002B2",
+      "text": "Haru"
+    },
+    {
+      "id": "0x000002B3",
+      "text": "Hiver"
+    },
+    {
+      "id": "0x000002B4",
+      "text": "Hurricane"
+    },
+    {
+      "id": "0x000002B5",
+      "text": "Ikazuchi"
+    },
+    {
+      "id": "0x000002B6",
+      "text": "Inazuma"
+    },
+    {
+      "id": "0x000002B7",
+      "text": "Kasumi"
+    },
+    {
+      "id": "0x000002B8",
+      "text": "Lightning"
+    },
+    {
+      "id": "0x000002B9",
+      "text": "Luft"
+    },
+    {
+      "id": "0x000002BA",
+      "text": "Mirage"
+    },
+    {
+      "id": "0x000002BB",
+      "text": "Mistral"
+    },
+    {
+      "id": "0x000002BC",
+      "text": "Murasame"
+    },
+    {
+      "id": "0x000002BD",
+      "text": "Natsu"
+    },
+    {
+      "id": "0x000002BE",
+      "text": "Nature"
+    },
+    {
+      "id": "0x000002BF",
+      "text": "Night"
+    },
+    {
+      "id": "0x000002C0",
+      "text": "Nuage"
+    },
+    {
+      "id": "0x000002C1",
+      "text": "Nuit"
+    },
+    {
+      "id": "0x000002C2",
+      "text": "Oboro"
+    },
+    {
+      "id": "0x000002C3",
+      "text": "Orage"
+    },
+    {
+      "id": "0x000002C4",
+      "text": "Orageuse"
+    },
+    {
+      "id": "0x000002C5",
+      "text": "Orageux"
+    },
+    {
+      "id": "0x000002C6",
+      "text": "Orkan"
+    },
+    {
+      "id": "0x000002C7",
+      "text": "Ouragan"
+    },
+    {
+      "id": "0x000002C8",
+      "text": "Pluie"
+    },
+    {
+      "id": "0x000002C9",
+      "text": "Printemps"
+    },
+    {
+      "id": "0x000002CA",
+      "text": "Quake"
+    },
+    {
+      "id": "0x000002CB",
+      "text": "Rafale"
+    },
+    {
+      "id": "0x000002CC",
+      "text": "Raiden"
+    },
+    {
+      "id": "0x000002CD",
+      "text": "Rain"
+    },
+    {
+      "id": "0x000002CE",
+      "text": "Rainbow"
+    },
+    {
+      "id": "0x000002CF",
+      "text": "Regenbogen"
+    },
+    {
+      "id": "0x000002D0",
+      "text": "Samidare"
+    },
+    {
+      "id": "0x000002D1",
+      "text": "Sandstorm"
+    },
+    {
+      "id": "0x000002D2",
+      "text": "Shigure"
+    },
+    {
+      "id": "0x000002D3",
+      "text": "Shiranui"
+    },
+    {
+      "id": "0x000002D4",
+      "text": "Sky"
+    },
+    {
+      "id": "0x000002D5",
+      "text": "Snow"
+    },
+    {
+      "id": "0x000002D6",
+      "text": "Snowstorm"
+    },
+    {
+      "id": "0x000002D7",
+      "text": "Snowy"
+    },
+    {
+      "id": "0x000002D8",
+      "text": "Spring"
+    },
+    {
+      "id": "0x000002D9",
+      "text": "Storm"
+    },
+    {
+      "id": "0x000002DA",
+      "text": "Sturm"
+    },
+    {
+      "id": "0x000002DB",
+      "text": "Summer"
+    },
+    {
+      "id": "0x000002DC",
+      "text": "Tailwind"
+    },
+    {
+      "id": "0x000002DD",
+      "text": "Tempest"
+    },
+    {
+      "id": "0x000002DE",
+      "text": "Tempête"
+    },
+    {
+      "id": "0x000002DF",
+      "text": "Thunder"
+    },
+    {
+      "id": "0x000002E0",
+      "text": "Tonnerre"
+    },
+    {
+      "id": "0x000002E1",
+      "text": "Tornade"
+    },
+    {
+      "id": "0x000002E2",
+      "text": "Tornado"
+    },
+    {
+      "id": "0x000002E3",
+      "text": "Tourbillon"
+    },
+    {
+      "id": "0x000002E4",
+      "text": "Typhoon"
+    },
+    {
+      "id": "0x000002E5",
+      "text": "Urara"
+    },
+    {
+      "id": "0x000002E6",
+      "text": "Vent"
+    },
+    {
+      "id": "0x000002E7",
+      "text": "Wave"
+    },
+    {
+      "id": "0x000002E8",
+      "text": "Whirlwind"
+    },
+    {
+      "id": "0x000002E9",
+      "text": "Wind"
+    },
+    {
+      "id": "0x000002EA",
+      "text": "Winter"
+    },
+    {
+      "id": "0x000002EB",
+      "text": "Wirbelwind"
+    },
+    {
+      "id": "0x000002EC",
+      "text": "Wolke"
+    },
+    {
+      "id": "0x000002ED",
+      "text": "Yukikaze"
+    },
+    {
+      "id": "0x000002EE",
+      "text": "Zephyr"
+    },
+    {
+      "id": "0x000002EF",
+      "text": "Zéphyr"
+    },
+    {
+      "id": "0x000002F0",
+      "text": "Blaze"
+    },
+    {
+      "id": "0x000002F1",
+      "text": "Blazing"
+    },
+    {
+      "id": "0x000002F2",
+      "text": "Braise"
+    },
+    {
+      "id": "0x000002F3",
+      "text": "Brasier"
+    },
+    {
+      "id": "0x000002F4",
+      "text": "Burst"
+    },
+    {
+      "id": "0x000002F5",
+      "text": "Crackling"
+    },
+    {
+      "id": "0x000002F6",
+      "text": "Écho"
+    },
+    {
+      "id": "0x000002F7",
+      "text": "Feu"
+    },
+    {
+      "id": "0x000002F8",
+      "text": "Feuer"
+    },
+    {
+      "id": "0x000002F9",
+      "text": "Fiery"
+    },
+    {
+      "id": "0x000002FA",
+      "text": "Fire"
+    },
+    {
+      "id": "0x000002FB",
+      "text": "Flamboyant"
+    },
+    {
+      "id": "0x000002FC",
+      "text": "Flamboyante"
+    },
+    {
+      "id": "0x000002FD",
+      "text": "Flamme"
+    },
+    {
+      "id": "0x000002FE",
+      "text": "Flare"
+    },
+    {
+      "id": "0x000002FF",
+      "text": "Freeze"
+    },
+    {
+      "id": "0x00000300",
+      "text": "Frozen"
+    },
+    {
+      "id": "0x00000301",
+      "text": "Funke"
+    },
+    {
+      "id": "0x00000302",
+      "text": "Glace"
+    },
+    {
+      "id": "0x00000303",
+      "text": "Hikari"
+    },
+    {
+      "id": "0x00000304",
+      "text": "Ice"
+    },
+    {
+      "id": "0x00000305",
+      "text": "Icy"
+    },
+    {
+      "id": "0x00000306",
+      "text": "Impact"
+    },
+    {
+      "id": "0x00000307",
+      "text": "Impulse"
+    },
+    {
+      "id": "0x00000308",
+      "text": "Inferno"
+    },
+    {
+      "id": "0x00000309",
+      "text": "Kodama"
+    },
+    {
+      "id": "0x0000030A",
+      "text": "Light"
+    },
+    {
+      "id": "0x0000030B",
+      "text": "Maelstrom"
+    },
+    {
+      "id": "0x0000030C",
+      "text": "Ombre"
+    },
+    {
+      "id": "0x0000030D",
+      "text": "Quantum"
+    },
+    {
+      "id": "0x0000030E",
+      "text": "Radiant"
+    },
+    {
+      "id": "0x0000030F",
+      "text": "Ray"
+    },
+    {
+      "id": "0x00000310",
+      "text": "Rougeoyant"
+    },
+    {
+      "id": "0x00000311",
+      "text": "Rougeoyante"
+    },
+    {
+      "id": "0x00000312",
+      "text": "Rutilant"
+    },
+    {
+      "id": "0x00000313",
+      "text": "Rutilante"
+    },
+    {
+      "id": "0x00000314",
+      "text": "Shadow"
+    },
+    {
+      "id": "0x00000315",
+      "text": "Shining"
+    },
+    {
+      "id": "0x00000316",
+      "text": "Smoking"
+    },
+    {
+      "id": "0x00000317",
+      "text": "Spark"
+    },
+    {
+      "id": "0x00000318",
+      "text": "Sparkling"
+    },
+    {
+      "id": "0x00000319",
+      "text": "Twinkling"
+    },
+    {
+      "id": "0x0000031A",
+      "text": "Vortex"
+    },
+    {
+      "id": "0x0000031B",
+      "text": "Ace"
+    },
+    {
+      "id": "0x0000031C",
+      "text": "Admiral"
+    },
+    {
+      "id": "0x0000031D",
+      "text": "Amiral"
+    },
+    {
+      "id": "0x0000031E",
+      "text": "Amirale"
+    },
+    {
+      "id": "0x0000031F",
+      "text": "Archer"
+    },
+    {
+      "id": "0x00000320",
+      "text": "Archère"
+    },
+    {
+      "id": "0x00000321",
+      "text": "Arrow"
+    },
+    {
+      "id": "0x00000322",
+      "text": "Attaquant"
+    },
+    {
+      "id": "0x00000323",
+      "text": "Attaquante"
+    },
+    {
+      "id": "0x00000324",
+      "text": "Audace"
+    },
+    {
+      "id": "0x00000325",
+      "text": "Avenger"
+    },
+    {
+      "id": "0x00000326",
+      "text": "Axe"
+    },
+    {
+      "id": "0x00000327",
+      "text": "Ballistic"
+    },
+    {
+      "id": "0x00000328",
+      "text": "Battant"
+    },
+    {
+      "id": "0x00000329",
+      "text": "Battle"
+    },
+    {
+      "id": "0x0000032A",
+      "text": "Blade"
+    },
+    {
+      "id": "0x0000032B",
+      "text": "Blaster"
+    },
+    {
+      "id": "0x0000032C",
+      "text": "Blitzer"
+    },
+    {
+      "id": "0x0000032D",
+      "text": "Brave"
+    },
+    {
+      "id": "0x0000032E",
+      "text": "Capitaine"
+    },
+    {
+      "id": "0x0000032F",
+      "text": "Captain"
+    },
+    {
+      "id": "0x00000330",
+      "text": "Centurion"
+    },
+    {
+      "id": "0x00000331",
+      "text": "Charger"
+    },
+    {
+      "id": "0x00000332",
+      "text": "Chasseur"
+    },
+    {
+      "id": "0x00000333",
+      "text": "Chasseuse"
+    },
+    {
+      "id": "0x00000334",
+      "text": "Commander"
+    },
+    {
+      "id": "0x00000335",
+      "text": "Crusader"
+    },
+    {
+      "id": "0x00000336",
+      "text": "Dagger"
+    },
+    {
+      "id": "0x00000337",
+      "text": "Decurion"
+    },
+    {
+      "id": "0x00000338",
+      "text": "Décurion"
+    },
+    {
+      "id": "0x00000339",
+      "text": "Défenseur"
+    },
+    {
+      "id": "0x0000033A",
+      "text": "Destroyer"
+    },
+    {
+      "id": "0x0000033B",
+      "text": "Destruction"
+    },
+    {
+      "id": "0x0000033C",
+      "text": "Exterminator"
+    },
+    {
+      "id": "0x0000033D",
+      "text": "Fighter"
+    },
+    {
+      "id": "0x0000033E",
+      "text": "Firecracker"
+    },
+    {
+      "id": "0x0000033F",
+      "text": "Flèche"
+    },
+    {
+      "id": "0x00000340",
+      "text": "General"
+    },
+    {
+      "id": "0x00000341",
+      "text": "Geschoss"
+    },
+    {
+      "id": "0x00000342",
+      "text": "Jäger"
+    },
+    {
+      "id": "0x00000343",
+      "text": "Jägerin"
+    },
+    {
+      "id": "0x00000344",
+      "text": "Javelin"
+    },
+    {
+      "id": "0x00000345",
+      "text": "Knife"
+    },
+    {
+      "id": "0x00000346",
+      "text": "Lancer"
+    },
+    {
+      "id": "0x00000347",
+      "text": "Legatus"
+    },
+    {
+      "id": "0x00000348",
+      "text": "Lieutenant"
+    },
+    {
+      "id": "0x00000349",
+      "text": "Marshal"
+    },
+    {
+      "id": "0x0000034A",
+      "text": "Monstre"
+    },
+    {
+      "id": "0x0000034B",
+      "text": "Ninja"
+    },
+    {
+      "id": "0x0000034C",
+      "text": "Outlaw"
+    },
+    {
+      "id": "0x0000034D",
+      "text": "Pfeil"
+    },
+    {
+      "id": "0x0000034E",
+      "text": "Private"
+    },
+    {
+      "id": "0x0000034F",
+      "text": "Puissant"
+    },
+    {
+      "id": "0x00000350",
+      "text": "Puissante"
+    },
+    {
+      "id": "0x00000351",
+      "text": "Robust"
+    },
+    {
+      "id": "0x00000352",
+      "text": "Rugged"
+    },
+    {
+      "id": "0x00000353",
+      "text": "Samurai"
+    },
+    {
+      "id": "0x00000354",
+      "text": "Sergeant"
+    },
+    {
+      "id": "0x00000355",
+      "text": "Sergent"
+    },
+    {
+      "id": "0x00000356",
+      "text": "Shield"
+    },
+    {
+      "id": "0x00000357",
+      "text": "Shooter"
+    },
+    {
+      "id": "0x00000358",
+      "text": "Shooting"
+    },
+    {
+      "id": "0x00000359",
+      "text": "Spear"
+    },
+    {
+      "id": "0x0000035A",
+      "text": "Strike"
+    },
+    {
+      "id": "0x0000035B",
+      "text": "Sword"
+    },
+    {
+      "id": "0x0000035C",
+      "text": "Tapfere"
+    },
+    {
+      "id": "0x0000035D",
+      "text": "Tapferer"
+    },
+    {
+      "id": "0x0000035E",
+      "text": "Tapferes"
+    },
+    {
+      "id": "0x0000035F",
+      "text": "Torpedo"
+    },
+    {
+      "id": "0x00000360",
+      "text": "Torpille"
+    },
+    {
+      "id": "0x00000361",
+      "text": "Trêve"
+    },
+    {
+      "id": "0x00000362",
+      "text": "Trooper"
+    },
+    {
+      "id": "0x00000363",
+      "text": "Vaillant"
+    },
+    {
+      "id": "0x00000364",
+      "text": "Vaillante"
+    },
+    {
+      "id": "0x00000365",
+      "text": "Vengeur"
+    },
+    {
+      "id": "0x00000366",
+      "text": "Vengeuse"
+    },
+    {
+      "id": "0x00000367",
+      "text": "Vorpal"
+    },
+    {
+      "id": "0x00000368",
+      "text": "War"
+    },
+    {
+      "id": "0x00000369",
+      "text": "Warrior"
+    },
+    {
+      "id": "0x0000036A",
+      "text": "Agile"
+    },
+    {
+      "id": "0x0000036B",
+      "text": "Ailée"
+    },
+    {
+      "id": "0x0000036D",
+      "text": "Atout"
+    },
+    {
+      "id": "0x0000036E",
+      "text": "Bolide"
+    },
+    {
+      "id": "0x0000036F",
+      "text": "Challenger"
+    },
+    {
+      "id": "0x00000370",
+      "text": "Champion"
+    },
+    {
+      "id": "0x00000371",
+      "text": "Championne"
+    },
+    {
+      "id": "0x00000372",
+      "text": "Chance"
+    },
+    {
+      "id": "0x00000373",
+      "text": "Coureur"
+    },
+    {
+      "id": "0x00000374",
+      "text": "Coureuse"
+    },
+    {
+      "id": "0x00000375",
+      "text": "Crown"
+    },
+    {
+      "id": "0x00000376",
+      "text": "Défi"
+    },
+    {
+      "id": "0x00000377",
+      "text": "Drafter"
+    },
+    {
+      "id": "0x00000378",
+      "text": "Express"
+    },
+    {
+      "id": "0x00000379",
+      "text": "Fast"
+    },
+    {
+      "id": "0x0000037A",
+      "text": "Feathered"
+    },
+    {
+      "id": "0x0000037B",
+      "text": "Fleet"
+    },
+    {
+      "id": "0x0000037C",
+      "text": "Flight"
+    },
+    {
+      "id": "0x0000037D",
+      "text": "Flinke"
+    },
+    {
+      "id": "0x0000037E",
+      "text": "Flinker"
+    },
+    {
+      "id": "0x0000037F",
+      "text": "Flinkes"
+    },
+    {
+      "id": "0x00000380",
+      "text": "Flying"
+    },
+    {
+      "id": "0x00000381",
+      "text": "Gagnant"
+    },
+    {
+      "id": "0x00000382",
+      "text": "Gagnante"
+    },
+    {
+      "id": "0x00000383",
+      "text": "Galloper"
+    },
+    {
+      "id": "0x00000384",
+      "text": "Galop"
+    },
+    {
+      "id": "0x00000385",
+      "text": "Galopant"
+    },
+    {
+      "id": "0x00000386",
+      "text": "Galopeur"
+    },
+    {
+      "id": "0x00000387",
+      "text": "Galopeuse"
+    },
+    {
+      "id": "0x00000388",
+      "text": "Gloire"
+    },
+    {
+      "id": "0x00000389",
+      "text": "Glorie"
+    },
+    {
+      "id": "0x0000038A",
+      "text": "Glory"
+    },
+    {
+      "id": "0x0000038B",
+      "text": "Goer"
+    },
+    {
+      "id": "0x0000038C",
+      "text": "Herold"
+    },
+    {
+      "id": "0x0000038D",
+      "text": "Idaten"
+    },
+    {
+      "id": "0x0000038E",
+      "text": "Invincible"
+    },
+    {
+      "id": "0x0000038F",
+      "text": "Jet"
+    },
+    {
+      "id": "0x00000390",
+      "text": "Jumping"
+    },
+    {
+      "id": "0x00000391",
+      "text": "Lahme"
+    },
+    {
+      "id": "0x00000392",
+      "text": "Lahmer"
+    },
+    {
+      "id": "0x00000393",
+      "text": "Lahmes"
+    },
+    {
+      "id": "0x00000394",
+      "text": "Leaping"
+    },
+    {
+      "id": "0x00000395",
+      "text": "Leste"
+    },
+    {
+      "id": "0x00000396",
+      "text": "Motion"
+    },
+    {
+      "id": "0x00000397",
+      "text": "Nimble"
+    },
+    {
+      "id": "0x00000398",
+      "text": "Passer"
+    },
+    {
+      "id": "0x00000399",
+      "text": "Pelter"
+    },
+    {
+      "id": "0x0000039A",
+      "text": "Power"
+    },
+    {
+      "id": "0x0000039B",
+      "text": "Prancer"
+    },
+    {
+      "id": "0x0000039C",
+      "text": "Preste"
+    },
+    {
+      "id": "0x0000039D",
+      "text": "Quick"
+    },
+    {
+      "id": "0x0000039E",
+      "text": "Rapide"
+    },
+    {
+      "id": "0x0000039F",
+      "text": "Runner"
+    },
+    {
+      "id": "0x000003A0",
+      "text": "Sautant"
+    },
+    {
+      "id": "0x000003A1",
+      "text": "Sautante"
+    },
+    {
+      "id": "0x000003A2",
+      "text": "Sieger"
+    },
+    {
+      "id": "0x000003A3",
+      "text": "Speed"
+    },
+    {
+      "id": "0x000003A4",
+      "text": "Speedster"
+    },
+    {
+      "id": "0x000003A5",
+      "text": "Sprinter"
+    },
+    {
+      "id": "0x000003A6",
+      "text": "Swift"
+    },
+    {
+      "id": "0x000003A7",
+      "text": "Triumph"
+    },
+    {
+      "id": "0x000003A8",
+      "text": "Trot"
+    },
+    {
+      "id": "0x000003A9",
+      "text": "Turbo"
+    },
+    {
+      "id": "0x000003AA",
+      "text": "Véloce"
+    },
+    {
+      "id": "0x000003AB",
+      "text": "Victoire"
+    },
+    {
+      "id": "0x000003AC",
+      "text": "Victor"
+    },
+    {
+      "id": "0x000003AD",
+      "text": "Victory"
+    },
+    {
+      "id": "0x000003AE",
+      "text": "Walker"
+    },
+    {
+      "id": "0x000003AF",
+      "text": "Winner"
+    },
+    {
+      "id": "0x000003B0",
+      "text": "Winning"
+    },
+    {
+      "id": "0x000003B1",
+      "text": "Altesse"
+    },
+    {
+      "id": "0x000003B2",
+      "text": "Artiste"
+    },
+    {
+      "id": "0x000003B3",
+      "text": "Baron"
+    },
+    {
+      "id": "0x000003B4",
+      "text": "Baroness"
+    },
+    {
+      "id": "0x000003B5",
+      "text": "Baronne"
+    },
+    {
+      "id": "0x000003B6",
+      "text": "Boy"
+    },
+    {
+      "id": "0x000003B7",
+      "text": "Chéri"
+    },
+    {
+      "id": "0x000003B8",
+      "text": "Chérie"
+    },
+    {
+      "id": "0x000003B9",
+      "text": "Comte"
+    },
+    {
+      "id": "0x000003BA",
+      "text": "Comtesse"
+    },
+    {
+      "id": "0x000003BB",
+      "text": "Count"
+    },
+    {
+      "id": "0x000003BC",
+      "text": "Countess"
+    },
+    {
+      "id": "0x000003BD",
+      "text": "Courrier"
+    },
+    {
+      "id": "0x000003BE",
+      "text": "Dame"
+    },
+    {
+      "id": "0x000003BF",
+      "text": "Demoiselle"
+    },
+    {
+      "id": "0x000003C1",
+      "text": "Duc"
+    },
+    {
+      "id": "0x000003C2",
+      "text": "Duchess"
+    },
+    {
+      "id": "0x000003C3",
+      "text": "Duchesse"
+    },
+    {
+      "id": "0x000003C4",
+      "text": "Duke"
+    },
+    {
+      "id": "0x000003C5",
+      "text": "Empereur"
+    },
+    {
+      "id": "0x000003C6",
+      "text": "Emperor"
+    },
+    {
+      "id": "0x000003C7",
+      "text": "Empress"
+    },
+    {
+      "id": "0x000003C8",
+      "text": "Esquire"
+    },
+    {
+      "id": "0x000003CA",
+      "text": "Friend"
+    },
+    {
+      "id": "0x000003CB",
+      "text": "Galopin"
+    },
+    {
+      "id": "0x000003CC",
+      "text": "Girl"
+    },
+    {
+      "id": "0x000003CD",
+      "text": "Graf"
+    },
+    {
+      "id": "0x000003CE",
+      "text": "Grande"
+    },
+    {
+      "id": "0x000003CF",
+      "text": "Great"
+    },
+    {
+      "id": "0x000003D0",
+      "text": "Grosse"
+    },
+    {
+      "id": "0x000003D1",
+      "text": "Haoh"
+    },
+    {
+      "id": "0x000003D2",
+      "text": "Held"
+    },
+    {
+      "id": "0x000003D3",
+      "text": "Heldin"
+    },
+    {
+      "id": "0x000003D4",
+      "text": "Héritier"
+    },
+    {
+      "id": "0x000003D5",
+      "text": "Héritière"
+    },
+    {
+      "id": "0x000003D6",
+      "text": "Hero"
+    },
+    {
+      "id": "0x000003D7",
+      "text": "Heroine"
+    },
+    {
+      "id": "0x000003D8",
+      "text": "Herzog"
+    },
+    {
+      "id": "0x000003D9",
+      "text": "Idol"
+    },
+    {
+      "id": "0x000003DA",
+      "text": "Impératrice"
+    },
+    {
+      "id": "0x000003DB",
+      "text": "Imperial"
+    },
+    {
+      "id": "0x000003DC",
+      "text": "Impérial"
+    },
+    {
+      "id": "0x000003DD",
+      "text": "Impériale"
+    },
+    {
+      "id": "0x000003DE",
+      "text": "Jeune"
+    },
+    {
+      "id": "0x000003DF",
+      "text": "Kaiser"
+    },
+    {
+      "id": "0x000003E0",
+      "text": "Kaiserin"
+    },
+    {
+      "id": "0x000003E1",
+      "text": "King"
+    },
+    {
+      "id": "0x000003E2",
+      "text": "Lady"
+    },
+    {
+      "id": "0x000003E3",
+      "text": "Lord"
+    },
+    {
+      "id": "0x000003E4",
+      "text": "Madame"
+    },
+    {
+      "id": "0x000003E5",
+      "text": "Maestro"
+    },
+    {
+      "id": "0x000003E6",
+      "text": "Maharaja"
+    },
+    {
+      "id": "0x000003E8",
+      "text": "Maître"
+    },
+    {
+      "id": "0x000003E9",
+      "text": "Maîtresse"
+    },
+    {
+      "id": "0x000003EA",
+      "text": "Majesté"
+    },
+    {
+      "id": "0x000003EB",
+      "text": "Majesty"
+    },
+    {
+      "id": "0x000003EC",
+      "text": "Mama"
+    },
+    {
+      "id": "0x000003EE",
+      "text": "Marquis"
+    },
+    {
+      "id": "0x000003EF",
+      "text": "Marquise"
+    },
+    {
+      "id": "0x000003F0",
+      "text": "Master"
+    },
+    {
+      "id": "0x000003F1",
+      "text": "Ménestrel"
+    },
+    {
+      "id": "0x000003F2",
+      "text": "Miss"
+    },
+    {
+      "id": "0x000003F3",
+      "text": "Mister"
+    },
+    {
+      "id": "0x000003F4",
+      "text": "Monsieur"
+    },
+    {
+      "id": "0x000003F5",
+      "text": "Noble"
+    },
+    {
+      "id": "0x000003FA",
+      "text": "Papa"
+    },
+    {
+      "id": "0x000003FB",
+      "text": "Partner"
+    },
+    {
+      "id": "0x000003FC",
+      "text": "Pendragon"
+    },
+    {
+      "id": "0x000003FD",
+      "text": "Picker"
+    },
+    {
+      "id": "0x000003FE",
+      "text": "Prince"
+    },
+    {
+      "id": "0x000003FF",
+      "text": "Princess"
+    },
+    {
+      "id": "0x00000400",
+      "text": "Princesse"
+    },
+    {
+      "id": "0x00000401",
+      "text": "Prinz"
+    },
+    {
+      "id": "0x00000402",
+      "text": "Prinzessin"
+    },
+    {
+      "id": "0x00000403",
+      "text": "Queen"
+    },
+    {
+      "id": "0x00000404",
+      "text": "Reine"
+    },
+    {
+      "id": "0x00000405",
+      "text": "Riche"
+    },
+    {
+      "id": "0x00000406",
+      "text": "Roi"
+    },
+    {
+      "id": "0x00000407",
+      "text": "Royal"
+    },
+    {
+      "id": "0x00000408",
+      "text": "Royale"
+    },
+    {
+      "id": "0x00000409",
+      "text": "Sage"
+    },
+    {
+      "id": "0x0000040A",
+      "text": "Schnaufer"
+    },
+    {
+      "id": "0x0000040B",
+      "text": "Scion"
+    },
+    {
+      "id": "0x0000040C",
+      "text": "Seigneur"
+    },
+    {
+      "id": "0x0000040D",
+      "text": "Signore"
+    },
+    {
+      "id": "0x0000040E",
+      "text": "Sultan"
+    },
+    {
+      "id": "0x0000040F",
+      "text": "Sultana"
+    },
+    {
+      "id": "0x00000410",
+      "text": "Traveler"
+    },
+    {
+      "id": "0x00000411",
+      "text": "Tycoon"
+    },
+    {
+      "id": "0x00000412",
+      "text": "Wuschel"
+    },
+    {
+      "id": "0x00000413",
+      "text": "Alpha"
+    },
+    {
+      "id": "0x00000414",
+      "text": "Big"
+    },
+    {
+      "id": "0x00000415",
+      "text": "Court"
+    },
+    {
+      "id": "0x00000416",
+      "text": "Courte"
+    },
+    {
+      "id": "0x00000417",
+      "text": "Deep"
+    },
+    {
+      "id": "0x00000418",
+      "text": "Fin"
+    },
+    {
+      "id": "0x00000419",
+      "text": "Final"
+    },
+    {
+      "id": "0x0000041A",
+      "text": "Giant"
+    },
+    {
+      "id": "0x0000041B",
+      "text": "Gros"
+    },
+    {
+      "id": "0x0000041C",
+      "text": "Großer"
+    },
+    {
+      "id": "0x0000041D",
+      "text": "Großes"
+    },
+    {
+      "id": "0x0000041E",
+      "text": "I"
+    },
+    {
+      "id": "0x0000041F",
+      "text": "II"
+    },
+    {
+      "id": "0x00000420",
+      "text": "III"
+    },
+    {
+      "id": "0x00000421",
+      "text": "Infinity"
+    },
+    {
+      "id": "0x00000422",
+      "text": "IV"
+    },
+    {
+      "id": "0x00000423",
+      "text": "IX"
+    },
+    {
+      "id": "0x00000424",
+      "text": "Junge"
+    },
+    {
+      "id": "0x00000425",
+      "text": "Junger"
+    },
+    {
+      "id": "0x00000426",
+      "text": "Junges"
+    },
+    {
+      "id": "0x00000427",
+      "text": "Kleine"
+    },
+    {
+      "id": "0x00000428",
+      "text": "Kleiner"
+    },
+    {
+      "id": "0x00000429",
+      "text": "Kleines"
+    },
+    {
+      "id": "0x0000042A",
+      "text": "Last"
+    },
+    {
+      "id": "0x0000042B",
+      "text": "Leichte"
+    },
+    {
+      "id": "0x0000042C",
+      "text": "Leichter"
+    },
+    {
+      "id": "0x0000042D",
+      "text": "Leichtes"
+    },
+    {
+      "id": "0x0000042E",
+      "text": "Letzte"
+    },
+    {
+      "id": "0x0000042F",
+      "text": "Letzter"
+    },
+    {
+      "id": "0x00000430",
+      "text": "Letztes"
+    },
+    {
+      "id": "0x00000431",
+      "text": "Long"
+    },
+    {
+      "id": "0x00000432",
+      "text": "Longue"
+    },
+    {
+      "id": "0x00000433",
+      "text": "Max"
+    },
+    {
+      "id": "0x00000434",
+      "text": "Maximal"
+    },
+    {
+      "id": "0x00000435",
+      "text": "Maximale"
+    },
+    {
+      "id": "0x00000436",
+      "text": "Millénium"
+    },
+    {
+      "id": "0x00000437",
+      "text": "Millennium"
+    },
+    {
+      "id": "0x00000438",
+      "text": "Million"
+    },
+    {
+      "id": "0x00000439",
+      "text": "Nice"
+    },
+    {
+      "id": "0x0000043A",
+      "text": "Oller"
+    },
+    {
+      "id": "0x0000043B",
+      "text": "Olles"
+    },
+    {
+      "id": "0x0000043C",
+      "text": "Omega"
+    },
+    {
+      "id": "0x0000043D",
+      "text": "One"
+    },
+    {
+      "id": "0x0000043E",
+      "text": "Petit"
+    },
+    {
+      "id": "0x0000043F",
+      "text": "Petite"
+    },
+    {
+      "id": "0x00000440",
+      "text": "Quatorzième"
+    },
+    {
+      "id": "0x00000441",
+      "text": "Ten"
+    },
+    {
+      "id": "0x00000442",
+      "text": "V"
+    },
+    {
+      "id": "0x00000443",
+      "text": "VI"
+    },
+    {
+      "id": "0x00000444",
+      "text": "Vieille"
+    },
+    {
+      "id": "0x00000445",
+      "text": "Vieux"
+    },
+    {
+      "id": "0x00000446",
+      "text": "VII"
+    },
+    {
+      "id": "0x00000447",
+      "text": "VIII"
+    },
+    {
+      "id": "0x00000448",
+      "text": "X"
+    },
+    {
+      "id": "0x00000449",
+      "text": "XI"
+    },
+    {
+      "id": "0x0000044A",
+      "text": "XII"
+    },
+    {
+      "id": "0x0000044B",
+      "text": "XIII"
+    },
+    {
+      "id": "0x0000044C",
+      "text": "XIV"
+    },
+    {
+      "id": "0x0000044D",
+      "text": "Young"
+    },
+    {
+      "id": "0x0000044E",
+      "text": "Zero"
+    },
+    {
+      "id": "0x0000044F",
+      "text": "Zéro"
+    },
+    {
+      "id": "0x00000450",
+      "text": "Zillion"
+    },
+    {
+      "id": "0x00000451",
+      "text": "Asuka"
+    },
+    {
+      "id": "0x00000452",
+      "text": "Brian"
+    },
+    {
+      "id": "0x00000453",
+      "text": "Bucephalus"
+    },
+    {
+      "id": "0x00000454",
+      "text": "César"
+    },
+    {
+      "id": "0x00000455",
+      "text": "Diana"
+    },
+    {
+      "id": "0x00000456",
+      "text": "Diane"
+    },
+    {
+      "id": "0x00000457",
+      "text": "Digga"
+    },
+    {
+      "id": "0x00000458",
+      "text": "Goemon"
+    },
+    {
+      "id": "0x00000459",
+      "text": "Gonzales"
+    },
+    {
+      "id": "0x0000045A",
+      "text": "Hermes"
+    },
+    {
+      "id": "0x0000045B",
+      "text": "Hyperion"
+    },
+    {
+      "id": "0x0000045C",
+      "text": "Hypérion"
+    },
+    {
+      "id": "0x0000045D",
+      "text": "Ikezuki"
+    },
+    {
+      "id": "0x0000045E",
+      "text": "Izumo"
+    },
+    {
+      "id": "0x0000045F",
+      "text": "Jack"
+    },
+    {
+      "id": "0x00000460",
+      "text": "Komachi"
+    },
+    {
+      "id": "0x00000462",
+      "text": "Luzie"
+    },
+    {
+      "id": "0x00000463",
+      "text": "Mataemon"
+    },
+    {
+      "id": "0x00000464",
+      "text": "Musashi"
+    },
+    {
+      "id": "0x00000465",
+      "text": "Neddy"
+    },
+    {
+      "id": "0x00000466",
+      "text": "Nemesis"
+    },
+    {
+      "id": "0x00000467",
+      "text": "Némésis"
+    },
+    {
+      "id": "0x00000468",
+      "text": "Odyssée"
+    },
+    {
+      "id": "0x00000469",
+      "text": "Olympe"
+    },
+    {
+      "id": "0x0000046B",
+      "text": "Rosinante"
+    },
+    {
+      "id": "0x0000046C",
+      "text": "Roughie"
+    },
+    {
+      "id": "0x0000046D",
+      "text": "Sekito"
+    },
+    {
+      "id": "0x0000046E",
+      "text": "Selene"
+    },
+    {
+      "id": "0x0000046F",
+      "text": "Senden"
+    },
+    {
+      "id": "0x00000470",
+      "text": "Shiden"
+    },
+    {
+      "id": "0x00000471",
+      "text": "Shinpu"
+    },
+    {
+      "id": "0x00000472",
+      "text": "Sui"
+    },
+    {
+      "id": "0x00000473",
+      "text": "Surusumi"
+    },
+    {
+      "id": "0x00000474",
+      "text": "Tekiro"
+    },
+    {
+      "id": "0x00000475",
+      "text": "Tristan"
+    },
+    {
+      "id": "0x00000476",
+      "text": "Valentine"
+    },
+    {
+      "id": "0x00000477",
+      "text": "Xanthe"
+    },
+    {
+      "id": "0x00000478",
+      "text": "Yamato"
+    },
+    {
+      "id": "0x00000479",
+      "text": "Zeppelin"
+    },
+    {
+      "id": "0x0000047A",
+      "text": "Zetsuei"
+    },
+    {
+      "id": "0x0000047B",
+      "text": "der Bruderschaft"
+    },
+    {
+      "id": "0x0000047C",
+      "text": "der Ixal"
+    },
+    {
+      "id": "0x0000047D",
+      "text": "der Legion"
+    },
+    {
+      "id": "0x0000047E",
+      "text": "des Mahlstroms"
+    },
+    {
+      "id": "0x0000047F",
+      "text": "Eorzean"
+    },
+    {
+      "id": "0x00000480",
+      "text": "Garlean"
+    },
+    {
+      "id": "0x00000481",
+      "text": "Gridanian"
+    },
+    {
+      "id": "0x00000482",
+      "text": "Gridanien"
+    },
+    {
+      "id": "0x00000483",
+      "text": "Gridanienne"
+    },
+    {
+      "id": "0x00000484",
+      "text": "Gridanische"
+    },
+    {
+      "id": "0x00000485",
+      "text": "Gridanischer"
+    },
+    {
+      "id": "0x00000486",
+      "text": "Gridanisches"
+    },
+    {
+      "id": "0x00000487",
+      "text": "Ishgardais"
+    },
+    {
+      "id": "0x00000488",
+      "text": "Ishgardaise"
+    },
+    {
+      "id": "0x00000489",
+      "text": "Ishgarder"
+    },
+    {
+      "id": "0x0000048A",
+      "text": "Ishgardian"
+    },
+    {
+      "id": "0x0000048B",
+      "text": "Ixali"
+    },
+    {
+      "id": "0x0000048C",
+      "text": "Limséen"
+    },
+    {
+      "id": "0x0000048D",
+      "text": "Limséenne"
+    },
+    {
+      "id": "0x0000048E",
+      "text": "Limser"
+    },
+    {
+      "id": "0x0000048F",
+      "text": "Lominsan"
+    },
+    {
+      "id": "0x00000490",
+      "text": "Mhigois"
+    },
+    {
+      "id": "0x00000491",
+      "text": "Mhigoise"
+    },
+    {
+      "id": "0x00000492",
+      "text": "Sharlayaner"
+    },
+    {
+      "id": "0x00000493",
+      "text": "Thavnairian"
+    },
+    {
+      "id": "0x00000494",
+      "text": "Ul'dahn"
+    },
+    {
+      "id": "0x00000495",
+      "text": "Ul'dahner"
+    },
+    {
+      "id": "0x00000496",
+      "text": "Uldien"
+    },
+    {
+      "id": "0x00000497",
+      "text": "Uldienne"
+    },
+    {
+      "id": "0x00000498",
+      "text": "Amatsukaze"
+    },
+    {
+      "id": "0x00000499",
+      "text": "Balzane"
+    },
+    {
+      "id": "0x0000049A",
+      "text": "Biscuit"
+    },
+    {
+      "id": "0x0000049B",
+      "text": "Bo"
+    },
+    {
+      "id": "0x0000049C",
+      "text": "Bonbon"
+    },
+    {
+      "id": "0x0000049D",
+      "text": "Butin"
+    },
+    {
+      "id": "0x0000049E",
+      "text": "Caramel"
+    },
+    {
+      "id": "0x0000049F",
+      "text": "Cart"
+    },
+    {
+      "id": "0x000004A0",
+      "text": "Chariot"
+    },
+    {
+      "id": "0x000004A1",
+      "text": "Chocolat"
+    },
+    {
+      "id": "0x000004A2",
+      "text": "Cieldalaes"
+    },
+    {
+      "id": "0x000004A3",
+      "text": "Clipper"
+    },
+    {
+      "id": "0x000004A4",
+      "text": "Clochette"
+    },
+    {
+      "id": "0x000004A5",
+      "text": "Craft"
+    },
+    {
+      "id": "0x000004A6",
+      "text": "Cry"
+    },
+    {
+      "id": "0x000004A7",
+      "text": "Dance"
+    },
+    {
+      "id": "0x000004A8",
+      "text": "Dancer"
+    },
+    {
+      "id": "0x000004A9",
+      "text": "Dancing"
+    },
+    {
+      "id": "0x000004AA",
+      "text": "Danseur"
+    },
+    {
+      "id": "0x000004AB",
+      "text": "Danseuse"
+    },
+    {
+      "id": "0x000004AC",
+      "text": "Dray"
+    },
+    {
+      "id": "0x000004AD",
+      "text": "Drowned"
+    },
+    {
+      "id": "0x000004AF",
+      "text": "Emblem"
+    },
+    {
+      "id": "0x000004B0",
+      "text": "Farceur"
+    },
+    {
+      "id": "0x000004B1",
+      "text": "Farceuse"
+    },
+    {
+      "id": "0x000004B3",
+      "text": "Flocke"
+    },
+    {
+      "id": "0x000004B4",
+      "text": "Flyer"
+    },
+    {
+      "id": "0x000004B5",
+      "text": "Fresser"
+    },
+    {
+      "id": "0x000004B6",
+      "text": "G"
+    },
+    {
+      "id": "0x000004B7",
+      "text": "Gourmand"
+    },
+    {
+      "id": "0x000004B8",
+      "text": "Gourmande"
+    },
+    {
+      "id": "0x000004B9",
+      "text": "Gysahl"
+    },
+    {
+      "id": "0x000004BA",
+      "text": "Hayate"
+    },
+    {
+      "id": "0x000004BB",
+      "text": "Hibiki"
+    },
+    {
+      "id": "0x000004BC",
+      "text": "Hiden"
+    },
+    {
+      "id": "0x000004BD",
+      "text": "Hiten"
+    },
+    {
+      "id": "0x000004BE",
+      "text": "Hobby"
+    },
+    {
+      "id": "0x000004BF",
+      "text": "Ichimonji"
+    },
+    {
+      "id": "0x000004C1",
+      "text": "Jinpu"
+    },
+    {
+      "id": "0x000004C2",
+      "text": "Koloss"
+    },
+    {
+      "id": "0x000004C3",
+      "text": "Kugel"
+    },
+    {
+      "id": "0x000004C4",
+      "text": "Kweh"
+    },
+    {
+      "id": "0x000004C5",
+      "text": "La"
+    },
+    {
+      "id": "0x000004C7",
+      "text": "Le"
+    },
+    {
+      "id": "0x000004C8",
+      "text": "Licol"
+    },
+    {
+      "id": "0x000004C9",
+      "text": "Line"
+    },
+    {
+      "id": "0x000004CA",
+      "text": "Ma"
+    },
+    {
+      "id": "0x000004CB",
+      "text": "Martingale"
+    },
+    {
+      "id": "0x000004CC",
+      "text": "Matsukaze"
+    },
+    {
+      "id": "0x000004CD",
+      "text": "Melodie"
+    },
+    {
+      "id": "0x000004CE",
+      "text": "Mélodie"
+    },
+    {
+      "id": "0x000004CF",
+      "text": "Melody"
+    },
+    {
+      "id": "0x000004D0",
+      "text": "Mon"
+    },
+    {
+      "id": "0x000004D1",
+      "text": "Monture"
+    },
+    {
+      "id": "0x000004D2",
+      "text": "Pensif"
+    },
+    {
+      "id": "0x000004D3",
+      "text": "Point"
+    },
+    {
+      "id": "0x000004D5",
+      "text": "Quadrille"
+    },
+    {
+      "id": "0x000004D7",
+      "text": "Ramage"
+    },
+    {
+      "id": "0x000004D8",
+      "text": "Rattler"
+    },
+    {
+      "id": "0x000004D9",
+      "text": "Reppu"
+    },
+    {
+      "id": "0x000004DA",
+      "text": "Rhapsody"
+    },
+    {
+      "id": "0x000004DB",
+      "text": "Roadster"
+    },
+    {
+      "id": "0x000004DC",
+      "text": "Saddle"
+    },
+    {
+      "id": "0x000004DD",
+      "text": "Saure"
+    },
+    {
+      "id": "0x000004DE",
+      "text": "Sharlayan"
+    },
+    {
+      "id": "0x000004DF",
+      "text": "Shinden"
+    },
+    {
+      "id": "0x000004E0",
+      "text": "Souffle"
+    },
+    {
+      "id": "0x000004E1",
+      "text": "Sweep"
+    },
+    {
+      "id": "0x000004E2",
+      "text": "Tempered"
+    },
+    {
+      "id": "0x000004E3",
+      "text": "Ticket"
+    },
+    {
+      "id": "0x000004E4",
+      "text": "Trésor"
+    },
+    {
+      "id": "0x000004E5",
+      "text": "Trotteuse"
+    },
+    {
+      "id": "0x000004E6",
+      "text": "Twelveswood"
+    },
+    {
+      "id": "0x000004E7",
+      "text": "Vorace"
+    },
+    {
+      "id": "0x000004E8",
+      "text": "Wark"
+    },
+    {
+      "id": "0x000004E9",
+      "text": "Whisper"
+    },
+    {
+      "id": "0x000004EA",
+      "text": "Whorl"
+    },
+    {
+      "id": "0x000004EB",
+      "text": "Z"
+    },
+    {
+      "id": "0x000004EC",
+      "text": "East"
+    },
+    {
+      "id": "0x000004ED",
+      "text": "North"
+    },
+    {
+      "id": "0x000004EE",
+      "text": "South"
+    },
+    {
+      "id": "0x000004EF",
+      "text": "Angelic"
+    },
+    {
+      "id": "0x000004F0",
+      "text": "Devilish"
+    },
+    {
+      "id": "0x000004F1",
+      "text": "White"
+    },
+    {
+      "id": "0x000004F2",
+      "text": "The"
+    },
+    {
+      "id": "0x000004F3",
+      "text": "Hermès"
+    },
+    {
+      "id": "0x000004F4",
+      "text": "Séléné"
+    },
+    {
+      "id": "0x000004F5",
+      "text": "Toho"
+    },
+    {
+      "id": "0x000004F6",
+      "text": "Fuhai"
+    },
+    {
+      "id": "0x000004F7",
+      "text": "Silly"
+    },
+    {
+      "id": "0x000004F8",
+      "text": "Spoony"
+    },
+    {
+      "id": "0x000004F9",
+      "text": "Ser"
+    },
+    {
+      "id": "0x000004FA",
+      "text": "Falling"
+    },
+    {
+      "id": "0x000004FB",
+      "text": "Nophica's"
+    },
+    {
+      "id": "0x000004FC",
+      "text": "Widdershins"
+    },
+    {
+      "id": "0x000004FD",
+      "text": "Without"
+    },
+    {
+      "id": "0x000004FE",
+      "text": "Trail"
+    },
+    {
+      "id": "0x000004FF",
+      "text": "Faith"
+    },
+    {
+      "id": "0x00000500",
+      "text": "Quintessence"
+    },
+    {
+      "id": "0x00000501",
+      "text": "Wandering"
+    },
+    {
+      "id": "0x00000502",
+      "text": "Legendary"
+    },
+    {
+      "id": "0x00000505",
+      "text": "Wet"
+    },
+    {
+      "id": "0x00000507",
+      "text": "Third"
+    },
+    {
+      "id": "0x00000508",
+      "text": "Take"
+    },
+    {
+      "id": "0x00000509",
+      "text": "Street"
+    },
+    {
+      "id": "0x0000050A",
+      "text": "Ever"
+    },
+    {
+      "id": "0x0000050C",
+      "text": "Barrel"
+    },
+    {
+      "id": "0x0000050E",
+      "text": "Morbid"
+    },
+    {
+      "id": "0x0000050F",
+      "text": "Weak"
+    },
+    {
+      "id": "0x00000510",
+      "text": "Uncontrollable"
+    },
+    {
+      "id": "0x00000512",
+      "text": "Tavern"
+    },
+    {
+      "id": "0x00000514",
+      "text": "Honey"
+    },
+    {
+      "id": "0x00000515",
+      "text": "Cozened"
+    },
+    {
+      "id": "0x00000516",
+      "text": "Lully"
+    },
+    {
+      "id": "0x00000517",
+      "text": "Hedge"
+    },
+    {
+      "id": "0x00000518",
+      "text": "Darkman's"
+    },
+    {
+      "id": "0x00000519",
+      "text": "Three"
+    },
+    {
+      "id": "0x0000051A",
+      "text": "Barmy"
+    },
+    {
+      "id": "0x0000051B",
+      "text": "Dreamer's"
+    },
+    {
+      "id": "0x0000051C",
+      "text": "Spriggan's"
+    },
+    {
+      "id": "0x0000051D",
+      "text": "Coerthan"
+    },
+    {
+      "id": "0x0000051E",
+      "text": "Gwyr"
+    },
+    {
+      "id": "0x0000051F",
+      "text": "Akh"
+    },
+    {
+      "id": "0x00000520",
+      "text": "Jellied"
+    },
+    {
+      "id": "0x00000523",
+      "text": "Rusty"
+    },
+    {
+      "id": "0x00000524",
+      "text": "So"
+    },
+    {
+      "id": "0x00000525",
+      "text": "Running"
+    },
+    {
+      "id": "0x00000526",
+      "text": "Apocalypse"
+    },
+    {
+      "id": "0x00000527",
+      "text": "Thy"
+    },
+    {
+      "id": "0x00000528",
+      "text": "She"
+    },
+    {
+      "id": "0x0000052C",
+      "text": "Another"
+    },
+    {
+      "id": "0x0000052D",
+      "text": "Common"
+    },
+    {
+      "id": "0x0000052E",
+      "text": "Cut"
+    },
+    {
+      "id": "0x0000052F",
+      "text": "Guardian"
+    },
+    {
+      "id": "0x00000532",
+      "text": "Cobra"
+    },
+    {
+      "id": "0x00000533",
+      "text": "Top"
+    },
+    {
+      "id": "0x00000534",
+      "text": "Sixth"
+    },
+    {
+      "id": "0x00000535",
+      "text": "Brother's"
+    },
+    {
+      "id": "0x00000536",
+      "text": "Durandal"
+    },
+    {
+      "id": "0x00000537",
+      "text": "True"
+    },
+    {
+      "id": "0x00000538",
+      "text": "Break"
+    },
+    {
+      "id": "0x00000539",
+      "text": "Clever"
+    },
+    {
+      "id": "0x0000053B",
+      "text": "Bridge"
+    },
+    {
+      "id": "0x0000053C",
+      "text": "Too"
+    },
+    {
+      "id": "0x0000053D",
+      "text": "Something"
+    },
+    {
+      "id": "0x0000053E",
+      "text": "Wily"
+    },
+    {
+      "id": "0x0000053F",
+      "text": "Gummy"
+    },
+    {
+      "id": "0x00000540",
+      "text": "Pullarian"
+    },
+    {
+      "id": "0x00000541",
+      "text": "Early"
+    },
+    {
+      "id": "0x00000545",
+      "text": "Bucking"
+    },
+    {
+      "id": "0x00000546",
+      "text": "Tiny"
+    },
+    {
+      "id": "0x00000547",
+      "text": "Unbridled"
+    },
+    {
+      "id": "0x00000548",
+      "text": "Vide"
+    },
+    {
+      "id": "0x00000549",
+      "text": "Thal's"
+    },
+    {
+      "id": "0x0000054A",
+      "text": "Down"
+    },
+    {
+      "id": "0x0000054B",
+      "text": "Holy"
+    },
+    {
+      "id": "0x0000054C",
+      "text": "Fair"
+    },
+    {
+      "id": "0x0000054D",
+      "text": "Fifty"
+    },
+    {
+      "id": "0x0000054E",
+      "text": "Bad"
+    },
+    {
+      "id": "0x0000054F",
+      "text": "First"
+    },
+    {
+      "id": "0x00000550",
+      "text": "Dead"
+    },
+    {
+      "id": "0x00000551",
+      "text": "Loose"
+    },
+    {
+      "id": "0x00000552",
+      "text": "Halone's"
+    },
+    {
+      "id": "0x00000553",
+      "text": "Closing"
+    },
+    {
+      "id": "0x00000554",
+      "text": "Seventh"
+    },
+    {
+      "id": "0x00000555",
+      "text": "Spell"
+    },
+    {
+      "id": "0x00000556",
+      "text": "Aleport's"
+    },
+    {
+      "id": "0x00000557",
+      "text": "Raubahn's"
+    },
+    {
+      "id": "0x00000558",
+      "text": "Exit"
+    },
+    {
+      "id": "0x00000559",
+      "text": "Polished"
+    },
+    {
+      "id": "0x0000055A",
+      "text": "Shepherd's"
+    },
+    {
+      "id": "0x0000055B",
+      "text": "Onward"
+    },
+    {
+      "id": "0x0000055C",
+      "text": "Lowand"
+    },
+    {
+      "id": "0x0000055D",
+      "text": "Highlander"
+    },
+    {
+      "id": "0x0000055E",
+      "text": "Terminator"
+    },
+    {
+      "id": "0x0000055F",
+      "text": "Lerricomtwang"
+    },
+    {
+      "id": "0x00000560",
+      "text": "Stella"
+    },
+    {
+      "id": "0x00000561",
+      "text": "Wishbone"
+    },
+    {
+      "id": "0x00000564",
+      "text": "Wonderbird"
+    },
+    {
+      "id": "0x00000565",
+      "text": "Juggernaut"
+    },
+    {
+      "id": "0x00000566",
+      "text": "Collywobbles"
+    },
+    {
+      "id": "0x00000567",
+      "text": "Born"
+    },
+    {
+      "id": "0x00000568",
+      "text": "Witwanton"
+    },
+    {
+      "id": "0x0000056A",
+      "text": "Jabberwocky"
+    },
+    {
+      "id": "0x0000056B",
+      "text": "Drumstick"
+    },
+    {
+      "id": "0x0000056C",
+      "text": "Undersecretariat"
+    },
+    {
+      "id": "0x0000056D",
+      "text": "Ironclad"
+    },
+    {
+      "id": "0x0000056E",
+      "text": "Storyteller"
+    },
+    {
+      "id": "0x0000056F",
+      "text": "Outcast"
+    },
+    {
+      "id": "0x00000570",
+      "text": "Unbreakable"
+    },
+    {
+      "id": "0x00000571",
+      "text": "Undefeated"
+    },
+    {
+      "id": "0x00000573",
+      "text": "Dynamo"
+    },
+    {
+      "id": "0x00000574",
+      "text": "Buzzsaw"
+    },
+    {
+      "id": "0x00000575",
+      "text": "Fireball"
+    },
+    {
+      "id": "0x00000576",
+      "text": "Sacrilicious"
+    },
+    {
+      "id": "0x00000577",
+      "text": "Excalipur"
+    },
+    {
+      "id": "0x0000057A",
+      "text": "Oblivion"
+    },
+    {
+      "id": "0x0000057B",
+      "text": "Crucifix"
+    },
+    {
+      "id": "0x0000057C",
+      "text": "Yesterday"
+    },
+    {
+      "id": "0x0000057D",
+      "text": "Vindication"
+    },
+    {
+      "id": "0x0000057E",
+      "text": "Thunderbolt"
+    },
+    {
+      "id": "0x0000057F",
+      "text": "Morningstar"
+    },
+    {
+      "id": "0x00000580",
+      "text": "Theomeny"
+    },
+    {
+      "id": "0x00000581",
+      "text": "Vicambulator"
+    },
+    {
+      "id": "0x00000582",
+      "text": "Foppotee"
+    },
+    {
+      "id": "0x00000583",
+      "text": "Airgonaut"
+    },
+    {
+      "id": "0x00000584",
+      "text": "Whither"
+    },
+    {
+      "id": "0x00000585",
+      "text": "Hydrargyrum"
+    },
+    {
+      "id": "0x00000586",
+      "text": "Ambidexter"
+    },
+    {
+      "id": "0x00000587",
+      "text": "Bane"
+    },
+    {
+      "id": "0x00000588",
+      "text": "Dirty"
+    },
+    {
+      "id": "0x00000589",
+      "text": "Hotspur"
+    },
+    {
+      "id": "0x0000058A",
+      "text": "Blatherskite"
+    },
+    {
+      "id": "0x0000058B",
+      "text": "Primal"
+    },
+    {
+      "id": "0x0000058C",
+      "text": "Salvation"
+    },
+    {
+      "id": "0x0000058D",
+      "text": "Rabbit"
+    },
+    {
+      "id": "0x0000058E",
+      "text": "Racer"
+    },
+    {
+      "id": "0x0000058F",
+      "text": "Knuckle"
+    },
+    {
+      "id": "0x00000590",
+      "text": "Bard"
+    },
+    {
+      "id": "0x00000591",
+      "text": "Sailor"
+    },
+    {
+      "id": "0x00000592",
+      "text": "Rider"
+    },
+    {
+      "id": "0x00000593",
+      "text": "Ex"
+    },
+    {
+      "id": "0x00000594",
+      "text": "Enforcer"
+    },
+    {
+      "id": "0x00000595",
+      "text": "Winsalot"
+    },
+    {
+      "id": "0x00000596",
+      "text": "Up"
+    },
+    {
+      "id": "0x00000597",
+      "text": "Bounty"
+    },
+    {
+      "id": "0x00000598",
+      "text": "Eyes"
+    },
+    {
+      "id": "0x00000599",
+      "text": "Fail"
+    },
+    {
+      "id": "0x0000059A",
+      "text": "Blazer"
+    },
+    {
+      "id": "0x0000059B",
+      "text": "Minstrel"
+    },
+    {
+      "id": "0x0000059D",
+      "text": "Threefeathers"
+    },
+    {
+      "id": "0x0000059E",
+      "text": "Waters"
+    },
+    {
+      "id": "0x0000059F",
+      "text": "Melon"
+    },
+    {
+      "id": "0x000005A2",
+      "text": "Back"
+    },
+    {
+      "id": "0x000005A3",
+      "text": "Doubt"
+    },
+    {
+      "id": "0x000005A4",
+      "text": "Valentione"
+    },
+    {
+      "id": "0x000005A6",
+      "text": "Preacher"
+    },
+    {
+      "id": "0x000005A7",
+      "text": "Clear"
+    },
+    {
+      "id": "0x000005AA",
+      "text": "Roll"
+    },
+    {
+      "id": "0x000005AB",
+      "text": "Lips"
+    },
+    {
+      "id": "0x000005AC",
+      "text": "Fascination"
+    },
+    {
+      "id": "0x000005AD",
+      "text": "Fist"
+    },
+    {
+      "id": "0x000005AE",
+      "text": "Mantra"
+    },
+    {
+      "id": "0x000005AF",
+      "text": "Circumstances"
+    },
+    {
+      "id": "0x000005B1",
+      "text": "Cove"
+    },
+    {
+      "id": "0x000005B2",
+      "text": "Bucket"
+    },
+    {
+      "id": "0x000005B3",
+      "text": "Oyster"
+    },
+    {
+      "id": "0x000005B4",
+      "text": "Apron"
+    },
+    {
+      "id": "0x000005B5",
+      "text": "Cockatrice"
+    },
+    {
+      "id": "0x000005B6",
+      "text": "Prigger"
+    },
+    {
+      "id": "0x000005B7",
+      "text": "Creeper"
+    },
+    {
+      "id": "0x000005B8",
+      "text": "Budge"
+    },
+    {
+      "id": "0x000005B9",
+      "text": "Buzzer"
+    },
+    {
+      "id": "0x000005BA",
+      "text": "Trees"
+    },
+    {
+      "id": "0x000005BB",
+      "text": "Delight"
+    },
+    {
+      "id": "0x000005BC",
+      "text": "Doorstep"
+    },
+    {
+      "id": "0x000005BD",
+      "text": "Spit"
+    },
+    {
+      "id": "0x000005BE",
+      "text": "Cooper"
+    },
+    {
+      "id": "0x000005BF",
+      "text": "Beast"
+    },
+    {
+      "id": "0x000005C0",
+      "text": "Maiden"
+    },
+    {
+      "id": "0x000005C1",
+      "text": "Aen"
+    },
+    {
+      "id": "0x000005C2",
+      "text": "Morn"
+    },
+    {
+      "id": "0x000005C3",
+      "text": "Fish"
+    },
+    {
+      "id": "0x000005C4",
+      "text": "Buster"
+    },
+    {
+      "id": "0x000005C5",
+      "text": "Feet"
+    },
+    {
+      "id": "0x000005C6",
+      "text": "Bright"
+    },
+    {
+      "id": "0x000005C7",
+      "text": "Steel"
+    },
+    {
+      "id": "0x000005C8",
+      "text": "What"
+    },
+    {
+      "id": "0x000005C9",
+      "text": "Wedding"
+    },
+    {
+      "id": "0x000005CA",
+      "text": "Scared"
+    },
+    {
+      "id": "0x000005CB",
+      "text": "Later"
+    },
+    {
+      "id": "0x000005CC",
+      "text": "Matron"
+    },
+    {
+      "id": "0x000005CD",
+      "text": "Said"
+    },
+    {
+      "id": "0x000005CE",
+      "text": "Pit"
+    },
+    {
+      "id": "0x000005CF",
+      "text": "Stunts"
+    },
+    {
+      "id": "0x000005D0",
+      "text": "Brother"
+    },
+    {
+      "id": "0x000005D1",
+      "text": "Bird"
+    },
+    {
+      "id": "0x000005D2",
+      "text": "Above"
+    },
+    {
+      "id": "0x000005D4",
+      "text": "Wall"
+    },
+    {
+      "id": "0x000005D6",
+      "text": "Curse"
+    },
+    {
+      "id": "0x000005D7",
+      "text": "Secret"
+    },
+    {
+      "id": "0x000005D8",
+      "text": "Sense"
+    },
+    {
+      "id": "0x000005D9",
+      "text": "Mammet"
+    },
+    {
+      "id": "0x000005DA",
+      "text": "Keeper"
+    },
+    {
+      "id": "0x000005DB",
+      "text": "Unchained"
+    },
+    {
+      "id": "0x000005DD",
+      "text": "Freedom"
+    },
+    {
+      "id": "0x000005DF",
+      "text": "Burner"
+    },
+    {
+      "id": "0x000005E0",
+      "text": "Folly"
+    },
+    {
+      "id": "0x000005E1",
+      "text": "Pocked"
+    },
+    {
+      "id": "0x000005E2",
+      "text": "Groundskeeper"
+    },
+    {
+      "id": "0x000005E3",
+      "text": "Playfellow"
+    },
+    {
+      "id": "0x000005E8",
+      "text": "Chains"
+    },
+    {
+      "id": "0x000005EA",
+      "text": "Temptation"
+    },
+    {
+      "id": "0x000005EB",
+      "text": "Supra"
+    },
+    {
+      "id": "0x000005EC",
+      "text": "Balls"
+    },
+    {
+      "id": "0x000005ED",
+      "text": "Form"
+    },
+    {
+      "id": "0x000005EE",
+      "text": "Below"
+    },
+    {
+      "id": "0x000005EF",
+      "text": "Crow"
+    },
+    {
+      "id": "0x000005F0",
+      "text": "Play"
+    },
+    {
+      "id": "0x000005F1",
+      "text": "Deal"
+    },
+    {
+      "id": "0x000005F2",
+      "text": "Shape"
+    },
+    {
+      "id": "0x000005F3",
+      "text": "Resort"
+    },
+    {
+      "id": "0x000005F4",
+      "text": "Loss"
+    },
+    {
+      "id": "0x000005F5",
+      "text": "Cannon"
+    },
+    {
+      "id": "0x000005F6",
+      "text": "Helper"
+    },
+    {
+      "id": "0x000005F7",
+      "text": "Time"
+    },
+    {
+      "id": "0x000005F8",
+      "text": "Luck"
+    },
+    {
+      "id": "0x000005F9",
+      "text": "Hell"
+    },
+    {
+      "id": "0x000005FA",
+      "text": "On"
+    },
+    {
+      "id": "0x000005FB",
+      "text": "Pride"
+    },
+    {
+      "id": "0x000005FC",
+      "text": "Rage"
+    },
+    {
+      "id": "0x000005FD",
+      "text": "Left"
+    },
+    {
+      "id": "0x000005FE",
+      "text": "Divinity"
+    },
+    {
+      "id": "0x000005FF",
+      "text": "Mast"
+    },
+    {
+      "id": "0x00000600",
+      "text": "Pie"
+    },
+    {
+      "id": "0x00000601",
+      "text": "Nugget"
+    },
+    {
+      "id": "0x00000602",
+      "text": "Ho"
+    },
+    {
+      "id": "0x00000603",
+      "text": "Behold"
+    },
+    {
+      "id": "0x00000605",
+      "text": "Free"
+    },
+    {
+      "id": "0x00000606",
+      "text": "Bound"
+    },
+    {
+      "id": "0x00000607",
+      "text": "Judge"
+    },
+    {
+      "id": "0x00000608",
+      "text": "Sore"
+    },
+    {
+      "id": "0x00000609",
+      "text": "Puddings"
+    },
+    {
+      "id": "0x0000060A",
+      "text": "Judgment"
+    },
+    {
+      "id": "0x0000060B",
+      "text": "Chices"
+    },
+    {
+      "id": "0x0000060C",
+      "text": "Mithril"
+    },
+    {
+      "id": "0x0000060D",
+      "text": "Écrin"
+    },
+    {
+      "id": "0x0000060E",
+      "text": "Idéal de"
+    },
+    {
+      "id": "0x0000060F",
+      "text": "Fierté"
+    },
+    {
+      "id": "0x00000610",
+      "text": "Amélie"
+    },
+    {
+      "id": "0x00000611",
+      "text": "Fainéant"
+    },
+    {
+      "id": "0x00000612",
+      "text": "Argentée"
+    },
+    {
+      "id": "0x00000613",
+      "text": "d'Éorzéa"
+    },
+    {
+      "id": "0x00000614",
+      "text": "Sauteur"
+    },
+    {
+      "id": "0x00000615",
+      "text": "Epona"
+    },
+    {
+      "id": "0x00000616",
+      "text": "de Sombrelinceul"
+    },
+    {
+      "id": "0x00000617",
+      "text": "du Thanalan"
+    },
+    {
+      "id": "0x00000618",
+      "text": "de la Noscea"
+    },
+    {
+      "id": "0x00000619",
+      "text": "du matin"
+    },
+    {
+      "id": "0x0000061A",
+      "text": "du Maelstrom"
+    },
+    {
+      "id": "0x0000061B",
+      "text": "des Immortels"
+    },
+    {
+      "id": "0x0000061C",
+      "text": "de l'Ordre"
+    },
+    {
+      "id": "0x0000061D",
+      "text": "Chantecler"
+    },
+    {
+      "id": "0x0000061E",
+      "text": "Aldébaran"
+    },
+    {
+      "id": "0x0000061F",
+      "text": "Marylou"
+    },
+    {
+      "id": "0x00000620",
+      "text": "Rossinante"
+    },
+    {
+      "id": "0x00000621",
+      "text": "Mascarade"
+    },
+    {
+      "id": "0x00000622",
+      "text": "Jonquille"
+    },
+    {
+      "id": "0x00000623",
+      "text": "Caprice"
+    },
+    {
+      "id": "0x00000624",
+      "text": "Bride d'"
+    },
+    {
+      "id": "0x00000625",
+      "text": "Bayard"
+    },
+    {
+      "id": "0x00000626",
+      "text": "Balthazar"
+    },
+    {
+      "id": "0x00000627",
+      "text": "Arabesque"
+    },
+    {
+      "id": "0x00000628",
+      "text": "Force"
+    },
+    {
+      "id": "0x00000629",
+      "text": "Mallet"
+    },
+    {
+      "id": "0x0000062A",
+      "text": "Gauvin"
+    },
+    {
+      "id": "0x0000062B",
+      "text": "Breaker"
+    },
+    {
+      "id": "0x0000062C",
+      "text": "Deus"
+    },
+    {
+      "id": "0x0000062D",
+      "text": "Devil's"
+    },
+    {
+      "id": "0x0000062E",
+      "text": "Große"
+    },
+    {
+      "id": "0x0000062F",
+      "text": "Sightless"
+    },
+    {
+      "id": "0x00000630",
+      "text": "Legally"
+    },
+    {
+      "id": "0x00000631",
+      "text": "Sweaty"
+    },
+    {
+      "id": "0x00000632",
+      "text": "Heavens"
+    },
+    {
+      "id": "0x00000633",
+      "text": "Boast"
+    },
+    {
+      "id": "0x00000634",
+      "text": "Unhappy"
+    },
+    {
+      "id": "0x00000635",
+      "text": "Gardyloo"
+    },
+    {
+      "id": "0x00000636",
+      "text": "Gil"
+    },
+    {
+      "id": "0x00000637",
+      "text": "Stunning"
+    },
+    {
+      "id": "0x00000638",
+      "text": "Unfair"
+    },
+    {
+      "id": "0x00000639",
+      "text": "Hoarde"
+    },
+    {
+      "id": "0x0000063A",
+      "text": "Mortal"
+    },
+    {
+      "id": "0x0000063B",
+      "text": "Hard"
+    },
+    {
+      "id": "0x0000063C",
+      "text": "Commandant"
+    },
+    {
+      "id": "0x0000063D",
+      "text": "Swallowtail"
+    },
+    {
+      "id": "0x0000063E",
+      "text": "Razor"
+    },
+    {
+      "id": "0x0000063F",
+      "text": "Heir"
+    },
+    {
+      "id": "0x00000640",
+      "text": "Sunny"
+    },
+    {
+      "id": "0x00000641",
+      "text": "Shallow"
+    },
+    {
+      "id": "0x00000642",
+      "text": "Adamantoise"
+    },
+    {
+      "id": "0x00000643",
+      "text": "Wonderbo"
+    },
+    {
+      "id": "0x00000644",
+      "text": "Worldwide"
+    },
+    {
+      "id": "0x00000645",
+      "text": "Stormbuck"
+    },
+    {
+      "id": "0x00000646",
+      "text": "Hidebound"
+    },
+    {
+      "id": "0x00000647",
+      "text": "Buttertalons"
+    },
+    {
+      "id": "0x00000648",
+      "text": "Wigs"
+    },
+    {
+      "id": "0x00000649",
+      "text": "Locket"
+    },
+    {
+      "id": "0x0000064A",
+      "text": "This"
+    },
+    {
+      "id": "0x0000064B",
+      "text": "Palms"
+    },
+    {
+      "id": "0x0000064C",
+      "text": "Ward"
+    },
+    {
+      "id": "0x0000064D",
+      "text": "Aflame"
+    },
+    {
+      "id": "0x0000064E",
+      "text": "Jetbird"
+    },
+    {
+      "id": "0x0000064F",
+      "text": "Use"
+    },
+    {
+      "id": "0x00000650",
+      "text": "Square"
+    },
+    {
+      "id": "0x00000651",
+      "text": "Knocks"
+    },
+    {
+      "id": "0x00000652",
+      "text": "Who"
+    },
+    {
+      "id": "0x00000653",
+      "text": "Roam"
+    },
+    {
+      "id": "0x00000654",
+      "text": "Witty"
+    },
+    {
+      "id": "0x00000655",
+      "text": "Apparent"
+    },
+    {
+      "id": "0x00000656",
+      "text": "Side"
+    },
+    {
+      "id": "0x00000657",
+      "text": "Tom"
+    },
+    {
+      "id": "0x00000658",
+      "text": "Soup"
+    },
+    {
+      "id": "0x00000659",
+      "text": "Lied"
+    },
+    {
+      "id": "0x0000065A",
+      "text": "Hawk"
+    },
+    {
+      "id": "0x0000065B",
+      "text": "Helidor"
+    },
+    {
+      "id": "0x0000065C",
+      "text": "Chestnut"
+    },
+    {
+      "id": "0x0000065D",
+      "text": "Gambrinous"
+    },
+    {
+      "id": "0x0000065E",
+      "text": "Saffron"
+    },
+    {
+      "id": "0x0000065F",
+      "text": "Grim"
+    },
+    {
+      "id": "0x00000660",
+      "text": "Noggy"
+    },
+    {
+      "id": "0x00000661",
+      "text": "Middle"
+    },
+    {
+      "id": "0x00000662",
+      "text": "Child"
+    },
+    {
+      "id": "0x00000663",
+      "text": "Brass"
+    },
+    {
+      "id": "0x00000664",
+      "text": "Tacks"
+    },
+    {
+      "id": "0x00000665",
+      "text": "Sourdine"
+    },
+    {
+      "id": "0x00000666",
+      "text": "Maline"
+    },
+    {
+      "id": "0x00000667",
+      "text": "Besoin"
+    },
+    {
+      "id": "0x00000668",
+      "text": "Pressant"
+    },
+    {
+      "id": "0x00000669",
+      "text": "Lightfoot"
+    },
+    {
+      "id": "0x0000066A",
+      "text": "Longstrider"
+    },
+    {
+      "id": "0x0000066B",
+      "text": "Retort"
+    },
+    {
+      "id": "0x0000066C",
+      "text": "Pale"
+    },
+    {
+      "id": "0x0000066D",
+      "text": "Tonberry"
+    },
+    {
+      "id": "0x0000066E",
+      "text": "Field"
+    },
+    {
+      "id": "0x0000066F",
+      "text": "Snurbleberry"
+    },
+    {
+      "id": "0x00000670",
+      "text": "Rolanberry"
+    },
+    {
+      "id": "0x00000671",
+      "text": "Choco"
+    },
+    {
+      "id": "0x00000672",
+      "text": "Loco"
+    },
+    {
+      "id": "0x00000673",
+      "text": "Flotte"
+    },
+    {
+      "id": "0x00000674",
+      "text": "Lotte"
+    },
+    {
+      "id": "0x00000675",
+      "text": "Safe"
+    },
+    {
+      "id": "0x00000676",
+      "text": "Cracker"
+    },
+    {
+      "id": "0x00000677",
+      "text": "Fiddler's"
+    },
+    {
+      "id": "0x00000678",
+      "text": "Wages"
+    },
+    {
+      "id": "0x00000679",
+      "text": "Wolf"
+    },
+    {
+      "id": "0x0000067A",
+      "text": "Gone"
+    },
+    {
+      "id": "0x0000067B",
+      "text": "Coeurl"
+    },
+    {
+      "id": "0x0000067C",
+      "text": "Volle"
+    },
+    {
+      "id": "0x0000067D",
+      "text": "Kanne"
+    },
+    {
+      "id": "0x0000067E",
+      "text": "Dalli"
+    },
+    {
+      "id": "0x0000067F",
+      "text": "Schräger"
+    },
+    {
+      "id": "0x00000680",
+      "text": "Nine"
+    },
+    {
+      "id": "0x00000681",
+      "text": "Times"
+    },
+    {
+      "id": "0x00000682",
+      "text": "Ribbon"
+    },
+    {
+      "id": "0x00000683",
+      "text": "Lob"
+    },
+    {
+      "id": "0x00000684",
+      "text": "Lolly"
+    },
+    {
+      "id": "0x00000685",
+      "text": "Ruff"
+    },
+    {
+      "id": "0x00000686",
+      "text": "Peck"
+    },
+    {
+      "id": "0x00000687",
+      "text": "Staggering"
+    },
+    {
+      "id": "0x00000688",
+      "text": "Bob"
+    },
+    {
+      "id": "0x00000689",
+      "text": "Heavy"
+    },
+    {
+      "id": "0x0000068A",
+      "text": "Legs"
+    },
+    {
+      "id": "0x0000068B",
+      "text": "Head"
+    },
+    {
+      "id": "0x0000068C",
+      "text": "My"
+    },
+    {
+      "id": "0x0000068D",
+      "text": "Stars"
+    },
+    {
+      "id": "0x0000068E",
+      "text": "Sticky"
+    },
+    {
+      "id": "0x0000068F",
+      "text": "Fingers"
+    }
+  ]
+}

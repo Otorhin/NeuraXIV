@@ -1,0 +1,201 @@
+{
+  "source_file": "exd/quest/037/LucKtz105_03743_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_LUCKTZ105_03743_SEQ_00<tab>"
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_LUCKTZ105_03743_SEQ_01<tab>"
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_LUCKTZ105_03743_SEQ_02<tab>"
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_LUCKTZ105_03743_SEQ_03<tab>"
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_LUCKTZ105_03743_SEQ_04<tab>"
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_LUCKTZ105_03743_SEQ_05<tab>"
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_LUCKTZ105_03743_SEQ_06<tab>"
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_LUCKTZ105_03743_SEQ_07<tab>"
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_LUCKTZ105_03743_SEQ_08<tab>"
+    },
+    {
+      "id": "0x00000009",
+      "text": "TEXT_LUCKTZ105_03743_SEQ_09<tab>"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "TEXT_LUCKTZ105_03743_SEQ_10<tab>"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "TEXT_LUCKTZ105_03743_SEQ_11<tab>"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "TEXT_LUCKTZ105_03743_SEQ_12<tab>"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "TEXT_LUCKTZ105_03743_SEQ_13<tab>"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "TEXT_LUCKTZ105_03743_SEQ_14<tab>"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "TEXT_LUCKTZ105_03743_SEQ_15<tab>"
+    },
+    {
+      "id": "0x00000010",
+      "text": "TEXT_LUCKTZ105_03743_SEQ_16<tab>"
+    },
+    {
+      "id": "0x00000011",
+      "text": "TEXT_LUCKTZ105_03743_SEQ_17<tab>"
+    },
+    {
+      "id": "0x00000012",
+      "text": "TEXT_LUCKTZ105_03743_SEQ_18<tab>"
+    },
+    {
+      "id": "0x00000013",
+      "text": "TEXT_LUCKTZ105_03743_SEQ_19<tab>"
+    },
+    {
+      "id": "0x00000014",
+      "text": "TEXT_LUCKTZ105_03743_SEQ_20<tab>"
+    },
+    {
+      "id": "0x00000015",
+      "text": "TEXT_LUCKTZ105_03743_SEQ_21<tab>"
+    },
+    {
+      "id": "0x00000016",
+      "text": "TEXT_LUCKTZ105_03743_SEQ_22<tab>"
+    },
+    {
+      "id": "0x00000017",
+      "text": "TEXT_LUCKTZ105_03743_SEQ_23<tab>"
+    },
+    {
+      "id": "0x00000018",
+      "text": "TEXT_LUCKTZ105_03743_TODO_00<tab>"
+    },
+    {
+      "id": "0x00000019",
+      "text": "TEXT_LUCKTZ105_03743_TODO_01<tab>"
+    },
+    {
+      "id": "0x0000001A",
+      "text": "TEXT_LUCKTZ105_03743_TODO_02<tab>"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "TEXT_LUCKTZ105_03743_TODO_03<tab>"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "TEXT_LUCKTZ105_03743_TODO_04<tab>"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "TEXT_LUCKTZ105_03743_TODO_05<tab>"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "TEXT_LUCKTZ105_03743_TODO_06<tab>"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "TEXT_LUCKTZ105_03743_TODO_07<tab>"
+    },
+    {
+      "id": "0x00000020",
+      "text": "TEXT_LUCKTZ105_03743_TODO_08<tab>"
+    },
+    {
+      "id": "0x00000021",
+      "text": "TEXT_LUCKTZ105_03743_TODO_09<tab>"
+    },
+    {
+      "id": "0x00000022",
+      "text": "TEXT_LUCKTZ105_03743_TODO_10<tab>"
+    },
+    {
+      "id": "0x00000023",
+      "text": "TEXT_LUCKTZ105_03743_TODO_11<tab>"
+    },
+    {
+      "id": "0x00000024",
+      "text": "TEXT_LUCKTZ105_03743_TODO_12<tab>"
+    },
+    {
+      "id": "0x00000025",
+      "text": "TEXT_LUCKTZ105_03743_TODO_13<tab>"
+    },
+    {
+      "id": "0x00000026",
+      "text": "TEXT_LUCKTZ105_03743_TODO_14<tab>"
+    },
+    {
+      "id": "0x00000027",
+      "text": "TEXT_LUCKTZ105_03743_TODO_15<tab>"
+    },
+    {
+      "id": "0x00000028",
+      "text": "TEXT_LUCKTZ105_03743_TODO_16<tab>"
+    },
+    {
+      "id": "0x00000029",
+      "text": "TEXT_LUCKTZ105_03743_TODO_17<tab>"
+    },
+    {
+      "id": "0x0000002A",
+      "text": "TEXT_LUCKTZ105_03743_TODO_18<tab>"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "TEXT_LUCKTZ105_03743_TODO_19<tab>"
+    },
+    {
+      "id": "0x0000002C",
+      "text": "TEXT_LUCKTZ105_03743_TODO_20<tab>"
+    },
+    {
+      "id": "0x0000002D",
+      "text": "TEXT_LUCKTZ105_03743_TODO_21<tab>"
+    },
+    {
+      "id": "0x0000002E",
+      "text": "TEXT_LUCKTZ105_03743_TODO_22<tab>"
+    },
+    {
+      "id": "0x0000002F",
+      "text": "TEXT_LUCKTZ105_03743_TODO_23<tab>"
+    },
+    {
+      "id": "0x00000030",
+      "text": "TEXT_LUCKTZ105_03743_SYSTEM_000_000<tab><var 1A 02 /var>Отчет по исследованию машин 1<var 1A 01 /var> архивирован."
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "source_file": "exd/FurnitureCatalogCategory_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "Tables"
+    },
+    {
+      "id": "0x00000001",
+      "text": "Shelves/Chests"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Miscellaneous"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Walls/Partitions"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Chairs/Sofas"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Beds"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Plants"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Interactive Furnishings"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Walls/Pillars/Partitions"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Bathing"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Miscellaneous"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Shelves/Chests"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Lighting"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Interactive Furnishings"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Lighting"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Miscellaneous"
+    },
+    {
+      "id": "0x00000010",
+      "text": "Plants"
+    },
+    {
+      "id": "0x00000011",
+      "text": "Clocks"
+    },
+    {
+      "id": "0x00000012",
+      "text": "Stuffed Toys/Mascots"
+    },
+    {
+      "id": "0x00000013",
+      "text": "Tableware/Foods"
+    },
+    {
+      "id": "0x00000014",
+      "text": "Flags/Frames/Posters"
+    },
+    {
+      "id": "0x00000015",
+      "text": "Miscellaneous"
+    },
+    {
+      "id": "0x00000016",
+      "text": "Lighting"
+    },
+    {
+      "id": "0x00000017",
+      "text": "Clocks"
+    },
+    {
+      "id": "0x00000018",
+      "text": "Interactive Furnishings"
+    },
+    {
+      "id": "0x00000019",
+      "text": "Shelves"
+    },
+    {
+      "id": "0x0000001A",
+      "text": "Plants"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "Rugs"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "Windows"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "Ornaments"
+    }
+  ]
+}

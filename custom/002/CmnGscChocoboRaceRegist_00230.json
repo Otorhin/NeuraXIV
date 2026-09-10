@@ -1,0 +1,81 @@
+{
+  "source_file": "exd/custom/002/CmnGscChocoboRaceRegist_00230_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_CMNGSCCHOCOBORACEREGIST_00230_TALK_ACTOR<tab>Записать нового птенца на скачки? Что ж..."
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_CMNGSCCHOCOBORACEREGIST_00230_TALK_ACTOR_02<tab>Теперь, когда вы научились управлять своим чокобо во время скачки, самое время узнать, как подготовить его к следующей."
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_CMNGSCCHOCOBORACEREGIST_00230_TALK_ACTOR_03<tab>Здесь, в Золотом блюдце Мандервиля, мы предоставляем целый ряд услуг, включая специализированные тренировки и обучение особым приёмам. Платы за эти услуги мы не взимаем, однако наездники должны предоставить необходимые материалы."
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_CMNGSCCHOCOBORACEREGIST_00230_TALK_ACTOR_04<tab>Сейчас эти услуги могут показаться роскошью, но когда рейтинг вашего чокобо повысится и вы перейдёте в более высокие классы, вы поймёте, насколько важно использовать любую доступную возможность получить преимущество."
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_CMNGSCCHOCOBORACEREGIST_00230_REGISTRATION_DONE<tab>Поздравляю! <var 29 EA02 /var> теперь может участвовать в официальных гонках чокобо. Пусть удача сопутствует вам, <var 08 E905 ((madam)) ((sir)) /var>."
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_CMNGSCCHOCOBORACEREGIST_00230_REGISTRATION_GUIDE<tab>Полагаю, Катеринг передала вам регистрационный бланк для вашего гоночного чокобо?"
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_CMNGSCCHOCOBORACEREGIST_00230_REGISTRATION_DONE_02<tab>Поздравляю! <var 29 EA02 /var> теперь может участвовать в официальных заездах чокобо."
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_CMNGSCCHOCOBORACEREGIST_00230_REGISTRATION_DONE_03<tab>Однако боюсь, что <var 1A 02 /var>ты<var 1A 01 /var> пока ещё не вполне готов(а) к этому. Прошу, поговори с регистратором насчёт нашей учебной программы."
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_CMNGSCCHOCOBORACEREGIST_00230_ERROR_001_01<tab>Хм-м... Похоже, у вас уже зарегистрирован гоночный чокобо."
+    },
+    {
+      "id": "0x00000009",
+      "text": "TEXT_CMNGSCCHOCOBORACEREGIST_00230_ERROR_001_02<tab>Одновременно можно зарегистрировать только одного гоночного чокобо. Если вы хотите зарегистрировать нового, сначала необходимо отправить нынешнего на пенсию."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "TEXT_CMNGSCCHOCOBORACEREGIST_00230_ERROR_001_03<tab>Хм? Регистрация твоего гоночного чокобо оформлена, <var 08 E905 ((madam)) ((sir)) /var>. Нам больше не о чем говорить, пока ты не пройдёшь курс обучения."
+    },
+    {
+      "id": "0x0000000B",
+      "text": "TEXT_CMNGSCCHOCOBORACEREGIST_00230_ERROR_002_01<tab>О, вы куда-то задевали регистрационную форму на вашего юного чокобо? Без неё мы не можем продолжить."
+    },
+    {
+      "id": "0x0000000C",
+      "text": "TEXT_CMNGSCCHOCOBORACEREGIST_00230_ERROR_002_02<tab>Чтобы зарегистрировать гоночного чокобо, у вас при себе должен быть необходимый бланк."
+    },
+    {
+      "id": "0x0000000D",
+      "text": "TEXT_CMNGSCCHOCOBORACEREGIST_00230_ERROR_003_01<tab>Ах... Прошу прощения, но, похоже, выбранное вами имя... Как бы это сказать? Недопустимо."
+    },
+    {
+      "id": "0x0000000E",
+      "text": "TEXT_CMNGSCCHOCOBORACEREGIST_00230_ERROR_003_02<tab>Выбранное сочетание слов запрещено. Пожалуйста, выберите другое имя."
+    },
+    {
+      "id": "0x0000000F",
+      "text": "TEXT_CMNGSCCHOCOBORACEREGIST_00230_TALK_SYSTEM_05<tab>"
+    },
+    {
+      "id": "0x00000010",
+      "text": "TEXT_CMNGSCCHOCOBORACEREGIST_00230_REGISTRATION_Q1<tab>"
+    },
+    {
+      "id": "0x00000011",
+      "text": "TEXT_CMNGSCCHOCOBORACEREGIST_00230_REGISTRATION_A1<tab>"
+    },
+    {
+      "id": "0x00000012",
+      "text": "TEXT_CMNGSCCHOCOBORACEREGIST_00230_REGISTRATION_A2<tab>"
+    }
+  ]
+}

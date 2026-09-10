@@ -1,0 +1,29 @@
+{
+  "source_file": "exd/custom/001/CmnDefTomestoneExchange_00153_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_CMNDEFTOMESTONEEXCHANGE_00153_HELP<tab>Кажется, чуть ли не через день мы перестаём торговать тем или иным видом томстоунов. Рано или поздно Ровена заявляет, что возня с ними больше себя не оправдывает."
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_CMNDEFTOMESTONEEXCHANGE_00153_TALK_NOT_HAVE<tab>Хотя, возможно, они мне ещё пригодятся. Если у тебя есть ненужные, принеси их сюда — я обменяю их на что-нибудь более ценное."
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_CMNDEFTOMESTONEEXCHANGE_00153_TALK_Q<tab>Возможно, ведь они мне ещё пригодятся. Но если у тебя есть ненужные, я дам тебе взамен кое-что получше."
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_CMNDEFTOMESTONEEXCHANGE_00153_EXCHANGE_Q<tab>Обменять <var 22 E803 ((,)) /var> <var 31 ((Item)) 04E8020302 /var> на <var 22 E805 ((,)) /var> <var 31 ((Item)) 04E8040302 /var>?"
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_CMNDEFTOMESTONEEXCHANGE_00153_EXCHANGE_YES<tab>Да"
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_CMNDEFTOMESTONEEXCHANGE_00153_EXCHANGE_NO<tab>Нет"
+    }
+  ]
+}

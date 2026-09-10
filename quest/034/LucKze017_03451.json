@@ -1,0 +1,269 @@
+{
+  "source_file": "exd/quest/034/LucKze017_03451_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_LUCKZE017_03451_SEQ_00<tab><var 48 F201FC /var><var 49 F201FD /var> Синхронизация квеста<var 49 01 /var><var 48 01 /var>  \nОвелин нуждается в сильной паре рук."
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_LUCKZE017_03451_SEQ_01<tab>"
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_LUCKZE017_03451_SEQ_02<tab>"
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_LUCKZE017_03451_SEQ_03<tab>"
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_LUCKZE017_03451_SEQ_04<tab>"
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_LUCKZE017_03451_SEQ_05<tab>"
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_LUCKZE017_03451_SEQ_06<tab>"
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_LUCKZE017_03451_SEQ_07<tab>"
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_LUCKZE017_03451_SEQ_08<tab>"
+    },
+    {
+      "id": "0x00000009",
+      "text": "TEXT_LUCKZE017_03451_SEQ_09<tab>"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "TEXT_LUCKZE017_03451_SEQ_10<tab>"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "TEXT_LUCKZE017_03451_SEQ_11<tab>"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "TEXT_LUCKZE017_03451_SEQ_12<tab>"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "TEXT_LUCKZE017_03451_SEQ_13<tab>"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "TEXT_LUCKZE017_03451_SEQ_14<tab>"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "TEXT_LUCKZE017_03451_SEQ_15<tab>"
+    },
+    {
+      "id": "0x00000010",
+      "text": "TEXT_LUCKZE017_03451_SEQ_16<tab>"
+    },
+    {
+      "id": "0x00000011",
+      "text": "TEXT_LUCKZE017_03451_SEQ_17<tab>"
+    },
+    {
+      "id": "0x00000012",
+      "text": "TEXT_LUCKZE017_03451_SEQ_18<tab>"
+    },
+    {
+      "id": "0x00000013",
+      "text": "TEXT_LUCKZE017_03451_SEQ_19<tab>"
+    },
+    {
+      "id": "0x00000014",
+      "text": "TEXT_LUCKZE017_03451_SEQ_20<tab>"
+    },
+    {
+      "id": "0x00000015",
+      "text": "TEXT_LUCKZE017_03451_SEQ_21<tab>"
+    },
+    {
+      "id": "0x00000016",
+      "text": "TEXT_LUCKZE017_03451_SEQ_22<tab>"
+    },
+    {
+      "id": "0x00000017",
+      "text": "TEXT_LUCKZE017_03451_SEQ_23<tab>"
+    },
+    {
+      "id": "0x00000018",
+      "text": "TEXT_LUCKZE017_03451_TODO_00<tab>Исследуйте клирика."
+    },
+    {
+      "id": "0x00000019",
+      "text": "TEXT_LUCKZE017_03451_TODO_01<tab>Поговори с Овелином."
+    },
+    {
+      "id": "0x0000001A",
+      "text": "TEXT_LUCKZE017_03451_TODO_02<tab>"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "TEXT_LUCKZE017_03451_TODO_03<tab>"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "TEXT_LUCKZE017_03451_TODO_04<tab>"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "TEXT_LUCKZE017_03451_TODO_05<tab>"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "TEXT_LUCKZE017_03451_TODO_06<tab>"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "TEXT_LUCKZE017_03451_TODO_07<tab>"
+    },
+    {
+      "id": "0x00000020",
+      "text": "TEXT_LUCKZE017_03451_TODO_08<tab>"
+    },
+    {
+      "id": "0x00000021",
+      "text": "TEXT_LUCKZE017_03451_TODO_09<tab>"
+    },
+    {
+      "id": "0x00000022",
+      "text": "TEXT_LUCKZE017_03451_TODO_10<tab>"
+    },
+    {
+      "id": "0x00000023",
+      "text": "TEXT_LUCKZE017_03451_TODO_11<tab>"
+    },
+    {
+      "id": "0x00000024",
+      "text": "TEXT_LUCKZE017_03451_TODO_12<tab>"
+    },
+    {
+      "id": "0x00000025",
+      "text": "TEXT_LUCKZE017_03451_TODO_13<tab>"
+    },
+    {
+      "id": "0x00000026",
+      "text": "TEXT_LUCKZE017_03451_TODO_14<tab>"
+    },
+    {
+      "id": "0x00000027",
+      "text": "TEXT_LUCKZE017_03451_TODO_15<tab>"
+    },
+    {
+      "id": "0x00000028",
+      "text": "TEXT_LUCKZE017_03451_TODO_16<tab>"
+    },
+    {
+      "id": "0x00000029",
+      "text": "TEXT_LUCKZE017_03451_TODO_17<tab>"
+    },
+    {
+      "id": "0x0000002A",
+      "text": "TEXT_LUCKZE017_03451_TODO_18<tab>"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "TEXT_LUCKZE017_03451_TODO_19<tab>"
+    },
+    {
+      "id": "0x0000002C",
+      "text": "TEXT_LUCKZE017_03451_TODO_20<tab>"
+    },
+    {
+      "id": "0x0000002D",
+      "text": "TEXT_LUCKZE017_03451_TODO_21<tab>"
+    },
+    {
+      "id": "0x0000002E",
+      "text": "TEXT_LUCKZE017_03451_TODO_22<tab>"
+    },
+    {
+      "id": "0x0000002F",
+      "text": "TEXT_LUCKZE017_03451_TODO_23<tab>"
+    },
+    {
+      "id": "0x00000030",
+      "text": "TEXT_LUCKZE017_03451_OVELIN_000_001<tab>Хммм... Ты не из этих мест, верно?"
+    },
+    {
+      "id": "0x00000031",
+      "text": "TEXT_LUCKZE017_03451_OVELIN_000_002<tab>Мой зрение почти окончательно потеряно, но я не могу ошибиться. Ты слишком громко ходишь."
+    },
+    {
+      "id": "0x00000032",
+      "text": "TEXT_LUCKZE017_03451_OVELIN_000_003<tab>Да, в ваших шагах есть определённый вес, вес, который возникает от преодоления больших трудностей. Если вы не против, у меня есть для вас задание."
+    },
+    {
+      "id": "0x00000033",
+      "text": "TEXT_LUCKZE017_03451_OVELIN_000_004<tab>В последнее время из Клирика доносятся странные шумы. Боюсь, кто-то─или что-то─беспорядочно гуляет там. Хотя я подозреваю, что это не сможет сравниться с закаленным путешественником, таким как ты."
+    },
+    {
+      "id": "0x00000034",
+      "text": "TEXT_LUCKZE017_03451_OVELIN_000_005<tab>Я не знаю, что нарушает мир священника, но это нужно остановить."
+    },
+    {
+      "id": "0x00000035",
+      "text": "TEXT_LUCKZE017_03451_OVELIN_000_020<tab>Слышишь это? ...Приятный звук тишины."
+    },
+    {
+      "id": "0x00000036",
+      "text": "TEXT_LUCKZE017_03451_OVELIN_000_021<tab>Мне Pain говорить, что такие беспокойства не редкость. Причина скорее всего кроется в Свете. Мы делаем все возможное, чтобы защититься от его воздействия, но животные Великого Леса беззащитны перед его мощью."
+    },
+    {
+      "id": "0x00000037",
+      "text": "TEXT_LUCKZE017_03451_OVELIN_000_022<tab>Со временем Свет коррумпирует все, и даже если они не становятся пожирателями грехов, единственным нашим выходом остается быстро отправить их в безбрежное море без солнца."
+    },
+    {
+      "id": "0x00000038",
+      "text": "TEXT_LUCKZE017_03451_OVELIN_000_023<tab>Жестоко, возможно, но это единственный способ сохранить баланс здесь, в Великом Лесу."
+    },
+    {
+      "id": "0x00000039",
+      "text": "TEXT_LUCKZE017_03451_ORACLELADY03451_000_001<tab>"
+    },
+    {
+      "id": "0x0000003A",
+      "text": "TEXT_LUCKZE017_03451_ORACLELADY03451_000_002<tab>"
+    },
+    {
+      "id": "0x0000003B",
+      "text": "TEXT_LUCKZE017_03451_ORACLELADY03451_000_003<tab>"
+    },
+    {
+      "id": "0x0000003C",
+      "text": "TEXT_LUCKZE017_03451_ORACLELADY03451_000_004<tab>"
+    },
+    {
+      "id": "0x0000003D",
+      "text": "TEXT_LUCKZE017_03451_ORACLELADY03451_000_005<tab>"
+    },
+    {
+      "id": "0x0000003E",
+      "text": "TEXT_LUCKZE017_03451_ORACLELADY03451_000_020<tab>"
+    },
+    {
+      "id": "0x0000003F",
+      "text": "TEXT_LUCKZE017_03451_ORACLELADY03451_000_021<tab>"
+    },
+    {
+      "id": "0x00000040",
+      "text": "TEXT_LUCKZE017_03451_ORACLELADY03451_000_022<tab>"
+    },
+    {
+      "id": "0x00000041",
+      "text": "TEXT_LUCKZE017_03451_ORACLELADY03451_000_023<tab>"
+    }
+  ]
+}

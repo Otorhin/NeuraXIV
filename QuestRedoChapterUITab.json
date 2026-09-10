@@ -1,0 +1,37 @@
+{
+  "source_file": "exd/QuestRedoChapterUITab_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Main Scenario"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Side Story"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Chronicles of a New Era"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Tank Quests"
+    },
+    {
+      "id": "0x00000005",
+      "text": "DPS Quests"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Healer Quests"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Crafter Quests"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Gatherer Quests"
+    }
+  ]
+}

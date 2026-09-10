@@ -1,0 +1,241 @@
+{
+  "source_file": "exd/quest/029/StmBdy110_02941_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_STMBDY110_02941_SEQ_00<tab>"
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_STMBDY110_02941_SEQ_01<tab>"
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_STMBDY110_02941_SEQ_02<tab>"
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_STMBDY110_02941_SEQ_03<tab>"
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_STMBDY110_02941_SEQ_04<tab>"
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_STMBDY110_02941_SEQ_05<tab>"
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_STMBDY110_02941_SEQ_06<tab>"
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_STMBDY110_02941_SEQ_07<tab>"
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_STMBDY110_02941_SEQ_08<tab>"
+    },
+    {
+      "id": "0x00000009",
+      "text": "TEXT_STMBDY110_02941_SEQ_09<tab>"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "TEXT_STMBDY110_02941_SEQ_10<tab>"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "TEXT_STMBDY110_02941_SEQ_11<tab>"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "TEXT_STMBDY110_02941_SEQ_12<tab>"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "TEXT_STMBDY110_02941_SEQ_13<tab>"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "TEXT_STMBDY110_02941_SEQ_14<tab>"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "TEXT_STMBDY110_02941_SEQ_15<tab>"
+    },
+    {
+      "id": "0x00000010",
+      "text": "TEXT_STMBDY110_02941_SEQ_16<tab>"
+    },
+    {
+      "id": "0x00000011",
+      "text": "TEXT_STMBDY110_02941_SEQ_17<tab>"
+    },
+    {
+      "id": "0x00000012",
+      "text": "TEXT_STMBDY110_02941_SEQ_18<tab>"
+    },
+    {
+      "id": "0x00000013",
+      "text": "TEXT_STMBDY110_02941_SEQ_19<tab>"
+    },
+    {
+      "id": "0x00000014",
+      "text": "TEXT_STMBDY110_02941_SEQ_20<tab>"
+    },
+    {
+      "id": "0x00000015",
+      "text": "TEXT_STMBDY110_02941_SEQ_21<tab>"
+    },
+    {
+      "id": "0x00000016",
+      "text": "TEXT_STMBDY110_02941_SEQ_22<tab>"
+    },
+    {
+      "id": "0x00000017",
+      "text": "TEXT_STMBDY110_02941_SEQ_23<tab>"
+    },
+    {
+      "id": "0x00000018",
+      "text": "TEXT_STMBDY110_02941_TODO_00<tab>"
+    },
+    {
+      "id": "0x00000019",
+      "text": "TEXT_STMBDY110_02941_TODO_01<tab>"
+    },
+    {
+      "id": "0x0000001A",
+      "text": "TEXT_STMBDY110_02941_TODO_02<tab>"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "TEXT_STMBDY110_02941_TODO_03<tab>"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "TEXT_STMBDY110_02941_TODO_04<tab>"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "TEXT_STMBDY110_02941_TODO_05<tab>"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "TEXT_STMBDY110_02941_TODO_06<tab>"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "TEXT_STMBDY110_02941_TODO_07<tab>"
+    },
+    {
+      "id": "0x00000020",
+      "text": "TEXT_STMBDY110_02941_TODO_08<tab>"
+    },
+    {
+      "id": "0x00000021",
+      "text": "TEXT_STMBDY110_02941_TODO_09<tab>"
+    },
+    {
+      "id": "0x00000022",
+      "text": "TEXT_STMBDY110_02941_TODO_10<tab>"
+    },
+    {
+      "id": "0x00000023",
+      "text": "TEXT_STMBDY110_02941_TODO_11<tab>"
+    },
+    {
+      "id": "0x00000024",
+      "text": "TEXT_STMBDY110_02941_TODO_12<tab>"
+    },
+    {
+      "id": "0x00000025",
+      "text": "TEXT_STMBDY110_02941_TODO_13<tab>"
+    },
+    {
+      "id": "0x00000026",
+      "text": "TEXT_STMBDY110_02941_TODO_14<tab>"
+    },
+    {
+      "id": "0x00000027",
+      "text": "TEXT_STMBDY110_02941_TODO_15<tab>"
+    },
+    {
+      "id": "0x00000028",
+      "text": "TEXT_STMBDY110_02941_TODO_16<tab>"
+    },
+    {
+      "id": "0x00000029",
+      "text": "TEXT_STMBDY110_02941_TODO_17<tab>"
+    },
+    {
+      "id": "0x0000002A",
+      "text": "TEXT_STMBDY110_02941_TODO_18<tab>"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "TEXT_STMBDY110_02941_TODO_19<tab>"
+    },
+    {
+      "id": "0x0000002C",
+      "text": "TEXT_STMBDY110_02941_TODO_20<tab>"
+    },
+    {
+      "id": "0x0000002D",
+      "text": "TEXT_STMBDY110_02941_TODO_21<tab>"
+    },
+    {
+      "id": "0x0000002E",
+      "text": "TEXT_STMBDY110_02941_TODO_22<tab>"
+    },
+    {
+      "id": "0x0000002F",
+      "text": "TEXT_STMBDY110_02941_TODO_23<tab>"
+    },
+    {
+      "id": "0x00000030",
+      "text": "TEXT_STMBDY110_02941_GALIENA_000_000<tab>Здравствуйте, искатель приключений. Меня зовут Галена, и я работаю в Доме Сияний на свою тетю Ровену."
+    },
+    {
+      "id": "0x00000031",
+      "text": "TEXT_STMBDY110_02941_GALIENA_000_001<tab>После успешного расширения в Идилльшир и три город<var 1F /var>государства она решила перенести свои операции сюда, в Ралгру."
+    },
+    {
+      "id": "0x00000032",
+      "text": "TEXT_STMBDY110_02941_GALIENA_000_002<tab>Наше присутствие здесь направлено на помощь в восстановлении, создание рабочих мест для беженцев и стимулирование экономики. С вашими навыками вы сможете очень помочь нам."
+    },
+    {
+      "id": "0x00000033",
+      "text": "TEXT_STMBDY110_02941_GALIENA_000_003<tab>И, конечно, если у вас есть какие-либо коллекционные предметы, я буду рад забрать их у вас в обмен на скрипты. С многочисленными локациями по всему королевству, никогда не было проще вести дела с Домом Сияний!"
+    },
+    {
+      "id": "0x00000034",
+      "text": "TEXT_STMBDY110_02941_GALIENA_000_010<tab>Приятно встретиться, приключенец. Если ты знаешь каких-нибудь умелых ремесленников или собирателей, буду благодарен за знакомство."
+    },
+    {
+      "id": "0x00000035",
+      "text": "TEXT_STMBDY110_02941_SYSTEM_000_011<tab>Для того чтобы начать этот квест, вы должны быть Учеником Руки или Земли 60 уровня или выше."
+    },
+    {
+      "id": "0x00000036",
+      "text": "TEXT_STMBDY110_02941_ROTBERT_000_000<tab>"
+    },
+    {
+      "id": "0x00000037",
+      "text": "TEXT_STMBDY110_02941_ROTBERT_000_001<tab>"
+    },
+    {
+      "id": "0x00000038",
+      "text": "TEXT_STMBDY110_02941_ROTBERT_000_002<tab>"
+    },
+    {
+      "id": "0x00000039",
+      "text": "TEXT_STMBDY110_02941_ROTBERT_000_003<tab>"
+    },
+    {
+      "id": "0x0000003A",
+      "text": "TEXT_STMBDY110_02941_ROTBERT_000_010<tab>"
+    }
+  ]
+}

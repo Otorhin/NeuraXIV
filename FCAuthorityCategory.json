@@ -1,0 +1,61 @@
+{
+  "source_file": "exd/FCAuthorityCategory_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Settings"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Members"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Community"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Actions"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Settings"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Estate"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Customization"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Garden"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Chocobos"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Workshop"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Company Projects"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Airships & Submersibles"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Orchestrion"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Message Book"
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "source_file": "exd/WKSFateControl_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Work will soon commence at the Moongate Hub.\nContributors wanted!<tab>“Base Camp Alpha Expansion” has commenced at the Moongate Hub. Contributors wanted!"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Work will soon commence at the Moongate Hub.\nContributors wanted!<tab>“Cosmoliner Alpha Construction Support” has commenced at the Moongate Hub. Contributors wanted!"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Work will soon commence in the Moongate Hub's southeastern sector.\nContributors wanted!<tab>“Habitation Module Construction Support” has commenced in the Moongate Hub's southeastern sector. Contributors wanted!"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Work will soon commence in the Moongate Hub's northwestern sector.\nContributors wanted!<tab>“Cosmoport Alpha Maintenance Support” has commenced in the Moongate Hub's northwestern sector. Contributors wanted!"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Work will soon commence in the Moongate Hub's northeastern sector.\nContributors wanted!<tab>“Mech Hangar Alpha Expansion” has commenced in the Moongate Hub's northeastern sector. Contributors wanted!"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Work in northwest Sinus Ardorum is nearly finished. Access to the work site will be restricted upon completion.<tab>"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Work in southeast Sinus Ardorum is nearly finished. Access to the work site will be restricted upon completion.<tab>"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Work will soon commence in southern Sinus Ardorum.\nContributors wanted!<tab>“Tunnel Project Alpha Excavation” has commenced in southern Sinus Ardorum. Contributors wanted!"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Work will soon commence in southern Sinus Ardorum.\nContributors wanted!<tab>“Tunnel Project Beta Excavation” has commenced in southern Sinus Ardorum. Contributors wanted!"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Work in southwest Sinus Ardorum is nearly finished. Access to the work site will be restricted upon completion.<tab>"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Work will soon commence at the Moongate Hub.\nContributors wanted!<tab>“Base Camp Beta Expansion” has commenced at the Moongate Hub. Contributors wanted!"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Work will soon commence in the Moongate Hub's southwestern sector.\nContributors wanted!<tab>“Energization Expansion Support” has commenced in the Moongate Hub's southwestern sector. Contributors wanted!"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Work will soon commence in the Moongate Hub's western sector.\nContributors wanted!<tab>“Hydrofication Expansion Support” has commenced in the Moongate Hub's western sector. Contributors wanted!"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Work will soon commence in the Moongate Hub's northeastern sector. Contributors wanted!<tab>“Mech Hangar Beta Construction” has commenced in the Moongate Hub's northeastern sector. Contributors wanted!"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Work will soon commence in the Moongate Hub's northwestern sector. Contributors wanted!<tab>“Cosmoport Beta Construction” has commenced in the Moongate Hub's northwestern sector. Contributors wanted!"
+    },
+    {
+      "id": "0x00000010",
+      "text": "Work will soon commence in northeast Sinus Ardorum. Contributors wanted!<tab>“Nadir Lift Preliminary Construction” has commenced in northeast Sinus Ardorum. Contributors wanted!"
+    },
+    {
+      "id": "0x00000011",
+      "text": "Work will soon commence in northeast Sinus Ardorum. Contributors wanted!<tab>“Nadir Lift Final Construction” has commenced in northeast Sinus Ardorum. Contributors wanted!"
+    },
+    {
+      "id": "0x00000012",
+      "text": "Work in northeast Sinus Ardorum is nearly finished. Access to the work site will be restricted upon completion.<tab>"
+    },
+    {
+      "id": "0x00000013",
+      "text": "Work will soon commence at the Moongate Hub. Contributors wanted!<tab>“Lunar Hopopolis Construction” has commenced at the Moongate Hub. Contributors wanted!"
+    },
+    {
+      "id": "0x00000014",
+      "text": "Work will soon commence at Glassblowers' Beacon.\nContributors wanted!<tab>“Beacon Camp Alpha Expansion” has commenced at Glassblowers' Beacon. Contributors wanted!"
+    },
+    {
+      "id": "0x00000015",
+      "text": "Work will soon commence at the Glassblown Grotto.\nContributors wanted!<tab>“Cosmoliner Alpha Construction Support” has commenced at the Glassblown Grotto. Contributors wanted!"
+    },
+    {
+      "id": "0x00000016",
+      "text": "Work will soon commence to the northeast of Glassblowers' Beacon.\nContributors wanted!<tab>“Habitation Module Construction Support” has commenced to the northeast of Glassblowers' Beacon. Contributors wanted!"
+    },
+    {
+      "id": "0x00000017",
+      "text": "Work will soon commence to the southeast of Glassblowers' Beacon.\nContributors wanted!<tab>“Energization Station Construction Support” has commenced to the southeast of Glassblowers' Beacon. Contributors wanted!"
+    },
+    {
+      "id": "0x00000018",
+      "text": "Work will soon commence to the southeast of Glassblowers' Beacon.\nContributors wanted!<tab>“Hydrofication Station Construction Support” has commenced to the southeast of Glassblowers' Beacon. Contributors wanted!"
+    },
+    {
+      "id": "0x00000019",
+      "text": "Work will soon commence in the northwestern sector of Glassblowers' Beacon. Contributors wanted!<tab>“Mech Hangar Alpha Expansion” has commenced in the northwestern sector of Glassblowers' Beacon. Contributors wanted!"
+    },
+    {
+      "id": "0x0000001A",
+      "text": "Work on the Cosmoliner Floatshore Filigree is nearly finished. Access to the work site will be restricted upon completion.<tab>"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "Work will soon commence in southeast Millefiori.\nContributors wanted!<tab>“Upper Crane Construction” has commenced in southeast Millefiori. Contributors wanted!"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "Work will soon commence in northeast Capsule Chasm.\nContributors wanted!<tab>“Lower Crane Construction” has commenced in northeast Capsule Chasm. Contributors wanted!"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "Work on the Chasmwind Filigree is nearly finished. Access to the work site will be restricted upon completion.<tab>"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "Work will soon commence at Glassblowers' Beacon.\nContributors wanted!<tab>“Beacon Camp Beta Expansion” has commenced at Glassblowers' Beacon. Contributors wanted!"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "Work will soon commence at Glassblowers' Beacon's northwestern sector.\nContributors wanted!<tab>“Mech Hangar Beta Expansion” has commenced at Glassblowers' Beacon's northwestern sector. Contributors wanted!"
+    },
+    {
+      "id": "0x00000020",
+      "text": "Work will soon commence at Glassblowers' Beacon's southwestern sector.\nContributors wanted!<tab>“Cosmoport Maintenance Support” has commenced at Glassblowers' Beacon's southwestern sector. Contributors wanted!"
+    },
+    {
+      "id": "0x00000021",
+      "text": "Work will soon commence in northwest Opalescent Crossing.\nContributors wanted!<tab>“Power Procurement” has commenced in northwest Opalescent Crossing. Contributors wanted!"
+    },
+    {
+      "id": "0x00000022",
+      "text": "Work will soon commence in northwest Millefiori.\nContributors wanted!<tab>“Additional Power Procurement” has commenced in northwest Millefiori. Contributors wanted!"
+    },
+    {
+      "id": "0x00000023",
+      "text": "Work will soon commence in the Saltpeter Shore's southern sector.\nContributors wanted!<tab>“Mobilization Station Construction” has commenced in the Saltpeter Shore's southern sector. Contributors wanted!"
+    },
+    {
+      "id": "0x00000024",
+      "text": "Work will soon commence at Fusingway Vent.\nContributors wanted!<tab>“Operation Chilling-a-Way: Phase One” has commenced at Fusingway Vent. Contributors wanted!"
+    },
+    {
+      "id": "0x00000025",
+      "text": "Work will soon commence at Fusingway Vent.\nContributors wanted!<tab>“Operation Chilling-a-Way: Phase Two” has commenced at Fusingway Vent. Contributors wanted!"
+    },
+    {
+      "id": "0x00000026",
+      "text": "Work on the Fusingway Vent Cosmoliner is nearly finished. Access to the work site will be restricted upon completion.<tab>"
+    },
+    {
+      "id": "0x00000027",
+      "text": "Work will soon commence in Glassblowers' Beacon.\nContributors wanted!<tab>“Beacon Camp Facility Expansion” has commenced in Glassblowers' Beacon. Contributors wanted!"
+    },
+    {
+      "id": "0x00000028",
+      "text": "Work will soon commence to the north of Terra Firma.\nContributors wanted!<tab>Work is now underway to the north of Terra Firma! Contributors wanted!"
+    },
+    {
+      "id": "0x00000029",
+      "text": "Work on the central Cosmoliner is nearly finished.\nAccess to the work site will be restricted upon completion.<tab>"
+    },
+    {
+      "id": "0x0000002A",
+      "text": "Work will soon commence on the first of two joint projects.\nContributors should gather to the west of Terra Firma!<tab>Work is now underway to the west of Terra Firma! Contributors wanted!"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "Work will soon commence on the second of two joint projects.\nContributors should gather to the west of Terra Firma!<tab>Work is now underway to the west of Terra Firma! Contributors wanted!"
+    },
+    {
+      "id": "0x0000002C",
+      "text": "Work will soon commence at the Unmoored Anchor.\nContributors wanted!<tab>Work is now underway at the Unmoored Anchor! Contributors wanted!"
+    },
+    {
+      "id": "0x0000002D",
+      "text": "Work on the Cosmoliner in Shadefleet is nearly finished. Access to the work site will be restricted upon completion.<tab>"
+    },
+    {
+      "id": "0x0000002E",
+      "text": "Work will soon commence at Terra Firma.\nContributors wanted!<tab>Work is now underway at Terra Firma! Contributors wanted!"
+    },
+    {
+      "id": "0x0000002F",
+      "text": "Work will soon commence at Terra Firma.\nContributors should gather on the upper platforms!<tab>Work is now underway at Terra Firma! Contributors wanted!"
+    },
+    {
+      "id": "0x00000030",
+      "text": "Work will soon commence to the north of Terra Firma.\nContributors wanted!<tab>Work is now underway to the north of Terra Firma!\nContributors wanted!"
+    },
+    {
+      "id": "0x00000031",
+      "text": "Work will soon commence at Emerald Echoes.\nContributors wanted!<tab>Work is now underway at Emerald Echoes! Contributors wanted!"
+    },
+    {
+      "id": "0x00000032",
+      "text": "Work will soon commence at Emerald Echoes. Contributors wanted!<tab>Work is now underway at Emerald Echoes! Contributors wanted!"
+    },
+    {
+      "id": "0x00000033",
+      "text": "Work will soon commence at the ruins in Emerald Echoes. Contributors wanted!<tab>Work is now underway at the ruins in Emerald Echoes! Contributors wanted!"
+    },
+    {
+      "id": "0x00000034",
+      "text": "Work will soon commence at the ruins in Emerald Echoes.\nContributors wanted!<tab>Work is now underway at the ruins in Emerald Echoes! Contributors wanted!"
+    },
+    {
+      "id": "0x00000035",
+      "text": "Work on the Cosmoliner in the ruins of Emerald Echoes is nearly finished. Access to the work site will be restricted upon completion.<tab>"
+    },
+    {
+      "id": "0x00000036",
+      "text": "Work will soon commence at Terra Firma.\nContributors wanted!<tab>Work is now underway at Terra Firma! Contributors wanted!"
+    },
+    {
+      "id": "0x00000037",
+      "text": "Work will soon commence on the roof of Terra Firma.\nContributors should take the elevator to the project site!<tab>Work is now underway on the roof of Terra Firma!\nContributors should take the elevator to the project site!"
+    },
+    {
+      "id": "0x00000038",
+      "text": "Work will soon commence to the northwest of the Timberlodge.\nContributors wanted!<tab>Work is now underway to the northwest of the Timberlodge!\nContributors wanted!"
+    },
+    {
+      "id": "0x00000039",
+      "text": "Work on the Cosmoliner in the central city is nearly finished.\nAccess to the work site will be restricted upon completion.<tab>"
+    },
+    {
+      "id": "0x0000003A",
+      "text": "Work will soon commence on the first of two joint projects.\nContributors should gather to the southwest of the Timberlodge!<tab>Work is now underway to the southwest of the Timberlodge!\nContributors wanted!"
+    },
+    {
+      "id": "0x0000003B",
+      "text": "Work will soon commence on the second of two joint projects.\nContributors should gather to the southwest of the Timberlodge!<tab>Work is now underway to the southwest of the Timberlodge!\nContributors wanted!"
+    },
+    {
+      "id": "0x0000003C",
+      "text": "Work will soon commence in the Netroot Radius.\nContributors wanted!<tab>Work is now underway in the Netroot Radius!\nContributors wanted!"
+    },
+    {
+      "id": "0x0000003D",
+      "text": "Work will soon commence in the Timberlodge.\nContributors wanted!<tab>Work is now underway in the Timberlodge!\nContributors wanted!"
+    },
+    {
+      "id": "0x0000003E",
+      "text": "Work will soon commence in Sylvan Stacks.\nContributors wanted!<tab>Work is now underway in Sylvan Stacks!\nContributors wanted!"
+    },
+    {
+      "id": "0x0000003F",
+      "text": "Work will soon commence in Sylvan Stacks.\nContributors wanted!<tab>Work is now underway in Sylvan Stacks!\nContributors wanted!"
+    },
+    {
+      "id": "0x00000040",
+      "text": "Work on the Cosmoliner in Sylvan Stacks is nearly finished.\nAccess to the work site will be restricted upon completion.<tab>"
+    },
+    {
+      "id": "0x00000041",
+      "text": "Work will soon commence in the eastern sector of the Timberlodge.\nContributors wanted!<tab>Work is now underway in the eastern sector of the Timberlodge!\nContributors wanted!"
+    },
+    {
+      "id": "0x00000042",
+      "text": "Work will soon commence in southwestern Pileus Pergola.\nContributors wanted!<tab>Work is now underway in southwestern Pileus Pergola.\nContributors wanted!"
+    },
+    {
+      "id": "0x00000043",
+      "text": "Work will soon commence in the Stratostone Stand.\nContributors wanted!<tab>Work is now underway in the Stratostone Stand.\nContributors wanted!"
+    },
+    {
+      "id": "0x00000044",
+      "text": "Work on the Cosmoliner in the Stratostone Stand is nearly finished.\nAccess to the work site will be restricted upon completion.<tab>"
+    },
+    {
+      "id": "0x00000045",
+      "text": "Work will soon commence to the northeast of the Timberlodge.\nContributors wanted!<tab>Work is now underway to the northeast of the Timberlodge!\nContributors wanted!"
+    },
+    {
+      "id": "0x00000046",
+      "text": "Work will soon commence in the northeastern sector of the Core Shroud.\nContributors wanted!<tab>Work is now underway in the northeastern sector of the Core Shroud.\nContributors wanted!"
+    },
+    {
+      "id": "0x00000047",
+      "text": "Work will soon commence at the upper level of the Core Shroud.\nContributors wanted!<tab>Work is now underway at the upper level of the Core Shroud.\nContributors wanted!"
+    }
+  ]
+}

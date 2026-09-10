@@ -1,0 +1,25 @@
+{
+  "source_file": "exd/custom/001/CmnDefHousingPersonalRoomExit_00179_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_CMNDEFHOUSINGPERSONALROOMEXIT_00179_TALK_ACTOR<tab>Что бы вы хотели сделать?"
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_CMNDEFHOUSINGPERSONALROOMEXIT_00179_MENU_GO_MY_ROOM<tab>Отправляйтесь в свои личные покои."
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_CMNDEFHOUSINGPERSONALROOMEXIT_00179_MENU_GO_OTHER_ROOM<tab>Перейти в указанные личные покои."
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_CMNDEFHOUSINGPERSONALROOMEXIT_00179_MENU_GO_FC_HOUSE<tab>Покинуть личные покои."
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_CMNDEFHOUSINGPERSONALROOMEXIT_00179_MENU_EXIT<tab>Ничего."
+    }
+  ]
+}

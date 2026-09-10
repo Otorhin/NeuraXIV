@@ -1,0 +1,253 @@
+{
+  "source_file": "exd/IKDContentBonus_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Small Fish in a Big Pond<tab>Requirement: Score 2,500 points or higher."
+    },
+    {
+      "id": "0x00000002",
+      "text": "Big Fish in a Small Pond<tab>Requirement: Score 5,000 points or higher."
+    },
+    {
+      "id": "0x00000003",
+      "text": "A Rare Catch<tab>Requirement: Catch a ★★★★ fish."
+    },
+    {
+      "id": "0x00000004",
+      "text": "Catch of a Lifetime<tab>Requirement: Catch a ★★★★★ fish."
+    },
+    {
+      "id": "0x00000005",
+      "text": "Give a Man a Fish<tab>Requirement: Catch 15 or more fish when a spectral current is present."
+    },
+    {
+      "id": "0x00000006",
+      "text": "Teach a Man to Fish<tab>Requirement: Catch 35 or more fish when a spectral current is present."
+    },
+    {
+      "id": "0x00000007",
+      "text": "Bream Team: Galadion Bay<tab>Requirement: As a party, catch 10 or more different fish in Galadion Bay."
+    },
+    {
+      "id": "0x00000008",
+      "text": "Bream Team: Southern Strait of Merlthor<tab>Requirement: As a party, catch 10 or more different fish in the southern Strait of Merlthor."
+    },
+    {
+      "id": "0x00000009",
+      "text": "Bream Team: Northern Strait of Merlthor<tab>Requirement: As a party, catch 10 or more different fish in the northern Strait of Merlthor."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Bream Team: Rhotano Sea<tab>Requirement: As a party, catch 10 or more different fish in the Rhotano Sea."
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Fabled Fishers<tab>Requirement: As a party, catch 3 or more ★★★★★ fish."
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Favored by Llymlaen<tab>Requirement: Cause a spectral current to occur."
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Octopus Travelers<tab>Requirement: As a party, catch 150 or more octopodes."
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Certifiable Shark Hunters<tab>Requirement: As a party, catch 200 or more sharks."
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Jelled Together<tab>Requirement: As a party, catch 150 or more jellyfish."
+    },
+    {
+      "id": "0x00000010",
+      "text": "Maritime Dragonslayers<tab>Requirement: As a party, catch 100 or more seahorses."
+    },
+    {
+      "id": "0x00000011",
+      "text": "Ocean Fishing Amateur<tab>Requirement: Complete one mission during an ocean fishing voyage."
+    },
+    {
+      "id": "0x00000012",
+      "text": "Ocean Fishing Enthusiast<tab>Requirement: Complete two missions during an ocean fishing voyage."
+    },
+    {
+      "id": "0x00000013",
+      "text": "Ocean Fishing Fanatic<tab>Requirement: Complete three missions during an ocean fishing voyage."
+    },
+    {
+      "id": "0x00000014",
+      "text": "Balloon Catchers<tab>Requirement: As a party, catch 250 or more fugu."
+    },
+    {
+      "id": "0x00000015",
+      "text": "Crab Boat Crew<tab>Requirement: As a party, catch 250 or more crabs."
+    },
+    {
+      "id": "0x00000016",
+      "text": "Sticking it to the Manta<tab>Requirement: As an individual, catch 25 or more mantas."
+    },
+    {
+      "id": "0x00000017",
+      "text": "Bream Team: Galadion Bay<tab>Requirement: As a party, catch 9 or more different fish in Galadion Bay. (Target number adjusted for party size.)"
+    },
+    {
+      "id": "0x00000018",
+      "text": "Bream Team: Galadion Bay<tab>Requirement: As a party, catch 8 or more different fish in Galadion Bay. (Target number adjusted for party size.)"
+    },
+    {
+      "id": "0x00000019",
+      "text": "Bream Team: Southern Strait of Merlthor<tab>Requirement: As a party, catch 9 or more different fish in the southern Strait of Merlthor. (Target number adjusted for party size.)"
+    },
+    {
+      "id": "0x0000001A",
+      "text": "Bream Team: Southern Strait of Merlthor<tab>Requirement: As a party, catch 8 or more different fish in the southern Strait of Merlthor. (Target number adjusted for party size.)"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "Bream Team: Northern Strait of Merlthor<tab>Requirement: As a party, catch 9 or more different fish in the northern Strait of Merlthor. (Target number adjusted for party size.)"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "Bream Team: Northern Strait of Merlthor<tab>Requirement: As a party, catch 8 or more different fish in the northern Strait of Merlthor. (Target number adjusted for party size.)"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "Bream Team: Rhotano Sea<tab>Requirement: As a party, catch 9 or more different fish in the Rhotano Sea. (Target number adjusted for party size.)"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "Bream Team: Rhotano Sea<tab>Requirement: As a party, catch 8 or more different fish in the Rhotano Sea. (Target number adjusted for party size.)"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "Bream Team: Cieldalaes<tab>Requirement: As a party, catch 10 or more different fish in the Cieldalaes."
+    },
+    {
+      "id": "0x00000020",
+      "text": "Bream Team: Cieldalaes<tab>Requirement: As a party, catch 9 or more different fish in the Cieldalaes. (Target number adjusted for party size.)"
+    },
+    {
+      "id": "0x00000021",
+      "text": "Bream Team: Cieldalaes<tab>Requirement: As a party, catch 8 or more different fish in the Cieldalaes. (Target number adjusted for party size.)"
+    },
+    {
+      "id": "0x00000022",
+      "text": "Bream Team: Bloodbrine Sea<tab>Requirement: As a party, catch 10 or more different fish in the Bloodbrine Sea."
+    },
+    {
+      "id": "0x00000023",
+      "text": "Bream Team: Bloodbrine Sea<tab>Requirement: As a party, catch 9 or more different fish in the Bloodbrine Sea. (Target number adjusted for party size.)"
+    },
+    {
+      "id": "0x00000024",
+      "text": "Bream Team: Bloodbrine Sea<tab>Requirement: As a party, catch 8 or more different fish in the Bloodbrine Sea. (Target number adjusted for party size.)"
+    },
+    {
+      "id": "0x00000025",
+      "text": "Bream Team: Rothlyt Sound<tab>Requirement: As a party, catch 10 or more different fish in Rothlyt Sound."
+    },
+    {
+      "id": "0x00000026",
+      "text": "Bream Team: Rothlyt Sound<tab>Requirement: As a party, catch 9 or more different fish in Rothlyt Sound. (Target number adjusted for party size.)"
+    },
+    {
+      "id": "0x00000027",
+      "text": "Bream Team: Rothlyt Sound<tab>Requirement: As a party, catch 8 or more different fish in Rothlyt Sound. (Target number adjusted for party size.)"
+    },
+    {
+      "id": "0x00000028",
+      "text": "Maximum Mussel<tab>Requirement: As a party, catch 350 or more shellfish."
+    },
+    {
+      "id": "0x00000029",
+      "text": "Squid Squadron<tab>Requirement: As a party, catch 400 or more squid."
+    },
+    {
+      "id": "0x0000002A",
+      "text": "Shrimp Smorgasbord<tab>Requirement: As an individual, catch 50 or more shrimp."
+    },
+    {
+      "id": "0x0000002B",
+      "text": "Bream Team: Sirensong Sea<tab>Requirement: As a party, catch 10 or more different fish in the Sirensong Sea."
+    },
+    {
+      "id": "0x0000002C",
+      "text": "Bream Team: Sirensong Sea<tab>Requirement: As a party, catch 9 or more different fish in the Sirensong Sea. (Target number adjusted for party size.)"
+    },
+    {
+      "id": "0x0000002D",
+      "text": "Bream Team: Sirensong Sea<tab>Requirement: As a party, catch 8 or more different fish in the Sirensong Sea. (Target number adjusted for party size.)"
+    },
+    {
+      "id": "0x0000002E",
+      "text": "Bream Team: Kugane Coast<tab>Requirement: As a party, catch 10 or more different fish at the Kugane coast."
+    },
+    {
+      "id": "0x0000002F",
+      "text": "Bream Team: Kugane Coast<tab>Requirement: As a party, catch 9 or more different fish at the Kugane coast. (Target number adjusted for party size.)"
+    },
+    {
+      "id": "0x00000030",
+      "text": "Bream Team: Kugane Coast<tab>Requirement: As a party, catch 8 or more different fish at the Kugane coast. (Target number adjusted for party size.)"
+    },
+    {
+      "id": "0x00000031",
+      "text": "Bream Team: Ruby Price<tab>Requirement: As a party, catch 10 or more different fish in the Ruby Price."
+    },
+    {
+      "id": "0x00000032",
+      "text": "Bream Team: Ruby Price<tab>Requirement: As a party, catch 9 or more different fish in the Ruby Price. (Target number adjusted for party size.)"
+    },
+    {
+      "id": "0x00000033",
+      "text": "Bream Team: Ruby Price<tab>Requirement: As a party, catch 8 or more different fish in the Ruby Price. (Target number adjusted for party size.)"
+    },
+    {
+      "id": "0x00000034",
+      "text": "Bream Team: Lower One River<tab>Requirement: As a party, catch 10 or more different fish in the lower One River."
+    },
+    {
+      "id": "0x00000035",
+      "text": "Bream Team: Lower One River<tab>Requirement: As a party, catch 9 or more different fish in the lower One River. (Target number adjusted for party size.)"
+    },
+    {
+      "id": "0x00000036",
+      "text": "Bream Team: Lower One River<tab>Requirement: As a party, catch 8 or more different fish in the lower One River. (Target number adjusted for party size.)"
+    },
+    {
+      "id": "0x00000037",
+      "text": "Prehistoric Professionals<tab>Requirement: As a party, catch 300 or more prehistoric wavekin."
+    },
+    {
+      "id": "0x00000038",
+      "text": "Time Waits for No Mantis<tab>Requirement: As an individual, catch 50 or more mantis shrimp."
+    },
+    {
+      "id": "0x00000039",
+      "text": "Bream Team: Unnamed Island<tab>Requirement: As a party, catch 10 or more different fish off the coast of the unnamed island."
+    },
+    {
+      "id": "0x0000003A",
+      "text": "Bream Team: Unnamed Island<tab>Requirement: As a party, catch 9 or more different fish off the coast of the unnamed island. (Target number adjusted for party size.)"
+    },
+    {
+      "id": "0x0000003B",
+      "text": "Bream Team: Unnamed Island<tab>Requirement: As a party, catch 8 or more different fish off the coast of the unnamed island. (Target number adjusted for party size.)"
+    },
+    {
+      "id": "0x0000003C",
+      "text": "Bream Team: Thavnairian Coast<tab>Requirement: As a party, catch 10 or more different fish off the Thavnairian coast."
+    },
+    {
+      "id": "0x0000003D",
+      "text": "Bream Team: Thavnairian Coast<tab>Requirement: As a party, catch 9 or more different fish off the Thavnairian coast. (Target number adjusted for party size.)"
+    },
+    {
+      "id": "0x0000003E",
+      "text": "Bream Team: Thavnairian Coast<tab>Requirement: As a party, catch 8 or more different fish off the Thavnairian coast. (Target number adjusted for party size.)"
+    }
+  ]
+}

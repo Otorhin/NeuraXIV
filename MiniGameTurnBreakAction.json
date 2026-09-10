@@ -1,0 +1,37 @@
+{
+  "source_file": "exd/MiniGameTurnBreakAction_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Pom Fire<tab>Deals <var 20 E802 /var> damage to a target in front of you.\nMP Cost: <var 20 E804 /var>   <var 08 E1E80502 ((Recast Turns)) ((Recast Turn)) /var>: <var 20 E805 /var>"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Pom Starstorm<tab>Deals <var 20 E802 /var> damage to all enemies in an area centered <var 20 E803 /var> squares in front of you.\nMP Cost: <var 20 E804 /var>   <var 08 E1E80502 ((Recast Turns)) ((Recast Turn)) /var>: <var 20 E805 /var>"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Pom Meteor<tab>Deals <var 20 E802 /var> damage to all enemies.\nMP Cost: <var 20 E804 /var>   <var 08 E1E80502 ((Recast Turns)) ((Recast Turn)) /var>: <var 20 E805 /var>"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Pom Cure<tab>Restores <var 20 E802 /var> HP.\nMP Cost: <var 20 E804 /var>   <var 08 E1E80502 ((Recast Turns)) ((Recast Turn)) /var>: <var 20 E805 /var>"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Pom Esuna<tab>Removes all detrimental effects except for Doom.\nMP Cost: <var 20 E804 /var>   <var 08 E1E80502 ((Recast Turns)) ((Recast Turn)) /var>: <var 20 E805 /var>"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Pom Ward<tab>Erects a protective barrier around you.\n<var 08 E1E80602 ((Effect Turns)) ((Effect Turn)) /var>: <var 20 E806 /var>\nMP Cost: <var 20 E804 /var>   <var 08 E1E80502 ((Recast Turns)) ((Recast Turn)) /var>: <var 20 E805 /var>"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Pom Levitation<tab>Grants invulnerability to floor effects.\n<var 08 E1E80602 ((Effect Turns)) ((Effect Turn)) /var>: <var 20 E806 /var>\nMP Cost: <var 20 E804 /var>   <var 08 E1E80502 ((Recast Turns)) ((Recast Turn)) /var>: <var 20 E805 /var>"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Pom Reraise<tab>Grants automatic revival upon KO for the duration of the effect.\nMP Cost: <var 20 E804 /var>   <var 08 E1E80502 ((Recast Turns)) ((Recast Turn)) /var>: <var 20 E805 /var>"
+    }
+  ]
+}

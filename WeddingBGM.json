@@ -1,0 +1,53 @@
+{
+  "source_file": "exd/WeddingBGM_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Falling Shards"
+    },
+    {
+      "id": "0x00000002",
+      "text": "A World Apart"
+    },
+    {
+      "id": "0x00000003",
+      "text": "The Twelfth Bell"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Daring Dalliances"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Bliss"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Return of the Hero"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Nature's Bounty"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Maelstrom Command"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Into the Adder's Den"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "The Hall of Flames"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Agent of Inquiry"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Seasons"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "source_file": "exd/OrchestrionCategory_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "All"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Locales I"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Dungeons I"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Trials"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Raids I"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Others"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Seasonal"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Online Store & Bonuses"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Locales II"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Raids II"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Ambient"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Dungeons II"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Quests"
+    }
+  ]
+}

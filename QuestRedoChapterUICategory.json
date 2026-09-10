@@ -1,0 +1,241 @@
+{
+  "source_file": "exd/QuestRedoChapterUICategory_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Heavensward"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Stormblood"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Shadowbringers"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Raids"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Alliance Raids"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Trials"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Hildibrand, Agent of Enquiry"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Saint Endalim's Scholasticate"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Chronicles of Light"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Carpenter"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Blacksmith"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Armorer"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Goldsmith"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Leatherworker"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Weaver"
+    },
+    {
+      "id": "0x00000010",
+      "text": "Alchemist"
+    },
+    {
+      "id": "0x00000011",
+      "text": "Culinarian"
+    },
+    {
+      "id": "0x00000012",
+      "text": "Miner"
+    },
+    {
+      "id": "0x00000013",
+      "text": "Botanist"
+    },
+    {
+      "id": "0x00000014",
+      "text": "Fisher"
+    },
+    {
+      "id": "0x00000015",
+      "text": "Gladiator / Paladin"
+    },
+    {
+      "id": "0x00000016",
+      "text": "Marauder / Warrior"
+    },
+    {
+      "id": "0x00000017",
+      "text": "Conjurer / White Mage"
+    },
+    {
+      "id": "0x00000018",
+      "text": "Arcanist / Summoner"
+    },
+    {
+      "id": "0x00000019",
+      "text": "Pugilist / Monk"
+    },
+    {
+      "id": "0x0000001A",
+      "text": "Lancer / Dragoon"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "Rogue / Ninja"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "Archer / Bard"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "Thaumaturge / Black Mage"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "A Realm Reborn"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "Dark Knight"
+    },
+    {
+      "id": "0x00000020",
+      "text": "Gunbreaker"
+    },
+    {
+      "id": "0x00000021",
+      "text": "Scholar"
+    },
+    {
+      "id": "0x00000022",
+      "text": "Astrologian"
+    },
+    {
+      "id": "0x00000023",
+      "text": "Samurai"
+    },
+    {
+      "id": "0x00000024",
+      "text": "Machinist"
+    },
+    {
+      "id": "0x00000025",
+      "text": "Dancer"
+    },
+    {
+      "id": "0x00000027",
+      "text": "Red Mage"
+    },
+    {
+      "id": "0x00000028",
+      "text": "Blue Mage (Limited Job)"
+    },
+    {
+      "id": "0x00000029",
+      "text": "Tank"
+    },
+    {
+      "id": "0x0000002A",
+      "text": "Healer"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "DPS"
+    },
+    {
+      "id": "0x0000002C",
+      "text": "Role Master Quests"
+    },
+    {
+      "id": "0x0000002D",
+      "text": "Void Quests"
+    },
+    {
+      "id": "0x0000002E",
+      "text": "Endwalker"
+    },
+    {
+      "id": "0x0000002F",
+      "text": "Sage"
+    },
+    {
+      "id": "0x00000030",
+      "text": "Reaper"
+    },
+    {
+      "id": "0x00000031",
+      "text": "Variant Dungeons"
+    },
+    {
+      "id": "0x00000032",
+      "text": "Tales from the Calamity"
+    },
+    {
+      "id": "0x00000033",
+      "text": "Tataru's Grand Endeavor"
+    },
+    {
+      "id": "0x00000034",
+      "text": "Dawntrail"
+    },
+    {
+      "id": "0x00000035",
+      "text": "Viper"
+    },
+    {
+      "id": "0x00000036",
+      "text": "Pictomancer"
+    },
+    {
+      "id": "0x00000037",
+      "text": "Role Quests: Prologues"
+    },
+    {
+      "id": "0x00000038",
+      "text": "Crafter Quests"
+    },
+    {
+      "id": "0x00000039",
+      "text": "Gatherer Quests"
+    },
+    {
+      "id": "0x0000003A",
+      "text": "Crafter / Gatherer Quests: Prologues"
+    },
+    {
+      "id": "0x0000003B",
+      "text": "Crafter / Gatherer Master Quests"
+    },
+    {
+      "id": "0x0000003C",
+      "text": "Beastmaster (Limited Job)"
+    }
+  ]
+}

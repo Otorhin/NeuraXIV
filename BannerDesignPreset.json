@@ -1,0 +1,1713 @@
+{
+  "source_file": "exd/BannerDesignPreset_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "Custom"
+    },
+    {
+      "id": "0x00000001",
+      "text": "Basic"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Modern"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Classical"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Illuminated"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Decorated"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Aetherial"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Journal"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Tank"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Healer"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "DPS"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Paladin (Simple)"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Warrior (Simple)"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Dark Knight (Simple)"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Gunbreaker (Simple)"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "White Mage (Simple)"
+    },
+    {
+      "id": "0x00000010",
+      "text": "Scholar (Simple)"
+    },
+    {
+      "id": "0x00000011",
+      "text": "Astrologian (Simple)"
+    },
+    {
+      "id": "0x00000012",
+      "text": "Sage (Simple)"
+    },
+    {
+      "id": "0x00000013",
+      "text": "Monk (Simple)"
+    },
+    {
+      "id": "0x00000014",
+      "text": "Dragoon (Simple)"
+    },
+    {
+      "id": "0x00000015",
+      "text": "Ninja (Simple)"
+    },
+    {
+      "id": "0x00000016",
+      "text": "Samurai (Simple)"
+    },
+    {
+      "id": "0x00000017",
+      "text": "Reaper (Simple)"
+    },
+    {
+      "id": "0x00000018",
+      "text": "Bard (Simple)"
+    },
+    {
+      "id": "0x00000019",
+      "text": "Machinist (Simple)"
+    },
+    {
+      "id": "0x0000001A",
+      "text": "Dancer (Simple)"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "Black Mage (Simple)"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "Summoner (Simple)"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "Red Mage (Simple)"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "Paladin (Ornate)"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "Warrior (Ornate)"
+    },
+    {
+      "id": "0x00000020",
+      "text": "Dark Knight (Ornate)"
+    },
+    {
+      "id": "0x00000021",
+      "text": "Gunbreaker (Ornate)"
+    },
+    {
+      "id": "0x00000022",
+      "text": "White Mage (Ornate)"
+    },
+    {
+      "id": "0x00000023",
+      "text": "Scholar (Ornate)"
+    },
+    {
+      "id": "0x00000024",
+      "text": "Astrologian (Ornate)"
+    },
+    {
+      "id": "0x00000025",
+      "text": "Sage (Ornate)"
+    },
+    {
+      "id": "0x00000026",
+      "text": "Monk (Ornate)"
+    },
+    {
+      "id": "0x00000027",
+      "text": "Dragoon (Ornate)"
+    },
+    {
+      "id": "0x00000028",
+      "text": "Ninja (Ornate)"
+    },
+    {
+      "id": "0x00000029",
+      "text": "Samurai (Ornate)"
+    },
+    {
+      "id": "0x0000002A",
+      "text": "Reaper (Ornate)"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "Bard (Ornate)"
+    },
+    {
+      "id": "0x0000002C",
+      "text": "Machinist (Ornate)"
+    },
+    {
+      "id": "0x0000002D",
+      "text": "Dancer (Ornate)"
+    },
+    {
+      "id": "0x0000002E",
+      "text": "Black Mage (Ornate)"
+    },
+    {
+      "id": "0x0000002F",
+      "text": "Summoner (Ornate)"
+    },
+    {
+      "id": "0x00000030",
+      "text": "Red Mage (Ornate)"
+    },
+    {
+      "id": "0x00000031",
+      "text": "Team Astra"
+    },
+    {
+      "id": "0x00000032",
+      "text": "Team Umbra"
+    },
+    {
+      "id": "0x00000033",
+      "text": "Companion 1"
+    },
+    {
+      "id": "0x00000034",
+      "text": "Companion 2"
+    },
+    {
+      "id": "0x00000035",
+      "text": "Unending Coil of Bahamut"
+    },
+    {
+      "id": "0x00000036",
+      "text": "Weapon's Refrain"
+    },
+    {
+      "id": "0x00000037",
+      "text": "Epic of Alexander"
+    },
+    {
+      "id": "0x00000038",
+      "text": "Dragonsong's Reprise"
+    },
+    {
+      "id": "0x00000039",
+      "text": "Final Conflict 1"
+    },
+    {
+      "id": "0x0000003A",
+      "text": "Endless Conflict 1"
+    },
+    {
+      "id": "0x0000003B",
+      "text": "Rising Conflict 1"
+    },
+    {
+      "id": "0x0000003C",
+      "text": "Bronze Conflict 1"
+    },
+    {
+      "id": "0x0000003D",
+      "text": "Silver Conflict 1"
+    },
+    {
+      "id": "0x0000003E",
+      "text": "Gold Conflict 1"
+    },
+    {
+      "id": "0x0000003F",
+      "text": "Platinum Conflict 1"
+    },
+    {
+      "id": "0x00000040",
+      "text": "Diamond Conflict 1"
+    },
+    {
+      "id": "0x00000041",
+      "text": "Crystal Conflict 1"
+    },
+    {
+      "id": "0x00000042",
+      "text": "Final Conflict 2"
+    },
+    {
+      "id": "0x00000043",
+      "text": "Endless Conflict 2"
+    },
+    {
+      "id": "0x00000044",
+      "text": "Rising Conflict 2"
+    },
+    {
+      "id": "0x00000045",
+      "text": "Bronze Conflict 2"
+    },
+    {
+      "id": "0x00000046",
+      "text": "Silver Conflict 2"
+    },
+    {
+      "id": "0x00000047",
+      "text": "Gold Conflict 2"
+    },
+    {
+      "id": "0x00000048",
+      "text": "Platinum Conflict 2"
+    },
+    {
+      "id": "0x00000049",
+      "text": "Diamond Conflict 2"
+    },
+    {
+      "id": "0x0000004A",
+      "text": "Crystal Conflict 2"
+    },
+    {
+      "id": "0x0000004B",
+      "text": "Final Conflict 3"
+    },
+    {
+      "id": "0x0000004C",
+      "text": "Endless Conflict 3"
+    },
+    {
+      "id": "0x0000004D",
+      "text": "Rising Conflict 3"
+    },
+    {
+      "id": "0x0000004E",
+      "text": "Bronze Conflict 3"
+    },
+    {
+      "id": "0x0000004F",
+      "text": "Silver Conflict 3"
+    },
+    {
+      "id": "0x00000050",
+      "text": "Gold Conflict 3"
+    },
+    {
+      "id": "0x00000051",
+      "text": "Platinum Conflict 3"
+    },
+    {
+      "id": "0x00000052",
+      "text": "Diamond Conflict 3"
+    },
+    {
+      "id": "0x00000053",
+      "text": "Crystal Conflict 3"
+    },
+    {
+      "id": "0x00000054",
+      "text": "Azure Conflict"
+    },
+    {
+      "id": "0x00000055",
+      "text": "Crimson Conflict"
+    },
+    {
+      "id": "0x00000056",
+      "text": "Sil'dihn Subterrane (Variant)"
+    },
+    {
+      "id": "0x00000057",
+      "text": "Last Dregs"
+    },
+    {
+      "id": "0x00000058",
+      "text": "Circular Geometry"
+    },
+    {
+      "id": "0x00000059",
+      "text": "Comic"
+    },
+    {
+      "id": "0x0000005A",
+      "text": "Common Grey (NQ)"
+    },
+    {
+      "id": "0x0000005B",
+      "text": "Rare Pink (NQ)"
+    },
+    {
+      "id": "0x0000005C",
+      "text": "Plundered Green (NQ)"
+    },
+    {
+      "id": "0x0000005D",
+      "text": "Exceptional Blue (NQ)"
+    },
+    {
+      "id": "0x0000005E",
+      "text": "Legendary Purple (NQ)"
+    },
+    {
+      "id": "0x0000005F",
+      "text": "Common Grey (HQ)"
+    },
+    {
+      "id": "0x00000060",
+      "text": "Rare Pink (HQ)"
+    },
+    {
+      "id": "0x00000061",
+      "text": "Plundered Green (HQ)"
+    },
+    {
+      "id": "0x00000062",
+      "text": "Exceptional Blue (HQ)"
+    },
+    {
+      "id": "0x00000063",
+      "text": "Legendary Purple (HQ)"
+    },
+    {
+      "id": "0x00000064",
+      "text": "Music"
+    },
+    {
+      "id": "0x00000065",
+      "text": "Café"
+    },
+    {
+      "id": "0x00000066",
+      "text": "Final Conflict 4"
+    },
+    {
+      "id": "0x00000067",
+      "text": "Endless Conflict 4"
+    },
+    {
+      "id": "0x00000068",
+      "text": "Rising Conflict 4"
+    },
+    {
+      "id": "0x00000069",
+      "text": "Crystal Conflict 4"
+    },
+    {
+      "id": "0x0000006A",
+      "text": "Diamond Conflict 4"
+    },
+    {
+      "id": "0x0000006B",
+      "text": "Platinum Conflict 4"
+    },
+    {
+      "id": "0x0000006C",
+      "text": "Gold Conflict 4"
+    },
+    {
+      "id": "0x0000006D",
+      "text": "Silver Conflict 4"
+    },
+    {
+      "id": "0x0000006E",
+      "text": "Bronze Conflict 4"
+    },
+    {
+      "id": "0x0000006F",
+      "text": "Final Conflict 5"
+    },
+    {
+      "id": "0x00000070",
+      "text": "Endless Conflict 5"
+    },
+    {
+      "id": "0x00000071",
+      "text": "Rising Conflict 5"
+    },
+    {
+      "id": "0x00000072",
+      "text": "Crystal Conflict 5"
+    },
+    {
+      "id": "0x00000073",
+      "text": "Diamond Conflict 5"
+    },
+    {
+      "id": "0x00000074",
+      "text": "Platinum Conflict 5"
+    },
+    {
+      "id": "0x00000075",
+      "text": "Gold Conflict 5"
+    },
+    {
+      "id": "0x00000076",
+      "text": "Silver Conflict 5"
+    },
+    {
+      "id": "0x00000077",
+      "text": "Bronze Conflict 5"
+    },
+    {
+      "id": "0x00000078",
+      "text": "Falcons"
+    },
+    {
+      "id": "0x00000079",
+      "text": "Ravens"
+    },
+    {
+      "id": "0x0000007A",
+      "text": "Dreamspinners"
+    },
+    {
+      "id": "0x0000007B",
+      "text": "Stewards"
+    },
+    {
+      "id": "0x0000007C",
+      "text": "Watts's Anvil"
+    },
+    {
+      "id": "0x0000007D",
+      "text": "Hippo Riders"
+    },
+    {
+      "id": "0x0000007E",
+      "text": "Dreaming Ways"
+    },
+    {
+      "id": "0x0000007F",
+      "text": "Omega Protocol"
+    },
+    {
+      "id": "0x00000080",
+      "text": "Eureka Orthos"
+    },
+    {
+      "id": "0x00000081",
+      "text": "Enaretos"
+    },
+    {
+      "id": "0x00000082",
+      "text": "Four Lords"
+    },
+    {
+      "id": "0x00000083",
+      "text": "Island Vacation"
+    },
+    {
+      "id": "0x00000084",
+      "text": "Island Memories"
+    },
+    {
+      "id": "0x00000085",
+      "text": "Final Conflict 6"
+    },
+    {
+      "id": "0x00000086",
+      "text": "Endless Conflict 6"
+    },
+    {
+      "id": "0x00000087",
+      "text": "Rising Conflict 6"
+    },
+    {
+      "id": "0x00000088",
+      "text": "Crystal Conflict 6"
+    },
+    {
+      "id": "0x00000089",
+      "text": "Diamond Conflict 6"
+    },
+    {
+      "id": "0x0000008A",
+      "text": "Platinum Conflict 6"
+    },
+    {
+      "id": "0x0000008B",
+      "text": "Gold Conflict 6"
+    },
+    {
+      "id": "0x0000008C",
+      "text": "Silver Conflict 6"
+    },
+    {
+      "id": "0x0000008D",
+      "text": "Bronze Conflict 6"
+    },
+    {
+      "id": "0x0000008E",
+      "text": "Final Conflict 7"
+    },
+    {
+      "id": "0x0000008F",
+      "text": "Endless Conflict 7"
+    },
+    {
+      "id": "0x00000090",
+      "text": "Rising Conflict 7"
+    },
+    {
+      "id": "0x00000091",
+      "text": "Crystal Conflict 7"
+    },
+    {
+      "id": "0x00000092",
+      "text": "Diamond Conflict 7"
+    },
+    {
+      "id": "0x00000093",
+      "text": "Platinum Conflict 7"
+    },
+    {
+      "id": "0x00000094",
+      "text": "Gold Conflict 7"
+    },
+    {
+      "id": "0x00000095",
+      "text": "Silver Conflict 7"
+    },
+    {
+      "id": "0x00000096",
+      "text": "Bronze Conflict 7"
+    },
+    {
+      "id": "0x00000097",
+      "text": "Aramitama"
+    },
+    {
+      "id": "0x00000098",
+      "text": "Nigimitama"
+    },
+    {
+      "id": "0x00000099",
+      "text": "Divine Circle"
+    },
+    {
+      "id": "0x0000009A",
+      "text": "Velodyna Gatekeepers"
+    },
+    {
+      "id": "0x0000009B",
+      "text": "Seven Hundred Seventy-Seven"
+    },
+    {
+      "id": "0x0000009C",
+      "text": "Blue Mage (Simple)"
+    },
+    {
+      "id": "0x0000009D",
+      "text": "Blue Mage (Ornate)"
+    },
+    {
+      "id": "0x0000009E",
+      "text": "End of an Era"
+    },
+    {
+      "id": "0x0000009F",
+      "text": "Ten Year Anniversary"
+    },
+    {
+      "id": "0x000000A0",
+      "text": "Mount Rokkon (Variant)"
+    },
+    {
+      "id": "0x000000A1",
+      "text": "Adventurous Angling"
+    },
+    {
+      "id": "0x000000A2",
+      "text": "Big Fish"
+    },
+    {
+      "id": "0x000000A3",
+      "text": "Mahjong Mastery"
+    },
+    {
+      "id": "0x000000A4",
+      "text": "Palaistra"
+    },
+    {
+      "id": "0x000000A5",
+      "text": "Cloud Nine"
+    },
+    {
+      "id": "0x000000A6",
+      "text": "Final Conflict 8"
+    },
+    {
+      "id": "0x000000A7",
+      "text": "Endless Conflict 8"
+    },
+    {
+      "id": "0x000000A8",
+      "text": "Rising Conflict 8"
+    },
+    {
+      "id": "0x000000A9",
+      "text": "Crystal Conflict 8"
+    },
+    {
+      "id": "0x000000AA",
+      "text": "Diamond Conflict 8"
+    },
+    {
+      "id": "0x000000AB",
+      "text": "Platinum Conflict 8"
+    },
+    {
+      "id": "0x000000AC",
+      "text": "Gold Conflict 8"
+    },
+    {
+      "id": "0x000000AD",
+      "text": "Silver Conflict 8"
+    },
+    {
+      "id": "0x000000AE",
+      "text": "Bronze Conflict 8"
+    },
+    {
+      "id": "0x000000AF",
+      "text": "Final Conflict 9"
+    },
+    {
+      "id": "0x000000B0",
+      "text": "Endless Conflict 9"
+    },
+    {
+      "id": "0x000000B1",
+      "text": "Rising Conflict 9"
+    },
+    {
+      "id": "0x000000B2",
+      "text": "Crystal Conflict 9"
+    },
+    {
+      "id": "0x000000B3",
+      "text": "Diamond Conflict 9"
+    },
+    {
+      "id": "0x000000B4",
+      "text": "Platinum Conflict 9"
+    },
+    {
+      "id": "0x000000B5",
+      "text": "Gold Conflict 9"
+    },
+    {
+      "id": "0x000000B6",
+      "text": "Silver Conflict 9"
+    },
+    {
+      "id": "0x000000B7",
+      "text": "Bronze Conflict 9"
+    },
+    {
+      "id": "0x000000B8",
+      "text": "Final Conflict 10"
+    },
+    {
+      "id": "0x000000B9",
+      "text": "Endless Conflict 10"
+    },
+    {
+      "id": "0x000000BA",
+      "text": "Rising Conflict 10"
+    },
+    {
+      "id": "0x000000BB",
+      "text": "Crystal Conflict 10"
+    },
+    {
+      "id": "0x000000BC",
+      "text": "Diamond Conflict 10"
+    },
+    {
+      "id": "0x000000BD",
+      "text": "Platinum Conflict 10"
+    },
+    {
+      "id": "0x000000BE",
+      "text": "Gold Conflict 10"
+    },
+    {
+      "id": "0x000000BF",
+      "text": "Silver Conflict 10"
+    },
+    {
+      "id": "0x000000C0",
+      "text": "Bronze Conflict 10"
+    },
+    {
+      "id": "0x000000C1",
+      "text": "Gundu"
+    },
+    {
+      "id": "0x000000C2",
+      "text": "Vath"
+    },
+    {
+      "id": "0x000000C3",
+      "text": "Mogmenders"
+    },
+    {
+      "id": "0x000000C4",
+      "text": "Halone's Blessing"
+    },
+    {
+      "id": "0x000000C5",
+      "text": "Menphina's Blessing"
+    },
+    {
+      "id": "0x000000C6",
+      "text": "Thaliak's Blessing"
+    },
+    {
+      "id": "0x000000C7",
+      "text": "Nymeia's Blessing"
+    },
+    {
+      "id": "0x000000C8",
+      "text": "Llymlaen's Blessing"
+    },
+    {
+      "id": "0x000000C9",
+      "text": "Oschon's Blessing"
+    },
+    {
+      "id": "0x000000CA",
+      "text": "Byregot's Blessing"
+    },
+    {
+      "id": "0x000000CB",
+      "text": "Rhalgr's Blessing"
+    },
+    {
+      "id": "0x000000CC",
+      "text": "Azeyma's Blessing"
+    },
+    {
+      "id": "0x000000CD",
+      "text": "Nald'thal's Blessing"
+    },
+    {
+      "id": "0x000000CE",
+      "text": "Nophica's Blessing"
+    },
+    {
+      "id": "0x000000CF",
+      "text": "Althyk's Blessing"
+    },
+    {
+      "id": "0x000000D0",
+      "text": "Aloalo Island (Variant)"
+    },
+    {
+      "id": "0x000000D1",
+      "text": "Wondrous Whimsy"
+    },
+    {
+      "id": "0x000000D2",
+      "text": "Fantastic Faux"
+    },
+    {
+      "id": "0x000000D3",
+      "text": "Blunderful"
+    },
+    {
+      "id": "0x000000D4",
+      "text": "Blunderous"
+    },
+    {
+      "id": "0x000000D5",
+      "text": "Blunder-villed"
+    },
+    {
+      "id": "0x000000D6",
+      "text": "Yo-kai Watch"
+    },
+    {
+      "id": "0x000000D7",
+      "text": "Viper (Simple)"
+    },
+    {
+      "id": "0x000000D8",
+      "text": "Viper (Ornate)"
+    },
+    {
+      "id": "0x000000D9",
+      "text": "Pictomancer (Simple)"
+    },
+    {
+      "id": "0x000000DA",
+      "text": "Pictomancer (Ornate)"
+    },
+    {
+      "id": "0x000000DB",
+      "text": "Volcanic Heart"
+    },
+    {
+      "id": "0x000000DC",
+      "text": "Clockwork Castletown"
+    },
+    {
+      "id": "0x000000DD",
+      "text": "Final Conflict 11"
+    },
+    {
+      "id": "0x000000DE",
+      "text": "Endless Conflict 11"
+    },
+    {
+      "id": "0x000000DF",
+      "text": "Rising Conflict 11"
+    },
+    {
+      "id": "0x000000E0",
+      "text": "Crystal Conflict 11"
+    },
+    {
+      "id": "0x000000E1",
+      "text": "Diamond Conflict 11"
+    },
+    {
+      "id": "0x000000E2",
+      "text": "Platinum Conflict 11"
+    },
+    {
+      "id": "0x000000E3",
+      "text": "Gold Conflict 11"
+    },
+    {
+      "id": "0x000000E4",
+      "text": "Silver Conflict 11"
+    },
+    {
+      "id": "0x000000E5",
+      "text": "Bronze Conflict 11"
+    },
+    {
+      "id": "0x000000E6",
+      "text": "789th Order"
+    },
+    {
+      "id": "0x000000E7",
+      "text": "Little Solace"
+    },
+    {
+      "id": "0x000000E8",
+      "text": "Brotherhood of Ash"
+    },
+    {
+      "id": "0x000000E9",
+      "text": "Novv's Clutch"
+    },
+    {
+      "id": "0x000000EA",
+      "text": "Ehcatl Nine"
+    },
+    {
+      "id": "0x000000EB",
+      "text": "Crimson Dawn"
+    },
+    {
+      "id": "0x000000EC",
+      "text": "Golden Dawn"
+    },
+    {
+      "id": "0x000000ED",
+      "text": "Dark Solution"
+    },
+    {
+      "id": "0x000000EE",
+      "text": "Bright Solution"
+    },
+    {
+      "id": "0x000000EF",
+      "text": "Seal Rock"
+    },
+    {
+      "id": "0x000000F0",
+      "text": "Red Sands"
+    },
+    {
+      "id": "0x000000F1",
+      "text": "Final Conflict 12"
+    },
+    {
+      "id": "0x000000F2",
+      "text": "Endless Conflict 12"
+    },
+    {
+      "id": "0x000000F3",
+      "text": "Rising Conflict 12"
+    },
+    {
+      "id": "0x000000F4",
+      "text": "Crystal Conflict 12"
+    },
+    {
+      "id": "0x000000F5",
+      "text": "Diamond Conflict 12"
+    },
+    {
+      "id": "0x000000F6",
+      "text": "Platinum Conflict 12"
+    },
+    {
+      "id": "0x000000F7",
+      "text": "Gold Conflict 12"
+    },
+    {
+      "id": "0x000000F8",
+      "text": "Silver Conflict 12"
+    },
+    {
+      "id": "0x000000F9",
+      "text": "Bronze Conflict 12"
+    },
+    {
+      "id": "0x000000FA",
+      "text": "Turali Travel Agency"
+    },
+    {
+      "id": "0x000000FB",
+      "text": "Heavens' Orthodoxy"
+    },
+    {
+      "id": "0x000000FC",
+      "text": "Heavens' Heresy"
+    },
+    {
+      "id": "0x000000FD",
+      "text": "Idyll Wisdom"
+    },
+    {
+      "id": "0x000000FE",
+      "text": "Idyll Industry"
+    },
+    {
+      "id": "0x000000FF",
+      "text": "Kugane Commerce"
+    },
+    {
+      "id": "0x00000100",
+      "text": "Kugane Leisure"
+    },
+    {
+      "id": "0x00000101",
+      "text": "Western Reach"
+    },
+    {
+      "id": "0x00000102",
+      "text": "Eastern Reach"
+    },
+    {
+      "id": "0x00000103",
+      "text": "Exarchic Dome"
+    },
+    {
+      "id": "0x00000104",
+      "text": "Exarchic Tower"
+    },
+    {
+      "id": "0x00000105",
+      "text": "Eulmoran Comfort"
+    },
+    {
+      "id": "0x00000106",
+      "text": "Eulmoran Glory"
+    },
+    {
+      "id": "0x00000107",
+      "text": "Sharlayan Stoa"
+    },
+    {
+      "id": "0x00000108",
+      "text": "Sharlayan Agora"
+    },
+    {
+      "id": "0x00000109",
+      "text": "Hannish Radiance"
+    },
+    {
+      "id": "0x0000010A",
+      "text": "Hannish Wonders"
+    },
+    {
+      "id": "0x0000010B",
+      "text": "Fields of Glory"
+    },
+    {
+      "id": "0x0000010C",
+      "text": "Onsal Hakair"
+    },
+    {
+      "id": "0x0000010D",
+      "text": "Final Conflict 13"
+    },
+    {
+      "id": "0x0000010E",
+      "text": "Endless Conflict 13"
+    },
+    {
+      "id": "0x0000010F",
+      "text": "Rising Conflict 13"
+    },
+    {
+      "id": "0x00000110",
+      "text": "Crystal Conflict 13"
+    },
+    {
+      "id": "0x00000111",
+      "text": "Diamond Conflict 13"
+    },
+    {
+      "id": "0x00000112",
+      "text": "Platinum Conflict 13"
+    },
+    {
+      "id": "0x00000113",
+      "text": "Gold Conflict 13"
+    },
+    {
+      "id": "0x00000114",
+      "text": "Silver Conflict 13"
+    },
+    {
+      "id": "0x00000115",
+      "text": "Bronze Conflict 13"
+    },
+    {
+      "id": "0x00000116",
+      "text": "Final Conflict 14"
+    },
+    {
+      "id": "0x00000117",
+      "text": "Endless Conflict 14"
+    },
+    {
+      "id": "0x00000118",
+      "text": "Rising Conflict 14"
+    },
+    {
+      "id": "0x00000119",
+      "text": "Crystal Conflict 14"
+    },
+    {
+      "id": "0x0000011A",
+      "text": "Diamond Conflict 14"
+    },
+    {
+      "id": "0x0000011B",
+      "text": "Platinum Conflict 14"
+    },
+    {
+      "id": "0x0000011C",
+      "text": "Gold Conflict 14"
+    },
+    {
+      "id": "0x0000011D",
+      "text": "Silver Conflict 14"
+    },
+    {
+      "id": "0x0000011E",
+      "text": "Bronze Conflict 14"
+    },
+    {
+      "id": "0x0000011F",
+      "text": "Futures Rewritten"
+    },
+    {
+      "id": "0x00000120",
+      "text": "Gok Golma"
+    },
+    {
+      "id": "0x00000121",
+      "text": "Deadly Welcome"
+    },
+    {
+      "id": "0x00000122",
+      "text": "Deadly Descent"
+    },
+    {
+      "id": "0x00000123",
+      "text": "Victory-on-High"
+    },
+    {
+      "id": "0x00000124",
+      "text": "Ascension-on-High"
+    },
+    {
+      "id": "0x00000125",
+      "text": "Occult Crescent 1"
+    },
+    {
+      "id": "0x00000126",
+      "text": "Cosmic Exploration"
+    },
+    {
+      "id": "0x00000127",
+      "text": "Monster Hunter Wilds 1"
+    },
+    {
+      "id": "0x00000128",
+      "text": "Monster Hunter Wilds 2"
+    },
+    {
+      "id": "0x00000129",
+      "text": "Hidden Gorge"
+    },
+    {
+      "id": "0x0000012A",
+      "text": "Borderland Ruins (Secure)"
+    },
+    {
+      "id": "0x0000012B",
+      "text": "Final Conflict 15"
+    },
+    {
+      "id": "0x0000012C",
+      "text": "Endless Conflict 15"
+    },
+    {
+      "id": "0x0000012D",
+      "text": "Rising Conflict 15"
+    },
+    {
+      "id": "0x0000012E",
+      "text": "Crystal Conflict 15"
+    },
+    {
+      "id": "0x0000012F",
+      "text": "Diamond Conflict 15"
+    },
+    {
+      "id": "0x00000130",
+      "text": "Platinum Conflict 15"
+    },
+    {
+      "id": "0x00000131",
+      "text": "Gold Conflict 15"
+    },
+    {
+      "id": "0x00000132",
+      "text": "Silver Conflict 15"
+    },
+    {
+      "id": "0x00000133",
+      "text": "Bronze Conflict 15"
+    },
+    {
+      "id": "0x00000134",
+      "text": "Final Conflict 16"
+    },
+    {
+      "id": "0x00000135",
+      "text": "Endless Conflict 16"
+    },
+    {
+      "id": "0x00000136",
+      "text": "Rising Conflict 16"
+    },
+    {
+      "id": "0x00000137",
+      "text": "Ultima Conflict 16"
+    },
+    {
+      "id": "0x00000138",
+      "text": "Omega Conflict 16"
+    },
+    {
+      "id": "0x00000139",
+      "text": "Crystal Conflict 16"
+    },
+    {
+      "id": "0x0000013A",
+      "text": "Diamond Conflict 16"
+    },
+    {
+      "id": "0x0000013B",
+      "text": "Platinum Conflict 16"
+    },
+    {
+      "id": "0x0000013C",
+      "text": "Gold Conflict 16"
+    },
+    {
+      "id": "0x0000013D",
+      "text": "Silver Conflict 16"
+    },
+    {
+      "id": "0x0000013E",
+      "text": "Bronze Conflict 16"
+    },
+    {
+      "id": "0x0000013F",
+      "text": "The Hands of Zirgorteh"
+    },
+    {
+      "id": "0x00000140",
+      "text": "Pilgrim's Traverse"
+    },
+    {
+      "id": "0x00000141",
+      "text": "Distant Sanctums"
+    },
+    {
+      "id": "0x00000142",
+      "text": "Cosmic Constructs"
+    },
+    {
+      "id": "0x00000143",
+      "text": "Island Days"
+    },
+    {
+      "id": "0x00000144",
+      "text": "Bayside Battleground"
+    },
+    {
+      "id": "0x00000145",
+      "text": "Worqor Chirteh"
+    },
+    {
+      "id": "0x00000146",
+      "text": "Final Conflict 17"
+    },
+    {
+      "id": "0x00000147",
+      "text": "Endless Conflict 17"
+    },
+    {
+      "id": "0x00000148",
+      "text": "Rising Conflict 17"
+    },
+    {
+      "id": "0x00000149",
+      "text": "Ultima Conflict 17"
+    },
+    {
+      "id": "0x0000014A",
+      "text": "Omega Conflict 17"
+    },
+    {
+      "id": "0x0000014B",
+      "text": "Crystal Conflict 17"
+    },
+    {
+      "id": "0x0000014C",
+      "text": "Diamond Conflict 17"
+    },
+    {
+      "id": "0x0000014D",
+      "text": "Platinum Conflict 17"
+    },
+    {
+      "id": "0x0000014E",
+      "text": "Gold Conflict 17"
+    },
+    {
+      "id": "0x0000014F",
+      "text": "Silver Conflict 17"
+    },
+    {
+      "id": "0x00000150",
+      "text": "Bronze Conflict 17"
+    },
+    {
+      "id": "0x00000151",
+      "text": "Final Conflict 18"
+    },
+    {
+      "id": "0x00000152",
+      "text": "Endless Conflict 18"
+    },
+    {
+      "id": "0x00000153",
+      "text": "Rising Conflict 18"
+    },
+    {
+      "id": "0x00000154",
+      "text": "Ultima Conflict 18"
+    },
+    {
+      "id": "0x00000155",
+      "text": "Omega Conflict 18"
+    },
+    {
+      "id": "0x00000156",
+      "text": "Crystal Conflict 18"
+    },
+    {
+      "id": "0x00000157",
+      "text": "Diamond Conflict 18"
+    },
+    {
+      "id": "0x00000158",
+      "text": "Platinum Conflict 18"
+    },
+    {
+      "id": "0x00000159",
+      "text": "Gold Conflict 18"
+    },
+    {
+      "id": "0x0000015A",
+      "text": "Silver Conflict 18"
+    },
+    {
+      "id": "0x0000015B",
+      "text": "Bronze Conflict 18"
+    },
+    {
+      "id": "0x0000015C",
+      "text": "Special Accolades"
+    },
+    {
+      "id": "0x0000015D",
+      "text": "Cosmic Fantasy"
+    },
+    {
+      "id": "0x0000015E",
+      "text": "Merchant's Tale (Variant)"
+    },
+    {
+      "id": "0x0000015F",
+      "text": "Simple Pink"
+    },
+    {
+      "id": "0x00000160",
+      "text": "Simple Violet"
+    },
+    {
+      "id": "0x00000161",
+      "text": "Simple Pale Blue"
+    },
+    {
+      "id": "0x00000162",
+      "text": "Simple Peach"
+    },
+    {
+      "id": "0x00000163",
+      "text": "Simple Lime"
+    },
+    {
+      "id": "0x00000164",
+      "text": "Simple Pale Teal"
+    },
+    {
+      "id": "0x00000165",
+      "text": "Simple Pale Yellow"
+    },
+    {
+      "id": "0x00000166",
+      "text": "Simple Yellow"
+    },
+    {
+      "id": "0x00000167",
+      "text": "Black Cat"
+    },
+    {
+      "id": "0x00000168",
+      "text": "Honey B. Lovely"
+    },
+    {
+      "id": "0x00000169",
+      "text": "Brute Bomber"
+    },
+    {
+      "id": "0x0000016A",
+      "text": "Wicked Thunder"
+    },
+    {
+      "id": "0x0000016B",
+      "text": "Dancing Green"
+    },
+    {
+      "id": "0x0000016C",
+      "text": "Sugar Riot"
+    },
+    {
+      "id": "0x0000016D",
+      "text": "Howling Blade"
+    },
+    {
+      "id": "0x0000016E",
+      "text": "Vamp Fatale"
+    },
+    {
+      "id": "0x0000016F",
+      "text": "Deep Blue"
+    },
+    {
+      "id": "0x00000170",
+      "text": "Red Hot"
+    },
+    {
+      "id": "0x00000171",
+      "text": "The Tyrant"
+    },
+    {
+      "id": "0x00000172",
+      "text": "Archeia Harmonias"
+    },
+    {
+      "id": "0x00000173",
+      "text": "The Maelstrom"
+    },
+    {
+      "id": "0x00000174",
+      "text": "The Order of the Twin Adder"
+    },
+    {
+      "id": "0x00000175",
+      "text": "The Immortal Flames"
+    },
+    {
+      "id": "0x00000176",
+      "text": "Final Conflict 19"
+    },
+    {
+      "id": "0x00000177",
+      "text": "Endless Conflict 19"
+    },
+    {
+      "id": "0x00000178",
+      "text": "Rising Conflict 19"
+    },
+    {
+      "id": "0x00000179",
+      "text": "Ultima Conflict 19"
+    },
+    {
+      "id": "0x0000017A",
+      "text": "Omega Conflict 19"
+    },
+    {
+      "id": "0x0000017B",
+      "text": "Crystal Conflict 19"
+    },
+    {
+      "id": "0x0000017C",
+      "text": "Diamond Conflict 19"
+    },
+    {
+      "id": "0x0000017D",
+      "text": "Platinum Conflict 19"
+    },
+    {
+      "id": "0x0000017E",
+      "text": "Gold Conflict 19"
+    },
+    {
+      "id": "0x0000017F",
+      "text": "Silver Conflict 19"
+    },
+    {
+      "id": "0x00000180",
+      "text": "Bronze Conflict 19"
+    },
+    {
+      "id": "0x00000181",
+      "text": "Final Conflict 20"
+    },
+    {
+      "id": "0x00000182",
+      "text": "Endless Conflict 20"
+    },
+    {
+      "id": "0x00000183",
+      "text": "Rising Conflict 20"
+    },
+    {
+      "id": "0x00000184",
+      "text": "Ultima Conflict 20"
+    },
+    {
+      "id": "0x00000185",
+      "text": "Omega Conflict 20"
+    },
+    {
+      "id": "0x00000186",
+      "text": "Crystal Conflict 20"
+    },
+    {
+      "id": "0x00000187",
+      "text": "Diamond Conflict 20"
+    },
+    {
+      "id": "0x00000188",
+      "text": "Platinum Conflict 20"
+    },
+    {
+      "id": "0x00000189",
+      "text": "Gold Conflict 20"
+    },
+    {
+      "id": "0x0000018A",
+      "text": "Silver Conflict 20"
+    },
+    {
+      "id": "0x0000018B",
+      "text": "Bronze Conflict 20"
+    },
+    {
+      "id": "0x0000018C",
+      "text": "Final Conflict 21"
+    },
+    {
+      "id": "0x0000018D",
+      "text": "Endless Conflict 21"
+    },
+    {
+      "id": "0x0000018E",
+      "text": "Rising Conflict 21"
+    },
+    {
+      "id": "0x0000018F",
+      "text": "Ultima Conflict 21"
+    },
+    {
+      "id": "0x00000190",
+      "text": "Omega Conflict 21"
+    },
+    {
+      "id": "0x00000191",
+      "text": "Crystal Conflict 21"
+    },
+    {
+      "id": "0x00000192",
+      "text": "Diamond Conflict 21"
+    },
+    {
+      "id": "0x00000193",
+      "text": "Platinum Conflict 21"
+    },
+    {
+      "id": "0x00000194",
+      "text": "Gold Conflict 21"
+    },
+    {
+      "id": "0x00000195",
+      "text": "Silver Conflict 21"
+    },
+    {
+      "id": "0x00000196",
+      "text": "Bronze Conflict 21"
+    },
+    {
+      "id": "0x00000197",
+      "text": "DRAGON QUEST X"
+    },
+    {
+      "id": "0x00000198",
+      "text": "Keybound Brawler"
+    },
+    {
+      "id": "0x00000199",
+      "text": "Beastmaster (Simple)"
+    },
+    {
+      "id": "0x0000019A",
+      "text": "Beastmaster (Ornate)"
+    },
+    {
+      "id": "0x0000019B",
+      "text": "Occult Crescent 2"
+    },
+    {
+      "id": "0x0000019C",
+      "text": "Echoes of Jeuno 1"
+    },
+    {
+      "id": "0x0000019D",
+      "text": "Echoes of Jeuno 2"
+    },
+    {
+      "id": "0x0000019E",
+      "text": "Echoes of Jeuno 3"
+    },
+    {
+      "id": "0x0000019F",
+      "text": "Echoes of Jeuno 4"
+    },
+    {
+      "id": "0x000001A0",
+      "text": "Echoes of Jeuno 5"
+    },
+    {
+      "id": "0x000001A1",
+      "text": "Echoes of San d'Oria 1"
+    },
+    {
+      "id": "0x000001A2",
+      "text": "Echoes of San d'Oria 2"
+    },
+    {
+      "id": "0x000001A3",
+      "text": "Echoes of San d'Oria 3"
+    },
+    {
+      "id": "0x000001A4",
+      "text": "Echoes of San d'Oria 4"
+    },
+    {
+      "id": "0x000001A5",
+      "text": "Echoes of Windurst 1"
+    },
+    {
+      "id": "0x000001A6",
+      "text": "Echoes of Windurst 2"
+    },
+    {
+      "id": "0x000001A7",
+      "text": "Echoes of Windurst 3"
+    },
+    {
+      "id": "0x000001A8",
+      "text": "Echoes of Windurst 4"
+    },
+    {
+      "id": "0x000001A9",
+      "text": "Cosmic Growth"
+    },
+    {
+      "id": "0x000001AA",
+      "text": "Crucible of the Unbroken"
+    }
+  ]
+}

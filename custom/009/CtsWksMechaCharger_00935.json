@@ -1,0 +1,13 @@
+{
+  "source_file": "exd/custom/009/CtsWksMechaCharger_00935_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_CTSWKSMECHACHARGER_00935_TALK_ACTIVE<tab>В данный момент принимаем топливо от наземной команды. Выработка энергии составляет <var 20 E802 /var> процентов."
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_CTSWKSMECHACHARGER_00935_TALK_NON_ACTIVE<tab>Инициализация полевого сканера..."
+    }
+  ]
+}

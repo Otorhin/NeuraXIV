@@ -1,0 +1,9 @@
+{
+  "source_file": "exd/story/StoryMain_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_STORYMAIN_TEST<tab>消して下さい"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "source_file": "exd/custom/002/RegRoc2ArcOfTheWorthy_00277_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_000<tab>...Могу ли я чем-нибудь помочь, <var 08 E905 ((госпожа)) ((сэр)) /var>?"
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_001<tab>Да пребудут с вами благословения Халоне, <var 08 E905 ((госпожа)) ((господин)) /var>. Чем могу служить?"
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_002<tab>...Орда стоит у наших ворот, а тебе вздумалось предаваться праздному любопытству!? Ну же? Чем я могу быть тебе на <var 1A 02 /var>службе<var 1A 01 /var>?"
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_003<tab>Приветствую тебя, убийца Нидхогга! Отныне врата Ишгарда всегда открыты для нашего спасителя!"
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_REGROC2ARCOFTHEWORTHY_00277_Q1_000_000<tab>Что ты спросишь?"
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_REGROC2ARCOFTHEWORTHY_00277_A1_000_001<tab>Что ты здесь делаешь?"
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_REGROC2ARCOFTHEWORTHY_00277_A1_000_002<tab>Что это за место?"
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_REGROC2ARCOFTHEWORTHY_00277_A1_000_003<tab>Ничего."
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_010<tab>Мне и моим собратьям-храмовникам поручено защищать Арку Достойных."
+    },
+    {
+      "id": "0x00000009",
+      "text": "TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_011<tab>Раньше здесь никто не ожидал встретить драванийцев. Возможно, поэтому столь многие из нашего ордена и пали..."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_012<tab>Можете не сомневаться: впредь нас врасплох не застанут. И мы, и драгуны приняли необходимые меры."
+    },
+    {
+      "id": "0x0000000B",
+      "text": "TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_100<tab>Мне и моим собратьям-храмовникам поручено защищать Арку Достойных."
+    },
+    {
+      "id": "0x0000000C",
+      "text": "TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_101<tab>В последние дни много говорят о мире, но здесь для нас это мало что значит."
+    },
+    {
+      "id": "0x0000000D",
+      "text": "TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_102<tab>У Ишгарда всегда будут враги. Мы не можем позволить себе ни мгновения беспечности."
+    },
+    {
+      "id": "0x0000000E",
+      "text": "TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_110<tab>Мне и моим собратьям-храмовникам поручено защищать Арку Достойных."
+    },
+    {
+      "id": "0x0000000F",
+      "text": "TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_111<tab>Эти ворота — последний рубеж обороны Ишгарда, и мы скорее погибнем, чем позволим врагу переступить их порог!"
+    },
+    {
+      "id": "0x00000010",
+      "text": "TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_300<tab>Мне и моим собратьям-храмовникам поручено защищать Арку Достойных."
+    },
+    {
+      "id": "0x00000011",
+      "text": "TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_301<tab>Даже когда чешуйчатые твари Орды рвались к воротам, мы не уступили ни одного илма!"
+    },
+    {
+      "id": "0x00000012",
+      "text": "TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_302<tab>Многие из моих товарищей погибли в том вихре огня и стали, и потери могли быть ещё тяжелее, если бы драгуны не поспешили подкрепить наши ряды. Я стою сейчас перед вами лишь по милости самой Фурии."
+    },
+    {
+      "id": "0x00000013",
+      "text": "TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_020<tab>Вы стоите перед Аркой Достойных — единственным входом в Священный престол Ишгарда и выходом из него. Поэтому это один из самых укреплённых участков нашего города."
+    },
+    {
+      "id": "0x00000014",
+      "text": "TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_021<tab>Сразу за этой лестницей находится Основание. Если вы ищете жильё, вас примет «Девятое облако» при «Забытом рыцаре». Вы найдёте его неподалёку от Конгрегации."
+    },
+    {
+      "id": "0x00000015",
+      "text": "TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_022<tab>Будь осторожен, разгуливая по городу. Твоё положение обеспечивает лишь ограниченную защиту."
+    },
+    {
+      "id": "0x00000016",
+      "text": "TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_200<tab>Вы стоите перед Аркой Достойных — единственным входом в Священный престол Ишгарда и выходом из него. Поэтому это один из самых укреплённых участков нашего города."
+    },
+    {
+      "id": "0x00000017",
+      "text": "TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_201<tab>Сразу за этими ступенями начинается Основание. Если вам нужно жильё, вас примут в «Девятом облаке» при «Забытом рыцаре». Это недалеко от Конгрегации — хотя, полагаю, вы и так это знаете."
+    },
+    {
+      "id": "0x00000018",
+      "text": "TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000_202<tab>Я бы советовал вам проявлять осторожность, проходя через некоторые районы... но, учитывая вашу репутацию, полагаю, вы и сами прекрасно справитесь."
+    },
+    {
+      "id": "0x00000019",
+      "text": "TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_000<tab>"
+    },
+    {
+      "id": "0x0000001A",
+      "text": "TEXT_REGROC2ARCOFTHEWORTHY_00277_SCENE00000Q<tab>"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "TEXT_REGROC2ARCOFTHEWORTHY_00277_SCENE00000A1<tab>"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "TEXT_REGROC2ARCOFTHEWORTHY_00277_SCENE00000A2<tab>"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "TEXT_REGROC2ARCOFTHEWORTHY_00277_SCENE00000A3<tab>"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_010<tab>"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_011<tab>"
+    },
+    {
+      "id": "0x00000020",
+      "text": "TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_012<tab>"
+    },
+    {
+      "id": "0x00000021",
+      "text": "TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_020<tab>"
+    },
+    {
+      "id": "0x00000022",
+      "text": "TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_021<tab>"
+    },
+    {
+      "id": "0x00000023",
+      "text": "TEXT_REGROC2ARCOFTHEWORTHY_00277_BELTARDOIS_022<tab>"
+    }
+  ]
+}

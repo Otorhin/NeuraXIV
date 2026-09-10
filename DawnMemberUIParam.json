@@ -1,0 +1,249 @@
+{
+  "source_file": "exd/DawnMemberUIParam_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Alphinaud<tab>Academician<tab>Academician"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Alisaie<tab>Red Mage<tab>Red Mage"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Thancred<tab>Gunbreaker<tab>Gunbreaker"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Minfilia<tab>Oracle of Light<tab>Oracle of Light"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Urianger<tab>Astrologian<tab>Astrologian"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Y'shtola<tab>Sorceress<tab>Sorceress"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Ryne<tab>Oracle of Light<tab>Oracle of Light"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Lyna<tab>Guard Captain<tab>Guard Captain"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Crystal Exarch<tab>All-rounder<tab>All-Rounder"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "G'raha Tia<tab>All-rounder<tab>All-Rounder"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Alphinaud<tab>Sage<tab>Sage"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Estinien<tab>Dragoon<tab>Dragoon"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Urianger<tab>Lithomancer<tab>Lithomancer"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Venat<tab>All-rounder<tab>All-Rounder"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Emet-Selch<tab>The Third Seat<tab>The Third Seat"
+    },
+    {
+      "id": "0x00000010",
+      "text": "Hythlodaeus<tab>Soulseer<tab>Soulseer"
+    },
+    {
+      "id": "0x00000011",
+      "text": "Eager Marauder<tab>Marauder<tab>Marauder"
+    },
+    {
+      "id": "0x00000012",
+      "text": "Eager Lancer<tab>Lancer<tab>Lancer"
+    },
+    {
+      "id": "0x00000013",
+      "text": "Eager Thaumaturge<tab>Thaumaturge<tab>Thaumaturge"
+    },
+    {
+      "id": "0x00000014",
+      "text": "Eager Conjurer<tab>Conjurer<tab>Conjurer"
+    },
+    {
+      "id": "0x00000015",
+      "text": "Scion Marauder<tab>Marauder<tab>Marauder"
+    },
+    {
+      "id": "0x00000016",
+      "text": "Scion Lancer<tab>Lancer<tab>Lancer"
+    },
+    {
+      "id": "0x00000017",
+      "text": "Scion Thaumaturge<tab>Thaumaturge<tab>Thaumaturge"
+    },
+    {
+      "id": "0x00000018",
+      "text": "Scion Conjurer<tab>Conjurer<tab>Conjurer"
+    },
+    {
+      "id": "0x00000019",
+      "text": "Storm Marauder<tab>Marauder<tab>Marauder"
+    },
+    {
+      "id": "0x0000001A",
+      "text": "Serpent Lancer<tab>Lancer<tab>Lancer"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "Flame Thaumaturge<tab>Thaumaturge<tab>Thaumaturge"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "Serpent Conjurer<tab>Conjurer<tab>Conjurer"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "Varshahn<tab>Satrap<tab>Satrap"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "Ysayle<tab>Oracle of Frost<tab>Oracle of Frost"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "Temple Knight<tab>Knight<tab>Temple Knight"
+    },
+    {
+      "id": "0x00000020",
+      "text": "Temple Banneret<tab>Banneret<tab>Temple Banneret"
+    },
+    {
+      "id": "0x00000021",
+      "text": "Temple Chirurgeon<tab>Chirurgeon<tab>Temple Chirurgeon"
+    },
+    {
+      "id": "0x00000022",
+      "text": "Haurchefant<tab>Chivalric Knight<tab>Chivalric Knight"
+    },
+    {
+      "id": "0x00000023",
+      "text": "Pero Roggo<tab>Poroggo<tab>Poroggo"
+    },
+    {
+      "id": "0x00000024",
+      "text": "Aymeric<tab>Lord Commander<tab>Lord Commander"
+    },
+    {
+      "id": "0x00000025",
+      "text": "House Fortemps Knight<tab>Knight<tab>Knight"
+    },
+    {
+      "id": "0x00000026",
+      "text": "House Fortemps Banneret<tab>Banneret<tab>Banneret"
+    },
+    {
+      "id": "0x00000027",
+      "text": "House Fortemps Archer<tab>Archer<tab>Archer"
+    },
+    {
+      "id": "0x00000028",
+      "text": "Thancred<tab>Archon<tab>Archon"
+    },
+    {
+      "id": "0x00000029",
+      "text": "Zero<tab>Memoriate<tab>Memoriate"
+    },
+    {
+      "id": "0x0000002A",
+      "text": "Y'shtola<tab>Archon<tab>Archon"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "Carvallain<tab>Marauder<tab>Marauder"
+    },
+    {
+      "id": "0x0000002C",
+      "text": "Lyse<tab>Pugilist<tab>Pugilist"
+    },
+    {
+      "id": "0x0000002D",
+      "text": "Gosetsu<tab>Samurai<tab>Samurai"
+    },
+    {
+      "id": "0x0000002E",
+      "text": "Hien<tab>Samurai<tab>Samurai"
+    },
+    {
+      "id": "0x0000002F",
+      "text": "Mol Youth<tab>Shaman<tab>Shaman"
+    },
+    {
+      "id": "0x00000030",
+      "text": "Yugiri<tab>Ninja<tab>Ninja"
+    },
+    {
+      "id": "0x00000031",
+      "text": "Doman Liberator<tab>Samurai<tab>Samurai"
+    },
+    {
+      "id": "0x00000032",
+      "text": "Doman Shaman<tab>Shaman<tab>Fushi"
+    },
+    {
+      "id": "0x00000033",
+      "text": "Resistance Fighter<tab>Gladiator<tab>Gladiator"
+    },
+    {
+      "id": "0x00000034",
+      "text": "Resistance Pikedancer<tab>Pikedancer<tab>Pikedancer"
+    },
+    {
+      "id": "0x00000035",
+      "text": "Arenvald<tab>Gladiator<tab>Gladiator"
+    },
+    {
+      "id": "0x00000036",
+      "text": "Lyse<tab>Pugilist<tab>Pugilist"
+    },
+    {
+      "id": "0x00000037",
+      "text": "Raubahn<tab>Champion Gladiator<tab>Champion Gladiator"
+    },
+    {
+      "id": "0x00000038",
+      "text": "J'moldva<tab>Lancer<tab>Lancer"
+    },
+    {
+      "id": "0x00000039",
+      "text": "Wuk Lamat<tab>Intrepid<tab>Intrepid"
+    },
+    {
+      "id": "0x0000003A",
+      "text": "Zoraal Ja<tab>Viper<tab>Viper"
+    },
+    {
+      "id": "0x0000003B",
+      "text": "Koana<tab>Innovator<tab>Innovator"
+    },
+    {
+      "id": "0x0000003C",
+      "text": "Krile<tab>Pictomancer<tab>Pictomancer"
+    },
+    {
+      "id": "0x0000003D",
+      "text": "Sphene<tab>Zoemancer<tab>Zoemancer"
+    }
+  ]
+}

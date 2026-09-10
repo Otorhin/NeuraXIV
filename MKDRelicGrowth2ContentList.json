@@ -1,0 +1,65 @@
+{
+  "source_file": "exd/MKDRelicGrowth2ContentList_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "Available after completing at least two dungeons from the most recent patch."
+    },
+    {
+      "id": "0x00000004",
+      "text": "Available after completing the corresponding deep dungeon and progressing through the Crystarium sidequests."
+    },
+    {
+      "id": "0x00000005",
+      "text": "Available after unlocking the above duty and completing the corresponding quest."
+    },
+    {
+      "id": "0x00000006",
+      "text": "Available after progressing through the corresponding quest in Old Sharlayan."
+    },
+    {
+      "id": "0x00000007",
+      "text": "Available after completing the above duty and speaking with the corresponding NPC."
+    },
+    {
+      "id": "0x00000008",
+      "text": "Available after completing the above duty and speaking with the corresponding NPC."
+    },
+    {
+      "id": "0x00000009",
+      "text": "Available after progressing through Dawntrail: Chronicles of a New Era and unlocking the corresponding raid."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Available after progressing through Dawntrail: Chronicles of a New Era and unlocking the corresponding raid."
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Available after progressing through Dawntrail: Chronicles of a New Era and unlocking the corresponding raid."
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Available after progressing through Dawntrail: Chronicles of a New Era and unlocking the corresponding raid."
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Available after progressing through Dawntrail: Chronicles of a New Era and unlocking the Savage raid via the corresponding NPC."
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Available after progressing through Dawntrail: Chronicles of a New Era and unlocking the Savage raid via the corresponding NPC."
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Available after progressing through Dawntrail: Chronicles of a New Era and unlocking the Savage raid via the corresponding NPC."
+    },
+    {
+      "id": "0x00000010",
+      "text": "Available after progressing through Dawntrail: Chronicles of a New Era and unlocking the Savage raid via the corresponding NPC."
+    },
+    {
+      "id": "0x00000011",
+      "text": "Available after progressing through the Dawntrail main scenario, completing the trial, and unlocking the corresponding extreme trial via the wandering minstrel."
+    }
+  ]
+}

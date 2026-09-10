@@ -1,0 +1,33 @@
+{
+  "source_file": "exd/custom/005/CtsDkbCharacter3Sub1_00576_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_CTSDKBCHARACTER3SUB1_00576_SKIP_000_000<tab>...<wheeze>"
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_CTSDKBCHARACTER3SUB1_00576_SKIP_000_050<tab>..."
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_CTSDKBCHARACTER3SUB1_00576_SKIP_000_100<tab>Хррр..."
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_CTSDKBCHARACTER3SUB1_00576_SKIP_000_150<tab>..."
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_CTSDKBCHARACTER3SUB1_00576_SKIP_000_200<tab>...Хррр?"
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_CTSDKBCHARACTER3SUB1_00576_SKIP_000_250<tab>...!"
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_CTSDKBCHARACTER3SUB1_00576_SKIP_000_300<tab>Как думаешь, здешнему амаро придётся по вкусу кухня Беруба?"
+    }
+  ]
+}

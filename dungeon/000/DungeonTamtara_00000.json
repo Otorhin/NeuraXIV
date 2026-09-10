@@ -1,0 +1,21 @@
+{
+  "source_file": "exd/dungeon/000/DungeonTamtara_00000_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_DUNGEONTAMTARA_00000_EDDA_000_000<tab>Смотри, Авер! Все эти люди пришли принести тебе в дар свои души! Разве не мило с их стороны?"
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_DUNGEONTAMTARA_00000_EDDA_000_001<tab>Даже <var 2C ((<var 29 EB02 /var>)) (( )) 02 /var> здесь! Теперь ты можешь осуществить свою мечту — стать как <var 08 E905 ((her)) ((him)) /var>!"
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_DUNGEONTAMTARA_00000_EDDA_000_010<tab>Что... что ты наделал? Авеееррреее! Не-е-е-ет!"
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_DUNGEONTAMTARA_00000_GALVANTH_000_1<tab>Это не тот текст, который вы ищете."
+    }
+  ]
+}

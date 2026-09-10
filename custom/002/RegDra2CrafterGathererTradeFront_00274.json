@@ -1,0 +1,49 @@
+{
+  "source_file": "exd/custom/002/RegDra2CrafterGathererTradeFront_00274_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_TALK_Q1<tab>Что ты спросишь?"
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_TALK_A1<tab>Что такое великолепное снаряжение?"
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_TALK_A2<tab>Что такое одолжения?"
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_TALK_A3<tab>Что такое тома регионального фольклора?"
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_TALK_A4<tab>Ничего."
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_TOBANA_000_000<tab>Дом с гордостью представляет эксклюзивную линейку великолепного снаряжения для учеников земли и ремесла. Гарантированно удовлетворит ваши запросы. Возврату не подлежит."
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_TOBANA_000_005<tab>Благословения? Мне ужасно жаль, <var 08 E905 ((miss)) ((sir)) /var>, но в настоящий момент Дом прекращает продажу всех благословений. Мы ещё не установили причину, однако наложенные на них чары... перестали действовать. Если у вас есть благословения, находящийся неподалёку представитель с радостью примет их у вас."
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_SYSTEM_000_006<tab>"
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_SYSTEM_000_007<tab>"
+    },
+    {
+      "id": "0x00000009",
+      "text": "TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_TOBANA_000_010<tab>Дом с гордостью предлагает эксклюзивную подборку томов, полных местного фольклора. Они непременно помогут вам отыскать редкие деревья, травы, рыбу, драгоценные камни и прочее. Деньги не возвращаются."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_SYSTEM_000_010<tab>Читая тома регионального фольклора, вы обнаружите ранее скрытые места сбора и рыбные места, которые после этого будут добавлены в ваши журналы собирательства и рыбалки."
+    }
+  ]
+}

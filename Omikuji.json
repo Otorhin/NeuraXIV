@@ -1,0 +1,33 @@
+{
+  "source_file": "exd/Omikuji_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "無効<tab>無効"
+    },
+    {
+      "id": "0x00000001",
+      "text": "Great Fortune<tab>Thou shalt experience extraordinary fortune. Keep these words of guidance in thy heart."
+    },
+    {
+      "id": "0x00000002",
+      "text": "Good Fortune<tab>Thou shalt experience exceptional fortune. Keep these words of guidance in thy heart."
+    },
+    {
+      "id": "0x00000003",
+      "text": "Fair Fortune<tab>Thou shalt experience moderate fortune. Keep these words of guidance in thy heart."
+    },
+    {
+      "id": "0x00000004",
+      "text": "Small Fortune<tab>Thou shalt experience limited fortune. Keep these words of guidance in thy heart."
+    },
+    {
+      "id": "0x00000005",
+      "text": "Misfortune<tab>Thou shalt experience misfortune. Heed these words of guidance, and thy luck may change."
+    },
+    {
+      "id": "0x00000006",
+      "text": "Grave Misfortune<tab>Thou shalt experience considerable misfortune. Heed these words of guidance, and thy luck may change."
+    }
+  ]
+}

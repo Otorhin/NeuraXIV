@@ -1,0 +1,89 @@
+{
+  "source_file": "exd/custom/008/CtsDdd1Entrance_00821_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_CTSDDD1ENTRANCE_00821_WOODWAILERCAPTAIN01556_000_000<tab>В Чёрной чаще объявилась серьёзная угроза миру, и меня послали её изгнать. Приключенец ты или нет — я не потерплю, чтобы кто-либо мешал моей работе. А теперь, прошу, проходи."
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_CTSDDD1ENTRANCE_00821_WOODWAILERCAPTAIN01556_000_020<tab>Нам повезло, что куратор этого проклятого места оказался настолько небрежен, что оставил свои записи там, где мы могли их найти. Возможно, теперь нам удастся узнать его истинные мотивы."
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_CTSDDD1ENTRANCE_00821_TEST_START_MENU_ENTER<tab>Войти во Дворец мёртвых"
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_CTSDDD1ENTRANCE_00821_TEST_START_MENU_RESET<tab>Сбросить прогресс"
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_CTSDDD1ENTRANCE_00821_TEST_START_MENU_BREAKUP<tab>Распустить постоянную группу"
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_CTSDDD1ENTRANCE_00821_TEST_START_MENU_SCORE<tab>Просмотреть свои результаты"
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_CTSDDD1ENTRANCE_00821_TEST_START_MENU_ABOUT<tab>Узнать о Дворце мёртвых"
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_CTSDDD1ENTRANCE_00821_TEST_ENTER_MENU_TITLE<tab>Что ты будешь делать?"
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_CTSDDD1ENTRANCE_00821_TEST_ENTER_MENU_FIXED<tab>Войти в составе заранее сформированной группы."
+    },
+    {
+      "id": "0x00000009",
+      "text": "TEXT_CTSDDD1ENTRANCE_00821_TEST_ENTER_MENU_MATCHING<tab>Войти в составе подобранной группы."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "TEXT_CTSDDD1ENTRANCE_00821_TEST_ENTER_MENU_BACK<tab>Вернуться."
+    },
+    {
+      "id": "0x0000000B",
+      "text": "TEXT_CTSDDD1ENTRANCE_00821_TEST_ENTER_FIXED_Q<tab>Вы уверены, что хотите войти в составе заранее сформированной группы?"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "TEXT_CTSDDD1ENTRANCE_00821_TEST_ENTER_MATCHING_Q<tab>Вы уверены, что хотите войти в составе подобранной группы?"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "TEXT_CTSDDD1ENTRANCE_00821_WOODWAILERCAPTAIN01556_000_050<tab>Ты намерен войти в руины в одиночку?! Ослабленный чарами руин, ты сможешь рассчитывать лишь на эфирное оружие паджалей. Но даже его может оказаться недостаточно без усиления."
+    },
+    {
+      "id": "0x0000000E",
+      "text": "TEXT_CTSDDD1ENTRANCE_00821_TEST_ENTER_SOLO<tab>Вы уверены, что хотите войти в одиночку?"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "TEXT_CTSDDD1ENTRANCE_00821_ENTER_WHICH_Q<tab>С какого этажа вы войдёте?"
+    },
+    {
+      "id": "0x00000010",
+      "text": "TEXT_CTSDDD1ENTRANCE_00821_ENTER_A1<tab>Первый этаж."
+    },
+    {
+      "id": "0x00000011",
+      "text": "TEXT_CTSDDD1ENTRANCE_00821_ENTER_A2<tab>Пятьдесят первый этаж."
+    },
+    {
+      "id": "0x00000012",
+      "text": "TEXT_CTSDDD1ENTRANCE_00821_MIDDLE_TOP_MENU_NEXT<tab>Перейти на следующий этаж"
+    },
+    {
+      "id": "0x00000013",
+      "text": "TEXT_CTSDDD1ENTRANCE_00821_MIDDLE_TOP_MENU_EXPLAIN<tab>Ознакомиться с правилами Дворца мёртвых"
+    },
+    {
+      "id": "0x00000014",
+      "text": "TEXT_CTSDDD1ENTRANCE_00821_MIDDLE_Q<tab>Перейти на следующий этаж с текущей группой?"
+    }
+  ]
+}

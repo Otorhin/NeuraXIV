@@ -1,0 +1,93 @@
+{
+  "source_file": "exd/custom/000/RegFstEternalCeremonyGuideHall_00017_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_REGFSTETERNALCEREMONYGUIDEHALL_00017_HALL00017_000_000<tab>Приветствую вас, добрый <var 08 E905 ((madam)) ((sir)) /var>, и добро пожаловать на сегодняшнюю Церемонию вечного союза. Для меня честь помогать нашим гостям. Желаете что-нибудь узнать?"
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_REGFSTETERNALCEREMONYGUIDEHALL_00017_Q1_000_020<tab>Что ты хотел бы узнать?"
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_REGFSTETERNALCEREMONYGUIDEHALL_00017_A1_000_020<tab>Программа церемонии."
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_REGFSTETERNALCEREMONYGUIDEHALL_00017_A1_000_021<tab>Выход с площадки и вход на неё."
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_REGFSTETERNALCEREMONYGUIDEHALL_00017_A1_000_022<tab>Перенос."
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_REGFSTETERNALCEREMONYGUIDEHALL_00017_A1_000_023<tab>Ничего."
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_REGFSTETERNALCEREMONYGUIDEHALL_00017_HALL00017_000_040<tab>С удовольствием ознакомлю вас с сегодняшней программой."
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_REGFSTETERNALCEREMONYGUIDEHALL_00017_SYSTEM_000_041<tab>Пара сейчас занята последними приготовлениями к церемонии. Когда они будут готовы, гостей проводят в зал для церемонии."
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_REGFSTETERNALCEREMONYGUIDEHALL_00017_SYSTEM_000_042<tab>Во время церемонии гости также могут появляться в роликах. Поэтому заранее позаботьтесь о том, чтобы ваш персонаж выглядел так, как вам хочется."
+    },
+    {
+      "id": "0x00000009",
+      "text": "TEXT_REGFSTETERNALCEREMONYGUIDEHALL_00017_SYSTEM_000_043<tab>Сама церемония начнётся не позднее чем через 40 минут после открытия дверей. Вы можете ускорить её проведение, сообщив молодожёнам о своей готовности."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "TEXT_REGFSTETERNALCEREMONYGUIDEHALL_00017_SYSTEM_000_044<tab>Церемония пройдёт следующим образом:"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "TEXT_REGFSTETERNALCEREMONYGUIDEHALL_00017_SYSTEM_000_045<tab>Сначала молодожёны войдут и произнесут клятвы. Затем последуют благословение и обмен кольцами. Завершится всё приёмом, во время которого молодожёны и их гости смогут пообщаться друг с другом."
+    },
+    {
+      "id": "0x0000000C",
+      "text": "TEXT_REGFSTETERNALCEREMONYGUIDEHALL_00017_SYSTEM_000_046<tab>Церемония займёт примерно от одного до двух часов (по земному времени) с начала и до конца, а гости смогут свободно перемещаться во время её проведения."
+    },
+    {
+      "id": "0x0000000D",
+      "text": "TEXT_REGFSTETERNALCEREMONYGUIDEHALL_00017_HALL00017_000_060<tab>Гости могут в любое время покинуть Часовню из слоновой кости и вернуться в неё."
+    },
+    {
+      "id": "0x0000000E",
+      "text": "TEXT_REGFSTETERNALCEREMONYGUIDEHALL_00017_SYSTEM_000_061<tab>Покинуть место проведения можно через дверь или просто выйдя из игры."
+    },
+    {
+      "id": "0x0000000F",
+      "text": "TEXT_REGFSTETERNALCEREMONYGUIDEHALL_00017_SYSTEM_000_062<tab>Если вы хотите вновь попасть в Часовню из слоновой кости, поговорите с Этуанель."
+    },
+    {
+      "id": "0x00000010",
+      "text": "TEXT_REGFSTETERNALCEREMONYGUIDEHALL_00017_SYSTEM_000_063<tab>Впустят только тех, у кого есть приглашение, так что постарайтесь его не потерять."
+    },
+    {
+      "id": "0x00000011",
+      "text": "TEXT_REGFSTETERNALCEREMONYGUIDEHALL_00017_HALL00017_000_080<tab>Церемония может быть отложена в связи с непредвиденными обстоятельствами."
+    },
+    {
+      "id": "0x00000012",
+      "text": "TEXT_REGFSTETERNALCEREMONYGUIDEHALL_00017_HALL00017_000_081<tab>Если это произойдёт, организаторам придётся перенести церемонию и разослать новые приглашения."
+    },
+    {
+      "id": "0x00000013",
+      "text": "TEXT_REGFSTETERNALCEREMONYGUIDEHALL_00017_SYSTEM_000_082<tab>Если церемония откладывается, приглашение будет автоматически удалено из вашего инвентаря."
+    },
+    {
+      "id": "0x00000014",
+      "text": "TEXT_REGFSTETERNALCEREMONYGUIDEHALL_00017_SYSTEM_000_083<tab>Пожалуйста, дождитесь сообщения от организаторов о новой дате и времени."
+    },
+    {
+      "id": "0x00000015",
+      "text": "TEXT_REGFSTETERNALCEREMONYGUIDEHALL_00017_HALL00017_000_500<tab>Очень хорошо, <var 08 E905 ((госпожа)) ((господин)) /var>. Я буду рядом, если понадоблюсь вам."
+    }
+  ]
+}

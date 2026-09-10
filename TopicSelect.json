@@ -1,0 +1,457 @@
+{
+  "source_file": "exd/TopicSelect_3276800_en.exd",
+  "rows": [
+    {
+      "id": "0x00320002",
+      "text": "Purchase Gordian Items (IL 190)"
+    },
+    {
+      "id": "0x00320003",
+      "text": "Purchase Midan Items (IL 220)"
+    },
+    {
+      "id": "0x00320004",
+      "text": "Aloalo Island Artifact Exchange"
+    },
+    {
+      "id": "0x00320006",
+      "text": "Purchase Alexandrian Items (IL 250)"
+    },
+    {
+      "id": "0x0032000C",
+      "text": "Improve Shire Gear (IL 260 → 270)"
+    },
+    {
+      "id": "0x0032000F",
+      "text": "Purchase Garo Gear (DoW I)"
+    },
+    {
+      "id": "0x00320010",
+      "text": "Purchase Garo Gear (DoM)"
+    },
+    {
+      "id": "0x00320019",
+      "text": "Purchase Disciple of War Gear"
+    },
+    {
+      "id": "0x0032001A",
+      "text": "Purchase Disciple of Magic Gear"
+    },
+    {
+      "id": "0x0032001B",
+      "text": "Purchase Disciple of the Hand/Land Gear"
+    },
+    {
+      "id": "0x0032001C",
+      "text": "Purchase Disciple of War Arms"
+    },
+    {
+      "id": "0x0032001D",
+      "text": "Purchase Disciple of Magic Arms"
+    },
+    {
+      "id": "0x0032001E",
+      "text": "Purchase Disciple of the Hand Tools"
+    },
+    {
+      "id": "0x0032001F",
+      "text": "Purchase Disciple of the Land Tools"
+    },
+    {
+      "id": "0x00320020",
+      "text": "Purchase Disciple of War Gear"
+    },
+    {
+      "id": "0x00320021",
+      "text": "Purchase Disciple of Magic Gear"
+    },
+    {
+      "id": "0x00320022",
+      "text": "Purchase Disciple of the Hand/Land Gear"
+    },
+    {
+      "id": "0x00320023",
+      "text": "Purchase Disciple of War Arms"
+    },
+    {
+      "id": "0x00320024",
+      "text": "Purchase Disciple of Magic Arms"
+    },
+    {
+      "id": "0x00320025",
+      "text": "Purchase Disciple of the Hand Tools"
+    },
+    {
+      "id": "0x00320026",
+      "text": "Purchase Disciple of the Land Tools"
+    },
+    {
+      "id": "0x00320027",
+      "text": "Purchase Job-specific Gear"
+    },
+    {
+      "id": "0x00320028",
+      "text": "Purchase Quest Rewards"
+    },
+    {
+      "id": "0x00320029",
+      "text": "Purchase Gender-specific Gear"
+    },
+    {
+      "id": "0x0032002A",
+      "text": "Deal in Spoils"
+    },
+    {
+      "id": "0x0032002E",
+      "text": "Purchase Tools"
+    },
+    {
+      "id": "0x0032002F",
+      "text": "Purchase Gear"
+    },
+    {
+      "id": "0x00320030",
+      "text": "Purchase Seasonal Event Items"
+    },
+    {
+      "id": "0x00320031",
+      "text": "Purchase Achievement Rewards"
+    },
+    {
+      "id": "0x00320034",
+      "text": "Use Resistance Tokens (IL 350 → 360 NQ)"
+    },
+    {
+      "id": "0x00320035",
+      "text": "Use Resistance Tokens (IL 350 → 360 HQ)"
+    },
+    {
+      "id": "0x00320038",
+      "text": "Use Rakshasa Tokens (IL 380 → 390 HQ)"
+    },
+    {
+      "id": "0x00320039",
+      "text": "Purchase Disciple of War Gear"
+    },
+    {
+      "id": "0x0032003A",
+      "text": "Purchase Disciple of Magic Gear"
+    },
+    {
+      "id": "0x0032003B",
+      "text": "Crafters' Scrip Exchange"
+    },
+    {
+      "id": "0x0032003C",
+      "text": "Gatherers' Scrip Exchange"
+    },
+    {
+      "id": "0x0032003D",
+      "text": "Crafters' Scrip Exchange"
+    },
+    {
+      "id": "0x0032003E",
+      "text": "Gatherers' Scrip Exchange"
+    },
+    {
+      "id": "0x0032003F",
+      "text": "Crafters' Scrip Exchange"
+    },
+    {
+      "id": "0x00320040",
+      "text": "Gatherers' Scrip Exchange"
+    },
+    {
+      "id": "0x00320041",
+      "text": "Crafters' Scrip Exchange"
+    },
+    {
+      "id": "0x00320042",
+      "text": "Gatherers' Scrip Exchange"
+    },
+    {
+      "id": "0x00320043",
+      "text": "Crafters' Scrip Exchange"
+    },
+    {
+      "id": "0x00320044",
+      "text": "Gatherers' Scrip Exchange"
+    },
+    {
+      "id": "0x00320045",
+      "text": "Crafters' Scrip Exchange"
+    },
+    {
+      "id": "0x00320046",
+      "text": "Gatherers' Scrip Exchange"
+    },
+    {
+      "id": "0x00320047",
+      "text": "Crafters' Scrip Exchange"
+    },
+    {
+      "id": "0x00320048",
+      "text": "Gatherers' Scrip Exchange"
+    },
+    {
+      "id": "0x00320049",
+      "text": "Crafters' Scrip Exchange"
+    },
+    {
+      "id": "0x0032004A",
+      "text": "Gatherers' Scrip Exchange"
+    },
+    {
+      "id": "0x0032004D",
+      "text": "Purchase Augmented Facet Equipment (IL 450 → 460)"
+    },
+    {
+      "id": "0x00320050",
+      "text": "Purchase Augmented Neo-Ishgardian Equipment (IL 480 → 490)"
+    },
+    {
+      "id": "0x00320051",
+      "text": "Crafters' Scrip Exchange"
+    },
+    {
+      "id": "0x00320052",
+      "text": "Gatherers' Scrip Exchange"
+    },
+    {
+      "id": "0x00320055",
+      "text": "Purchase Augmented Exarchic Equipment (IL 510 → 520)"
+    },
+    {
+      "id": "0x00320056",
+      "text": "Purchase Disciple of War Gear"
+    },
+    {
+      "id": "0x00320057",
+      "text": "Purchase Disciple of Magic Gear"
+    },
+    {
+      "id": "0x0032005A",
+      "text": "Purchase Augmented Classical Equipment (IL 580 → 590)"
+    },
+    {
+      "id": "0x0032005B",
+      "text": "Purchase Garo Gear (DoW II)"
+    },
+    {
+      "id": "0x0032005F",
+      "text": "Purchase Augmented Rinascita Equipment (IL 610 → 620)"
+    },
+    {
+      "id": "0x00320060",
+      "text": "Sil'dihn Artifact Exchange"
+    },
+    {
+      "id": "0x00320061",
+      "text": "Rokkon Artifact Exchange"
+    },
+    {
+      "id": "0x00320063",
+      "text": "Purchase Augmented Diadochos Equipment (IL 640 → 650)"
+    },
+    {
+      "id": "0x00320064",
+      "text": "Quetzalli Gear Augmentation (IL 730)"
+    },
+    {
+      "id": "0x00320065",
+      "text": "Historia Gear Augmentation (IL 760)"
+    },
+    {
+      "id": "0x00320066",
+      "text": "Bygone Brass Gear Augmentation (IL 790)"
+    },
+    {
+      "id": "0x00320067",
+      "text": "Light-heavy Hologear Exchange (IL 710)"
+    },
+    {
+      "id": "0x00320068",
+      "text": "AAC Illustrated: LHW Edition Exchange (IL 730-735)"
+    },
+    {
+      "id": "0x00320069",
+      "text": "Cruiserweight Hologear Exchange (IL 740)"
+    },
+    {
+      "id": "0x0032006A",
+      "text": "AAC Illustrated: CW Edition Exchange (IL 760-765)"
+    },
+    {
+      "id": "0x0032006B",
+      "text": "Heavyweight Hologear Exchange (IL 770)"
+    },
+    {
+      "id": "0x0032006C",
+      "text": "AAC Illustrated: HW Edition Exchange (IL 790-795)"
+    },
+    {
+      "id": "0x0032006D",
+      "text": "Gordian Manifesto Exchange (IL 210)"
+    },
+    {
+      "id": "0x0032006E",
+      "text": "Midan Manifesto Exchange (IL 240-245)"
+    },
+    {
+      "id": "0x0032006F",
+      "text": "Alexandrian Manifesto Exchange (IL 270-275)"
+    },
+    {
+      "id": "0x00320070",
+      "text": "Deltascape Part Exchange (IL 320)"
+    },
+    {
+      "id": "0x00320071",
+      "text": "Deltascape Datalog Exchange (IL 340-345)"
+    },
+    {
+      "id": "0x00320072",
+      "text": "Sigmascape Part Exchange (IL 350)"
+    },
+    {
+      "id": "0x00320073",
+      "text": "Sigmascape Datalog Exchange (IL 370-375)"
+    },
+    {
+      "id": "0x00320074",
+      "text": "Alphascape Part Exchange (IL 380)"
+    },
+    {
+      "id": "0x00320075",
+      "text": "Alphascape Datalog Exchange (IL 400-405)"
+    },
+    {
+      "id": "0x00320076",
+      "text": "Eden's Gate Antique Exchange (IL 450)"
+    },
+    {
+      "id": "0x00320077",
+      "text": "Eden's Gate Apocrypha Exchange (IL 470-475)"
+    },
+    {
+      "id": "0x00320078",
+      "text": "Eden's Verse Antique Exchange (IL 480)"
+    },
+    {
+      "id": "0x00320079",
+      "text": "Eden's Verse Apocrypha Exchange (IL 500-505)"
+    },
+    {
+      "id": "0x0032007A",
+      "text": "Eden's Promise Antique Exchange (IL 510)"
+    },
+    {
+      "id": "0x0032007B",
+      "text": "Eden's Promise Apocrypha Exchange (IL 530-535)"
+    },
+    {
+      "id": "0x0032007C",
+      "text": "Unsung Relic of Asphodelos Exchange (IL 580)"
+    },
+    {
+      "id": "0x0032007D",
+      "text": "Asphodelos Mythos Exchange (IL 600-605)"
+    },
+    {
+      "id": "0x0032007E",
+      "text": "Unsung Relic of Abyssos Exchange (IL 610)"
+    },
+    {
+      "id": "0x0032007F",
+      "text": "Abyssos Mythos Exchange (IL 630-635)"
+    },
+    {
+      "id": "0x00320080",
+      "text": "Unsung Relic of Anabaseios Exchange (IL 640)"
+    },
+    {
+      "id": "0x00320081",
+      "text": "Anabaseios Mythos Exchange (IL 660-665)"
+    },
+    {
+      "id": "0x00320086",
+      "text": "Lost Allagan Gear Augmentation (IL 340)"
+    },
+    {
+      "id": "0x00320087",
+      "text": "Ryumyaku Gear Augmentation (IL 370)"
+    },
+    {
+      "id": "0x00320088",
+      "text": "Scaevan Gear Augmentation (IL 400)"
+    },
+    {
+      "id": "0x00320089",
+      "text": "Deepshadow Gear Augmentation (IL 470)"
+    },
+    {
+      "id": "0x0032008A",
+      "text": "Crystarium Gear Augmentation (IL 500)"
+    },
+    {
+      "id": "0x0032008B",
+      "text": "Cryptlurker Gear Augmentation (IL 530)"
+    },
+    {
+      "id": "0x0032008C",
+      "text": "Radiant's Gear Augmentation (IL 600)"
+    },
+    {
+      "id": "0x0032008D",
+      "text": "Lunar Envoy's Gear Augmentation (IL 630)"
+    },
+    {
+      "id": "0x0032008E",
+      "text": "Credendum Gear Augmentation (IL 660)"
+    },
+    {
+      "id": "0x0032008F",
+      "text": "Purchase Augmented Archeo Kingdom Equipment (IL 710 → 720)"
+    },
+    {
+      "id": "0x00320090",
+      "text": "Purchase Augmented Ceremonial Equipment (IL 740 → 750)"
+    },
+    {
+      "id": "0x00320091",
+      "text": "Purchase Augmented Courtly Lover's Equipment (IL 770 → 780)"
+    },
+    {
+      "id": "0x00320092",
+      "text": "Cipher Exchange"
+    },
+    {
+      "id": "0x00320093",
+      "text": "Purchase Fieldcraft/Tradecraft Gear (Lv. 1-20)"
+    },
+    {
+      "id": "0x00320094",
+      "text": "Purchase Fieldcraft/Tradecraft Gear (Lv. 21-40)"
+    },
+    {
+      "id": "0x00320095",
+      "text": "Purchase Fieldcraft/Tradecraft Gear (Lv. 41-60)"
+    },
+    {
+      "id": "0x00320096",
+      "text": "Purchase Fieldcraft/Tradecraft Gear (Lv. 61-80)"
+    },
+    {
+      "id": "0x00320097",
+      "text": "Purchase Fieldcraft/Tradecraft Gear (Lv. 81-100)"
+    },
+    {
+      "id": "0x00320098",
+      "text": "Corvosi Artifact Exchange"
+    },
+    {
+      "id": "0x00320099",
+      "text": "Purchase Limited Job-specific Gear"
+    }
+  ]
+}

@@ -1,0 +1,2209 @@
+{
+  "source_file": "exd/Warp_131072_en.exd",
+  "rows": [
+    {
+      "id": "0x00020002",
+      "text": "<tab>Proceed to the Seat of the First Bow?"
+    },
+    {
+      "id": "0x00020003",
+      "text": "<tab>Leave the Seat of the First Bow?"
+    },
+    {
+      "id": "0x00020004",
+      "text": "<tab>Leave the Lotus Stand?"
+    },
+    {
+      "id": "0x00020005",
+      "text": "Seek Passage to Sweetbloom Pier<tab>Board the ferry to Sweetbloom Pier?"
+    },
+    {
+      "id": "0x00020006",
+      "text": "<tab>Board the ferry to Old Gridania?"
+    },
+    {
+      "id": "0x0002000A",
+      "text": "<tab>Exit room?"
+    },
+    {
+      "id": "0x0002000B",
+      "text": "<tab>Exit room?"
+    },
+    {
+      "id": "0x0002000C",
+      "text": "<tab>Exit room?"
+    },
+    {
+      "id": "0x0002000D",
+      "text": "<tab>Leave the Heart of the Sworn?"
+    },
+    {
+      "id": "0x0002000E",
+      "text": "<tab>Take the ferry to Crescent Cove for 40 gil?"
+    },
+    {
+      "id": "0x0002000F",
+      "text": "<tab>Take the ferry to the Silver Bazaar for 40 gil?"
+    },
+    {
+      "id": "0x00020010",
+      "text": "<tab>Enter the Waking Sands?"
+    },
+    {
+      "id": "0x00020011",
+      "text": "<tab>Leave the Waking Sands?"
+    },
+    {
+      "id": "0x00020012",
+      "text": "<tab>Enter the solar?"
+    },
+    {
+      "id": "0x00020013",
+      "text": "<tab>Leave the solar?"
+    },
+    {
+      "id": "0x00020014",
+      "text": "Ride Lift to the Airship Landing<tab>Proceed to the airship landing?"
+    },
+    {
+      "id": "0x00020015",
+      "text": "Ride Lift to the Drowning Wench<tab>Proceed to the Drowning Wench?"
+    },
+    {
+      "id": "0x00020016",
+      "text": "Ride Lift to Bulwark Hall<tab>Proceed to Bulwark Hall?"
+    },
+    {
+      "id": "0x00020017",
+      "text": "Ride Lift to the Airship Landing<tab>Proceed to the airship landing?"
+    },
+    {
+      "id": "0x00020018",
+      "text": "Ride Lift to the Hustings Strip<tab>Proceed to the Hustings Strip?"
+    },
+    {
+      "id": "0x00020019",
+      "text": "Ride Lift to the Ruby Road Exchange<tab>Proceed to the Ruby Road Exchange?"
+    },
+    {
+      "id": "0x0002001A",
+      "text": "<tab>Proceed into the Heart of the Sworn?"
+    },
+    {
+      "id": "0x0002001B",
+      "text": "<tab>Proceed to the Bowl of Embers?"
+    },
+    {
+      "id": "0x0002001C",
+      "text": "<tab>Leave the immediate area?"
+    },
+    {
+      "id": "0x0002001D",
+      "text": "Purchase Passage to Gridania<tab>Travel to Gridania for 120 gil?"
+    },
+    {
+      "id": "0x0002001E",
+      "text": "Purchase Passage to Limsa Lominsa<tab>Travel to Limsa Lominsa for 120 gil?"
+    },
+    {
+      "id": "0x0002001F",
+      "text": "Purchase Passage to Ul'dah<tab>Travel to Ul'dah for 120 gil?"
+    },
+    {
+      "id": "0x00020020",
+      "text": "Purchase Passage to Limsa Lominsa<tab>Travel to Limsa Lominsa for 120 gil?"
+    },
+    {
+      "id": "0x00020021",
+      "text": "Purchase Passage to Ul'dah<tab>Travel to Ul'dah for 120 gil?"
+    },
+    {
+      "id": "0x00020022",
+      "text": "Purchase Passage to Gridania<tab>Travel to Gridania for 120 gil?"
+    },
+    {
+      "id": "0x00020023",
+      "text": "<tab>Travel to Limsa Lominsa for 80 gil?"
+    },
+    {
+      "id": "0x00020024",
+      "text": "<tab>Travel to Vesper Bay for 80 gil?"
+    },
+    {
+      "id": "0x00020025",
+      "text": "Purchase Passage to Aleport<tab>Travel to Aleport for 40 gil?"
+    },
+    {
+      "id": "0x00020026",
+      "text": "Purchase Passage to Limsa Lominsa<tab>Travel to Limsa Lominsa for 40 gil?"
+    },
+    {
+      "id": "0x00020027",
+      "text": "Purchase Passage to Costa del Sol<tab>Travel to Costa del Sol for 40 gil?"
+    },
+    {
+      "id": "0x00020028",
+      "text": "Purchase Passage to Limsa Lominsa<tab>Travel to Limsa Lominsa for 40 gil?"
+    },
+    {
+      "id": "0x00020029",
+      "text": "Purchase Passage to Jijiroon's Trading Post<tab>Travel to Jijiroon's Trading Post for 40 gil?"
+    },
+    {
+      "id": "0x0002002A",
+      "text": "Purchase Passage to Memeroon's Trading Post<tab>Travel to Memeroon's Trading Post for 40 gil?"
+    },
+    {
+      "id": "0x0002002B",
+      "text": "Purchase Passage to Aleport<tab>Travel to Aleport for 40 gil?"
+    },
+    {
+      "id": "0x0002002C",
+      "text": "Purchase Passage to Candlekeep Quay<tab>Travel to Candlekeep Quay for 40 gil?"
+    },
+    {
+      "id": "0x0002002D",
+      "text": "Travel Beyond the White Wolf Gate<tab>Travel beyond the White Wolf Gate?"
+    },
+    {
+      "id": "0x0002002E",
+      "text": "<tab>Enter Gridania?"
+    },
+    {
+      "id": "0x0002002F",
+      "text": "Purchase Passage to Raincatcher Gully<tab>Travel to Raincatcher Gully for 40 gil?"
+    },
+    {
+      "id": "0x00020030",
+      "text": "Purchase Passage to Hidden Falls<tab>Travel to Hidden Falls for 40 gil?"
+    },
+    {
+      "id": "0x00020031",
+      "text": "Seek Entry to the Lotus Stand<tab>Proceed to the Lotus Stand?"
+    },
+    {
+      "id": "0x00020032",
+      "text": "Seek Entry to the Command Room<tab>Enter the command room?"
+    },
+    {
+      "id": "0x00020033",
+      "text": "<tab>Leave the command room?"
+    },
+    {
+      "id": "0x00020036",
+      "text": "<tab>Travel to the Minotaur Malm?"
+    },
+    {
+      "id": "0x00020037",
+      "text": "<tab>Travel to Nald's Reflection?"
+    },
+    {
+      "id": "0x00020038",
+      "text": "<tab>Leave the landing area?"
+    },
+    {
+      "id": "0x00020039",
+      "text": "<tab>Leave the landing area?"
+    },
+    {
+      "id": "0x0002003A",
+      "text": "<tab>Leave the landing area?"
+    },
+    {
+      "id": "0x0002003B",
+      "text": "Seek Passage to the Wolves' Den<tab>Travel to the Wolves' Den?"
+    },
+    {
+      "id": "0x0002003C",
+      "text": "Seek Passage to the Moraby Drydocks<tab>Travel to the Moraby Drydocks?"
+    },
+    {
+      "id": "0x0002003D",
+      "text": "Seek Passage to Aleport<tab>Travel to Aleport?"
+    },
+    {
+      "id": "0x0002003E",
+      "text": "Purchase Passage to the Isles of Umbra<tab>Travel to the Isles of Umbra for 40 gil?"
+    },
+    {
+      "id": "0x0002003F",
+      "text": "Seek Passage to Aleport<tab>Travel to Aleport?"
+    },
+    {
+      "id": "0x00020040",
+      "text": "Purchase Passage to the Serpent's Tongue<tab>Travel to the Serpent's Tongue for 40 gil?"
+    },
+    {
+      "id": "0x00020041",
+      "text": "<tab>Leave Cid's workshop?"
+    },
+    {
+      "id": "0x00020042",
+      "text": "<tab>Travel to Gridania?"
+    },
+    {
+      "id": "0x00020043",
+      "text": "<tab>Leave the Binding Coil of Bahamut?"
+    },
+    {
+      "id": "0x00020044",
+      "text": "<tab>Leave the Binding Coil of Bahamut?"
+    },
+    {
+      "id": "0x00020045",
+      "text": "<tab>Activate the lift?"
+    },
+    {
+      "id": "0x00020046",
+      "text": "<tab>Enter the solar?"
+    },
+    {
+      "id": "0x00020047",
+      "text": "<tab>Leave the solar?"
+    },
+    {
+      "id": "0x00020048",
+      "text": "<tab>Enter the Rising Stones?"
+    },
+    {
+      "id": "0x00020049",
+      "text": "<tab>Leave the Rising Stones?"
+    },
+    {
+      "id": "0x0002004A",
+      "text": "<tab>Enter the Eight Sentinels?"
+    },
+    {
+      "id": "0x0002004B",
+      "text": "<tab>Leave the Eight Sentinels?"
+    },
+    {
+      "id": "0x0002004C",
+      "text": "<tab>Enter the estate hall?"
+    },
+    {
+      "id": "0x0002004D",
+      "text": "<tab>Leave the estate hall?"
+    },
+    {
+      "id": "0x00020050",
+      "text": "<tab>Leave the 13th Order workshop?"
+    },
+    {
+      "id": "0x00020051",
+      "text": "<tab>Return to Novv's Nursery?"
+    },
+    {
+      "id": "0x00020052",
+      "text": "<tab>Return to Novv's Nursery?"
+    },
+    {
+      "id": "0x00020053",
+      "text": "<tab>Return to Novv's Nursery?"
+    },
+    {
+      "id": "0x00020054",
+      "text": "<tab>Return to Novv's Nursery?"
+    },
+    {
+      "id": "0x00020055",
+      "text": "<tab>Return to Novv's Nursery?"
+    },
+    {
+      "id": "0x00020056",
+      "text": "Seek Passage to the Lavender Beds<tab>Travel to the Lavender Beds?"
+    },
+    {
+      "id": "0x00020058",
+      "text": "Seek Passage to Mist<tab>Travel to Mist?"
+    },
+    {
+      "id": "0x0002005C",
+      "text": "<tab>Leave the Eorzean subterrane?"
+    },
+    {
+      "id": "0x0002005D",
+      "text": "<tab>Leave the Binding Coil of Bahamut?"
+    },
+    {
+      "id": "0x0002005E",
+      "text": "<tab>Enter the intercessory?"
+    },
+    {
+      "id": "0x0002005F",
+      "text": "<tab>Leave the intercessory?"
+    },
+    {
+      "id": "0x00020060",
+      "text": "<tab>Leave the Ivory Chapel?"
+    },
+    {
+      "id": "0x00020061",
+      "text": "Board the Rhotano Privateer<tab>Board the Rhotano privateer?"
+    },
+    {
+      "id": "0x00020062",
+      "text": "Return to Costa del Sol<tab>Return to Costa del Sol?"
+    },
+    {
+      "id": "0x00020063",
+      "text": "<tab>Leave the guild?"
+    },
+    {
+      "id": "0x00020064",
+      "text": "Enter the Rogues' Guild<tab>Enter the Rogues' Guild?"
+    },
+    {
+      "id": "0x00020065",
+      "text": "<tab>Leave the dock storehouse?"
+    },
+    {
+      "id": "0x00020066",
+      "text": "Enter the dock storehouse<tab>Enter the dock storehouse?"
+    },
+    {
+      "id": "0x00020067",
+      "text": "<tab>Leave the Eorzean subterrane?"
+    },
+    {
+      "id": "0x00020068",
+      "text": "<tab>Enter the Ivory Chapel?"
+    },
+    {
+      "id": "0x00020069",
+      "text": "<tab>Ride lift to Chocobo Square?"
+    },
+    {
+      "id": "0x0002006A",
+      "text": "<tab>Return to Entrance Square?"
+    },
+    {
+      "id": "0x0002006B",
+      "text": "Seek Passage to the Gold Saucer<tab>Travel to the Gold Saucer?"
+    },
+    {
+      "id": "0x0002006C",
+      "text": "Seek Passage to the Gold Saucer<tab>Travel to the Gold Saucer?"
+    },
+    {
+      "id": "0x0002006D",
+      "text": "Seek Passage to the Gold Saucer<tab>Travel to the Gold Saucer?"
+    },
+    {
+      "id": "0x0002006E",
+      "text": "Purchase Passage to Limsa Lominsa<tab>Travel to Limsa Lominsa for 120 gil?"
+    },
+    {
+      "id": "0x0002006F",
+      "text": "Seek Passage to Ul'dah<tab>Travel to Ul'dah?"
+    },
+    {
+      "id": "0x00020070",
+      "text": "Purchase Passage to Gridania<tab>Travel to Gridania for 120 gil?"
+    },
+    {
+      "id": "0x00020071",
+      "text": "<tab>Cross the Steps of Faith to the Arc of the Worthy?"
+    },
+    {
+      "id": "0x00020072",
+      "text": "<tab>Return to the Gates of Judgement?"
+    },
+    {
+      "id": "0x00020073",
+      "text": "Enter the Proving Grounds<tab>Enter the proving grounds?"
+    },
+    {
+      "id": "0x00020074",
+      "text": "Seek Passage to Cloudtop<tab>Travel to Cloudtop?"
+    },
+    {
+      "id": "0x00020075",
+      "text": "<tab>Travel to the Blue Window?"
+    },
+    {
+      "id": "0x00020076",
+      "text": "Seek Passage to Azys Lla<tab>Make the journey to Azys Lla?"
+    },
+    {
+      "id": "0x00020077",
+      "text": "<tab>Enter Saint Endalim's Scholasticate?"
+    },
+    {
+      "id": "0x00020078",
+      "text": "<tab>Enter Fortemps Manor?"
+    },
+    {
+      "id": "0x00020079",
+      "text": "<tab>Leave Saint Endalim's Scholasticate?"
+    },
+    {
+      "id": "0x0002007A",
+      "text": "<tab>Leave the Seat of the Lord Commander?"
+    },
+    {
+      "id": "0x0002007B",
+      "text": "<tab>Leave Fortemps Manor?"
+    },
+    {
+      "id": "0x0002007C",
+      "text": "<tab>Leave the proving grounds?"
+    },
+    {
+      "id": "0x0002007D",
+      "text": "<tab>Travel to Ishgard?"
+    },
+    {
+      "id": "0x0002007E",
+      "text": "<tab>Travel to Ishgard?"
+    },
+    {
+      "id": "0x0002007F",
+      "text": "<tab>Climb Sohm Al to the Churning Mists?"
+    },
+    {
+      "id": "0x00020080",
+      "text": "<tab>Descend Sohm Al to the Dravanian forelands?"
+    },
+    {
+      "id": "0x00020081",
+      "text": "<tab>Enter Matoya's Cave?"
+    },
+    {
+      "id": "0x00020082",
+      "text": "<tab>Leave Matoya's Cave?"
+    },
+    {
+      "id": "0x00020083",
+      "text": "<tab>Travel to Ishgard?"
+    },
+    {
+      "id": "0x00020085",
+      "text": "<tab>Exit room?"
+    },
+    {
+      "id": "0x00020086",
+      "text": "<tab>Exit the sacrificial chamber?"
+    },
+    {
+      "id": "0x00020087",
+      "text": "<tab>Move to the Alpha Quadrant?"
+    },
+    {
+      "id": "0x00020088",
+      "text": "<tab>Move to the Beta Quadrant?"
+    },
+    {
+      "id": "0x00020089",
+      "text": "<tab>Move to the Beta Quadrant?"
+    },
+    {
+      "id": "0x0002008A",
+      "text": "<tab>Move to the Gamma Quadrant?"
+    },
+    {
+      "id": "0x0002008B",
+      "text": "<tab>Move to the Gamma Quadrant?"
+    },
+    {
+      "id": "0x0002008C",
+      "text": "<tab>Move to the Delta Quadrant?"
+    },
+    {
+      "id": "0x0002008D",
+      "text": "<tab>Move to the research facility?"
+    },
+    {
+      "id": "0x0002008E",
+      "text": "<tab>Leave Articulation?"
+    },
+    {
+      "id": "0x0002008F",
+      "text": "<tab>Leave the Gordian Knot?"
+    },
+    {
+      "id": "0x00020090",
+      "text": "Escape Reality<tab>Climb to the Eighteenth Floor?"
+    },
+    {
+      "id": "0x00020091",
+      "text": "Live the Fantasy<tab>Leave the Eighteenth Floor?"
+    },
+    {
+      "id": "0x00020092",
+      "text": "<tab>Use a shortcut to travel to the Dravanian hinterlands?"
+    },
+    {
+      "id": "0x00020093",
+      "text": "<tab>Leave the Twin Adder Barracks?"
+    },
+    {
+      "id": "0x00020094",
+      "text": "<tab>Return to the goodly adventurer?"
+    },
+    {
+      "id": "0x00020095",
+      "text": "<tab>Leave Articulation?"
+    },
+    {
+      "id": "0x00020096",
+      "text": "<tab>Leave the Midan Knot?"
+    },
+    {
+      "id": "0x00020097",
+      "text": "<tab>Fly to the Parrock?"
+    },
+    {
+      "id": "0x00020098",
+      "text": "<tab>Return to Coldwind?"
+    },
+    {
+      "id": "0x00020099",
+      "text": "<tab>Enter Leofard's chambers?"
+    },
+    {
+      "id": "0x0002009A",
+      "text": "<tab>Exit Leofard's chambers?"
+    },
+    {
+      "id": "0x0002009B",
+      "text": "<tab>Exit the airship landing?"
+    },
+    {
+      "id": "0x0002009C",
+      "text": "<tab>Enter the airship landing?"
+    },
+    {
+      "id": "0x0002009D",
+      "text": "Purchase Passage to Ishgard<tab>Travel to Ishgard for 150 gil?"
+    },
+    {
+      "id": "0x0002009E",
+      "text": "Purchase Passage to Ishgard<tab>Travel to Ishgard for 150 gil?"
+    },
+    {
+      "id": "0x0002009F",
+      "text": "Purchase Passage to Ishgard<tab>Travel to Ishgard for 150 gil?"
+    },
+    {
+      "id": "0x000200A0",
+      "text": "Purchase Passage to Ul'dah<tab>Travel to Ul'dah for 150 gil?"
+    },
+    {
+      "id": "0x000200A1",
+      "text": "Purchase Passage to Gridania<tab>Travel to Gridania for 150 gil?"
+    },
+    {
+      "id": "0x000200A2",
+      "text": "Purchase Passage to Limsa Lominsa<tab>Travel to Limsa Lominsa for 150 gil?"
+    },
+    {
+      "id": "0x000200A3",
+      "text": "<tab>Travel to Ishgard?"
+    },
+    {
+      "id": "0x000200A4",
+      "text": "<tab>Exit the Palace of the Dead?"
+    },
+    {
+      "id": "0x000200A5",
+      "text": "Purchase Passage to Ishgard<tab>Travel to Ishgard for 150 gil?"
+    },
+    {
+      "id": "0x000200A6",
+      "text": "Seek Passage to the Gold Saucer<tab>Travel to the Gold Saucer?"
+    },
+    {
+      "id": "0x000200A7",
+      "text": "<tab>Exit Central Control?"
+    },
+    {
+      "id": "0x000200A8",
+      "text": "Inquire Within<tab>Enter the children's ward?"
+    },
+    {
+      "id": "0x000200A9",
+      "text": "<tab>Leave the children's ward?"
+    },
+    {
+      "id": "0x000200AA",
+      "text": "<tab>Leave the Main Generators?"
+    },
+    {
+      "id": "0x000200AB",
+      "text": "<tab>Leave the Maelstrom Barracks?"
+    },
+    {
+      "id": "0x000200AC",
+      "text": "<tab>Leave the Flame Barracks?"
+    },
+    {
+      "id": "0x000200AE",
+      "text": "<tab>Exit room?"
+    },
+    {
+      "id": "0x000200AF",
+      "text": "<tab>Exit Omega Control?"
+    },
+    {
+      "id": "0x000200B2",
+      "text": "<tab>Travel to Amarissaix's Spire?"
+    },
+    {
+      "id": "0x000200B3",
+      "text": "<tab>Travel to Castrum Oriens?"
+    },
+    {
+      "id": "0x000200B4",
+      "text": "Purchase Passage to Limsa Lominsa<tab>Travel to Limsa Lominsa for 300 gil?"
+    },
+    {
+      "id": "0x000200B5",
+      "text": "Purchase Passage to Kugane<tab>Travel to Kugane for 300 gil?"
+    },
+    {
+      "id": "0x000200B6",
+      "text": "<tab>Approach Virdjala?"
+    },
+    {
+      "id": "0x000200B7",
+      "text": "<tab>Approach Pike Falls?"
+    },
+    {
+      "id": "0x000200B8",
+      "text": "<tab>Enter the Ala Mhigan Quarter?"
+    },
+    {
+      "id": "0x000200B9",
+      "text": "<tab>Enter the tunnel?"
+    },
+    {
+      "id": "0x000200BA",
+      "text": "<tab>Enter the Ala Mhigan Quarter?"
+    },
+    {
+      "id": "0x000200BB",
+      "text": "<tab>Leave the Ala Mhigan Quarter?"
+    },
+    {
+      "id": "0x000200BC",
+      "text": "<tab>Exit the Ruby Bazaar offices?"
+    },
+    {
+      "id": "0x000200BD",
+      "text": "Enter the Ruby Bazaar Offices<tab>Enter the Ruby Bazaar offices?"
+    },
+    {
+      "id": "0x000200BE",
+      "text": "<tab>Proceed to the airship landing?"
+    },
+    {
+      "id": "0x000200BF",
+      "text": "<tab>Exit the airship landing?"
+    },
+    {
+      "id": "0x000200C0",
+      "text": "Enter the House of the Fierce<tab>Enter the House of the Fierce?"
+    },
+    {
+      "id": "0x000200C1",
+      "text": "<tab>Enter the House of the Fierce?"
+    },
+    {
+      "id": "0x000200C2",
+      "text": "<tab>Exit the House of the Fierce?"
+    },
+    {
+      "id": "0x000200C3",
+      "text": "<tab>Enter the Doman Enclave?"
+    },
+    {
+      "id": "0x000200C4",
+      "text": "<tab>Travel to the Glittering Basin?"
+    },
+    {
+      "id": "0x000200C5",
+      "text": "<tab>Descend from the Dawn Throne?"
+    },
+    {
+      "id": "0x000200C6",
+      "text": "<tab>Ascend to the Dawn Throne?"
+    },
+    {
+      "id": "0x000200C7",
+      "text": "<tab>Travel to Specula Imperatoris?"
+    },
+    {
+      "id": "0x000200C8",
+      "text": "<tab>Leave Specula Imperatoris?"
+    },
+    {
+      "id": "0x000200C9",
+      "text": "<tab>Leave the First Altar of Djanan Qhat?"
+    },
+    {
+      "id": "0x000200CA",
+      "text": "<tab>Travel to Limsa Lominsa?"
+    },
+    {
+      "id": "0x000200CB",
+      "text": "<tab>Return to the battle-scarred veteran?"
+    },
+    {
+      "id": "0x000200CC",
+      "text": "<tab>Leave the Royal Menagerie?"
+    },
+    {
+      "id": "0x000200CD",
+      "text": "<tab>Proceed through the gate?"
+    },
+    {
+      "id": "0x000200CE",
+      "text": "<tab>Proceed through the gate?"
+    },
+    {
+      "id": "0x000200CF",
+      "text": "<tab>Leave the Interdimensional Rift?"
+    },
+    {
+      "id": "0x000200D0",
+      "text": "<tab>Escape the Mordion Gaol?"
+    },
+    {
+      "id": "0x000200D1",
+      "text": "<tab>Enter the tiring room?"
+    },
+    {
+      "id": "0x000200D2",
+      "text": "<tab>Return to Kugane?"
+    },
+    {
+      "id": "0x000200D3",
+      "text": "<tab>Report to the bridge?"
+    },
+    {
+      "id": "0x000200D4",
+      "text": "<tab>Enter the tiring room?"
+    },
+    {
+      "id": "0x000200D5",
+      "text": "<tab>Leave the Royal Palace?"
+    },
+    {
+      "id": "0x000200D6",
+      "text": "<tab>Leave the Resonatorium?"
+    },
+    {
+      "id": "0x000200D7",
+      "text": "<tab>Move to the Royal Menagerie?"
+    },
+    {
+      "id": "0x000200D8",
+      "text": "<tab>Leave the Royal Menagerie?"
+    },
+    {
+      "id": "0x000200D9",
+      "text": "<tab>Leave the Royal Palace?"
+    },
+    {
+      "id": "0x000200DA",
+      "text": "<tab>Travel to Sakazuki for 30 gil?"
+    },
+    {
+      "id": "0x000200DB",
+      "text": "<tab>Travel to Onokoro for 30 gil?"
+    },
+    {
+      "id": "0x000200DC",
+      "text": "<tab>Travel to the Doman Enclave?"
+    },
+    {
+      "id": "0x000200DD",
+      "text": "<tab>Travel to the Doman Enclave?"
+    },
+    {
+      "id": "0x000200DE",
+      "text": "<tab>Leave the Kienkan?"
+    },
+    {
+      "id": "0x000200DF",
+      "text": "Enter Reisen Temple<tab>Enter Reisen Temple?"
+    },
+    {
+      "id": "0x000200E0",
+      "text": "<tab>Exit to Yanxia?"
+    },
+    {
+      "id": "0x000200E1",
+      "text": "<tab>Leave Reisen Temple?"
+    },
+    {
+      "id": "0x000200E2",
+      "text": "<tab>Exit Heaven-on-High?"
+    },
+    {
+      "id": "0x000200E3",
+      "text": "<tab>Approach Virdjala?"
+    },
+    {
+      "id": "0x000200E4",
+      "text": "<tab>Report to the bridge?"
+    },
+    {
+      "id": "0x000200E5",
+      "text": "<tab>Descend from Dhoro Iloh?"
+    },
+    {
+      "id": "0x000200E6",
+      "text": "<tab>Ascend to Dhoro Iloh?"
+    },
+    {
+      "id": "0x000200E7",
+      "text": "<tab>Enter the Haunted Manor?"
+    },
+    {
+      "id": "0x000200E8",
+      "text": "<tab>Leave the Haunted Manor?"
+    },
+    {
+      "id": "0x000200E9",
+      "text": "<tab>Travel to the Lochs?"
+    },
+    {
+      "id": "0x000200EA",
+      "text": "<tab>Travel to the Lochs?"
+    },
+    {
+      "id": "0x000200EB",
+      "text": "<tab>Leave the Howling Eye?"
+    },
+    {
+      "id": "0x000200EC",
+      "text": "<tab>Enter the tiring room?"
+    },
+    {
+      "id": "0x000200ED",
+      "text": "<tab>Board the <var 1A 02 /var>Prima Vista<var 1A 01 /var>?"
+    },
+    {
+      "id": "0x000200EE",
+      "text": "<tab>Travel to the Val River source?"
+    },
+    {
+      "id": "0x000200EF",
+      "text": "<tab>Exit the Ocular?"
+    },
+    {
+      "id": "0x000200F0",
+      "text": "<tab>Exit room?"
+    },
+    {
+      "id": "0x000200F1",
+      "text": "<tab>Proceed to the Canopy?"
+    },
+    {
+      "id": "0x000200F2",
+      "text": "Enter the Buttress<tab>Proceed to the Buttress?"
+    },
+    {
+      "id": "0x000200F3",
+      "text": "<tab>Enter the Ocular?"
+    },
+    {
+      "id": "0x000200F4",
+      "text": "Inquire Within<tab>"
+    },
+    {
+      "id": "0x000200F5",
+      "text": "<tab>Journey into the Empty?"
+    },
+    {
+      "id": "0x000200F6",
+      "text": "<tab>Return to Amh Araeng?"
+    },
+    {
+      "id": "0x000200F7",
+      "text": "<tab>Proceed to Eden's core?"
+    },
+    {
+      "id": "0x000200F8",
+      "text": "<tab>Return to the camp?"
+    },
+    {
+      "id": "0x000200F9",
+      "text": "<tab>Return to the soft-faced bloke?"
+    },
+    {
+      "id": "0x000200FA",
+      "text": "<tab>Travel to the Syrcus Trench?"
+    },
+    {
+      "id": "0x000200FB",
+      "text": "<tab>Travel to north Silvertear?"
+    },
+    {
+      "id": "0x000200FC",
+      "text": "<tab>Travel to the First?"
+    },
+    {
+      "id": "0x000200FD",
+      "text": "Return to the Source<tab>Travel to the Source?"
+    },
+    {
+      "id": "0x000200FE",
+      "text": "<tab>Travel to Kholusia?"
+    },
+    {
+      "id": "0x000200FF",
+      "text": "<tab>Travel to the Tempest?"
+    },
+    {
+      "id": "0x00020100",
+      "text": "<tab>Travel to the Source?"
+    },
+    {
+      "id": "0x00020101",
+      "text": "Enter Kholusia<tab>Travel to Kholusia?"
+    },
+    {
+      "id": "0x00020102",
+      "text": "<tab>Proceed to Top Rung?"
+    },
+    {
+      "id": "0x00020103",
+      "text": "<tab>Proceed to Bottom Rung?"
+    },
+    {
+      "id": "0x00020104",
+      "text": "<tab>Travel to the Crystarium?"
+    },
+    {
+      "id": "0x00020105",
+      "text": "<tab>Travel to the Tempest?"
+    },
+    {
+      "id": "0x00020106",
+      "text": "<tab>Travel to Kholusia?"
+    },
+    {
+      "id": "0x00020107",
+      "text": "<tab>Travel to Amh Araeng?"
+    },
+    {
+      "id": "0x00020108",
+      "text": "<tab>Travel to the Crystarium?"
+    },
+    {
+      "id": "0x00020109",
+      "text": "Enter the Crystarium<tab>Travel to the Crystarium?"
+    },
+    {
+      "id": "0x0002010A",
+      "text": "<tab>Travel to the Southern Hills of Amber?"
+    },
+    {
+      "id": "0x0002010B",
+      "text": "<tab>Travel to Twine?"
+    },
+    {
+      "id": "0x0002010C",
+      "text": "<tab>Descend to the ground floor of Achora Heights?"
+    },
+    {
+      "id": "0x0002010D",
+      "text": "<tab>Ascend to the top floor of Achora Heights?"
+    },
+    {
+      "id": "0x0002010E",
+      "text": "Enter the Firmament<tab>Proceed to the Firmament?"
+    },
+    {
+      "id": "0x0002010F",
+      "text": "<tab>Proceed to the Brume?"
+    },
+    {
+      "id": "0x00020110",
+      "text": "<tab>Return to Il Mheg?"
+    },
+    {
+      "id": "0x00020111",
+      "text": "<tab>Enter Lyhe Mheg?"
+    },
+    {
+      "id": "0x00020112",
+      "text": "<tab>Enter Lyhe Mheg?"
+    },
+    {
+      "id": "0x00020113",
+      "text": "<tab>Enter Lyhe Mheg?"
+    },
+    {
+      "id": "0x00020114",
+      "text": "<tab>Exit the excavation tunnels?"
+    },
+    {
+      "id": "0x00020115",
+      "text": "<tab>Enter the excavation tunnels?"
+    },
+    {
+      "id": "0x00020116",
+      "text": "<tab>Enter the Copied Factory?"
+    },
+    {
+      "id": "0x00020117",
+      "text": "<tab>Exit the Copied Factory?"
+    },
+    {
+      "id": "0x00020118",
+      "text": "<tab>Proceed to zone 1?"
+    },
+    {
+      "id": "0x00020119",
+      "text": "<tab>Proceed to zone 4?"
+    },
+    {
+      "id": "0x0002011A",
+      "text": "<tab>Proceed to zone 2?"
+    },
+    {
+      "id": "0x0002011B",
+      "text": "Enter the Crystarium<tab>Travel to the Crystarium?"
+    },
+    {
+      "id": "0x0002011C",
+      "text": "Enter Eulmore<tab>Travel to Eulmore?"
+    },
+    {
+      "id": "0x0002011D",
+      "text": "<tab>Proceed to zone 5?"
+    },
+    {
+      "id": "0x0002011E",
+      "text": "<tab>Proceed to zone 4?"
+    },
+    {
+      "id": "0x0002011F",
+      "text": "<tab>Travel to Gangos?"
+    },
+    {
+      "id": "0x00020120",
+      "text": "<tab>Travel to the Doman Enclave?"
+    },
+    {
+      "id": "0x00020121",
+      "text": "<tab>Enter the children's ward?"
+    },
+    {
+      "id": "0x00020122",
+      "text": "<tab>Leave the children's ward?"
+    },
+    {
+      "id": "0x00020123",
+      "text": "<tab>Travel to Kholusia?"
+    },
+    {
+      "id": "0x00020124",
+      "text": "<tab>Travel to Gyr Abania?"
+    },
+    {
+      "id": "0x00020125",
+      "text": "<tab>Travel to Terncliff?"
+    },
+    {
+      "id": "0x00020126",
+      "text": "<tab>Leave Dawn's Respite?"
+    },
+    {
+      "id": "0x00020127",
+      "text": "<tab>Enter Dawn's Respite?"
+    },
+    {
+      "id": "0x00020128",
+      "text": "<tab>Leave Noesis?"
+    },
+    {
+      "id": "0x00020129",
+      "text": "<tab>Enter Noesis?"
+    },
+    {
+      "id": "0x0002012A",
+      "text": "<tab>Enter the Ocular?"
+    },
+    {
+      "id": "0x0002012B",
+      "text": "<tab>Enter Anogg's lair?"
+    },
+    {
+      "id": "0x0002012C",
+      "text": "<tab>Return to the excavation tunnels?"
+    },
+    {
+      "id": "0x0002012D",
+      "text": "<tab>Enter the Puppets' Bunker?"
+    },
+    {
+      "id": "0x0002012E",
+      "text": "<tab>Exit to Kholusia?"
+    },
+    {
+      "id": "0x00020130",
+      "text": "<tab>Travel to the Duergar Mountains?"
+    },
+    {
+      "id": "0x00020132",
+      "text": "<tab>Leave the tower and travel to the Crystarium?"
+    },
+    {
+      "id": "0x00020133",
+      "text": "<tab>Leave the Haunted Manor?"
+    },
+    {
+      "id": "0x00020134",
+      "text": "<tab>Enter the Bunker?"
+    },
+    {
+      "id": "0x00020135",
+      "text": "<tab>Enter the alien ship?"
+    },
+    {
+      "id": "0x00020136",
+      "text": "<tab>Enter the Haunted Manor?"
+    },
+    {
+      "id": "0x00020137",
+      "text": "<tab>Enter the children's ward?"
+    },
+    {
+      "id": "0x00020138",
+      "text": "<tab>Leave the children's ward?"
+    },
+    {
+      "id": "0x00020139",
+      "text": "<tab>Travel to western Thanalan?"
+    },
+    {
+      "id": "0x0002013A",
+      "text": "<tab>Travel to Saint Roelle's Dais?"
+    },
+    {
+      "id": "0x0002013B",
+      "text": "<tab>Travel to Gangos?"
+    },
+    {
+      "id": "0x0002013C",
+      "text": "<tab>Journey into the Empty?"
+    },
+    {
+      "id": "0x0002013D",
+      "text": "<tab>Enter the Dreamer's Run?"
+    },
+    {
+      "id": "0x0002013E",
+      "text": "<tab>Leave the Dreamer's Run?"
+    },
+    {
+      "id": "0x0002013F",
+      "text": "<tab>Travel to Terncliff?"
+    },
+    {
+      "id": "0x00020140",
+      "text": "Enter Lemures Headquarters<tab>Proceed to Lemures headquarters?"
+    },
+    {
+      "id": "0x00020141",
+      "text": "<tab>Leave Lemures headquarters?"
+    },
+    {
+      "id": "0x00020142",
+      "text": "<tab>Leave the strategy room?"
+    },
+    {
+      "id": "0x00020143",
+      "text": "Enter Empyreum<tab>"
+    },
+    {
+      "id": "0x00020147",
+      "text": "Purchase Passage to Kugane<tab>Travel to Kugane for 300 gil?"
+    },
+    {
+      "id": "0x00020148",
+      "text": "Purchase Passage to Radz-at-Han<tab>Travel to Radz-at-Han for 300 gil?"
+    },
+    {
+      "id": "0x00020149",
+      "text": "Enter the Andron<tab>"
+    },
+    {
+      "id": "0x0002014A",
+      "text": "<tab>Exit room?"
+    },
+    {
+      "id": "0x0002014B",
+      "text": "<tab>Enter the main hall?"
+    },
+    {
+      "id": "0x0002014C",
+      "text": "<tab>Leave the main hall?"
+    },
+    {
+      "id": "0x0002014D",
+      "text": "<tab>Travel to Limsa Lominsa for 300 gil?"
+    },
+    {
+      "id": "0x0002014E",
+      "text": "<tab>Travel to Old Sharlayan for 300 gil?"
+    },
+    {
+      "id": "0x0002014F",
+      "text": "<tab>Enter Labyrinthos?"
+    },
+    {
+      "id": "0x00020150",
+      "text": "<tab>Return to Old Sharlayan?"
+    },
+    {
+      "id": "0x00020151",
+      "text": "<tab>Enter Radz-at-Han?"
+    },
+    {
+      "id": "0x00020152",
+      "text": "<tab>Exit to Thavnair?"
+    },
+    {
+      "id": "0x00020153",
+      "text": "<tab>Proceed to the Medial Circuit?"
+    },
+    {
+      "id": "0x00020154",
+      "text": "<tab>Proceed to the Outer Circuit?"
+    },
+    {
+      "id": "0x00020155",
+      "text": "<tab>Proceed to the Central Circuit?"
+    },
+    {
+      "id": "0x00020156",
+      "text": "<tab>Proceed to the Medial Circuit?"
+    },
+    {
+      "id": "0x00020157",
+      "text": "<tab>Descend to the lower levels?"
+    },
+    {
+      "id": "0x00020158",
+      "text": "<tab>Ascend to the main level?"
+    },
+    {
+      "id": "0x00020159",
+      "text": "<tab>Journey to Ultima Thule?"
+    },
+    {
+      "id": "0x0002015A",
+      "text": "<tab>Return to Labyrinthos?"
+    },
+    {
+      "id": "0x0002015B",
+      "text": "<tab>Enter the Ala Mhigan Quarter?"
+    },
+    {
+      "id": "0x0002015C",
+      "text": "<tab>Travel to Garlemald?"
+    },
+    {
+      "id": "0x0002015D",
+      "text": "<tab>Enter Pandæmonium?"
+    },
+    {
+      "id": "0x0002015E",
+      "text": "<tab>Exit to Elpis?"
+    },
+    {
+      "id": "0x0002015F",
+      "text": "<tab>Return to the sharp-eyed Radiant?"
+    },
+    {
+      "id": "0x00020160",
+      "text": "<tab>Proceed upward?"
+    },
+    {
+      "id": "0x00020161",
+      "text": "<tab>Return to the entrance?"
+    },
+    {
+      "id": "0x00020162",
+      "text": "<tab>Proceed skyward?"
+    },
+    {
+      "id": "0x00020163",
+      "text": "<tab>Proceed downward?"
+    },
+    {
+      "id": "0x00020164",
+      "text": "<tab>Leave the Mothercrystal?"
+    },
+    {
+      "id": "0x00020165",
+      "text": "Purchase Passage to Ul'dah<tab>Travel to Ul'dah for 300 gil?"
+    },
+    {
+      "id": "0x00020166",
+      "text": "Purchase Passage to Radz-at-Han<tab>Travel to Radz-at-Han for 300 gil?"
+    },
+    {
+      "id": "0x00020167",
+      "text": "Purchase Passage to Gridania<tab>Travel to Gridania for 300 gil?"
+    },
+    {
+      "id": "0x00020168",
+      "text": "Purchase Passage to Radz-at-Han<tab>Travel to Radz-at-Han for 300 gil?"
+    },
+    {
+      "id": "0x00020169",
+      "text": "Purchase Passage to Limsa Lominsa<tab>Travel to Limsa Lominsa for 300 gil?"
+    },
+    {
+      "id": "0x0002016A",
+      "text": "Purchase Passage to Radz-at-Han<tab>Travel to Radz-at-Han for 300 gil?"
+    },
+    {
+      "id": "0x0002016B",
+      "text": "Purchase Passage to Ishgard<tab>Travel to Ishgard for 500 gil?"
+    },
+    {
+      "id": "0x0002016C",
+      "text": "Purchase Passage to Radz-at-Han<tab>Travel to Radz-at-Han for 500 gil?"
+    },
+    {
+      "id": "0x0002016D",
+      "text": "<tab>Proceed to Ostrakon Deka-hexi?"
+    },
+    {
+      "id": "0x0002016E",
+      "text": "<tab>Proceed to Ostrakon Tria?"
+    },
+    {
+      "id": "0x0002016F",
+      "text": "<tab>Proceed to the empty portal?"
+    },
+    {
+      "id": "0x00020170",
+      "text": "<tab>Proceed to the fallow portal?"
+    },
+    {
+      "id": "0x00020171",
+      "text": "<tab>Proceed to the unmemoried portal?"
+    },
+    {
+      "id": "0x00020172",
+      "text": "<tab>Proceed to Base Omicron?"
+    },
+    {
+      "id": "0x00020173",
+      "text": "<tab>Enter the Royal Menagerie?"
+    },
+    {
+      "id": "0x00020174",
+      "text": "<tab>Exit to Ultima Thule?"
+    },
+    {
+      "id": "0x00020175",
+      "text": "<tab>Return beyond the stars?"
+    },
+    {
+      "id": "0x00020176",
+      "text": "<tab>Leave the Haunted Manor?"
+    },
+    {
+      "id": "0x00020177",
+      "text": "<tab>Enter the Haunted Manor?"
+    },
+    {
+      "id": "0x00020178",
+      "text": "<tab>Travel to Thavnair?"
+    },
+    {
+      "id": "0x00020179",
+      "text": "<tab>Return to the Enceladeum?"
+    },
+    {
+      "id": "0x0002017A",
+      "text": "Enter the Nethergate<tab>Proceed to the Nethergate?"
+    },
+    {
+      "id": "0x0002017B",
+      "text": "<tab>Proceed to the Nethergate?"
+    },
+    {
+      "id": "0x0002017C",
+      "text": "<tab>Return to the Ocular?"
+    },
+    {
+      "id": "0x0002017D",
+      "text": "Travel to Elpis<tab>Proceed to Elpis?"
+    },
+    {
+      "id": "0x0002017E",
+      "text": "<tab>Proceed to Philomythes Notos?"
+    },
+    {
+      "id": "0x0002017F",
+      "text": "<tab>Proceed to Kallimelios Zephyros?"
+    },
+    {
+      "id": "0x00020180",
+      "text": "<tab>Proceed to Kallimelios Zephyros?"
+    },
+    {
+      "id": "0x00020181",
+      "text": "<tab>Proceed to Ethoseletikos Boreas?"
+    },
+    {
+      "id": "0x00020182",
+      "text": "<tab>Proceed to Ethoseletikos Boreas?"
+    },
+    {
+      "id": "0x00020183",
+      "text": "<tab>Proceed to Misopses Euros?"
+    },
+    {
+      "id": "0x00020184",
+      "text": "<tab>Proceed to the upper burrows?"
+    },
+    {
+      "id": "0x00020185",
+      "text": "<tab>Proceed to the lower burrows?"
+    },
+    {
+      "id": "0x00020186",
+      "text": "<tab>Travel to Mare Lamentorum?"
+    },
+    {
+      "id": "0x00020187",
+      "text": "<tab>Leave the station?"
+    },
+    {
+      "id": "0x00020188",
+      "text": "<tab>Leave the Dark Inside?"
+    },
+    {
+      "id": "0x00020189",
+      "text": "Enter the Station<tab>Proceed to the station?"
+    },
+    {
+      "id": "0x0002018A",
+      "text": "<tab>Journey to Ultima Thule?"
+    },
+    {
+      "id": "0x0002018B",
+      "text": "<tab>Proceed to the Ocular?"
+    },
+    {
+      "id": "0x0002018C",
+      "text": "<tab>Leave the Porta Decumana?"
+    },
+    {
+      "id": "0x0002018D",
+      "text": "<tab>Leave the Porta Decumana?"
+    },
+    {
+      "id": "0x0002018E",
+      "text": "Close Your Eyes<tab>Proceed to the end of the first platforming section?"
+    },
+    {
+      "id": "0x0002018F",
+      "text": "Close Your Eyes<tab>Proceed to the end of the course?"
+    },
+    {
+      "id": "0x00020190",
+      "text": "<tab>Enter the Omphalos?"
+    },
+    {
+      "id": "0x00020191",
+      "text": "<tab>Return to Mor Dhona?"
+    },
+    {
+      "id": "0x00020192",
+      "text": "<tab>Return to Akyaali?"
+    },
+    {
+      "id": "0x00020193",
+      "text": "<tab>Exit the restricted archives?"
+    },
+    {
+      "id": "0x00020194",
+      "text": "<tab>Proceed to the Aitiascope?"
+    },
+    {
+      "id": "0x00020195",
+      "text": "<tab>Return to Thaumazein?"
+    },
+    {
+      "id": "0x00020196",
+      "text": "<tab>Proceed to the Stygian insenescence cells? "
+    },
+    {
+      "id": "0x00020197",
+      "text": "<tab>Return to the Gates of Pandæmonium?"
+    },
+    {
+      "id": "0x00020198",
+      "text": "<tab>Travel to Elysion?"
+    },
+    {
+      "id": "0x00020199",
+      "text": "<tab>Travel to Elysion?"
+    },
+    {
+      "id": "0x0002019A",
+      "text": "Return to A-4 Research<tab>Proceed to A-4 Research?"
+    },
+    {
+      "id": "0x0002019B",
+      "text": "<tab>Proceed to A-4 Research?"
+    },
+    {
+      "id": "0x0002019C",
+      "text": "<tab>Proceed to Base Omicron?"
+    },
+    {
+      "id": "0x0002019D",
+      "text": "Travel to the Last Dregs<tab>Proceed to the Last Dregs?"
+    },
+    {
+      "id": "0x0002019E",
+      "text": "Travel to A-4 Research<tab>Proceed to A-4 Research?"
+    },
+    {
+      "id": "0x000201A0",
+      "text": "<tab>Travel to Troia Keep?"
+    },
+    {
+      "id": "0x000201A1",
+      "text": "<tab>Travel to Weaver's Warding?"
+    },
+    {
+      "id": "0x000201A2",
+      "text": "<tab>Proceed to Troia Keep?"
+    },
+    {
+      "id": "0x000201A3",
+      "text": "<tab>Proceed to carcere IV?"
+    },
+    {
+      "id": "0x000201A4",
+      "text": "<tab>Proceed to the hydromantic terraces?"
+    },
+    {
+      "id": "0x000201A5",
+      "text": "<tab>Enter Troia Keep?"
+    },
+    {
+      "id": "0x000201A6",
+      "text": "<tab>Travel to Zero's domain?"
+    },
+    {
+      "id": "0x000201A7",
+      "text": "<tab>Travel to the hydromantic terraces?"
+    },
+    {
+      "id": "0x000201A8",
+      "text": "<tab>Leave Meghaduta?"
+    },
+    {
+      "id": "0x000201AA",
+      "text": "<tab>Move to the hydromantic terraces?"
+    },
+    {
+      "id": "0x000201AB",
+      "text": "<tab>Move to carcere IV?"
+    },
+    {
+      "id": "0x000201AC",
+      "text": "<tab>Return to Gridania?"
+    },
+    {
+      "id": "0x000201AD",
+      "text": "<tab>Travel to Sneaky Hollow?"
+    },
+    {
+      "id": "0x000201AE",
+      "text": "<tab>Return to Gridania?"
+    },
+    {
+      "id": "0x000201AF",
+      "text": "Passage to the Haunted Manor<tab>Enter the Haunted Manor?"
+    },
+    {
+      "id": "0x000201B0",
+      "text": "Passage to Sneaky Hollow<tab>Travel to Sneaky Hollow?"
+    },
+    {
+      "id": "0x000201B1",
+      "text": "<tab>Proceed to Weaver's Warding?"
+    },
+    {
+      "id": "0x000201B2",
+      "text": "<tab>Leave Barbariccia's domain?"
+    },
+    {
+      "id": "0x000201B3",
+      "text": "<tab>Proceed to the Meghaduta guest chambers?"
+    },
+    {
+      "id": "0x000201B4",
+      "text": "<tab>Travel to the Eight Sentinels?"
+    },
+    {
+      "id": "0x000201B5",
+      "text": "<tab>Proceed to Hoper's Hold?"
+    },
+    {
+      "id": "0x000201B6",
+      "text": "<tab>Proceed to the Bestways Burrow aetheryte?"
+    },
+    {
+      "id": "0x000201B7",
+      "text": "<tab>Travel to Garlemald?"
+    },
+    {
+      "id": "0x000201B8",
+      "text": "<tab>Travel to the vicus messorum?"
+    },
+    {
+      "id": "0x000201B9",
+      "text": "<tab>Travel to Mons Albus?"
+    },
+    {
+      "id": "0x000201BA",
+      "text": "<tab>Travel to Fons Manalis?"
+    },
+    {
+      "id": "0x000201BB",
+      "text": "<tab>Travel to the vicus messorum?"
+    },
+    {
+      "id": "0x000201BC",
+      "text": "<tab>Return to the Giantsgall Grounds?"
+    },
+    {
+      "id": "0x000201BD",
+      "text": "<tab>Exit Eureka Orthos?"
+    },
+    {
+      "id": "0x000201BE",
+      "text": "Close Your Eyes<tab>Proceed to the end of the first platforming section?"
+    },
+    {
+      "id": "0x000201BF",
+      "text": "Close Your Eyes<tab>Proceed to the end of the course?"
+    },
+    {
+      "id": "0x000201C0",
+      "text": "<tab>Leave Castrum Centri?"
+    },
+    {
+      "id": "0x000201C1",
+      "text": "<tab>Leave Castrum Centri?"
+    },
+    {
+      "id": "0x000201C2",
+      "text": "<tab>Travel to the Dæmons' Nest?"
+    },
+    {
+      "id": "0x000201C3",
+      "text": "<tab>Travel to the Aitiascope?"
+    },
+    {
+      "id": "0x000201C4",
+      "text": "<tab>Travel to Radz-at-Han?"
+    },
+    {
+      "id": "0x000201C5",
+      "text": "<tab>Enter Senatus?"
+    },
+    {
+      "id": "0x000201C6",
+      "text": "<tab>Travel to Garlemald?"
+    },
+    {
+      "id": "0x000201C7",
+      "text": "<tab>Return to Mare Lamentorum?"
+    },
+    {
+      "id": "0x000201C8",
+      "text": "<tab>Travel to the red moon?"
+    },
+    {
+      "id": "0x000201C9",
+      "text": "<tab>Travel to the red moon?"
+    },
+    {
+      "id": "0x000201CA",
+      "text": "<tab>Travel to Sneaky Hollow?"
+    },
+    {
+      "id": "0x000201CB",
+      "text": "<tab>Enter the Haunted Manor?"
+    },
+    {
+      "id": "0x000201CC",
+      "text": "<tab>Travel to Sneaky Hollow?"
+    },
+    {
+      "id": "0x000201CD",
+      "text": "<tab>Travel to the Omphalos?"
+    },
+    {
+      "id": "0x000201CE",
+      "text": "<tab>Travel to the Twelve's Embrace?"
+    },
+    {
+      "id": "0x000201CF",
+      "text": "<tab>Travel to the red moon?"
+    },
+    {
+      "id": "0x000201D0",
+      "text": "<tab>Travel to the darkened vestibule?"
+    },
+    {
+      "id": "0x000201D1",
+      "text": "<tab>Return to the Perfumed Rise?"
+    },
+    {
+      "id": "0x000201D2",
+      "text": "<tab>Travel to the Howling Eye?"
+    },
+    {
+      "id": "0x000201D3",
+      "text": "<tab>Proceed to Blunderville Square?"
+    },
+    {
+      "id": "0x000201D4",
+      "text": "<tab>Return to Wonder Square?"
+    },
+    {
+      "id": "0x000201D5",
+      "text": "<tab>Travel to central Azys Lla?"
+    },
+    {
+      "id": "0x000201D6",
+      "text": "<tab>Proceed to Blunderville Square?"
+    },
+    {
+      "id": "0x000201D7",
+      "text": "<tab>Travel to Tuliyollal?"
+    },
+    {
+      "id": "0x000201D8",
+      "text": "<tab>Travel to Old Sharlayan?"
+    },
+    {
+      "id": "0x000201D9",
+      "text": "<tab>Travel to Old Sharlayan?"
+    },
+    {
+      "id": "0x000201DA",
+      "text": "<tab>Proceed to Urqopacha?"
+    },
+    {
+      "id": "0x000201DB",
+      "text": "<tab>Proceed to Kozama'uka?"
+    },
+    {
+      "id": "0x000201DC",
+      "text": "<tab>Proceed to Shaaloani?"
+    },
+    {
+      "id": "0x000201DD",
+      "text": "<tab>Proceed to Yak T'el?"
+    },
+    {
+      "id": "0x000201DE",
+      "text": "<tab>Leave Sunperch?"
+    },
+    {
+      "id": "0x000201DF",
+      "text": "<tab>Return to Tuliyollal?"
+    },
+    {
+      "id": "0x000201E0",
+      "text": "<tab>Return to Tuliyollal?"
+    },
+    {
+      "id": "0x000201E1",
+      "text": "<tab>Proceed to the Skydeep Cenote inner chamber?"
+    },
+    {
+      "id": "0x000201E2",
+      "text": "<tab>Leave the Skydeep Cenote inner chamber?"
+    },
+    {
+      "id": "0x000201E3",
+      "text": "<tab>Travel to Shaaloani?"
+    },
+    {
+      "id": "0x000201E4",
+      "text": "<tab>Enter the Earthen Sky hideout?"
+    },
+    {
+      "id": "0x000201E5",
+      "text": "<tab>Leave the Earthen Sky hideout?"
+    },
+    {
+      "id": "0x000201E6",
+      "text": "<tab>Proceed to the Backroom?"
+    },
+    {
+      "id": "0x000201E7",
+      "text": "<tab>Proceed to Solution Nine?"
+    },
+    {
+      "id": "0x000201E8",
+      "text": "<tab>Travel to the Skydeep Cenote inner chamber?"
+    },
+    {
+      "id": "0x000201E9",
+      "text": "<tab>Travel to Living Memory?"
+    },
+    {
+      "id": "0x000201EA",
+      "text": "<tab>Return to Heritage Found?"
+    },
+    {
+      "id": "0x000201EB",
+      "text": "<tab>Leave the Interphos?"
+    },
+    {
+      "id": "0x000201EC",
+      "text": "<tab>Return to Solution Nine?"
+    },
+    {
+      "id": "0x000201ED",
+      "text": "<tab>Leave Tritails Training?"
+    },
+    {
+      "id": "0x000201EE",
+      "text": "<tab>Enter Tritails Training?"
+    },
+    {
+      "id": "0x000201EF",
+      "text": "<tab>Enter the Arcadion?"
+    },
+    {
+      "id": "0x000201F0",
+      "text": "<tab>Proceed to Canal Town?"
+    },
+    {
+      "id": "0x000201F1",
+      "text": "<tab>Return to the Gate of Remembrance?"
+    },
+    {
+      "id": "0x000201F2",
+      "text": "<tab>Proceed to Yesterland?"
+    },
+    {
+      "id": "0x000201F3",
+      "text": "<tab>Return to the Gate of Remembrance?"
+    },
+    {
+      "id": "0x000201F4",
+      "text": "<tab>Proceed to Asyle Volcane?"
+    },
+    {
+      "id": "0x000201F5",
+      "text": "<tab>Return to the Gate of Remembrance?"
+    },
+    {
+      "id": "0x000201F6",
+      "text": "<tab>Proceed to Windspath Gardens?"
+    },
+    {
+      "id": "0x000201F7",
+      "text": "<tab>Return to the Gate of Remembrance?"
+    },
+    {
+      "id": "0x000201F8",
+      "text": "Talk<tab>"
+    },
+    {
+      "id": "0x000201F9",
+      "text": "<tab>Return to the eccentric researcher?"
+    },
+    {
+      "id": "0x000201FA",
+      "text": "<tab>Exit room?"
+    },
+    {
+      "id": "0x000201FB",
+      "text": "Close Your Eyes<tab>Proceed to the end of the first platforming section?"
+    },
+    {
+      "id": "0x000201FC",
+      "text": "Close Your Eyes<tab>Proceed to the end of the course?"
+    },
+    {
+      "id": "0x000201FD",
+      "text": "<tab>Return to Old Sharlayan?"
+    },
+    {
+      "id": "0x000201FE",
+      "text": "<tab>Travel to Lower Jeuno?"
+    },
+    {
+      "id": "0x000201FF",
+      "text": "<tab>Return to Yak T'el?"
+    },
+    {
+      "id": "0x00020200",
+      "text": "<tab>Travel to Lower Jeuno?"
+    },
+    {
+      "id": "0x00020201",
+      "text": "<tab>Leave the Hall of the Unbound?"
+    },
+    {
+      "id": "0x00020202",
+      "text": "<tab>Leave Yuweyawata?"
+    },
+    {
+      "id": "0x00020203",
+      "text": "<tab>Return to Old Gridania?"
+    },
+    {
+      "id": "0x00020204",
+      "text": "<tab>Head to the Starlight Stalls?"
+    },
+    {
+      "id": "0x00020205",
+      "text": "<tab>Head to the Starlight Stalls?"
+    },
+    {
+      "id": "0x00020206",
+      "text": "<tab>Leave Yuweyawata?"
+    },
+    {
+      "id": "0x00020207",
+      "text": "<tab>Return to Solution Nine?"
+    },
+    {
+      "id": "0x00020208",
+      "text": "<tab>Travel to the phantom village?"
+    },
+    {
+      "id": "0x00020209",
+      "text": "<tab>Travel to Tuliyollal?"
+    },
+    {
+      "id": "0x0002020A",
+      "text": "<tab>Travel to the phantom village?"
+    },
+    {
+      "id": "0x0002020B",
+      "text": "<tab>Travel to Tuliyollal?"
+    },
+    {
+      "id": "0x0002020C",
+      "text": "<tab>Proceed to the Backroom?"
+    },
+    {
+      "id": "0x0002020D",
+      "text": "<tab>Leave the throne room?"
+    },
+    {
+      "id": "0x0002020E",
+      "text": "<tab>Leave the throne room?"
+    },
+    {
+      "id": "0x0002020F",
+      "text": "<tab>Proceed to the break room?"
+    },
+    {
+      "id": "0x00020210",
+      "text": "<tab>Wait for the expedition to arrive?"
+    },
+    {
+      "id": "0x00020211",
+      "text": "<tab>Proceed to the entrance of Jeuno?"
+    },
+    {
+      "id": "0x00020212",
+      "text": "<tab>Return to Shaaloani?"
+    },
+    {
+      "id": "0x00020213",
+      "text": "<tab>Leave the Haunted Manor?"
+    },
+    {
+      "id": "0x00020214",
+      "text": "<tab>Head to the Starlight Stalls?"
+    },
+    {
+      "id": "0x00020215",
+      "text": "<tab>Proceed to Zirgorteh the Open-armed?"
+    },
+    {
+      "id": "0x00020216",
+      "text": "<tab>Return to Urqopacha?"
+    },
+    {
+      "id": "0x00020217",
+      "text": "<tab>Travel to Sneaky Hollow?"
+    },
+    {
+      "id": "0x00020218",
+      "text": "<tab>Enter the Haunted Manor?"
+    },
+    {
+      "id": "0x00020219",
+      "text": "<tab>Leave the Ageless Necropolis?"
+    },
+    {
+      "id": "0x0002021A",
+      "text": "<tab>Proceed to Containment Complex 10-29?"
+    },
+    {
+      "id": "0x0002021B",
+      "text": "<tab>Leave Containment Complex 10-29?"
+    },
+    {
+      "id": "0x0002021C",
+      "text": "<tab>Exit Pilgrim's Traverse?"
+    },
+    {
+      "id": "0x0002021D",
+      "text": "<tab>Proceed to the Windward Wilds?"
+    },
+    {
+      "id": "0x0002021E",
+      "text": "<tab>Proceed to the Alexandria crater?"
+    },
+    {
+      "id": "0x0002021F",
+      "text": "<tab>Return to Living Memory?"
+    },
+    {
+      "id": "0x00020220",
+      "text": "<tab>Proceed to Treno?"
+    },
+    {
+      "id": "0x00020221",
+      "text": "<tab>Return to the Alexandria crater?"
+    },
+    {
+      "id": "0x00020222",
+      "text": "<tab>Enter the maiden's home?"
+    },
+    {
+      "id": "0x00020223",
+      "text": "<tab>Return to Old Sharlayan?"
+    },
+    {
+      "id": "0x00020224",
+      "text": "<tab>Enter Tritails Training?"
+    },
+    {
+      "id": "0x00020225",
+      "text": "<tab>Leave Tritails Training?"
+    },
+    {
+      "id": "0x00020226",
+      "text": "<tab>Proceed to the roof?"
+    },
+    {
+      "id": "0x00020227",
+      "text": "<tab>Return to the ground floor?"
+    },
+    {
+      "id": "0x00020228",
+      "text": "<tab>Proceed to the roof?"
+    },
+    {
+      "id": "0x00020229",
+      "text": "<tab>Return to the ground floor?"
+    },
+    {
+      "id": "0x0002022A",
+      "text": "<tab>Return to Treno?"
+    },
+    {
+      "id": "0x0002022B",
+      "text": "<tab>Proceed to Treno?"
+    },
+    {
+      "id": "0x0002022C",
+      "text": "<tab>Return to Living Memory?"
+    },
+    {
+      "id": "0x0002022D",
+      "text": "<tab>Head to the Starlight Stalls?"
+    },
+    {
+      "id": "0x0002022E",
+      "text": "<tab>Travel to Sneaky Hollow?"
+    },
+    {
+      "id": "0x0002022F",
+      "text": "Passage to the Dire Deepcroft<tab>Proceed to the Dire Deepcroft?"
+    },
+    {
+      "id": "0x00020230",
+      "text": "<tab>Return to Gridania?"
+    },
+    {
+      "id": "0x00020231",
+      "text": "<tab>Proceed to Keybound Square?"
+    },
+    {
+      "id": "0x00020232",
+      "text": "<tab>Return to Wonder Square?"
+    },
+    {
+      "id": "0x00020233",
+      "text": "<tab>Proceed to Keybound Square?"
+    },
+    {
+      "id": "0x00020234",
+      "text": "<tab>Travel to the red moon?"
+    },
+    {
+      "id": "0x00020235",
+      "text": "<tab>Travel to Mare Lamentorum?"
+    },
+    {
+      "id": "0x00020236",
+      "text": "<tab>Travel to the red moon?"
+    },
+    {
+      "id": "0x00020237",
+      "text": "<tab>Travel to Zero's domain?"
+    },
+    {
+      "id": "0x00020238",
+      "text": "<tab>Travel to the unmoored isle?"
+    },
+    {
+      "id": "0x00020239",
+      "text": "<tab>Travel to Dawn's Respite?"
+    },
+    {
+      "id": "0x0002023A",
+      "text": "<tab>Travel to the unmoored isle?"
+    },
+    {
+      "id": "0x0002023D",
+      "text": "<tab>Enter the Haunted Manor?"
+    },
+    {
+      "id": "0x0002023E",
+      "text": "Passage to the Dire Deepcroft<tab>Proceed to the Dire Deepcroft?"
+    },
+    {
+      "id": "0x0002023F",
+      "text": "Passage to the Dire Deepcroft<tab>Proceed to the Dire Deepcroft?"
+    },
+    {
+      "id": "0x00020240",
+      "text": "Passage to the Haunted Manor<tab>Enter the Haunted Manor?"
+    }
+  ]
+}

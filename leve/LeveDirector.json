@@ -1,0 +1,21 @@
+{
+  "source_file": "exd/leve/LeveDirector_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_LEVEDIRECTOR_CONFIRM_RETURN_WARP_MESSAGE<tab>Вернуться к распорядителю поручений в <var 31 ((PlaceName)) 03E8020302 /var>?"
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_LEVEDIRECTOR_CONFIRM_RETURN_WARP_TO_SAFEAREA_MESSAGE<tab>Вернуться в ближайшее поселение?"
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_LEVEDIRECTOR_CONFIRM_RETURN_WARP_YES<tab>Да"
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_LEVEDIRECTOR_CONFIRM_RETURN_WARP_NO<tab>Нет"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "source_file": "exd/FGSAddon_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "■Objective■\nAvoid obstacles and reach the goal!\n\n■Stage Info■\nThe stage will end when enough challengers have qualified."
+    },
+    {
+      "id": "0x00000002",
+      "text": "■Objective■\nAvoid obstacles and reach the goal!\n\n■Stage Info■\nThe stage will end when enough challengers have qualified."
+    },
+    {
+      "id": "0x00000003",
+      "text": "■Objective■\nAvoid Typhon's fungahs and stay on the platform!\n\n■Stage Info■\nThe stage will end when enough challengers have qualified."
+    },
+    {
+      "id": "0x00000004",
+      "text": "■Objective■\nCarry the crystals to the correct locations!\n\n■Stage Info■\nThe stage will end when enough challengers have qualified."
+    },
+    {
+      "id": "0x00000005",
+      "text": "■Objective■\nReach the top of the mountain and grab the crown!\n\n■Stage Info■\nThe stage will end when the crown has been claimed."
+    },
+    {
+      "id": "0x00000006",
+      "text": "Avoid obstacles and reach the goal!"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Avoid obstacles and reach the goal!"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Avoid Typhon's fungahs and stay on the platform!"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Carry the crystals to the correct locations!"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Reach the top of the mountain and grab the crown!"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Race to the finish!"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Race to the finish!"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Don't fall in!"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Carry the crystals!"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Reach the crown!"
+    },
+    {
+      "id": "0x00000010",
+      "text": "Waiting for players..."
+    },
+    {
+      "id": "0x00000011",
+      "text": "QUALIFIED!"
+    },
+    {
+      "id": "0x00000012",
+      "text": "ELIMINATED!"
+    }
+  ]
+}

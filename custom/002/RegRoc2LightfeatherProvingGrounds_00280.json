@@ -1,0 +1,85 @@
+{
+  "source_file": "exd/custom/002/RegRoc2LightfeatherProvingGrounds_00280_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_ALINAURE_000_000<tab>О! Здравствуйте. Добро пожаловать на испытательный полигон «Лёгкое перо»."
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_Q1_000_000<tab>Что ты спросишь?"
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_A1_000_001<tab>Что ты здесь делаешь?"
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_A1_000_002<tab>Что это за место?"
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_A1_000_003<tab>Ничего."
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_ALINAURE_000_010<tab>Официально я должен показывать всё новым посетителям и отвечать на их вопросы, но на деле это почти не требуется — здесь редко появляются новые лица."
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_ALINAURE_000_011<tab>Не то чтобы меня это беспокоило. Мне даже нравится, что можно спокойно наблюдать за боями."
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_ALINAURE_000_020<tab>Как можно догадаться по названию, Испытательные полигоны «Лёгкое перо» изначально были созданы для проведения состязаний между боевыми чокобо."
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_ALINAURE_000_021<tab>Тем не менее, с тех пор дом Дземель время от времени разрешал использовать свои владения для иных целей."
+    },
+    {
+      "id": "0x00000009",
+      "text": "TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_ALINAURE_000_022<tab>Некоторые другие дома устраивали зрелища — как для собственного развлечения, так и для публики. Храмовники тоже время от времени проводили выставки — уж поверьте, это всегда было восхитительно."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_ALINAURE_000<tab>"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_SCENE00000Q<tab>"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_SCENE00000A1<tab>"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_SCENE00000A2<tab>"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_SCENE00000A3<tab>"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_ALINAURE_010<tab>"
+    },
+    {
+      "id": "0x00000010",
+      "text": "TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_ALINAURE_011<tab>"
+    },
+    {
+      "id": "0x00000011",
+      "text": "TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_ALINAURE_020<tab>"
+    },
+    {
+      "id": "0x00000012",
+      "text": "TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_ALINAURE_021<tab>"
+    },
+    {
+      "id": "0x00000013",
+      "text": "TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_ALINAURE_022<tab>"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "source_file": "exd/XBMScoreBonus_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "Willing Sacrifice I<tab>Clear the board with 3 incapacitated familiars."
+    },
+    {
+      "id": "0x00000001",
+      "text": "Willing Sacrifice II<tab>Clear the board with 2 incapacitated familiars."
+    },
+    {
+      "id": "0x00000002",
+      "text": "Willing Sacrifice III<tab>Clear the board with 1 incapacitated familiar."
+    },
+    {
+      "id": "0x00000003",
+      "text": "No Beast Left Behind<tab>Clear the board with no incapacitated familiars."
+    },
+    {
+      "id": "0x00000004",
+      "text": "Beast Squad I<tab>Clear the board with a team of 6 or 7 familiars."
+    },
+    {
+      "id": "0x00000005",
+      "text": "Beast Squad II<tab>Clear the board with a team of 4 or 5 familiars."
+    },
+    {
+      "id": "0x00000006",
+      "text": "Beast Squad III<tab>Clear the board with a team of 1 to 3 familiars."
+    },
+    {
+      "id": "0x00000007",
+      "text": "Self-preservation<tab>Clear the board with beastmaster HP at 100%."
+    },
+    {
+      "id": "0x00000008",
+      "text": "Selfless<tab>Clear the board with all familiar HP at 100%."
+    },
+    {
+      "id": "0x00000009",
+      "text": "Infinity and Beyond I<tab>Perform Universality at least 5 times."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Infinity and Beyond II<tab>Perform Universality at least 10 times."
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Infinity and Beyond III<tab>Perform Universality at least 15 times."
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Unbeastable<tab>Clear the board without being afflicted by Damage Down or Vulnerability Up."
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Nameday Attire<tab>Clear the board without acquiring any beast gear."
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Walking Armory<tab>Clear the board in possession of 10 pieces of beast gear."
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Economic Ethos<tab>Clear the board without using crucible items."
+    },
+    {
+      "id": "0x00000010",
+      "text": "Habitual Hoarder<tab>Clear the board in possession of 10 crucible items."
+    },
+    {
+      "id": "0x00000011",
+      "text": "Starve the Fever<tab>Clear the board without feeding any familiars."
+    },
+    {
+      "id": "0x00000012",
+      "text": "Feed the Bold<tab>Clear the board having fed your familiars at least 20 times."
+    },
+    {
+      "id": "0x00000013",
+      "text": "Coin Clutcher<tab>Clear the board without spending territory tokens."
+    },
+    {
+      "id": "0x00000014",
+      "text": "Rolling in Riches<tab>Clear the board in possession of at least 2,000 territory tokens."
+    },
+    {
+      "id": "0x00000015",
+      "text": "Sleepless Survival<tab>Clear the board without resting at a campsite."
+    },
+    {
+      "id": "0x00000016",
+      "text": "Beastkin Gambit<tab>Clear the board with a team of only beastkin."
+    },
+    {
+      "id": "0x00000017",
+      "text": "Vilekin Gambit<tab>Clear the board with a team of only vilekin."
+    },
+    {
+      "id": "0x00000018",
+      "text": "Cloudkin Gambit<tab>Clear the board with a team of only cloudkin."
+    },
+    {
+      "id": "0x00000019",
+      "text": "Seedkin Gambit<tab>Clear the board with a team of only seedkin."
+    },
+    {
+      "id": "0x0000001A",
+      "text": "Wavekin Gambit<tab>Clear the board with a team of only wavekin."
+    },
+    {
+      "id": "0x0000001B",
+      "text": "Scalekin Gambit<tab>Clear the board with a team of only scalekin."
+    },
+    {
+      "id": "0x0000001C",
+      "text": "Soulkin Gambit<tab>Clear the board with a team of only soulkin."
+    },
+    {
+      "id": "0x0000001D",
+      "text": "Ashkin Gambit<tab>Clear the board with a team of only ashkin."
+    },
+    {
+      "id": "0x0000001E",
+      "text": "First Degree<tab>Clear the board under the first degree."
+    },
+    {
+      "id": "0x0000001F",
+      "text": "Second Degree<tab>Clear the board under the second degree."
+    },
+    {
+      "id": "0x00000020",
+      "text": "Third Degree<tab>Clear the board under the third degree."
+    }
+  ]
+}

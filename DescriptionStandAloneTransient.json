@@ -1,0 +1,113 @@
+{
+  "source_file": "exd/DescriptionStandAloneTransient_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000002",
+      "text": "Archives<tab>"
+    },
+    {
+      "id": "0x00000003",
+      "text": "New Game+<tab>"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Lost Actions<tab>"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Portraits<tab>"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Adventurer Plate<tab>"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Island Sanctuary<tab>"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Isleworks Beginner's Guide<tab>"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Deep Dungeons<tab>"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Deep Dungeons<tab>"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Deep Dungeons<tab>"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Fashion Accessories<tab>"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Gear Sets<tab>"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "PvP<tab>"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Rival Wings<tab>"
+    },
+    {
+      "id": "0x00000010",
+      "text": "Frontline<tab>"
+    },
+    {
+      "id": "0x00000011",
+      "text": "Crystalline Conflict<tab>"
+    },
+    {
+      "id": "0x00000012",
+      "text": "Moogle Treasure Trove<tab>"
+    },
+    {
+      "id": "0x00000013",
+      "text": "Glamour Guide<tab>"
+    },
+    {
+      "id": "0x00000014",
+      "text": "Combat Guide<tab>"
+    },
+    {
+      "id": "0x00000015",
+      "text": "Mahjong Rules<tab>"
+    },
+    {
+      "id": "0x00000016",
+      "text": "Deep Dungeons<tab>"
+    },
+    {
+      "id": "0x00000017",
+      "text": "The Occult Crescent<tab>"
+    },
+    {
+      "id": "0x00000018",
+      "text": "Cosmic Exploration<tab>"
+    },
+    {
+      "id": "0x00000019",
+      "text": "Strategy Board<tab>"
+    },
+    {
+      "id": "0x0000001A",
+      "text": "Sightseeing Log<tab>"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "Custom Deliveries<tab>"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "Crucible of the Unbroken<tab>"
+    }
+  ]
+}

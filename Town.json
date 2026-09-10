@@ -1,0 +1,41 @@
+{
+  "source_file": "exd/Town_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "Nowheresville"
+    },
+    {
+      "id": "0x00000001",
+      "text": "Limsa Lominsa"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Gridania"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Ul'dah"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Ishgard"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Kugane"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Crystarium"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Old Sharlayan"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Tuliyollal"
+    }
+  ]
+}
