@@ -1,0 +1,237 @@
+{
+  "source_file": "exd/transport/Aetheryte_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_AETHERYTE_MAINMENU_TITLE<tab>Добро пожаловать в <var 31 ((PlaceName)) 03E8020302 /var>."
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_AETHERYTE_TOWN_WARP<tab><var 12 46 /var> Эфирит."
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_AETHERYTE_HOUSING_WARP<tab>Эфирит жилого района <var 12 46 /var>."
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_AETHERYTE_MENU_WKT<tab><var 12 46 /var> Посетить сервер другого мира."
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_AETHERYTE_REGISTER_HOME_POINT_CHECKED<tab><var 12 45 /var> Установить точку возвращения."
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_AETHERYTE_REGISTER_HOME_POINT<tab><var 12 46 /var> Установить точку возвращения."
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_AETHERYTE_REGISTER_FAVORITE_CHECKED<tab><var 12 45 /var> Зарегистрировать избранное место назначения."
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_AETHERYTE_REGISTER_FAVORITE<tab><var 12 46 /var> Зарегистрировать избранное место назначения."
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_AETHERYTE_REGISTER_TOKEN_FAVORITE_CHECKED<tab><var 08 E968 ((<var 12 44 /var>)) ((<var 12 79 /var>)) /var> Зарегистрировать бесплатный пункт назначения для токена безопасности."
+    },
+    {
+      "id": "0x00000009",
+      "text": "TEXT_AETHERYTE_REGISTER_TOKEN_FAVORITE<tab><var 12 46 /var> Зарегистрировать бесплатную точку назначения для токена безопасности."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "TEXT_AETHERYTE_REGISTER_PSPLUS_FAVORITE_CHECKED<tab><var 08 E969 ((<var 08 E4E94F64 ((<var 12 7C /var>)) ((<var 12 7A /var>)) /var>)) ((<var 08 E4E94F64 ((<var 12 40 /var>)) ((<var 12 7B /var>)) /var>)) /var> Зарегистрировать <var 08 E4E94F64 ((PS Plus)) (()) /var> как бесплатный пункт назначения."
+    },
+    {
+      "id": "0x0000000B",
+      "text": "TEXT_AETHERYTE_REGISTER_PSPLUS_FAVORITE<tab><var 08 E4E94F64 ((<var 12 7C /var>)) ((<var 12 7A /var>)) /var> Зарегистрировать <var 08 E4E94F64 ((PS Plus)) (()) /var> бесплатный пункт назначения."
+    },
+    {
+      "id": "0x0000000C",
+      "text": "TEXT_AETHERYTE_REGISTER_NSO_FAVORITE_CHECKED<tab><var 08 E969 ((<var 08 E4E94C08 ((<var 12 B9 /var>)) ((<var 12 7A /var>)) /var>)) ((<var 08 E4E94C08 ((<var 12 40 /var>)) ((<var 12 7B /var>)) /var>)) /var> Зарегистрировать бесплатное место назначения <var 08 E4E94C08 ((Nintendo Switch Online)) (()) /var>."
+    },
+    {
+      "id": "0x0000000D",
+      "text": "TEXT_AETHERYTE_REGISTER_NSO_FAVORITE<tab>Зарегистрировать бесплатное место назначения <var 08 E4E94C08 ((<var 12 B9 /var>)) ((<var 12 7A /var>)) /var> <var 08 E4E94C08 ((Nintendo Switch Online)) (()) /var>."
+    },
+    {
+      "id": "0x0000000E",
+      "text": "TEXT_AETHERYTE_REGISTER_INFORM_NSO_REQUIRED<tab>Зарегистрированные бесплатные направления Nintendo Switch Online доступны только при наличии действующей подписки Nintendo Switch Online.  \n※Если у вас есть действующая подписка, перезапустите FINAL FANTASY XIV."
+    },
+    {
+      "id": "0x0000000F",
+      "text": "TEXT_AETHERYTE_REGISTER_INFORM_CLOSE<tab>Закрыть"
+    },
+    {
+      "id": "0x00000010",
+      "text": "TEXT_AETHERYTE_MOVE_INSTANCE<tab><var 12 46 /var> Отправиться в особую область."
+    },
+    {
+      "id": "0x00000011",
+      "text": "TEXT_AETHERYTE_MENU_CANCEL<tab><var 12 46 /var> Отмена."
+    },
+    {
+      "id": "0x00000012",
+      "text": "TEXT_AETHERYTE_AETHERNET_MENU_TITLE<tab>Выберите место назначения.\nТекущее местоположение: <var 29 EA02 /var>"
+    },
+    {
+      "id": "0x00000013",
+      "text": "TEXT_AETHERYTE_AETHERNET_MENU_TITLE_NONE_MESSAGE<tab>Других осколков эфирита нет."
+    },
+    {
+      "id": "0x00000014",
+      "text": "TEXT_AETHERYTE_AETHERNET_DEST_NAME<tab><var 28 ((PlaceName)) E80201 /var>."
+    },
+    {
+      "id": "0x00000015",
+      "text": "TEXT_AETHERYTE_AETHERNET_MENU_CANCEL<tab>Выйти."
+    },
+    {
+      "id": "0x00000016",
+      "text": "TEXT_AETHERYTE_MOVE_INSTANCE_MENU_CANCEL<tab><var 28 ((Addon)) F6018FC901 /var>."
+    },
+    {
+      "id": "0x00000017",
+      "text": "TEXT_AETHERYTE_FIRST_OPEN_01<tab>Теперь вам доступна сеть эфиритов."
+    },
+    {
+      "id": "0x00000018",
+      "text": "TEXT_AETHERYTE_FIRST_OPEN_02<tab>Чтобы быстро перемещаться по городу, достаточно прикоснуться к осколкам эфирита."
+    },
+    {
+      "id": "0x00000019",
+      "text": "TEXT_AETHERYTE_FULL_OPEN_FST<tab>Вы настроились на все осколки эфирита в Гридании. Ворота Синего Барсука, Ворота Жёлтой Змеи и пристань дирижаблей теперь доступны в качестве пунктов назначения эфирнета."
+    },
+    {
+      "id": "0x0000001A",
+      "text": "TEXT_AETHERYTE_FULL_OPEN_FST_WITH_WHITE_WOLF_GATE<tab>Вы настроились на все осколки эфирита в Гридании. Ворота Синего Барсука, Ворота Жёлтой Змеи, Ворота Белого Волка и посадочная площадка дирижаблей теперь доступны в качестве пунктов назначения эфирита."
+    },
+    {
+      "id": "0x0000001B",
+      "text": "TEXT_AETHERYTE_FULL_OPEN_SEA<tab>Вы настроились на все осколки эфирита в Лимсе Ломинсе. Врата Зефира, Врата Бури и посадочная площадка дирижаблей теперь доступны как пункты назначения эфирной сети."
+    },
+    {
+      "id": "0x0000001C",
+      "text": "TEXT_AETHERYTE_FULL_OPEN_WIL<tab>Вы настроились на все осколки Эфирнета в Уль'де. Врата Нальда, Врата Таля, Врата Султанши и причал дирижаблей теперь доступны в качестве пунктов назначения Эфирнета."
+    },
+    {
+      "id": "0x0000001D",
+      "text": "TEXT_AETHERYTE_FULL_OPEN_GOLDSAUCER<tab>Вы настроились на все осколки эфирнета в «Золотом блюдце» Мандервилла."
+    },
+    {
+      "id": "0x0000001E",
+      "text": "TEXT_AETHERYTE_FULL_OPEN_TOWN_ROC<tab>Вы настроились на все осколки эфирита в Ишгарде. Теперь Врата Правосудия доступны как пункт назначения эфирной сети."
+    },
+    {
+      "id": "0x0000001F",
+      "text": "TEXT_AETHERYTE_FULL_OPEN_TOWN_IDYLLSHIRE<tab>Вы настроились на все осколки эфирита в Идиллии. Ворота Эпилога теперь доступны как пункт назначения Эфирной сети."
+    },
+    {
+      "id": "0x00000020",
+      "text": "TEXT_AETHERYTE_FULL_OPEN_TOWN_IDYLLSHIRE_WITH_QUESTCOMP<tab>Вы настроились на все осколки эфирита в Идиллии. Врата пролога и Врата эпилога теперь доступны в качестве пунктов назначения сети эфиритов."
+    },
+    {
+      "id": "0x00000021",
+      "text": "TEXT_AETHERYTE_FULL_OPEN_TOWN_KUGANE<tab>Вы настроились на все осколки эфирита в Куганэ. Теперь посадочная площадка дирижаблей доступна как пункт назначения в сети эфиритов."
+    },
+    {
+      "id": "0x00000022",
+      "text": "TEXT_AETHERYTE_FULL_OPEN_TOWN_KUGANE_WITH_QUESTCOMP<tab>Вы настроились на все осколки эфирита в Куганэ. Теперь Рубиновая площадь и посадочная площадка дирижаблей Куганэ доступны в качестве пунктов назначения эфирной сети."
+    },
+    {
+      "id": "0x00000023",
+      "text": "TEXT_AETHERYTE_FULL_OPEN_TOWN_RHALGRS_REACH<tab>Вы настроились на все осколки эфирита в Пределе Ралгра. Врата Окраин теперь доступны как пункт назначения для перемещения по эфириту."
+    },
+    {
+      "id": "0x00000024",
+      "text": "TEXT_AETHERYTE_FULL_OPEN_TOWN_RHALGRS_REACH_WITH_QUESTCOMP<tab>Вы настроились на все осколки эфирной сети в Пристани Ралгра. Врата Окраин и Врата Пиков теперь доступны в качестве пунктов назначения эфирной сети."
+    },
+    {
+      "id": "0x00000025",
+      "text": "TEXT_AETHERYTE_FULL_OPEN_DOMAN_ENCLAVE<tab>Вы настроились на все кристаллы эфирита в Доманском анклаве. Теперь «Одна река» доступна как пункт назначения в сети эфирита."
+    },
+    {
+      "id": "0x00000026",
+      "text": "TEXT_AETHERYTE_FULL_OPEN_DOMAN_ENCLAVE_WITH_QUESTCOMP<tab>Вы настроились на все осколки эфирной сети в Доманском анклаве. «Единая река» и Гангос теперь доступны в качестве направлений эфирной сети."
+    },
+    {
+      "id": "0x00000027",
+      "text": "TEXT_AETHERYTE_FULL_OPEN_CRYSTALIUM<tab>Вы настроились на все осколки эфирнета в Кристариуме. Лейкленд теперь доступен как пункт назначения эфирнета."
+    },
+    {
+      "id": "0x00000028",
+      "text": "TEXT_AETHERYTE_FULL_OPEN_EURMORE<tab>Вы настроились на все осколки эфирита в Юлморе. Теперь Холусия доступна как пункт назначения в эфирной сети."
+    },
+    {
+      "id": "0x00000029",
+      "text": "TEXT_AETHERYTE_FULL_OPEN_OLD_SHARLAYAN<tab>Вы настроились на все осколки эфирнета в Старом Шарлаяне."
+    },
+    {
+      "id": "0x0000002A",
+      "text": "TEXT_AETHERYTE_FULL_OPEN_OLD_SHARLAYAN_WITH_QUESTCOMP<tab>Вы настроились на все осколки эфирита в Старом Шарлаяне. Теперь Лабиринтос доступен как пункт назначения в сети эфиритов."
+    },
+    {
+      "id": "0x0000002B",
+      "text": "TEXT_AETHERYTE_FULL_OPEN_RADZ_AT_HAN<tab>Вы настроились на все осколки эфирнета в Радз<var 1F /var>-ат<var 1F /var>-Хане."
+    },
+    {
+      "id": "0x0000002C",
+      "text": "TEXT_AETHERYTE_FULL_OPEN_RADZ_AT_HAN_WITH_QUESTCOMP<tab>Вы настроились на все осколки Эфирнета в Радз<var 1F /var>ат<var 1F /var>-Хане. Тавнаир теперь доступен как пункт назначения Эфирнета."
+    },
+    {
+      "id": "0x0000002D",
+      "text": "TEXT_AETHERYTE_FULL_OPEN_TULIYOLLAL<tab>Вы настроились на все осколки Эфирнета в Тулиолалле."
+    },
+    {
+      "id": "0x0000002E",
+      "text": "TEXT_AETHERYTE_FULL_OPEN_TULIYOLLAL_WITH_QUESTCOMP_0_0<tab>Вы настроились на все осколки эфиритовой сети в Тулиоллале. «Арка Рассвета» (Урикопача) теперь доступна как пункт назначения эфиритовой сети."
+    },
+    {
+      "id": "0x0000002F",
+      "text": "TEXT_AETHERYTE_FULL_OPEN_TULIYOLLAL_WITH_QUESTCOMP_1_0<tab>Вы настроились на все осколки эфирита в Тулиоллале. Арка Рассвета (Козама'ука) теперь доступна как пункт назначения сети эфирита."
+    },
+    {
+      "id": "0x00000030",
+      "text": "TEXT_AETHERYTE_FULL_OPEN_TULIYOLLAL_WITH_QUESTCOMP_2_0<tab>Вы настроились на все осколки Эфирной сети в Тулиоллале. Рассветная арка (Урикопача) и Рассветная арка (Козамаука) теперь доступны в качестве пунктов назначения Эфирной сети."
+    },
+    {
+      "id": "0x00000031",
+      "text": "TEXT_AETHERYTE_FULL_OPEN_TULIYOLLAL_WITH_QUESTCOMP_3_0<tab>Вы настроились на все осколки эфирита в Тулийоллале. Арка рассвета (Уркопача), Арка рассвета (Козамаука) и Ихуйкатуму (Козамаука) теперь доступны как пункты назначения сети эфиритов."
+    },
+    {
+      "id": "0x00000032",
+      "text": "TEXT_AETHERYTE_FULL_OPEN_TULIYOLLAL_WITH_QUESTCOMP_4_0<tab>Вы настроились на все осколки Эфирнета в Тулиолалле."
+    },
+    {
+      "id": "0x00000033",
+      "text": "TEXT_AETHERYTE_FULL_OPEN_TULIYOLLAL_WITH_QUESTCOMP_4_1<tab>Арка Рассвета (Уркопача), Арка Рассвета (Козамаука), Иуихатуму (Козамаука) и место посадки дирижаблей (Як Тель) теперь доступны для перемещения по Эфирной сети."
+    },
+    {
+      "id": "0x00000034",
+      "text": "TEXT_AETHERYTE_FULL_OPEN_TULIYOLLAL_WITH_QUESTCOMP_5_0<tab>Вы настроились на все осколки Эфирнета в Тулиолалле."
+    },
+    {
+      "id": "0x00000035",
+      "text": "TEXT_AETHERYTE_FULL_OPEN_TULIYOLLAL_WITH_QUESTCOMP_5_1<tab>Арка рассвета (Уркопача), Арка рассвета (Козамаука), Ихуйкатуму (Козамаука), посадочная площадка дирижаблей (Як Тэл) и небесные врата Ксак-Турала (Шаалоани) теперь доступны в качестве пунктов назначения эфиритовой сети."
+    },
+    {
+      "id": "0x00000036",
+      "text": "TEXT_AETHERYTE_FULL_OPEN_SOLUTION_NINE<tab>Вы настроились на все осколки Эфирнета в Решении Девять."
+    },
+    {
+      "id": "0x00000037",
+      "text": "TEXT_AETHERYTE_FULL_OPEN_SOLUTION_NINE_1<tab>Сканирующий порт № 9 («Найденное наследие») теперь доступен как пункт назначения эфирнета."
+    },
+    {
+      "id": "0x00000038",
+      "text": "TEXT_AETHERYTE_FULL_OPEN_TULIYOLLAL_WITH_QUESTCOMP_6_0<tab>Вы настроились на все осколки Эфирнета в Тулиолалле."
+    },
+    {
+      "id": "0x00000039",
+      "text": "TEXT_AETHERYTE_FULL_OPEN_TULIYOLLAL_WITH_QUESTCOMP_6_1<tab>Арка Рассвета (Уркопача), Арка Рассвета (Козама'ука), Ихуйкатуму (Козама'ука), посадочная площадка дирижаблей (Як Т'эль), небесные врата Ксак-Турала (Шаалоани) и призрачная деревня теперь доступны в качестве пунктов назначения сети эфиритов."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "source_file": "exd/RacingChocoboNameCategory_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000002",
+      "text": "Colors"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Materials"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Concrete Adj."
+    },
+    {
+      "id": "0x00000005",
+      "text": "Appearance"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Personality"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Concepts"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Flora"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Fauna"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Land & Sky"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Weather"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Phenomena"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Battle"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Racing"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Titles"
+    },
+    {
+      "id": "0x00000010",
+      "text": "Numbers"
+    },
+    {
+      "id": "0x00000011",
+      "text": "Proper Nouns"
+    },
+    {
+      "id": "0x00000012",
+      "text": "Eorzea"
+    },
+    {
+      "id": "0x00000013",
+      "text": "Others"
+    },
+    {
+      "id": "0x00000014",
+      "text": "Abstract Adj."
+    }
+  ]
+}

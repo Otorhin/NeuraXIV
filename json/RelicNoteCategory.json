@@ -1,0 +1,21 @@
+{
+  "source_file": "exd/RelicNoteCategory_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Enemies"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Dungeons"
+    },
+    {
+      "id": "0x00000003",
+      "text": "FATEs"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Leves"
+    }
+  ]
+}

@@ -1,0 +1,605 @@
+{
+  "source_file": "exd/content/DeepDungeonEntrance_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_WOODWAILERCAPTAIN01556_000_000<tab>В Чёрной чаще объявилась серьёзная угроза миру, и меня послали её изгнать. Приключенец ты или нет — я не потерплю, чтобы кто-либо мешал моей работе. А теперь, прошу, проходи."
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_WOODWAILERCAPTAIN01556_000_020<tab>Нам повезло, что куратор этого проклятого места оказался настолько небрежен, что оставил свои записи там, где мы могли их найти. Возможно, теперь нам удастся узнать его истинные мотивы."
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_START_MENU_ENTER<tab>Войти во Дворец мёртвых"
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_START_MENU_RESET<tab>Сбросить прогресс"
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_START_MENU_BREAKUP<tab>Распустить постоянную группу"
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_START_MENU_SCORE<tab>Просмотреть свои результаты"
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_START_MENU_ABOUT<tab>Узнать о Дворце мёртвых"
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ENTER_MENU_TITLE<tab>Что ты будешь делать?"
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ENTER_MENU_FIXED<tab>Войти в составе заранее сформированной группы."
+    },
+    {
+      "id": "0x00000009",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ENTER_MENU_MATCHING<tab>Войти в составе подобранной группы."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ENTER_MENU_BACK<tab>Вернуться."
+    },
+    {
+      "id": "0x0000000B",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ENTER_FIXED_Q<tab>Вы уверены, что хотите войти в составе заранее сформированной группы?"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ENTER_MATCHING_Q<tab>Вы уверены, что хотите войти в составе подобранной группы?"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_WOODWAILERCAPTAIN01556_000_050<tab>Ты намерен войти в руины в одиночку?! Ослабленный чарами руин, ты сможешь рассчитывать лишь на эфирное оружие паджалей. Но даже его может оказаться недостаточно без усиления."
+    },
+    {
+      "id": "0x0000000E",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ENTER_SOLO<tab>Вы уверены, что хотите войти в одиночку?"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_ENTER_WHICH_Q<tab>С какого этажа вы войдёте?"
+    },
+    {
+      "id": "0x00000010",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_ENTER_A1<tab>Первый этаж."
+    },
+    {
+      "id": "0x00000011",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_ENTER_A2<tab>Пятьдесят первый этаж."
+    },
+    {
+      "id": "0x00000012",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_TITLE<tab>"
+    },
+    {
+      "id": "0x00000013",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_WHAT<tab>"
+    },
+    {
+      "id": "0x00000014",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_RESET<tab>"
+    },
+    {
+      "id": "0x00000015",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_DISSOLVE<tab>"
+    },
+    {
+      "id": "0x00000016",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_EQUIP<tab>"
+    },
+    {
+      "id": "0x00000017",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_ITEM<tab>"
+    },
+    {
+      "id": "0x00000018",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_TREASURE<tab>"
+    },
+    {
+      "id": "0x00000019",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_SCORE<tab>"
+    },
+    {
+      "id": "0x0000001A",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_BACK<tab>"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_WHAT_TITLE<tab>"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_WHAT_Q1<tab>"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_WHAT_Q2<tab>"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_WHAT_Q3<tab>"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_LEVEL_Q1<tab>"
+    },
+    {
+      "id": "0x00000020",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_LEVEL_Q2<tab>"
+    },
+    {
+      "id": "0x00000021",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_WHAT_Q4<tab>"
+    },
+    {
+      "id": "0x00000022",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_WHAT_Q5<tab>"
+    },
+    {
+      "id": "0x00000023",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_WHAT_BACK<tab>"
+    },
+    {
+      "id": "0x00000024",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_000_305<tab>"
+    },
+    {
+      "id": "0x00000025",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_000_306<tab>"
+    },
+    {
+      "id": "0x00000026",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_000_307<tab>"
+    },
+    {
+      "id": "0x00000027",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_000_405<tab>"
+    },
+    {
+      "id": "0x00000028",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_100_405<tab>"
+    },
+    {
+      "id": "0x00000029",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_000_410<tab>"
+    },
+    {
+      "id": "0x0000002A",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_000_415<tab>"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_000_308<tab>"
+    },
+    {
+      "id": "0x0000002C",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_000_105<tab>"
+    },
+    {
+      "id": "0x0000002D",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_DISSOLVE_TITLE<tab>"
+    },
+    {
+      "id": "0x0000002E",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_DISSOLVE_Q1<tab>"
+    },
+    {
+      "id": "0x0000002F",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_DISSOLVE_Q2<tab>"
+    },
+    {
+      "id": "0x00000030",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_DISSOLVE_Q3<tab>"
+    },
+    {
+      "id": "0x00000031",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_DISSOLVE_BACK<tab>"
+    },
+    {
+      "id": "0x00000032",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_000_201<tab>"
+    },
+    {
+      "id": "0x00000033",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_000_202<tab>"
+    },
+    {
+      "id": "0x00000034",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_100_202<tab>"
+    },
+    {
+      "id": "0x00000035",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_000_203<tab>"
+    },
+    {
+      "id": "0x00000036",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_EQUIP_TITLE<tab>"
+    },
+    {
+      "id": "0x00000037",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_EQUIP_Q1<tab>"
+    },
+    {
+      "id": "0x00000038",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_EQUIP_Q2<tab>"
+    },
+    {
+      "id": "0x00000039",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_EQUIP_Q3<tab>"
+    },
+    {
+      "id": "0x0000003A",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_EQUIP_BACK<tab>"
+    },
+    {
+      "id": "0x0000003B",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_000_505<tab>"
+    },
+    {
+      "id": "0x0000003C",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_000_507<tab>"
+    },
+    {
+      "id": "0x0000003D",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_100_507<tab>"
+    },
+    {
+      "id": "0x0000003E",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_000_508<tab>"
+    },
+    {
+      "id": "0x0000003F",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_000_605<tab>"
+    },
+    {
+      "id": "0x00000040",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_TREASURE_TITLE<tab>"
+    },
+    {
+      "id": "0x00000041",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_TREASURE_Q1<tab>Что такое Проклятый клад?"
+    },
+    {
+      "id": "0x00000042",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_TREASURE_Q2<tab>"
+    },
+    {
+      "id": "0x00000043",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_TREASURE_Q3<tab>"
+    },
+    {
+      "id": "0x00000044",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_TREASURE_BACK<tab>"
+    },
+    {
+      "id": "0x00000045",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_000_700<tab>"
+    },
+    {
+      "id": "0x00000046",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_000_701<tab>"
+    },
+    {
+      "id": "0x00000047",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_000_702<tab>"
+    },
+    {
+      "id": "0x00000048",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_SCORE_TITLE<tab>"
+    },
+    {
+      "id": "0x00000049",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_SCORE_Q1<tab>"
+    },
+    {
+      "id": "0x0000004A",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_SCORE_Q2<tab>"
+    },
+    {
+      "id": "0x0000004B",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_SCORE_BACK<tab>"
+    },
+    {
+      "id": "0x0000004C",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_000_800<tab>"
+    },
+    {
+      "id": "0x0000004D",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_000_801<tab>"
+    },
+    {
+      "id": "0x0000004E",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_DESCRIPTION_LAST<tab>"
+    },
+    {
+      "id": "0x0000004F",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_MIDDLE_TOP_MENU_NEXT<tab>Перейти на следующий этаж"
+    },
+    {
+      "id": "0x00000050",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_MIDDLE_TOP_MENU_EXPLAIN<tab>Ознакомиться с правилами Дворца мёртвых"
+    },
+    {
+      "id": "0x00000051",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_MIDDLE_Q<tab>Перейти на следующий этаж с текущей группой?"
+    },
+    {
+      "id": "0x00000052",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_DESCRIPTION_NEXT<tab>(★Неиспользуемый / Предполагается удаление★)"
+    },
+    {
+      "id": "0x00000053",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_DESCRIPTION_BACK<tab>(★Неиспользуемый / Предполагается удаление★)"
+    },
+    {
+      "id": "0x00000054",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_WOODWAILERCAPTAIN01556_000_TEST_1<tab>(★Неиспользуемый / Предполагается удаление★)"
+    },
+    {
+      "id": "0x00000055",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_WOODWAILERCAPTAIN01556_000_TEST_3<tab>(★Неиспользуемый / Предполагается удаление★)"
+    },
+    {
+      "id": "0x00000056",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_RESET_Q<tab>"
+    },
+    {
+      "id": "0x00000057",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_BREAKUP_Q<tab>"
+    },
+    {
+      "id": "0x00000058",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_A1_000_002<tab>"
+    },
+    {
+      "id": "0x00000059",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_A1_000_003<tab>"
+    },
+    {
+      "id": "0x0000005A",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_A2_000_001<tab>"
+    },
+    {
+      "id": "0x0000005B",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_A2_000_002<tab>"
+    },
+    {
+      "id": "0x0000005C",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_A3_000_001<tab>"
+    },
+    {
+      "id": "0x0000005D",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_A3_000_002<tab>"
+    },
+    {
+      "id": "0x0000005E",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_A4_000_001<tab>"
+    },
+    {
+      "id": "0x0000005F",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_A4_000_002<tab>"
+    },
+    {
+      "id": "0x00000060",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_000_506<tab>"
+    },
+    {
+      "id": "0x00000061",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_START_IS_NOT_OPENED<tab>"
+    },
+    {
+      "id": "0x00000062",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_RESET_TALK<tab>"
+    },
+    {
+      "id": "0x00000063",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_RESET_YES_TALK<tab>"
+    },
+    {
+      "id": "0x00000064",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_RESET_NO_TALK<tab>"
+    },
+    {
+      "id": "0x00000065",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_BREAKUP_TALK<tab>"
+    },
+    {
+      "id": "0x00000066",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_BREAKUP_YES_TALK<tab>"
+    },
+    {
+      "id": "0x00000067",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_BREAKUP_NO_TALK<tab>"
+    },
+    {
+      "id": "0x00000068",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_YES<tab>"
+    },
+    {
+      "id": "0x00000069",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_NO<tab>"
+    },
+    {
+      "id": "0x0000006A",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ENTER_SAVE_TITLE<tab>"
+    },
+    {
+      "id": "0x0000006B",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ENTER_SAVE_NEW<tab>"
+    },
+    {
+      "id": "0x0000006C",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ENTER_SAVE_CONTINUE<tab>"
+    },
+    {
+      "id": "0x0000006D",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ENTER_SAVE_BACK<tab>"
+    },
+    {
+      "id": "0x0000006E",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_WOODWAILERCAPTAIN01556_000_100<tab>Если пожелаете вернуться к входу в лабиринт, милости просим. Во всяком случае, первые этажи — самое время укрепить оружие эфирового пула."
+    },
+    {
+      "id": "0x0000006F",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_WOODWAILERCAPTAIN01556_000_110<tab>Понял. Когда в следующий раз спустишься в руины, прошу, будь начеку. Кто знает, какие новые опасности поджидают тебя внизу."
+    },
+    {
+      "id": "0x00000070",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_WOODWAILERCAPTAIN01556_000_120<tab>Значит, ты не намерен сворачивать с намеченного пути. Что ж, хорошо. Буду ждать вестей о твоих успехах."
+    },
+    {
+      "id": "0x00000071",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_WOODWAILERCAPTAIN01556_000_200<tab>Ты хочешь собрать новую группу для исследования Гельморры? Любопытно, что ты решил поступить так, добравшись столь далеко, но не мне тебя судить. Ты вправе искать новых союзников по своему усмотрению."
+    },
+    {
+      "id": "0x00000072",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_WOODWAILERCAPTAIN01556_000_210<tab>Понимаю... Что ж, поговори со мной, когда найдёшь товарищей, с которыми вернёшься к руинам."
+    },
+    {
+      "id": "0x00000073",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_WOODWAILERCAPTAIN01556_000_220<tab>Понимаю... Что ж, к таким решениям не следует относиться легкомысленно. Молю, чтобы путь ваш к руинам был безопасен."
+    },
+    {
+      "id": "0x00000074",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_WOODWAILERCAPTAIN01556_000_300<tab>Как я уже упоминал, нам сообщили о появлении магического прохода в руинах Иссом<var 1F /var>Хара. Он ведёт в лабиринт, защищённый столь мощной магией, что исследовать его обычными способами практически невозможно."
+    },
+    {
+      "id": "0x00000075",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_WOODWAILERCAPTAIN01556_000_301<tab>Это место пожирает эфир всякого, кто в него входит, превращая путников в лёгкую добычу обитающих там тварей. К тому же путь менялся каждый раз, когда мы осмеливались войти внутрь."
+    },
+    {
+      "id": "0x00000076",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_WOODWAILERCAPTAIN01556_000_302<tab>Не говоря уже о ловушках — Двенадцать ведают, что ещё поджидало нас внизу. Теперь понятно, почему горожане прозвали его Дворцом мёртвых. Но если вы отважитесь проникнуть в его глубины и узнать, какие ужасы таятся там во тьме, мы с радостью примем вашу помощь."
+    },
+    {
+      "id": "0x00000077",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_WOODWAILERCAPTAIN01556_000_400<tab>Кричащие доспехи и оружие, к которым ты привык, ничего не будут значить, едва ты ступишь в те руины. Если хочешь выжить, тщательно оценивай силу своих врагов."
+    },
+    {
+      "id": "0x00000078",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_WOODWAILERCAPTAIN01556_000_500<tab>Именно Э<var 1F /var>Уна<var 1F /var>Котор догадалась, почему при первом входе в руины мы внезапно лишились боевого духа."
+    },
+    {
+      "id": "0x00000079",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_WOODWAILERCAPTAIN01556_000_501<tab>По его словам, лабиринт защищён мощными чарами, вытягивающими эфир из всех, кто входит внутрь. К счастью, он также предложил нам решение."
+    },
+    {
+      "id": "0x0000007A",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_WOODWAILERCAPTAIN01556_000_502<tab>Для тех, кто решится отправиться в руины, он приготовил эфирное оружие и доспехи, которые защищают владельца и направляют его энергию, помогая противостоять могучей магии, охраняющей руины."
+    },
+    {
+      "id": "0x0000007B",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_WOODWAILERCAPTAIN01556_000_600<tab>Недавно мы обнаружили небольшой схрон с керамическими сосудами, покрытыми причудливой резьбой. При ближайшем рассмотрении Э<var 1F /var>Уна<var 1F /var>Котор определил, что это зачарованные урны гельморрского образца."
+    },
+    {
+      "id": "0x0000007C",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_WOODWAILERCAPTAIN01556_000_601<tab>Если вам попадутся такие урны — мы называем их помандерами, — настоятельно советую взять их с собой. Магические свойства у них самые разные, и они могут оказаться весьма полезными против любых жутких тварей, которых вы встретите там, внизу."
+    },
+    {
+      "id": "0x0000007D",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_000_106<tab>Хотя прогресс прохождения этажей и уровень персонажа будут сброшены, сила эфирного оружия и снаряжения останется без изменений."
+    },
+    {
+      "id": "0x0000007E",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_000_107<tab>Обратите внимание: удалённые данные невозможно восстановить."
+    },
+    {
+      "id": "0x0000007F",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_100_203<tab>Игроки, достигшие разных этажей, не могут вместе войти во Дворец мёртвых в составе группы. Игрокам, находящимся на более ранних этажах, необходимо самостоятельно воспользоваться системой подбора группы."
+    },
+    {
+      "id": "0x00000080",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_101_203<tab>Когда все игроки достигнут одного и того же этажа, они смогут продолжить вместе, собрав группу и выбрав вход в составе группы с подбором игроков."
+    },
+    {
+      "id": "0x00000081",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_000_204<tab>Обратите внимание: при преобразовании данных все особые предметы (помандеры) будут утрачены."
+    },
+    {
+      "id": "0x00000082",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_000_309<tab>На определённых этажах встречаются особенно сильные враги. Победив их, игроки могут сохранить прогресс в Дворце мёртвых."
+    },
+    {
+      "id": "0x00000083",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_000_310<tab>Сохранив прогресс, игроки могут сразу продолжить прохождение Дворца мёртвых или вернуться к нему позже."
+    },
+    {
+      "id": "0x00000084",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_100_310<tab>Игроки, решившие выйти и вернуться позже, начнут на этаже сразу после последней точки сохранения."
+    },
+    {
+      "id": "0x00000085",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_000_311<tab>Если все участники группы будут выведены из строя, вы покинете Дворец мёртвых и продолжите прохождение с последней точки сохранения."
+    },
+    {
+      "id": "0x00000086",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_000_400<tab>Игроки, зарегистрировавшие ключ FINAL FANTASY XIV: Heavensward в своей сервисной учётной записи, могут проходить Дворец мёртвых до 50-го этажа включительно. Остальные игроки могут проходить его только до 40-го этажа."
+    },
+    {
+      "id": "0x00000087",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_000_401<tab>Кроме того, игроки, использующие пробную версию, в настоящее время могут дойти только до 10-го этажа."
+    },
+    {
+      "id": "0x00000088",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_100_410<tab>Вы по-прежнему будете получать эти умения и особенности, даже если ваш уровень в Дворце мёртвых превысит фактический уровень вашего класса или профессии."
+    },
+    {
+      "id": "0x00000089",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_000_411<tab>Возобновляя прохождение глубинного подземелья, игроки начнут с уровня, достигнутого при последнем сохранении."
+    },
+    {
+      "id": "0x0000008A",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_101_507<tab>Если сила вашего эфирного снаряжения превышает максимум, допустимый для вашего текущего уровня, его характеристики будут синхронизированы. Это можно проверить, просмотрев предметы и экипировку в окне информации о персонаже."
+    },
+    {
+      "id": "0x0000008B",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_000_509<tab>В таких случаях может потребоваться возобновить прохождение Дворца мёртвых с 1-го этажа, чтобы убедиться, что ваше эфирное снаряжение достаточно прочное."
+    },
+    {
+      "id": "0x0000008C",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_000_606<tab>Они обладают различными эффектами: например, открывают всю карту или увеличивают количество сундуков с сокровищами на этаже. Умелое использование этих предметов поможет всегда сохранять преимущество."
+    },
+    {
+      "id": "0x0000008D",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_LEVEL<tab>Как мне стать сильнее во Дворце мёртвых?"
+    },
+    {
+      "id": "0x0000008E",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_LEVEL_BACK<tab>(★Неиспользуемый / Предполагается удаление★)"
+    },
+    {
+      "id": "0x0000008F",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_WOODWAILERCAPTAIN01556_000_010<tab>(★Неиспользуемый / Предполагается удаление★)"
+    },
+    {
+      "id": "0x00000090",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_WOODWAILERCAPTAIN01556_000_030<tab>(★Неиспользуемый / Предполагается удаление★)"
+    },
+    {
+      "id": "0x00000091",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_START_MENU_TITLE<tab>Что ты будешь делать?"
+    },
+    {
+      "id": "0x00000092",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_START_MENU_EXIT<tab>Ничего."
+    },
+    {
+      "id": "0x00000093",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_MIDDLE_TOP_MENU_CANCEL<tab>"
+    },
+    {
+      "id": "0x00000094",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_TEST_ABOUT_WHAT_Q4EX<tab>Ограничения по этажам."
+    },
+    {
+      "id": "0x00000095",
+      "text": "TEXT_DEEPDUNGEONENTRANCE_SYSTEM_100_308<tab>"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "source_file": "exd/LeveAssignmentType_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Battlecraft"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Miner"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Botanist"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Fisher"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Carpenter"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Blacksmith"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Armorer"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Goldsmith"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Leatherworker"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Weaver"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Alchemist"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Culinarian"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "The Maelstrom"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Order of the Twin Adder"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Immortal Flames"
+    }
+  ]
+}

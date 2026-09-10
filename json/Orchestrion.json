@@ -1,0 +1,3549 @@
+{
+  "source_file": "exd/Orchestrion_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "A Cold Wind<tab>Available for MGP exchange at the Gold Saucer."
+    },
+    {
+      "id": "0x00000002",
+      "text": "Wailers and Waterwheels<tab>Available for purchase in Gridania."
+    },
+    {
+      "id": "0x00000003",
+      "text": "I Am the Sea<tab>Available for purchase in Limsa Lominsa."
+    },
+    {
+      "id": "0x00000004",
+      "text": "A New Hope<tab>Available for purchase in Ul'dah."
+    },
+    {
+      "id": "0x00000005",
+      "text": "Solid<tab>Available for purchase in Ishgard."
+    },
+    {
+      "id": "0x00000006",
+      "text": "The Waking Sands<tab>Available for purchase in Thanalan."
+    },
+    {
+      "id": "0x00000007",
+      "text": "Four-sided Circle<tab>Available for MGP exchange at the Gold Saucer."
+    },
+    {
+      "id": "0x00000008",
+      "text": "Sport of Kings<tab>Available for MGP exchange at the Gold Saucer."
+    },
+    {
+      "id": "0x00000009",
+      "text": "Another Round<tab>Materials for synthesis available for trade in Mor Dhona and from other exchange vendors."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Painted Foothills<tab>Materials for synthesis obtained from elite marks in the Dravanian forelands."
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Lost in the Clouds<tab>Materials for synthesis obtained from elite marks in the Sea of Clouds."
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Prelude – Discoveries<tab>Obtained upon completing the achievement \"The Leader of the Band I.\""
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Agent of Inquiry<tab>Available for MGP exchange at the Gold Saucer."
+    },
+    {
+      "id": "0x0000000E",
+      "text": "The Only Path<tab>Materials for synthesis obtained from treasure hunts."
+    },
+    {
+      "id": "0x0000000F",
+      "text": "A World Apart<tab>Materials for synthesis obtained from exploratory voyages."
+    },
+    {
+      "id": "0x00000010",
+      "text": "Pa-Paya<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x00000011",
+      "text": "Tenacity<tab>Available for Amber-encased vilekin exchange in Ishgard."
+    },
+    {
+      "id": "0x00000012",
+      "text": "Blood for Blood<tab>Materials for synthesis available for exchange in the Wolves' Den."
+    },
+    {
+      "id": "0x00000013",
+      "text": "Starved<tab>Materials for synthesis available for exchange in the Wolves' Den."
+    },
+    {
+      "id": "0x00000014",
+      "text": "Riptide<tab>Materials for synthesis obtained in Sastasha (Hard)."
+    },
+    {
+      "id": "0x00000015",
+      "text": "Dark Vows<tab>Materials for synthesis obtained in the Tam-Tara Deepcroft or the Tam-Tara Deepcroft (Hard)."
+    },
+    {
+      "id": "0x00000016",
+      "text": "The Dark's Embrace<tab>Materials for synthesis obtained in Copperbell Mines (Hard)."
+    },
+    {
+      "id": "0x00000017",
+      "text": "A Light in the Storm<tab>Materials for synthesis obtained in Pharos Sirius."
+    },
+    {
+      "id": "0x00000018",
+      "text": "Imagination<tab>Materials for synthesis obtained in the Aetherochemical Research Facility."
+    },
+    {
+      "id": "0x00000019",
+      "text": "Down the Up Staircase<tab>Materials for synthesis obtained in the Antitower."
+    },
+    {
+      "id": "0x0000001A",
+      "text": "The Scars of Battle<tab>Materials for synthesis obtained in the Lost City of Amdapor."
+    },
+    {
+      "id": "0x0000001B",
+      "text": "Torn from the Heavens<tab>Available for MGP exchange at the Gold Saucer."
+    },
+    {
+      "id": "0x0000001C",
+      "text": "Ultima<tab>Obtained upon completing the achievement \"The Leader of the Band II.\""
+    },
+    {
+      "id": "0x0000001D",
+      "text": "The Maker's Ruin<tab>Materials for synthesis obtained from a trial in A Realm Reborn unlocked via the wandering minstrel.<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x0000001E",
+      "text": "Primal Judgment<tab>Materials for synthesis obtained in the Bowl of Embers (Extreme).<nl>※Drop rates increase when participating at minimum IL.<nl>"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "Fallen Angel<tab>Materials for synthesis obtained in the Howling Eye (Extreme).<nl>※Drop rates increase when participating at minimum IL.<nl>"
+    },
+    {
+      "id": "0x00000020",
+      "text": "Under the Weight<tab>Materials for synthesis obtained in the Navel (Extreme).<nl>※Drop rates increase when participating at minimum IL.<nl>"
+    },
+    {
+      "id": "0x00000021",
+      "text": "Heroes<tab>Materials for synthesis obtained from a trial in Heavensward unlocked via the wandering minstrel.<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x00000022",
+      "text": "Fiend<tab>Materials for synthesis obtained in Containment Bay S1T7 (Extreme).<nl>※Drop rates increase when participating at minimum IL.<nl>"
+    },
+    {
+      "id": "0x00000023",
+      "text": "Hubris<tab>Materials for synthesis obtained in the Labyrinth of the Ancients."
+    },
+    {
+      "id": "0x00000024",
+      "text": "Tumbling Down<tab>Materials for synthesis obtained in the Labyrinth of the Ancients."
+    },
+    {
+      "id": "0x00000025",
+      "text": "Now I Know the Truth<tab>Materials for synthesis obtained in Syrcus Tower."
+    },
+    {
+      "id": "0x00000026",
+      "text": "Out of the Labyrinth<tab>Materials for synthesis obtained in Syrcus Tower."
+    },
+    {
+      "id": "0x00000027",
+      "text": "Blind to the Dark<tab>Materials for synthesis obtained in the World of Darkness."
+    },
+    {
+      "id": "0x00000028",
+      "text": "Hunger<tab>Materials for synthesis obtained in the World of Darkness."
+    },
+    {
+      "id": "0x00000029",
+      "text": "Eternal Wind<tab>Materials for synthesis obtained in the Labyrinth of the Ancients, Syrcus Tower, or the World of Darkness."
+    },
+    {
+      "id": "0x0000002A",
+      "text": "Thunderer<tab>Materials for synthesis obtained in the Binding Coil of Bahamut - Turn 5.<nl>※Drop rates increase when participating at minimum IL.<nl>"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "Rise of the White Raven<tab>Materials for synthesis obtained in the Second Coil of Bahamut - Turn 4.<nl>※Drop rates increase when participating at minimum IL.<nl>"
+    },
+    {
+      "id": "0x0000002C",
+      "text": "From the Ashes<tab>Materials for synthesis obtained in the Final Coil of Bahamut - Turn 3.<nl>※Drop rates increase when participating at minimum IL.<nl>"
+    },
+    {
+      "id": "0x0000002D",
+      "text": "Answers<tab>Materials for synthesis obtained in the Binding Coil of Bahamut - Turn 5, the Second Coil of Bahamut - Turn 4, or the Final Coil of Bahamut - Turn 4.<nl>※Drop rates increase when participating at minimum IL.<nl>"
+    },
+    {
+      "id": "0x0000002E",
+      "text": "Contention<tab>Available for trade in Idyllshire and from other exchange vendors."
+    },
+    {
+      "id": "0x0000002F",
+      "text": "When a Tree Falls<tab>Available for Amber-encased vilekin exchange in Ishgard."
+    },
+    {
+      "id": "0x00000030",
+      "text": "Sultana Dreaming<tab>Available for purchase in Ul'dah."
+    },
+    {
+      "id": "0x00000031",
+      "text": "A Sailor Never Sleeps<tab>Available for purchase in Limsa Lominsa."
+    },
+    {
+      "id": "0x00000032",
+      "text": "Dance of the Fireflies<tab>Available for purchase in Gridania."
+    },
+    {
+      "id": "0x00000033",
+      "text": "Nobility Obliges<tab>Available for purchase in Ishgard."
+    },
+    {
+      "id": "0x00000034",
+      "text": "The Mushroomery<tab>Available for purchase at Matoya's Cave."
+    },
+    {
+      "id": "0x00000035",
+      "text": "Shelter<tab>Available for purchase in Tailfeather."
+    },
+    {
+      "id": "0x00000036",
+      "text": "Against the Wind<tab>Materials for synthesis obtained from elite marks in the Coerthas western highlands."
+    },
+    {
+      "id": "0x00000037",
+      "text": "Landlords<tab>Materials for synthesis obtained from elite marks in the Churning Mists."
+    },
+    {
+      "id": "0x00000038",
+      "text": "Missing Pages<tab>Materials for synthesis obtained from elite marks in the Dravanian hinterlands."
+    },
+    {
+      "id": "0x00000039",
+      "text": "To the Sun<tab>Available for purchase in Ul'dah."
+    },
+    {
+      "id": "0x0000003A",
+      "text": "On Westerly Winds<tab>Available for purchase in Limsa Lominsa."
+    },
+    {
+      "id": "0x0000003B",
+      "text": "Serenity<tab>Available for purchase in Gridania."
+    },
+    {
+      "id": "0x0000003C",
+      "text": "Moonfire Faire<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x0000003D",
+      "text": "Heavensward<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x0000003E",
+      "text": "The Warrens<tab>Materials for synthesis obtained in Snowcloak."
+    },
+    {
+      "id": "0x0000003F",
+      "text": "Ominous Prognisticks<tab>Available for Allagan tomestone exchange in Idyllshire and from other exchange vendors."
+    },
+    {
+      "id": "0x00000040",
+      "text": "Ink Long Dry<tab>Obtained in the Great Gubal Library."
+    },
+    {
+      "id": "0x00000041",
+      "text": "Unbreakable<tab>Obtained in the Fractal Continuum."
+    },
+    {
+      "id": "0x00000042",
+      "text": "Apologies<tab>Obtained in Sohr Khai."
+    },
+    {
+      "id": "0x00000043",
+      "text": "Horizons Calling<tab>Obtained on Hullbreaker Isle."
+    },
+    {
+      "id": "0x00000044",
+      "text": "Wreck to the Seaman<tab>Materials for synthesis obtained in the Whorleater (Extreme).<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x00000045",
+      "text": "Through the Maelstrom<tab>Materials for synthesis obtained in the Whorleater (Extreme).<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x00000046",
+      "text": "Good King Moggle Mog XII<tab>Materials for synthesis obtained in Thornmarch (Extreme).<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x00000047",
+      "text": "Revenge of the Horde<tab>Materials for synthesis obtained from a trial in Heavensward unlocked via the wandering minstrel.<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x00000048",
+      "text": "Battle on the Big Bridge<tab>Materials for synthesis obtained in the Battle on the Big Bridge or the Battle in the Big Keep."
+    },
+    {
+      "id": "0x00000049",
+      "text": "Battle to the Death - Heavensward<tab>Available for MGP exchange at the Gold Saucer."
+    },
+    {
+      "id": "0x0000004A",
+      "text": "Engage<tab>Materials for synthesis obtained from exploratory voyages."
+    },
+    {
+      "id": "0x0000004B",
+      "text": "Defender of the Realm<tab>Obtained upon completing the achievement \"The Leader of the Band III.\""
+    },
+    {
+      "id": "0x0000004C",
+      "text": "On Windy Meadows<tab>Obtained from treasure hunts."
+    },
+    {
+      "id": "0x0000004D",
+      "text": "Whisper of the Land<tab>Obtained from treasure hunts."
+    },
+    {
+      "id": "0x0000004E",
+      "text": "Twilight over Thanalan<tab>Obtained from treasure hunts."
+    },
+    {
+      "id": "0x0000004F",
+      "text": "Dragonsong<tab>Main scenario quest reward."
+    },
+    {
+      "id": "0x00000050",
+      "text": "All Saints' Wake<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x00000051",
+      "text": "Up at Dawn<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x00000052",
+      "text": "Starlight Celebration<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x00000053",
+      "text": "Heavensturn<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x00000054",
+      "text": "The Seventh Sun<tab>Obtained upon completing the achievement \"The Leader of the Band V.\""
+    },
+    {
+      "id": "0x00000055",
+      "text": "Smoulder<tab>Available for steel Amalj'ok exchange in the Ring of Ash."
+    },
+    {
+      "id": "0x00000056",
+      "text": "Coming Home<tab>Available for Vanu whitebone exchange in Ok' Gundu Nakki."
+    },
+    {
+      "id": "0x00000057",
+      "text": "Nobility Sleeps<tab>Available for purchase in Ishgard."
+    },
+    {
+      "id": "0x00000058",
+      "text": "Night in the Brume<tab>Available for purchase in Ishgard."
+    },
+    {
+      "id": "0x00000059",
+      "text": "Behind Closed Doors<tab>Available for purchase in Gridania, Ul'dah, and Limsa Lominsa."
+    },
+    {
+      "id": "0x0000005A",
+      "text": "Reflections<tab>Available for Allagan tomestone exchange in Mor Dhona and with other exchange vendors."
+    },
+    {
+      "id": "0x0000005B",
+      "text": "Close to the Heavens<tab>Materials for synthesis obtained from elite marks in the Sea of Clouds."
+    },
+    {
+      "id": "0x0000005C",
+      "text": "Unspoken<tab>Obtained from treasure hunts."
+    },
+    {
+      "id": "0x0000005D",
+      "text": "Where the Heart Is<tab>Available for purchase in residential areas."
+    },
+    {
+      "id": "0x0000005E",
+      "text": "Homestead<tab>Available for purchase in Idyllshire."
+    },
+    {
+      "id": "0x0000005F",
+      "text": "Calamity Unbound<tab>Obtained from treasure hunts."
+    },
+    {
+      "id": "0x00000060",
+      "text": "Battle Theme 1.x<tab>Available for MGP exchange at the Gold Saucer."
+    },
+    {
+      "id": "0x00000061",
+      "text": "Blackbosom<tab>Obtained from a piece of the Accursed Hoard in the Palace of the Dead."
+    },
+    {
+      "id": "0x00000062",
+      "text": "Fog of Phantom<tab>Available for Gelmorran potsherd exchange at Quarrymill upon clearing the 150th floor of the Palace of the Dead."
+    },
+    {
+      "id": "0x00000063",
+      "text": "Blasphemous Experiment<tab>Available for Gelmorran potsherd exchange at Quarrymill upon clearing the 100th floor of the Palace of the Dead."
+    },
+    {
+      "id": "0x00000064",
+      "text": "Notice of Death<tab>Available for Gelmorran potsherd exchange at Quarrymill upon clearing the 200th floor of the Palace of the Dead."
+    },
+    {
+      "id": "0x00000065",
+      "text": "Slumber Eternal<tab>Obtained in Sohm Al."
+    },
+    {
+      "id": "0x00000066",
+      "text": "Silver Tears<tab>Obtained in the Keeper of the Lake."
+    },
+    {
+      "id": "0x00000067",
+      "text": "Grounded<tab>Main scenario quest reward."
+    },
+    {
+      "id": "0x00000068",
+      "text": "Footsteps in the Snow<tab>Materials for synthesis obtained in the Akh Afah Amphitheatre (Extreme).<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x00000069",
+      "text": "Oblivion<tab>Materials for synthesis obtained in the Akh Afah Amphitheatre (Extreme).<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x0000006A",
+      "text": "Thunder Rolls<tab>Materials for synthesis obtained in the Striking Tree (Extreme).<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x0000006B",
+      "text": "Equilibrium<tab>Materials for synthesis obtained in Containment Bay P1T6 (Extreme).<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x0000006C",
+      "text": "Sins of the Father, Sins of the Son<tab>Chronicles of a New Era - Alexander: The Creator quest reward."
+    },
+    {
+      "id": "0x0000006D",
+      "text": "Locus<tab>Chronicles of a New Era - Alexander: The Creator quest reward."
+    },
+    {
+      "id": "0x0000006E",
+      "text": "Metal<tab>Chronicles of a New Era - Alexander: The Creator quest reward."
+    },
+    {
+      "id": "0x0000006F",
+      "text": "Metal - Brute Justice Mode<tab>Chronicles of a New Era - Alexander: The Creator quest reward."
+    },
+    {
+      "id": "0x00000070",
+      "text": "Exponential Entropy<tab>Chronicles of a New Era - Alexander: The Creator quest reward."
+    },
+    {
+      "id": "0x00000071",
+      "text": "Rise<tab>Chronicles of a New Era - Alexander: The Creator quest reward."
+    },
+    {
+      "id": "0x00000072",
+      "text": "Borderless (Duality)<tab>Obtained with a promotional code."
+    },
+    {
+      "id": "0x00000073",
+      "text": "Unbending Steel (Duality)<tab>Obtained with a promotional code."
+    },
+    {
+      "id": "0x00000074",
+      "text": "The Kiss<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x00000075",
+      "text": "Flibbertigibbet<tab>Available for sylphic goldleaf exchange in Little Solace."
+    },
+    {
+      "id": "0x00000076",
+      "text": "Piece of Mind<tab>Available for black copper gil exchange at Loth ast Vath."
+    },
+    {
+      "id": "0x00000077",
+      "text": "Frontiers Within<tab>Available for Allagan tomestone exchange in Mor Dhona and with other exchange vendors."
+    },
+    {
+      "id": "0x00000078",
+      "text": "Fleeting Rays<tab>Available for purchase in Highbridge."
+    },
+    {
+      "id": "0x00000079",
+      "text": "Saltswept<tab>Available for purchase in Aleport."
+    },
+    {
+      "id": "0x0000007A",
+      "text": "Thicker than a Knife's Blade<tab>Available for Centurio Seal exchange at the Forgotten Knight."
+    },
+    {
+      "id": "0x0000007B",
+      "text": "Jewel<tab>Obtained in the Firmament or from lockboxes in the Diadem."
+    },
+    {
+      "id": "0x0000007C",
+      "text": "He Who Continues the Attack<tab>Main scenario quest reward."
+    },
+    {
+      "id": "0x0000007D",
+      "text": "Imperial Will<tab>Main scenario quest reward."
+    },
+    {
+      "id": "0x0000007E",
+      "text": "Steel Reason<tab>Main scenario quest reward."
+    },
+    {
+      "id": "0x0000007F",
+      "text": "Canticle<tab>Available for purchase in residential areas."
+    },
+    {
+      "id": "0x00000080",
+      "text": "Forever Lost<tab>Main scenario quest reward."
+    },
+    {
+      "id": "0x00000081",
+      "text": "Breaking Boundaries<tab>Obtained from treasure hunts."
+    },
+    {
+      "id": "0x00000082",
+      "text": "Hallowed Halls<tab>Obtained in the Vault."
+    },
+    {
+      "id": "0x00000083",
+      "text": "Quicksand<tab>Dravanian sidequest reward."
+    },
+    {
+      "id": "0x00000084",
+      "text": "Another Brick<tab>Main scenario quest reward."
+    },
+    {
+      "id": "0x00000085",
+      "text": "The Corpse Hall<tab>Materials for synthesis obtained in Urth's Fount.<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x00000086",
+      "text": "Limitless Blue<tab>Materials for synthesis obtained in the Limitless Blue (Extreme).<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x00000087",
+      "text": "Woe that Is Madness<tab>Materials for synthesis obtained in the Limitless Blue (Extreme).<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x00000088",
+      "text": "The Hand that Gives the Rose<tab>Materials for synthesis obtained in Thok ast Thok (Extreme).<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x00000089",
+      "text": "Unbending Steel<tab>Materials for synthesis obtained in Thok ast Thok (Extreme).<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x0000008A",
+      "text": "Infinity<tab>Materials for synthesis obtained in Containment Bay Z1T9 (Extreme).<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x0000008B",
+      "text": "Tempest<tab>Available for MGP exchange at the Gold Saucer."
+    },
+    {
+      "id": "0x0000008C",
+      "text": "Spiral<tab>Available for MGP exchange at the Gold Saucer."
+    },
+    {
+      "id": "0x0000008D",
+      "text": "Moebius<tab>Available for Alexandrian gear exchange in Idyllshire and with other exchange vendors."
+    },
+    {
+      "id": "0x0000008E",
+      "text": "Aetherpause<tab>Available for Allagan tomestone exchange in Idyllshire and with other exchange vendors."
+    },
+    {
+      "id": "0x0000008F",
+      "text": "Six Fulms Under<tab>Available for Allagan tomestone exchange in Idyllshire and with other exchange vendors."
+    },
+    {
+      "id": "0x00000090",
+      "text": "Teardrops in the Rain<tab>Available for Allagan tomestone exchange in Idyllshire and with other exchange vendors."
+    },
+    {
+      "id": "0x00000091",
+      "text": "A Thousand Faces<tab>Available for Allagan tomestone exchange in Idyllshire and with other exchange vendors."
+    },
+    {
+      "id": "0x00000092",
+      "text": "Promises<tab>Chronicles of a New Era - The Shadow of Mhach quest reward."
+    },
+    {
+      "id": "0x00000093",
+      "text": "Shadow of the Body<tab>Chronicles of a New Era - The Shadow of Mhach quest reward."
+    },
+    {
+      "id": "0x00000094",
+      "text": "Hyper Rainbow Z<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x00000095",
+      "text": "Answers - Reprise<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x00000096",
+      "text": "Stormblood<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x00000097",
+      "text": "Ambient Waves<tab>Available for purchase in residential areas."
+    },
+    {
+      "id": "0x00000098",
+      "text": "Ambient Birdsong<tab>Available for purchase in residential areas."
+    },
+    {
+      "id": "0x00000099",
+      "text": "Ambient Rainfall<tab>Available for purchase in residential areas."
+    },
+    {
+      "id": "0x0000009A",
+      "text": "Ambient Cricketsong<tab>Available for purchase in residential areas."
+    },
+    {
+      "id": "0x0000009B",
+      "text": "Poison Ivy<tab>Obtained in Saint Mocianne's Arboretum."
+    },
+    {
+      "id": "0x0000009C",
+      "text": "Bibliophobia<tab>Obtained in the Great Gubal Library (Hard)."
+    },
+    {
+      "id": "0x0000009D",
+      "text": "Revelation<tab>Materials for synthesis obtained in the Pool of Tribute (Extreme).<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x0000009E",
+      "text": "Beauty's Wicked Wiles<tab>Materials for synthesis obtained in Emanation (Extreme).<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x0000009F",
+      "text": "Skylords<tab>Materials for synthesis obtained from elite marks in the Churning Mists."
+    },
+    {
+      "id": "0x000000A0",
+      "text": "The Silent Regard of Stars<tab>Materials for synthesis obtained from elite marks in the Dravanian hinterlands."
+    },
+    {
+      "id": "0x000000A1",
+      "text": "Beyond the Wall<tab>Obtained from the FATE \"The Evil Seed\" in the Fringes."
+    },
+    {
+      "id": "0x000000A2",
+      "text": "Liquid Flame<tab>Obtained from the FATE \"Never Say Daimyo\" in the Ruby Sea."
+    },
+    {
+      "id": "0x000000A3",
+      "text": "Drowning in the Horizon<tab>Available for Centurio Seal exchange at Rhalgr's Reach and Kugane."
+    },
+    {
+      "id": "0x000000A4",
+      "text": "The Edge<tab>Available for purchase at Wineport."
+    },
+    {
+      "id": "0x000000A5",
+      "text": "Navigator's Glory - The Theme of Limsa Lominsa<tab>Obtained from treasure hunts."
+    },
+    {
+      "id": "0x000000A6",
+      "text": "Born of the Boughs - The Theme of Gridania<tab>Obtained from treasure hunts."
+    },
+    {
+      "id": "0x000000A7",
+      "text": "The Twin Faces of Fate - The Theme of Ul'dah<tab>Obtained from treasure hunts."
+    },
+    {
+      "id": "0x000000A8",
+      "text": "Ambient Insects<tab>Available for purchase in residential areas."
+    },
+    {
+      "id": "0x000000A9",
+      "text": "Ambient Bonfire<tab>Available for purchase in residential areas."
+    },
+    {
+      "id": "0x000000AA",
+      "text": "Ambient Kitchen<tab>Available for purchase in residential areas."
+    },
+    {
+      "id": "0x000000AB",
+      "text": "Birds of Prey<tab>Available for exchange in the Wolves' Den."
+    },
+    {
+      "id": "0x000000AC",
+      "text": "The Measure of His Reach<tab>Main scenario quest reward."
+    },
+    {
+      "id": "0x000000AD",
+      "text": "The Measure of Our Reach<tab>Main scenario quest reward."
+    },
+    {
+      "id": "0x000000AE",
+      "text": "Impact<tab>Available for exchange in Rhalgr's Reach and with other exchange vendors."
+    },
+    {
+      "id": "0x000000AF",
+      "text": "Crimson Sunrise<tab>Obtained from treasure hunts."
+    },
+    {
+      "id": "0x000000B0",
+      "text": "On High<tab>Available for exchange in Rhalgr's Reach and with other exchange vendors."
+    },
+    {
+      "id": "0x000000B1",
+      "text": "Songs of Salt and Suffering<tab>Available for exchange in Rhalgr's Reach and with other exchange vendors."
+    },
+    {
+      "id": "0x000000B2",
+      "text": "A Father's Pride<tab>Obtained from treasure hunts."
+    },
+    {
+      "id": "0x000000B3",
+      "text": "Indomitable<tab>Available for Kojin sango exchange in Tamamizu."
+    },
+    {
+      "id": "0x000000B4",
+      "text": "The Open Box<tab>Obtained in Shisui of the Violet Tides."
+    },
+    {
+      "id": "0x000000B5",
+      "text": "Most Unworthy<tab>Obtained in Bardam's Mettle."
+    },
+    {
+      "id": "0x000000B6",
+      "text": "Deception<tab>Obtained in Kugane Castle."
+    },
+    {
+      "id": "0x000000B7",
+      "text": "Far From Home<tab>Obtained in the Drowned City of Skalla."
+    },
+    {
+      "id": "0x000000B8",
+      "text": "The Worm's Head<tab>Materials for synthesis obtained from a trial in Stormblood unlocked via the wandering minstrel.<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x000000B9",
+      "text": "The Worm's Tail<tab>Materials for synthesis obtained from a trial in Stormblood unlocked via the wandering minstrel.<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x000000BA",
+      "text": "Trisection<tab>Obtained in the Royal City of Rabanastre."
+    },
+    {
+      "id": "0x000000BB",
+      "text": "Precipitous Combat<tab>Obtained in the Royal City of Rabanastre."
+    },
+    {
+      "id": "0x000000BC",
+      "text": "Ultima's Transformation<tab>Obtained in the Royal City of Rabanastre."
+    },
+    {
+      "id": "0x000000BD",
+      "text": "Protagonist's Theme<tab>Quest reward."
+    },
+    {
+      "id": "0x000000BE",
+      "text": "Background Story<tab>Quest reward."
+    },
+    {
+      "id": "0x000000BF",
+      "text": "Ultima (Orchestral Version)<tab>Obtained with a promotional code."
+    },
+    {
+      "id": "0x000000C0",
+      "text": "Heroes (Orchestral Version)<tab>Obtained with a promotional code."
+    },
+    {
+      "id": "0x000000C1",
+      "text": "Starlit Gateway<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x000000C2",
+      "text": "Babbling Brook<tab>Available for purchase in residential areas."
+    },
+    {
+      "id": "0x000000C3",
+      "text": "Bustling Boulevard<tab>Available for purchase in residential areas."
+    },
+    {
+      "id": "0x000000C4",
+      "text": "Temple Bell<tab>Available for purchase in residential areas."
+    },
+    {
+      "id": "0x000000C5",
+      "text": "Chapel Bell<tab>Available for purchase in residential areas."
+    },
+    {
+      "id": "0x000000C6",
+      "text": "Cyan's Theme<tab>Quest reward."
+    },
+    {
+      "id": "0x000000C7",
+      "text": "Iroha<tab>Quest reward."
+    },
+    {
+      "id": "0x000000C8",
+      "text": "Daring Dalliances<tab>Available for purchase at the Gold Saucer."
+    },
+    {
+      "id": "0x000000C9",
+      "text": "Prelude - Long March Home<tab>Obtained upon completing the achievement \"The Leader of the Band VI.\""
+    },
+    {
+      "id": "0x000000CA",
+      "text": "Rival Wings<tab>Available for exchange in the Wolves' Den."
+    },
+    {
+      "id": "0x000000CB",
+      "text": "Crimson Sunset<tab>Obtained from treasure hunts."
+    },
+    {
+      "id": "0x000000CC",
+      "text": "Westward Tide<tab>Available for exchange in Rhalgr's Reach and with other exchange vendors."
+    },
+    {
+      "id": "0x000000CD",
+      "text": "A Mother's Pride<tab>Obtained from treasure hunts."
+    },
+    {
+      "id": "0x000000CE",
+      "text": "He Rises Above<tab>Available for exchange in Rhalgr's Reach and with other exchange vendors."
+    },
+    {
+      "id": "0x000000CF",
+      "text": "Keepers of the Lock<tab>Available for Ananta dreamstaff exchange in Castellum Velodyna."
+    },
+    {
+      "id": "0x000000D0",
+      "text": "Wicked Winds Whisper<tab>Obtained from lockboxes in Eureka Anemos."
+    },
+    {
+      "id": "0x000000D1",
+      "text": "No Quarter<tab>Obtained from lockboxes in Eureka Anemos."
+    },
+    {
+      "id": "0x000000D2",
+      "text": "Down Where Daemons Dwell<tab>Obtained in Hells' Lid."
+    },
+    {
+      "id": "0x000000D3",
+      "text": "Unbreakable (Duality)<tab>Obtained in the Fractal Continuum (Hard)."
+    },
+    {
+      "id": "0x000000D4",
+      "text": "Their Deadly Mission<tab>Obtained in the Temple of the Fist."
+    },
+    {
+      "id": "0x000000D5",
+      "text": "Liberty or Death<tab>Obtained in the instanced duty \"Ala Mhigo.\""
+    },
+    {
+      "id": "0x000000D6",
+      "text": "Triumph<tab>Available for MGP exchange at the Gold Saucer."
+    },
+    {
+      "id": "0x000000D7",
+      "text": "Answer on High<tab>Materials for synthesis obtained in the Jade Stoa (Extreme).<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x000000D8",
+      "text": "Amatsu Kaze<tab>Materials for synthesis obtained in the Jade Stoa (Extreme).<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x000000D9",
+      "text": "Revenge Twofold<tab>Available for MGP exchange at the Gold Saucer."
+    },
+    {
+      "id": "0x000000DA",
+      "text": "Shattered<tab>Obtained in Syrcus Tower."
+    },
+    {
+      "id": "0x000000DB",
+      "text": "Fragments of Forever<tab>Available for purchase in residential areas."
+    },
+    {
+      "id": "0x000000DC",
+      "text": "Siren Song<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x000000DD",
+      "text": "Ambient Wind Chime<tab>Available for purchase in residential areas."
+    },
+    {
+      "id": "0x000000DE",
+      "text": "Ambient Abyss<tab>Materials for synthesis obtained on subaquatic voyages."
+    },
+    {
+      "id": "0x000000DF",
+      "text": "Victory or Death<tab>Available for purchase in the Doman Enclave."
+    },
+    {
+      "id": "0x000000E0",
+      "text": "Far East of Eorzea<tab>Available for exchange in Crick."
+    },
+    {
+      "id": "0x000000E1",
+      "text": "Parting Ways<tab>Obtained from a piece of the Accursed Hoard in Heaven-on-High."
+    },
+    {
+      "id": "0x000000E2",
+      "text": "Revolutions<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x000000E3",
+      "text": "The Ancient City<tab>Obtained in the Lost City of Amdapor (Hard)."
+    },
+    {
+      "id": "0x000000E4",
+      "text": "Gates of the Moon<tab>Obtained in Doma Castle."
+    },
+    {
+      "id": "0x000000E5",
+      "text": "Earth, Wind, and Water<tab>Obtained in the Swallow's Compass."
+    },
+    {
+      "id": "0x000000E6",
+      "text": "Black and White<tab>Materials for synthesis obtained from elite marks in the Coerthas western highlands."
+    },
+    {
+      "id": "0x000000E7",
+      "text": "Seven Hundred Seventy-Seven Whiskers<tab>Available for Namazu koban exchange in Dhoro Iloh."
+    },
+    {
+      "id": "0x000000E8",
+      "text": "World Map<tab>Return to Ivalice quest reward."
+    },
+    {
+      "id": "0x000000E9",
+      "text": "A Chapel<tab>Return to Ivalice quest reward."
+    },
+    {
+      "id": "0x000000EA",
+      "text": "The Mystery of Giruvegan<tab>Obtained in the Ridorana Lighthouse."
+    },
+    {
+      "id": "0x000000EB",
+      "text": "Apoplexy<tab>Obtained in the Ridorana Lighthouse."
+    },
+    {
+      "id": "0x000000EC",
+      "text": "Flash of Steel<tab>Obtained in the Ridorana Lighthouse."
+    },
+    {
+      "id": "0x000000ED",
+      "text": "Cornerstone of the New World - Astera<tab>Available for exchange in Kugane."
+    },
+    {
+      "id": "0x000000EE",
+      "text": "Savage of the Ancient Forest<tab>Available for exchange in Kugane."
+    },
+    {
+      "id": "0x000000EF",
+      "text": "Proof of a Hero - Monster Hunter: World Version<tab>Obtained in the Great Hunt (Extreme)."
+    },
+    {
+      "id": "0x000000F0",
+      "text": "Nightbloom<tab>Materials for synthesis obtained from a trial in Stormblood unlocked via the wandering minstrel.<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x000000F1",
+      "text": "Wayward Daughter<tab>Materials for synthesis obtained from a trial in Stormblood unlocked via the wandering minstrel.<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x000000F2",
+      "text": "Rise of the White Raven (Orchestral Version)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x000000F3",
+      "text": "Revenge Twofold (Orchestral Version)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x000000F4",
+      "text": "Oblivion (Orchestral Version)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x000000F5",
+      "text": "Starlight, Starbright<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x000000F6",
+      "text": "Cradle<tab>Available for purchase in the Doman Enclave."
+    },
+    {
+      "id": "0x000000F7",
+      "text": "Upon the Rocks<tab>Obtained in Pharos Sirius (Hard) or from Kupo of Fortune in the Firmament."
+    },
+    {
+      "id": "0x000000F8",
+      "text": "Tricksome<tab>Obtained in the Wanderer's Palace (Hard) or from Kupo of Fortune in the Firmament."
+    },
+    {
+      "id": "0x000000F9",
+      "text": "Beneath Bloodied Banners<tab>Obtained in Halatali (Hard)."
+    },
+    {
+      "id": "0x000000FA",
+      "text": "From Mud<tab>Obtained in Saint Mocianne's Arboretum (Hard)."
+    },
+    {
+      "id": "0x000000FB",
+      "text": "A Land Long Dead<tab>Obtained in the Burn."
+    },
+    {
+      "id": "0x000000FC",
+      "text": "Sunrise<tab>Materials for synthesis obtained in Hells' Kier (Extreme).<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x000000FD",
+      "text": "Omega Squared<tab>Obtained in Deltascape V1.0, V2.0, or V3.0."
+    },
+    {
+      "id": "0x000000FE",
+      "text": "Decisions (Omega)<tab>Obtained in Deltascape V4.0."
+    },
+    {
+      "id": "0x000000FF",
+      "text": "Final, Not Final<tab>Available for exchange in Rhalgr's Reach and with other exchange vendors."
+    },
+    {
+      "id": "0x00000100",
+      "text": "A Battle Decisively<tab>Obtained in Sigmascape V1.0, V2.0, or V3.0."
+    },
+    {
+      "id": "0x00000101",
+      "text": "Dancing Mad - Movement I<tab>Obtained in Sigmascape V4.0."
+    },
+    {
+      "id": "0x00000102",
+      "text": "Dancing Mad - Movement II<tab>Obtained in Sigmascape V4.0."
+    },
+    {
+      "id": "0x00000103",
+      "text": "Dancing Mad - Movement III<tab>Obtained in Sigmascape V4.0."
+    },
+    {
+      "id": "0x00000104",
+      "text": "Dancing Mad - Movement IV<tab>Available for exchange in Rhalgr's Reach and with other exchange vendors."
+    },
+    {
+      "id": "0x00000105",
+      "text": "Battle<tab>Obtained in Alphascape V1.0."
+    },
+    {
+      "id": "0x00000106",
+      "text": "Primogenitor<tab>Obtained in Alphascape V2.0."
+    },
+    {
+      "id": "0x00000107",
+      "text": "eScape<tab>Obtained in Alphascape V3.0."
+    },
+    {
+      "id": "0x00000108",
+      "text": "Heartless<tab>Obtained in Alphascape V4.0."
+    },
+    {
+      "id": "0x00000109",
+      "text": "Deltascape<tab>Quest reward."
+    },
+    {
+      "id": "0x0000010A",
+      "text": "A Dream in Flight<tab>Quest reward."
+    },
+    {
+      "id": "0x0000010B",
+      "text": "Ending<tab>Quest reward."
+    },
+    {
+      "id": "0x0000010C",
+      "text": "From the Dragon's Wake<tab>Materials for synthesis obtained in the Wreath of Snakes (Extreme).<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x0000010D",
+      "text": "A Pall Most Murderous<tab>Obtained in the Ghimlyt Dark."
+    },
+    {
+      "id": "0x0000010E",
+      "text": "Game Theory<tab>Available for MGP exchange at the Gold Saucer."
+    },
+    {
+      "id": "0x0000010F",
+      "text": "Doman Distractions<tab>Obtained upon completing the achievement \"Tile and Error I.\""
+    },
+    {
+      "id": "0x00000110",
+      "text": "Serenity (Orchestral Version)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000111",
+      "text": "Calamity Unbound (Orchestral Version)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000112",
+      "text": "Ominous Prognisticks (Orchestral Version)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000113",
+      "text": "From the Heavens<tab>Available for exchange in Rhalgr's Reach and with other exchange vendors."
+    },
+    {
+      "id": "0x00000114",
+      "text": "Rise of Heroes (Chiptune Version)<tab>Available for MGP exchange at the Gold Saucer."
+    },
+    {
+      "id": "0x00000115",
+      "text": "Wayward Daughter (Chiptune Version)<tab>Obtained with a promotional code."
+    },
+    {
+      "id": "0x00000116",
+      "text": "The Worm's Tail (Chiptune Version)<tab>Obtained with a promotional code."
+    },
+    {
+      "id": "0x00000117",
+      "text": "Rise (The Primals)<tab>Obtained with a promotional code."
+    },
+    {
+      "id": "0x00000118",
+      "text": "Oblivion (GUNN Vocals)<tab>Obtained with a promotional code."
+    },
+    {
+      "id": "0x00000119",
+      "text": "Painted Foothills (Orchestral Version)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x0000011A",
+      "text": "Moebius (Orchestral Version)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x0000011B",
+      "text": "Afterglow<tab>Available for exchange in Rhalgr's Reach and with other exchange vendors."
+    },
+    {
+      "id": "0x0000011C",
+      "text": "Hope Forgotten<tab>Available for exchange in Rhalgr's Reach and with other exchange vendors."
+    },
+    {
+      "id": "0x0000011D",
+      "text": "The Stone Remembers<tab>Available for exchange in Rhalgr's Reach and with other exchange vendors."
+    },
+    {
+      "id": "0x0000011E",
+      "text": "Old Wounds<tab>Available for exchange in Rhalgr's Reach and with other exchange vendors."
+    },
+    {
+      "id": "0x0000011F",
+      "text": "Harmony<tab>Available for exchange in Rhalgr's Reach and with other exchange vendors."
+    },
+    {
+      "id": "0x00000120",
+      "text": "Gates of Paradise - The Garden of Ru'Hmet<tab>Obtained from lockboxes in Eureka Hydatos."
+    },
+    {
+      "id": "0x00000121",
+      "text": "Onslaught<tab>Obtained from warped lockboxes in Eureka Hydatos."
+    },
+    {
+      "id": "0x00000122",
+      "text": "Turmoil<tab>Obtained from the Baldesion Arsenal in Eureka Hydatos."
+    },
+    {
+      "id": "0x00000123",
+      "text": "Beyond Redemption<tab>Available for exchange in Old Gridania."
+    },
+    {
+      "id": "0x00000124",
+      "text": "Staff Credits<tab>Quest reward."
+    },
+    {
+      "id": "0x00000125",
+      "text": "Alma's Theme<tab>Quest reward."
+    },
+    {
+      "id": "0x00000126",
+      "text": "Under the Stars<tab>Obtained in the Orbonne Monastery."
+    },
+    {
+      "id": "0x00000127",
+      "text": "Pressure (No. 1)<tab>Obtained in the Orbonne Monastery."
+    },
+    {
+      "id": "0x00000128",
+      "text": "Antipyretic<tab>Obtained in the Orbonne Monastery."
+    },
+    {
+      "id": "0x00000129",
+      "text": "A Man Consumed<tab>Obtained in the Orbonne Monastery."
+    },
+    {
+      "id": "0x0000012A",
+      "text": "Ultima's Perfection<tab>Obtained in the Orbonne Monastery."
+    },
+    {
+      "id": "0x0000012B",
+      "text": "Hammerhead<tab>Available for unidentified magitek exchange from Ironworks hands."
+    },
+    {
+      "id": "0x0000012C",
+      "text": "Valse di Fantastica<tab>Available for unidentified magitek exchange from Ironworks hands."
+    },
+    {
+      "id": "0x0000012D",
+      "text": "Relax and Reflect<tab>Available for unidentified magitek exchange from Ironworks hands."
+    },
+    {
+      "id": "0x0000012E",
+      "text": "Veiled in Black<tab>Available for unidentified magitek exchange from Ironworks hands."
+    },
+    {
+      "id": "0x0000012F",
+      "text": "Apocalypsis Noctis<tab>Available for unidentified magitek exchange from Ironworks hands."
+    },
+    {
+      "id": "0x00000130",
+      "text": "A Quick Pit Stop<tab>Available for unidentified magitek exchange from Ironworks hands."
+    },
+    {
+      "id": "0x00000131",
+      "text": "The Worm's Tail (Journeys Version)<tab>Obtained with a promotional code."
+    },
+    {
+      "id": "0x00000132",
+      "text": "eScape (Journeys Version)<tab>Obtained with a promotional code."
+    },
+    {
+      "id": "0x00000133",
+      "text": "The Source<tab>Available for exchange in Lakeland."
+    },
+    {
+      "id": "0x00000134",
+      "text": "A World Divided<tab>Available for exchange in Kholusia."
+    },
+    {
+      "id": "0x00000135",
+      "text": "Sands of Amber<tab>Available for exchange in Amh Araeng."
+    },
+    {
+      "id": "0x00000136",
+      "text": "Fierce and Free<tab>Available for exchange in Il Mheg."
+    },
+    {
+      "id": "0x00000137",
+      "text": "Civilizations<tab>Available for exchange in Rak'tika."
+    },
+    {
+      "id": "0x00000138",
+      "text": "Full Fathom Five<tab>Available for exchange somewhere in Norvrandt."
+    },
+    {
+      "id": "0x00000139",
+      "text": "What Angel Wakes Me<tab>Materials for synthesis obtained in the Dancing Plague (Extreme).<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x0000013A",
+      "text": "Insanity<tab>Materials for synthesis obtained in the Crown of the Immaculate (Extreme).<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x0000013B",
+      "text": "Shadowbringers<tab>Main scenario quest reward."
+    },
+    {
+      "id": "0x0000013C",
+      "text": "Tomorrow and Tomorrow<tab>Main scenario quest reward."
+    },
+    {
+      "id": "0x0000013D",
+      "text": "To Fire and Sword<tab>Obtained in Holminster Switch."
+    },
+    {
+      "id": "0x0000013E",
+      "text": "Figments<tab>Obtained in Dohn Mheg."
+    },
+    {
+      "id": "0x0000013F",
+      "text": "Unwound<tab>Obtained in the Qitana Ravel."
+    },
+    {
+      "id": "0x00000140",
+      "text": "Deep Down<tab>Obtained in Malikah's Well."
+    },
+    {
+      "id": "0x00000141",
+      "text": "In the Belly of the Beast<tab>Obtained in Mt. Gulg."
+    },
+    {
+      "id": "0x00000142",
+      "text": "Mortal Instants<tab>Obtained in Amaurot."
+    },
+    {
+      "id": "0x00000143",
+      "text": "Shadows Withal<tab>Obtained in the Akadaemia Anyder."
+    },
+    {
+      "id": "0x00000144",
+      "text": "A Long Fall<tab>Obtained in the Twinning."
+    },
+    {
+      "id": "0x00000145",
+      "text": "Alienus<tab>Obtained in Castrum Abania."
+    },
+    {
+      "id": "0x00000146",
+      "text": "Fury<tab>Obtained in Brayflox's Longstop (Hard)."
+    },
+    {
+      "id": "0x00000147",
+      "text": "Force Your Way (Shadowbringers)<tab>Obtained in Eden's Gate: Resurrection or Descent."
+    },
+    {
+      "id": "0x00000148",
+      "text": "Landslide<tab>Obtained in Eden's Gate: Sepulture."
+    },
+    {
+      "id": "0x00000149",
+      "text": "Rencounter<tab>Available for exchange in the Crystarium or Eulmore."
+    },
+    {
+      "id": "0x0000014A",
+      "text": "Insatiable<tab>Obtained from treasure hunts."
+    },
+    {
+      "id": "0x0000014B",
+      "text": "The Dark Which Illuminates the World<tab>Available for exchange in the Crystarium."
+    },
+    {
+      "id": "0x0000014C",
+      "text": "Indulgence<tab>Available for exchange in Eulmore."
+    },
+    {
+      "id": "0x0000014D",
+      "text": "Blinding Indigo<tab>Obtained in Eden's Gate: Inundation."
+    },
+    {
+      "id": "0x0000014E",
+      "text": "Knowledge Never Sleeps<tab>Available for exchange in the Crystarium."
+    },
+    {
+      "id": "0x0000014F",
+      "text": "Masquerade<tab>Available for exchange in Eulmore."
+    },
+    {
+      "id": "0x00000150",
+      "text": "Unchanging, Everchanging<tab>Available for exchange in Lakeland."
+    },
+    {
+      "id": "0x00000151",
+      "text": "The Quick Way<tab>Available for exchange in Kholusia."
+    },
+    {
+      "id": "0x00000152",
+      "text": "Sands of Blood<tab>Available for exchange in Amh Araeng."
+    },
+    {
+      "id": "0x00000153",
+      "text": "The Faerie Ring<tab>Available for exchange in Il Mheg."
+    },
+    {
+      "id": "0x00000154",
+      "text": "A Hopeless Race<tab>Available for exchange in the Rak'tika Greatwood."
+    },
+    {
+      "id": "0x00000155",
+      "text": "Neath Dark Waters<tab>Available for exchange in the Tempest."
+    },
+    {
+      "id": "0x00000156",
+      "text": "Pain in Pleasure<tab>Main scenario quest reward."
+    },
+    {
+      "id": "0x00000157",
+      "text": "Invincible<tab>Materials for synthesis obtained from a trial in Shadowbringers unlocked via the minstreling wanderer.<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x00000158",
+      "text": "The Grand Cosmos<tab>Obtained in the Grand Cosmos."
+    },
+    {
+      "id": "0x00000159",
+      "text": "The Garden's Gates<tab>Available for exchange in Il Mheg."
+    },
+    {
+      "id": "0x0000015A",
+      "text": "A Fierce Air Forceth<tab>Available for exchange in the Wolves' Den."
+    },
+    {
+      "id": "0x0000015B",
+      "text": "A Fine Air Forbiddeth<tab>Available for exchange in the Wolves' Den."
+    },
+    {
+      "id": "0x0000015C",
+      "text": "Starlight de Chocobo<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x0000015D",
+      "text": "Safety in Numbers<tab>Available for exchange in the Firmament."
+    },
+    {
+      "id": "0x0000015E",
+      "text": "Significance (Nothing)<tab>Quest reward."
+    },
+    {
+      "id": "0x0000015F",
+      "text": "City Ruins (Rays of Light)<tab>Obtained in the Copied Factory."
+    },
+    {
+      "id": "0x00000160",
+      "text": "The Sound of the End<tab>Obtained in the Tower at Paradigm's Breach."
+    },
+    {
+      "id": "0x00000161",
+      "text": "Voice of no Return (Guitar)<tab>Quest reward."
+    },
+    {
+      "id": "0x00000162",
+      "text": "Alien Manifestation<tab>Obtained in the Copied Factory."
+    },
+    {
+      "id": "0x00000163",
+      "text": "Song of the Ancients (Atonement)<tab>Obtained in the Copied Factory."
+    },
+    {
+      "id": "0x00000164",
+      "text": "Bipolar Nightmare<tab>Obtained in the Copied Factory."
+    },
+    {
+      "id": "0x00000165",
+      "text": "Weight of the World (Prelude Version)<tab>Obtained in the Copied Factory."
+    },
+    {
+      "id": "0x00000166",
+      "text": "Tsukuyomi's Pain (Orchestral Version)<tab>Obtained with a promotional code."
+    },
+    {
+      "id": "0x00000167",
+      "text": "The Worm's Tail (Orchestral Version)<tab>Obtained with a promotional code."
+    },
+    {
+      "id": "0x00000168",
+      "text": "Nail of the Heavens<tab>Available for exchange in Ul'dah."
+    },
+    {
+      "id": "0x00000169",
+      "text": "Imperium<tab>Available for exchange in Ul'dah."
+    },
+    {
+      "id": "0x0000016A",
+      "text": "Blue Fields (Shadowbringers)<tab>Quest reward."
+    },
+    {
+      "id": "0x0000016B",
+      "text": "Twice Stricken<tab>Obtained in Eden's Verse: Fulmination."
+    },
+    {
+      "id": "0x0000016C",
+      "text": "Primal Angel<tab>Obtained in Eden's Verse: Furor."
+    },
+    {
+      "id": "0x0000016D",
+      "text": "Return to Oblivion<tab>Obtained in Eden's Verse: Refulgence."
+    },
+    {
+      "id": "0x0000016E",
+      "text": "Ultima (The Primals)<tab>Materials for synthesis obtained in Cinder Drift (Extreme).<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x00000170",
+      "text": "The Maiden's Lament<tab>Obtained in Haukke Manor."
+    },
+    {
+      "id": "0x00000171",
+      "text": "The Darkhold<tab>Obtained in Dzemael Darkhold."
+    },
+    {
+      "id": "0x00000172",
+      "text": "Floundering in the Depths<tab>Obtained in Anamnesis Anyder."
+    },
+    {
+      "id": "0x00000173",
+      "text": "Hopl's Dropple<tab>Available for exchange in Hopl's Stopple."
+    },
+    {
+      "id": "0x00000174",
+      "text": "Crumbling Lies (Front)<tab>Quest reward."
+    },
+    {
+      "id": "0x00000175",
+      "text": "Vamo' alla Flamenco (Shadowbringers)<tab>Available for MGP exchange at the Gold Saucer."
+    },
+    {
+      "id": "0x00000176",
+      "text": "Paradise Found<tab>Available for exchange in the Firmament."
+    },
+    {
+      "id": "0x00000177",
+      "text": "Fealty<tab>Available for exchange in the Firmament."
+    },
+    {
+      "id": "0x00000178",
+      "text": "Stone and Steel<tab>Available for exchange in the Firmament."
+    },
+    {
+      "id": "0x00000179",
+      "text": "The Mendicant's Relish<tab>Available for exchange in the Firmament."
+    },
+    {
+      "id": "0x0000017A",
+      "text": "Bedlam's Brink<tab>Available for exchange in the Tempest."
+    },
+    {
+      "id": "0x0000017B",
+      "text": "A Reason to Live<tab>Available for exchange in Il Mheg."
+    },
+    {
+      "id": "0x0000017C",
+      "text": "No Greater Sorrow<tab>Available for exchange in Eulmore."
+    },
+    {
+      "id": "0x0000017D",
+      "text": "On Our Fates Alight<tab>Obtained from treasure hunts."
+    },
+    {
+      "id": "0x0000017E",
+      "text": "Order Yet Undeciphered<tab>Available for exchange in the Firmament."
+    },
+    {
+      "id": "0x0000017F",
+      "text": "Watts's Anvil<tab>Available for exchange in Watts's Anvil."
+    },
+    {
+      "id": "0x00000181",
+      "text": "Eternal Wind (Shadowbringers)<tab>Materials for synthesis obtained from a trial in Shadowbringers unlocked via the minstreling wanderer.<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x00000182",
+      "text": "To the Edge<tab>Materials for synthesis obtained from a trial in Shadowbringers unlocked via the minstreling wanderer.<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x00000183",
+      "text": "Wind on the Plains<tab>Obtained from lockboxes in the Bozjan southern front."
+    },
+    {
+      "id": "0x00000184",
+      "text": "Blood on the Wind<tab>Available in exchange for Bozjan clusters in the Bozjan southern front and at other exchange vendors."
+    },
+    {
+      "id": "0x00000185",
+      "text": "Discord: Imperial (Zodiac Age Version)<tab>Available in exchange for Bozjan clusters in the Bozjan southern front and at other exchange vendors."
+    },
+    {
+      "id": "0x00000186",
+      "text": "Into the Fortress (Zodiac Age Version)<tab>Obtained from the Battle of Castrum Lacus Litore in the Bozjan southern front."
+    },
+    {
+      "id": "0x00000187",
+      "text": "Battle with an Esper (Zodiac Age Version)<tab>Obtained from the Battle of Castrum Lacus Litore in the Bozjan southern front."
+    },
+    {
+      "id": "0x00000188",
+      "text": "Life and Death (Zodiac Age Version)<tab>Obtained from the Battle of Castrum Lacus Litore in the Bozjan southern front."
+    },
+    {
+      "id": "0x00000189",
+      "text": "Where All Roads Lead<tab>Obtained in the Heroes' Gauntlet."
+    },
+    {
+      "id": "0x0000018A",
+      "text": "Hard to Miss<tab>Obtained from subaquatic voyages."
+    },
+    {
+      "id": "0x0000018B",
+      "text": "A Tonberry's Tears<tab>Obtained in the Wanderer's Palace."
+    },
+    {
+      "id": "0x0000018C",
+      "text": "Abomination<tab>Obtained in Cutter's Cry."
+    },
+    {
+      "id": "0x0000018D",
+      "text": "Freefall<tab>Available for exchange in the Firmament."
+    },
+    {
+      "id": "0x0000018E",
+      "text": "The Heavens' Ward<tab>Available for exchange in the Firmament."
+    },
+    {
+      "id": "0x0000018F",
+      "text": "Broken Heart<tab>Quest reward."
+    },
+    {
+      "id": "0x00000190",
+      "text": "Amusement Park<tab>Quest reward."
+    },
+    {
+      "id": "0x00000191",
+      "text": "Fortress of Lies<tab>Obtained in the Puppets' Bunker."
+    },
+    {
+      "id": "0x00000192",
+      "text": "Grandma (Destruction)<tab>Obtained in the Puppets' Bunker."
+    },
+    {
+      "id": "0x00000193",
+      "text": "End of the Unknown<tab>Obtained in the Puppets' Bunker."
+    },
+    {
+      "id": "0x00000194",
+      "text": "Torn from the Heavens／The Dark Colossus Destroys All (Medley Version)<tab>Obtained in the Puppets' Bunker."
+    },
+    {
+      "id": "0x00000195",
+      "text": "Neath Dark Waters (Scions & Sinners)<tab>Obtained via an item code."
+    },
+    {
+      "id": "0x00000196",
+      "text": "A Long Fall (Scions & Sinners: Band)<tab>Obtained via an item code."
+    },
+    {
+      "id": "0x00000197",
+      "text": "A New Hope (Piano Collections)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000198",
+      "text": "Wailers and Waterwheels (Piano Collections)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000199",
+      "text": "I Am the Sea (Piano Collections)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x0000019A",
+      "text": "New Foundations<tab>Quest reward."
+    },
+    {
+      "id": "0x0000019B",
+      "text": "The Black Wolf Stalks Again<tab>Materials for synthesis obtained in Castrum Marinum (Extreme).<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x0000019C",
+      "text": "Gogo's Theme<tab>Available for exchange in Ul'dah."
+    },
+    {
+      "id": "0x0000019D",
+      "text": "The Sochen Cave Palace (Zodiac Age Version)<tab>Obtained in Delubrum Reginae."
+    },
+    {
+      "id": "0x0000019E",
+      "text": "Giving Chase (Zodiac Age Version)<tab>Obtained in Delubrum Reginae."
+    },
+    {
+      "id": "0x0000019F",
+      "text": "The Queen Awakens<tab>Obtained in Delubrum Reginae."
+    },
+    {
+      "id": "0x000001A0",
+      "text": "Freshly Glazed Porxie<tab>Obtained in Matoya's Relict."
+    },
+    {
+      "id": "0x000001A1",
+      "text": "Don't Be Afraid (Shadowbringers)<tab>Obtained in Eden's Promise: Litany."
+    },
+    {
+      "id": "0x000001A2",
+      "text": "The Legendary Beast (Shadowbringers)<tab>Obtained in Eden's Promise: Anamorphosis."
+    },
+    {
+      "id": "0x000001A3",
+      "text": "Promises to Keep<tab>Obtained in Eden's Promise: Eternity."
+    },
+    {
+      "id": "0x000001A4",
+      "text": "The Extreme (Shadowbringers)<tab>Obtained in Eden's Promise: Eternity (Savage)."
+    },
+    {
+      "id": "0x000001A5",
+      "text": "Nemesis<tab>Obtained from subaquatic voyages."
+    },
+    {
+      "id": "0x000001A6",
+      "text": "Everywhere and Nowhere<tab>Obtained in the Shifting Oubliettes of Lyhe Ghiah."
+    },
+    {
+      "id": "0x000001A7",
+      "text": "Tomorrow and Tomorrow - Reprise<tab>Obtained from treasure hunts."
+    },
+    {
+      "id": "0x000001A8",
+      "text": "Dangerous Words<tab>Obtained from treasure hunts."
+    },
+    {
+      "id": "0x000001A9",
+      "text": "Unmatching Pieces<tab>Obtained in the Shifting Oubliettes of Lyhe Ghiah."
+    },
+    {
+      "id": "0x000001AA",
+      "text": "The Ludus<tab>Obtained in Halatali."
+    },
+    {
+      "id": "0x000001AB",
+      "text": "Faith in Her Fury<tab>Obtained from Kupo of Fortune in the Firmament."
+    },
+    {
+      "id": "0x000001AC",
+      "text": "Hearthward<tab>Available for exchange in the Firmament."
+    },
+    {
+      "id": "0x000001AD",
+      "text": "Painted Skies<tab>Obtained from Kupo of Fortune in the Firmament."
+    },
+    {
+      "id": "0x000001AE",
+      "text": "A Fine Death<tab>Available for MGP exchange at the Gold Saucer."
+    },
+    {
+      "id": "0x000001AF",
+      "text": "Below<tab>Obtained in Copperbell Mines."
+    },
+    {
+      "id": "0x000001B0",
+      "text": "Dancing Calcabrina<tab>Obtained in the Antitower."
+    },
+    {
+      "id": "0x000001B1",
+      "text": "Ominous Prognisticks (Piano Collections) <tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x000001B2",
+      "text": "Night in the Brume (Piano Collections)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x000001B3",
+      "text": "Painted Foothills (Piano Collections)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x000001B4",
+      "text": "Shuffle or Boogie (Shadowbringers)<tab>Obtained upon completing the achievement \"Open to Victory I.\""
+    },
+    {
+      "id": "0x000001B5",
+      "text": "In the Arms of War<tab>Materials for synthesis obtained on the Cloud Deck (Extreme).<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x000001B6",
+      "text": "Wrath of the Harrier<tab>Obtained from the Dalriada in Zadnor."
+    },
+    {
+      "id": "0x000001B7",
+      "text": "Seven Flames<tab>Obtained in Paglth'an."
+    },
+    {
+      "id": "0x000001B8",
+      "text": "And Love You Shall Find<tab>Quest reward."
+    },
+    {
+      "id": "0x000001B9",
+      "text": "What Is Love?<tab>Available for exchange in the Firmament."
+    },
+    {
+      "id": "0x000001BA",
+      "text": "By Design<tab>Obtained from subaquatic voyages."
+    },
+    {
+      "id": "0x000001BB",
+      "text": "Freedom<tab>Available for exchange in Limsa Lominsa and with other exchange vendors."
+    },
+    {
+      "id": "0x000001BC",
+      "text": "A Better Tomorrow<tab>Obtained from treasure hunts."
+    },
+    {
+      "id": "0x000001BD",
+      "text": "On Westerly Winds (Piano Collections)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x000001BE",
+      "text": "Serenity (Piano Collections)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x000001BF",
+      "text": "To the Sun (Piano Collections)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x000001C0",
+      "text": "Invincible (Scions & Sinners: Piano)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x000001C1",
+      "text": "Tomorrow and Tomorrow (Scions & Sinners: Amanda Achen Vocals)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x000001C2",
+      "text": "Return to Oblivion (Scions & Sinners: Amanda Achen Vocals)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x000001C3",
+      "text": "What Angel Wakes Me (Scions & Sinners: Amanda Achen Vocals)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x000001C4",
+      "text": "A Long Fall (Scions & Sinners: Piano)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x000001C5",
+      "text": "Equilibrium (Scions & Sinners: Band)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x000001C6",
+      "text": "What Angel Wakes Me (Scions & Sinners: Band)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x000001C7",
+      "text": "Shadowbringers (Scions & Sinners: Band)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x000001C8",
+      "text": "Blinding Indigo (Scions & Sinners: Band)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x000001C9",
+      "text": "Insatiable (Scions & Sinners: Band)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x000001CA",
+      "text": "Rise (Pulse)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x000001CB",
+      "text": "Through the Maelstrom (Pulse)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x000001CC",
+      "text": "Neath Dark Waters (Pulse)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x000001CD",
+      "text": "What Angel Wakes Me (Pulse)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x000001CE",
+      "text": "Sunrise (Pulse)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x000001CF",
+      "text": "Skyrise<tab>Available for exchange in the Firmament."
+    },
+    {
+      "id": "0x000001D0",
+      "text": "Mourning<tab>Obtained in the Tower at Paradigm's Breach."
+    },
+    {
+      "id": "0x000001D1",
+      "text": "Emil (Despair)<tab>Obtained in the Tower at Paradigm's Breach."
+    },
+    {
+      "id": "0x000001D3",
+      "text": "The Sound of the End: 8bit<tab>Obtained in the Tower at Paradigm's Breach."
+    },
+    {
+      "id": "0x000001D4",
+      "text": "Kainé (Final Fantasy Main Theme Version)<tab>Obtained in the Tower at Paradigm's Breach."
+    },
+    {
+      "id": "0x000001D5",
+      "text": "Weight of the World (Instrumental)<tab>Quest reward."
+    },
+    {
+      "id": "0x000001D6",
+      "text": "Voice of no Return (Normal)<tab>Quest reward."
+    },
+    {
+      "id": "0x000001D7",
+      "text": "The Color of Depression<tab>Quest reward."
+    },
+    {
+      "id": "0x000001D8",
+      "text": "Widespread Illness<tab>Quest reward."
+    },
+    {
+      "id": "0x000001D9",
+      "text": "Possessed by Disease<tab>Quest reward."
+    },
+    {
+      "id": "0x000001DA",
+      "text": "Faltering Prayer (Dawn Breeze)<tab>Quest reward."
+    },
+    {
+      "id": "0x000001DB",
+      "text": "Tower of Zot (Endwalker)<tab>Obtained in the Tower of Zot."
+    },
+    {
+      "id": "0x000001DC",
+      "text": "Garlemald Express<tab>Obtained in the Tower of Babil."
+    },
+    {
+      "id": "0x000001DD",
+      "text": "As the Sky Burns<tab>Obtained in Vanaspati."
+    },
+    {
+      "id": "0x000001DE",
+      "text": "Miracle Works<tab>Obtained in Ktisis Hyperboreia."
+    },
+    {
+      "id": "0x000001DF",
+      "text": "The Aetherial Sea<tab>Obtained in the Aitiascope."
+    },
+    {
+      "id": "0x000001E0",
+      "text": "Of Countless Stars<tab>Obtained at the Dead Ends."
+    },
+    {
+      "id": "0x000001E1",
+      "text": "Carrots of Happiness<tab>Obtained in Smileton."
+    },
+    {
+      "id": "0x000001E2",
+      "text": "Endcaller<tab>Materials for synthesis obtained from a trial in Endwalker unlocked via the wandering minstrel.<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x000001E3",
+      "text": "Your Answer<tab>Materials for synthesis obtained from a trial in Endwalker unlocked via the wandering minstrel.<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x000001E5",
+      "text": "Ancient Shackles<tab>Obtained in Asphodelos: The Third Circle."
+    },
+    {
+      "id": "0x000001E6",
+      "text": "Hic Svnt Leones<tab>Obtained in Asphodelos: The Fourth Circle."
+    },
+    {
+      "id": "0x000001E7",
+      "text": "The Ewer Brimmeth<tab>Available for exchange in Old Sharlayan."
+    },
+    {
+      "id": "0x000001E8",
+      "text": "Twilit Terraces<tab>Available for exchange in Radz-at-Han."
+    },
+    {
+      "id": "0x000001E9",
+      "text": "The Labyrinth<tab>Available for exchange in Labyrinthos."
+    },
+    {
+      "id": "0x000001EA",
+      "text": "Divine Words<tab>Available for exchange in Thavnair."
+    },
+    {
+      "id": "0x000001EB",
+      "text": "White Snow, Black Steel<tab>Available for exchange in Garlemald."
+    },
+    {
+      "id": "0x000001EC",
+      "text": "One Small Step<tab>Available for exchange in Mare Lamentorum."
+    },
+    {
+      "id": "0x000001ED",
+      "text": "Sky Unsundered<tab>Available for exchange in Elpis."
+    },
+    {
+      "id": "0x000001EE",
+      "text": "Close in the Distance<tab>Available for exchange in Ultima Thule."
+    },
+    {
+      "id": "0x000001EF",
+      "text": "Unbowed<tab>Available for exchange in Old Sharlayan and Radz-at-Han."
+    },
+    {
+      "id": "0x000001F0",
+      "text": "On Blade's Edge<tab>Obtained from treasure hunts."
+    },
+    {
+      "id": "0x000001F1",
+      "text": "Finality<tab>Obtained from treasure hunts."
+    },
+    {
+      "id": "0x000001F2",
+      "text": "Endwalker – Footfalls<tab>Main scenario quest reward."
+    },
+    {
+      "id": "0x000001F3",
+      "text": "Flow<tab>Main scenario quest reward."
+    },
+    {
+      "id": "0x000001F4",
+      "text": "Dawnbound<tab>Obtained in the Sirensong Sea."
+    },
+    {
+      "id": "0x000001F5",
+      "text": "Roar of the Wyrm<tab>Obtained in the Aery."
+    },
+    {
+      "id": "0x000001F6",
+      "text": "From the Depths<tab>Obtained in Sastasha."
+    },
+    {
+      "id": "0x000001F7",
+      "text": "Ink Long Dry (Piano Collections)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x000001F8",
+      "text": "Heroes (Piano Collections)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x000001F9",
+      "text": "Old Wounds (Piano Collections)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x000001FA",
+      "text": "The Map Unfolds<tab>Obtained at Alzadaal's Legacy."
+    },
+    {
+      "id": "0x000001FB",
+      "text": "The Final Day<tab>Materials for synthesis obtained from a trial in Endwalker unlocked via the wandering minstrel. <nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x000001FC",
+      "text": "With Hearts Aligned<tab>Materials for synthesis obtained from a trial in Endwalker unlocked via the wandering minstrel. <nl>※Drop rates increase when participating at minimum IL.<nl>"
+    },
+    {
+      "id": "0x000001FD",
+      "text": "Flow Together<tab>Quest reward."
+    },
+    {
+      "id": "0x000001FE",
+      "text": "One among Wonders<tab>Quest reward."
+    },
+    {
+      "id": "0x000001FF",
+      "text": "Pilgrimage<tab>Obtained in Aglaia."
+    },
+    {
+      "id": "0x00000200",
+      "text": "Radiance<tab>Obtained in Aglaia."
+    },
+    {
+      "id": "0x00000201",
+      "text": "In the Balance<tab>Obtained in Aglaia."
+    },
+    {
+      "id": "0x00000202",
+      "text": "Hippo Ridin'<tab>Available for exchange in Svarna."
+    },
+    {
+      "id": "0x00000203",
+      "text": "The Nautilus Knoweth<tab>Available for exchange in Old Sharlayan."
+    },
+    {
+      "id": "0x00000204",
+      "text": "The Day Will Come (Endwalker)<tab>Available for exchange in Old Sharlayan."
+    },
+    {
+      "id": "0x00000205",
+      "text": "Vibrant Voices<tab>Available for exchange in Radz-at-Han."
+    },
+    {
+      "id": "0x00000206",
+      "text": "Perfumed Eves<tab>Available for exchange in Radz-at-Han."
+    },
+    {
+      "id": "0x00000207",
+      "text": "Dreams of Man<tab>Available for exchange in Labyrinthos."
+    },
+    {
+      "id": "0x00000208",
+      "text": "Prayers Repeated<tab>Available for exchange in Thavnair."
+    },
+    {
+      "id": "0x00000209",
+      "text": "Black Steel, Cold Embers<tab>Available for exchange in Garlemald."
+    },
+    {
+      "id": "0x0000020A",
+      "text": "Home Beyond the Horizon<tab>Available for exchange in Garlemald."
+    },
+    {
+      "id": "0x0000020B",
+      "text": "Stars Long Dead<tab>Available for exchange in Elpis."
+    },
+    {
+      "id": "0x0000020C",
+      "text": "Welcome to Our Town! (Endwalker)<tab>Available for exchange in Mare Lamentorum."
+    },
+    {
+      "id": "0x0000020D",
+      "text": "Warming Up<tab>Available for exchange in the Wolves' Den."
+    },
+    {
+      "id": "0x0000020E",
+      "text": "Festival of the Hunt (Endwalker)<tab>Available for exchange in the Wolves' Den."
+    },
+    {
+      "id": "0x0000020F",
+      "text": "Run! (Endwalker)<tab>Available for exchange in the Wolves' Den."
+    },
+    {
+      "id": "0x00000210",
+      "text": "Like a Summer Rain<tab>Obtained on Neverreap."
+    },
+    {
+      "id": "0x00000211",
+      "text": "Descent<tab>Obtained in the Dusk Vigil."
+    },
+    {
+      "id": "0x00000212",
+      "text": "Aftermath<tab>Obtained at Amdapor Keep (Hard)."
+    },
+    {
+      "id": "0x00000213",
+      "text": "Gateway to Paradise<tab>Available for MGP exchange at the Gold Saucer."
+    },
+    {
+      "id": "0x00000214",
+      "text": "Starlight and Sellswords<tab>Available for purchase in residential areas."
+    },
+    {
+      "id": "0x00000215",
+      "text": "Westward Tide (Piano Collections)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000216",
+      "text": "Imagination (Piano Collections)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000217",
+      "text": "Crimson Sunset (Piano Collections)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000218",
+      "text": "Battle with the Four Fiends (Buried Memory)<tab>Materials for synthesis obtained from a trial in Endwalker unlocked via the wandering minstrel.<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x00000219",
+      "text": "Troian Beauty (Endwalker)<tab>Obtained at the Fell Court of Troia."
+    },
+    {
+      "id": "0x0000021A",
+      "text": "FINAL FANTASY IV: Battle 2 (Endwalker)<tab>Obtained at the Fell Court of Troia."
+    },
+    {
+      "id": "0x0000021B",
+      "text": "Desert Sun<tab>Available for exchange in Old Sharlayan."
+    },
+    {
+      "id": "0x0000021C",
+      "text": "Silent Scream<tab>Obtained in Abyssos: The Fifth Circle."
+    },
+    {
+      "id": "0x0000021D",
+      "text": "Scream<tab>Obtained in Abyssos: The Sixth Circle or Abyssos: The Seventh Circle."
+    },
+    {
+      "id": "0x0000021E",
+      "text": "Embers<tab>Obtained in Abyssos: The Eighth Circle."
+    },
+    {
+      "id": "0x0000021F",
+      "text": "White Stone Black<tab>Obtained in Abyssos: The Eighth Circle (Savage)."
+    },
+    {
+      "id": "0x00000220",
+      "text": "A Quiet Moment<tab>Available for exchange on the unnamed island."
+    },
+    {
+      "id": "0x00000221",
+      "text": "Island Paradise<tab>Available for exchange on the unnamed island."
+    },
+    {
+      "id": "0x00000222",
+      "text": "Cradle of Hope<tab>Available for exchange at A-4 Research."
+    },
+    {
+      "id": "0x00000223",
+      "text": "Born to Ride<tab>Available for purchase in residential areas."
+    },
+    {
+      "id": "0x00000224",
+      "text": "Into the Adder's Den<tab>Available for exchange at the Adders' Nest."
+    },
+    {
+      "id": "0x00000225",
+      "text": "Maelstrom Command<tab>Available for exchange at Maelstrom Command."
+    },
+    {
+      "id": "0x00000226",
+      "text": "The Hall of Flames<tab>Available for exchange at the Hall of Flames."
+    },
+    {
+      "id": "0x00000227",
+      "text": "Dewdrops & Moonbeams<tab>Available for exchange at the Adders' Nest."
+    },
+    {
+      "id": "0x00000228",
+      "text": "Ripples in the Sea<tab>Available for exchange at Maelstrom Command."
+    },
+    {
+      "id": "0x00000229",
+      "text": "The Sands' Secrets<tab>Available for exchange at the Hall of Flames."
+    },
+    {
+      "id": "0x0000022A",
+      "text": "Unworthy<tab>Available for exchange in the Firmament."
+    },
+    {
+      "id": "0x0000022B",
+      "text": "Toll of the Bells<tab>Obtained in the Vault."
+    },
+    {
+      "id": "0x0000022C",
+      "text": "Stigma<tab>Obtained in the Vault."
+    },
+    {
+      "id": "0x0000022D",
+      "text": "The Emperor's Wont<tab>Available for exchange in Garlemald."
+    },
+    {
+      "id": "0x0000022E",
+      "text": "Penitus<tab>Available for exchange in Garlemald."
+    },
+    {
+      "id": "0x0000022F",
+      "text": "A Thousand Screams<tab>Obtained in the Thousand Maws of Toto-Rak."
+    },
+    {
+      "id": "0x00000230",
+      "text": "Lipflaps on Longstops<tab>Obtained at Brayflox's Longstop."
+    },
+    {
+      "id": "0x00000231",
+      "text": "Shuffle or Boogie<tab>Available for MGP exchange at the Gold Saucer."
+    },
+    {
+      "id": "0x00000232",
+      "text": "Close in the Distance (Beyond the Shadow)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000233",
+      "text": "Hic Svnt Leones (Beyond the Shadow)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000234",
+      "text": "Silence<tab>Available for purchase in residential areas."
+    },
+    {
+      "id": "0x00000235",
+      "text": "Forged in Crimson<tab>Materials for synthesis obtained from a trial in Endwalker unlocked via the wandering minstrel.<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x00000236",
+      "text": "Dreamwalker<tab>Available for exchange in Hoper's Hold."
+    },
+    {
+      "id": "0x00000237",
+      "text": "Deep Blue<tab>Obtained in Lapis Manalis."
+    },
+    {
+      "id": "0x00000238",
+      "text": "Forbidden Land (Endwalker)<tab>Obtained from a piece of the Accursed Hoard in Eureka Orthos."
+    },
+    {
+      "id": "0x00000239",
+      "text": "Favor<tab>Obtained in Euphrosyne."
+    },
+    {
+      "id": "0x0000023A",
+      "text": "Rhythm of the Realm<tab>Obtained in Euphrosyne."
+    },
+    {
+      "id": "0x0000023B",
+      "text": "Dedicated to Moonlight<tab>Obtained in Euphrosyne."
+    },
+    {
+      "id": "0x0000023C",
+      "text": "A Victory Fanfare Reborn<tab>Obtained from treasure hunts."
+    },
+    {
+      "id": "0x0000023D",
+      "text": "Dangertek<tab>Obtained from treasure hunts."
+    },
+    {
+      "id": "0x0000023E",
+      "text": "Cracks in the Wall<tab>Obtained in Amdapor Keep."
+    },
+    {
+      "id": "0x0000023F",
+      "text": "Echoes of Ages Past<tab>Obtained at the Sunken Temple of Qarn."
+    },
+    {
+      "id": "0x00000240",
+      "text": "Cold Salvation<tab>Obtained at the Stone Vigil."
+    },
+    {
+      "id": "0x00000241",
+      "text": "Miser's Folly<tab>Obtained in the Aurum Vale."
+    },
+    {
+      "id": "0x00000242",
+      "text": "Forgotten by the Sun<tab>Obtained at the Sunken Temple of Qarn (Hard)."
+    },
+    {
+      "id": "0x00000243",
+      "text": "Holy Consult<tab>Obtained on Hullbreaker Isle (Hard)."
+    },
+    {
+      "id": "0x00000244",
+      "text": "Decisions<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x00000245",
+      "text": "Pa-Paya Demastered<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x00000246",
+      "text": "Battle 1 from FINAL FANTASY IV<tab>Available for exchange in Hoper's Hold."
+    },
+    {
+      "id": "0x00000247",
+      "text": "The Promise of Plunder<tab>Obtained from a piece of the Accursed Hoard in Eureka Orthos."
+    },
+    {
+      "id": "0x00000248",
+      "text": "Crystal Rain<tab>Obtained from a piece of the Accursed Hoard in Eureka Orthos."
+    },
+    {
+      "id": "0x00000249",
+      "text": "Bliss<tab>Available for purchase in residential areas."
+    },
+    {
+      "id": "0x0000024A",
+      "text": "Sacred Bonds<tab>Available for purchase in residential areas."
+    },
+    {
+      "id": "0x0000024B",
+      "text": "Dreams Aloft<tab>Obtained from subaquatic voyages."
+    },
+    {
+      "id": "0x0000024C",
+      "text": "To the Edge (Orchestral Version)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x0000024D",
+      "text": "Flow (Orchestral Version)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x0000024E",
+      "text": "Somewhere in the World (Ambitions Writhe)<tab>Quest reward."
+    },
+    {
+      "id": "0x0000024F",
+      "text": "Another Moon<tab>Main scenario quest reward."
+    },
+    {
+      "id": "0x00000250",
+      "text": "Voidcast Savior<tab>Materials for synthesis obtained on the Voidcast Dais (Extreme).<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x00000251",
+      "text": "Subterranean Sanctuary<tab>Available for exchange on the unnamed island."
+    },
+    {
+      "id": "0x00000252",
+      "text": "The Land Reborn<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x00000253",
+      "text": "Pom from the Heavens<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x00000254",
+      "text": "Starsbreath<tab>Obtained at the Aetherfont."
+    },
+    {
+      "id": "0x00000255",
+      "text": "Crimson Rise<tab>Available for exchange in Old Sharlayan."
+    },
+    {
+      "id": "0x00000256",
+      "text": "One Amongst the Weary<tab>Obtained in Anabaseios: The Ninth or Tenth Circle."
+    },
+    {
+      "id": "0x00000257",
+      "text": "Fleeting Moment<tab>Obtained in Anabaseios: The Eleventh Circle."
+    },
+    {
+      "id": "0x00000258",
+      "text": "Athena, the Tireless One<tab>Obtained in Anabaseios: The Twelfth Circle."
+    },
+    {
+      "id": "0x00000259",
+      "text": "Ultima's Perfection (Endwalker)<tab>Obtained in Anabaseios: The Twelfth Circle (Savage)."
+    },
+    {
+      "id": "0x0000025A",
+      "text": "Battle 2 from FINAL FANTASY III<tab>Available for exchange in Ul'dah."
+    },
+    {
+      "id": "0x0000025B",
+      "text": "Looping in the Deepest Fringes<tab>Available for exchange in Old Sharlayan."
+    },
+    {
+      "id": "0x0000025C",
+      "text": "Fracture<tab>Available for purchase at the Adventurers' Guilds in Gridania, Ul'dah, and Limsa Lominsa."
+    },
+    {
+      "id": "0x0000025D",
+      "text": "Conundrum<tab>Available for purchase at the Adventurers' Guilds in Gridania, Ul'dah, and Limsa Lominsa."
+    },
+    {
+      "id": "0x0000025E",
+      "text": "Return of the Hero<tab>Available for purchase at the Adventurers' Guilds in Gridania, Ul'dah, and Limsa Lominsa."
+    },
+    {
+      "id": "0x0000025F",
+      "text": "Kiss of Chaos<tab>Available for purchase at the Adventurers' Guilds in Gridania, Ul'dah, and Limsa Lominsa."
+    },
+    {
+      "id": "0x00000260",
+      "text": "Machinations<tab>Available for purchase at the Adventurers' Guilds in Gridania, Ul'dah, and Limsa Lominsa."
+    },
+    {
+      "id": "0x00000261",
+      "text": "Damnation<tab>Available for purchase at the Adventurers' Guilds in Gridania, Ul'dah, and Limsa Lominsa."
+    },
+    {
+      "id": "0x00000262",
+      "text": "Skullduggery<tab>Available for purchase at the Adventurers' Guilds in Gridania, Ul'dah, and Limsa Lominsa."
+    },
+    {
+      "id": "0x00000263",
+      "text": "Tranquility<tab>Available for purchase at the Adventurers' Guilds in Gridania, Ul'dah, and Limsa Lominsa."
+    },
+    {
+      "id": "0x00000264",
+      "text": "My Soul to Keep<tab>Available for exchange in Old Gridania."
+    },
+    {
+      "id": "0x00000265",
+      "text": "Meteor<tab>Available for exchange in Old Gridania."
+    },
+    {
+      "id": "0x00000266",
+      "text": "FINAL FANTASY IV: The Final Battle (Endwalker)<tab>Materials for synthesis obtained in the Abyssal Fracture (Extreme).<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x00000267",
+      "text": "Shadowbringers (Orchestral Version)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000268",
+      "text": "Endcaller (Orchestral Version)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000269",
+      "text": "Your Answer (Orchestral Version)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x0000026A",
+      "text": "Close in the Distance (Orchestral Version)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x0000026B",
+      "text": "The Final Day (Orchestral Version)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x0000026C",
+      "text": "Unbreakable (Pulse)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x0000026D",
+      "text": "Equilibrium (Pulse)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x0000026E",
+      "text": "Beauty's Wicked Wiles (Pulse)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x0000026F",
+      "text": "I Am the Sea (Pulse)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000270",
+      "text": "A Long Fall (Pulse)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000271",
+      "text": "The Red Wings (Endwalker)<tab>Materials for synthesis obtained in the Abyssal Fracture (Extreme).<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x00000272",
+      "text": "To the Edge (Forge Ahead)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000273",
+      "text": "White Stone Black (Forge Ahead)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000274",
+      "text": "Scream (Forge Ahead)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000275",
+      "text": "In the Balance (Forge Ahead)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000276",
+      "text": "Athena, the Tireless One (Forge Ahead)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000277",
+      "text": "Flow (Forge Ahead)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000278",
+      "text": "What Once Was (Forge Ahead)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000279",
+      "text": "Carrots of Happiness (Forge Ahead)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x0000027A",
+      "text": "The Labyrinth (Forge Ahead)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x0000027B",
+      "text": "Dedicated to Moonlight (Amanda Achen Vocals)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x0000027C",
+      "text": "Tonitrua ex Machina<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x0000027D",
+      "text": "Idylls of the Empire<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x0000027E",
+      "text": "Forevermore - The Grand Duchy of Rosaria<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x0000027F",
+      "text": "Before the Storm - Caer Norvent<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x00000280",
+      "text": "The State of the Realm<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x00000281",
+      "text": "Dedicated to Moonlight (Forge Ahead)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000282",
+      "text": "In the Balance (Amanda Achen Vocals)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000283",
+      "text": "Kingdom of Baron (Endwalker)<tab>Obtained in the Lunar Subterrane."
+    },
+    {
+      "id": "0x00000284",
+      "text": "A Gentleman to Walk with Me<tab>Quest reward."
+    },
+    {
+      "id": "0x00000285",
+      "text": "Fair Winds to Guide<tab>Obtained in Thaleia."
+    },
+    {
+      "id": "0x00000286",
+      "text": "Course Uncharted<tab>Obtained in Thaleia."
+    },
+    {
+      "id": "0x00000287",
+      "text": "Myths of the Realm<tab>Obtained in Thaleia."
+    },
+    {
+      "id": "0x00000288",
+      "text": "O Speaker, Slumber<tab>Available for exchange in Old Sharlayan."
+    },
+    {
+      "id": "0x00000289",
+      "text": "O Hunter, Rejoice<tab>Available for exchange in Old Sharlayan."
+    },
+    {
+      "id": "0x0000028A",
+      "text": "Pennons Aloft<tab>Obtained from subaquatic voyages."
+    },
+    {
+      "id": "0x0000028B",
+      "text": "From Fear to Fortitude<tab>Obtained from subaquatic voyages."
+    },
+    {
+      "id": "0x0000028C",
+      "text": "Who I Really Am<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x0000028D",
+      "text": "Away (Refrain)<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x0000028E",
+      "text": "To Sail Forbidden Seas<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x0000028F",
+      "text": "Find the Flame<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x00000290",
+      "text": "Land of Eikons<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x00000291",
+      "text": "Everybody Falls (Fall Guys Theme)<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x00000292",
+      "text": "Punutiy Crossing<tab>Obtained in Ihuykatumu."
+    },
+    {
+      "id": "0x00000293",
+      "text": "Empyrean Peak<tab>Obtained at Worqor Zormor."
+    },
+    {
+      "id": "0x00000294",
+      "text": "Lost in the Deep<tab>Obtained at the Skydeep Cenote."
+    },
+    {
+      "id": "0x00000295",
+      "text": "In Fulgur and Fire<tab>Obtained in Vanguard."
+    },
+    {
+      "id": "0x00000296",
+      "text": "Anatomy of Existence<tab>Obtained in Origenics."
+    },
+    {
+      "id": "0x00000297",
+      "text": "A Trail Unending<tab>Obtained in Alexandria."
+    },
+    {
+      "id": "0x00000298",
+      "text": "Blessings on the Bluffs<tab>Obtained in Tender Valley."
+    },
+    {
+      "id": "0x00000299",
+      "text": "Court Jesters (Dawntrail)<tab>Obtained at the Strayborough Deadwalk."
+    },
+    {
+      "id": "0x0000029A",
+      "text": "The Skyruin<tab>Materials for synthesis obtained from a trial in Dawntrail unlocked via the wandering minstrel.<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x0000029B",
+      "text": "Seeking Purpose<tab>Materials for synthesis obtained from a trial in Dawntrail unlocked via the wandering minstrel.<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x0000029C",
+      "text": "It's Showtime!<tab>Obtained in AAC Light-heavyweight M1."
+    },
+    {
+      "id": "0x0000029D",
+      "text": "Bee My Honey<tab>Obtained in AAC Light-heavyweight M2."
+    },
+    {
+      "id": "0x0000029E",
+      "text": "Burning Souls<tab>Obtained in AAC Light-heavyweight M3."
+    },
+    {
+      "id": "0x0000029F",
+      "text": "Give It All<tab>Obtained in AAC Light-heavyweight M4."
+    },
+    {
+      "id": "0x000002A0",
+      "text": "A Risky Bet<tab>Obtained in AAC Light-heavyweight M4 (Savage)."
+    },
+    {
+      "id": "0x000002A1",
+      "text": "Morrow's Might<tab>Available for exchange in Tuliyollal."
+    },
+    {
+      "id": "0x000002A2",
+      "text": "Starless Skyline<tab>Available for exchange in Solution Nine."
+    },
+    {
+      "id": "0x000002A3",
+      "text": "Windswept Echoes<tab>Available for exchange in Urqopacha."
+    },
+    {
+      "id": "0x000002A4",
+      "text": "Of Glittering Wings<tab>Available for exchange in Kozama'uka."
+    },
+    {
+      "id": "0x000002A5",
+      "text": "Emerald under Sapphire<tab>Available for exchange in Yak T'el."
+    },
+    {
+      "id": "0x000002A6",
+      "text": "Ceruleum Smoke at High Noon<tab>Available for exchange in Shaaloani."
+    },
+    {
+      "id": "0x000002A7",
+      "text": "Flash in the Dark<tab>Available for exchange in Heritage Found."
+    },
+    {
+      "id": "0x000002A8",
+      "text": "Bygone Serenity<tab>Available for exchange in Living Memory."
+    },
+    {
+      "id": "0x000002A9",
+      "text": "Pastoral Pleasures<tab>Quest reward."
+    },
+    {
+      "id": "0x000002AA",
+      "text": "Life Bound by Honor<tab>Quest reward."
+    },
+    {
+      "id": "0x000002AB",
+      "text": "Desertwalkers<tab>Quest reward."
+    },
+    {
+      "id": "0x000002AC",
+      "text": "Blade's Exaltation<tab>Available for exchange in Tuliyollal."
+    },
+    {
+      "id": "0x000002AD",
+      "text": "Roads Forsaken<tab>Obtained from treasure hunts."
+    },
+    {
+      "id": "0x000002AE",
+      "text": "Pathmaker<tab>Obtained from treasure hunts."
+    },
+    {
+      "id": "0x000002AF",
+      "text": "Dawntrail<tab>Main scenario quest reward."
+    },
+    {
+      "id": "0x000002B0",
+      "text": "Smile<tab>Main scenario quest reward."
+    },
+    {
+      "id": "0x000002B1",
+      "text": "Subterranean Drop<tab>Obtained from subaquatic voyages."
+    },
+    {
+      "id": "0x000002B2",
+      "text": "Tinkerer's Treasure Trove<tab>Obtained from subaquatic voyages."
+    },
+    {
+      "id": "0x000002B3",
+      "text": "Flow (Fan Fest)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x000002B4",
+      "text": "Endwalker – Footfalls (Fan Fest)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x000002B5",
+      "text": "Unbroken Vessels<tab>Obtained at Yuweyawata Field Station."
+    },
+    {
+      "id": "0x000002B6",
+      "text": "Morrow's Magic<tab>Available for exchange in Tuliyollal."
+    },
+    {
+      "id": "0x000002B7",
+      "text": "Windswept Whispers<tab>Available for exchange in Urqopacha."
+    },
+    {
+      "id": "0x000002B8",
+      "text": "Of Glittering Baubles<tab>Available for exchange in Kozama'uka."
+    },
+    {
+      "id": "0x000002B9",
+      "text": "Skybound Emerald<tab>Available for exchange in Yak T'el."
+    },
+    {
+      "id": "0x000002BA",
+      "text": "Ceruleum Embers by Dusk<tab>Available for exchange in Shaaloani."
+    },
+    {
+      "id": "0x000002BB",
+      "text": "Crash in the Dark<tab>Available for exchange in Heritage Found."
+    },
+    {
+      "id": "0x000002BC",
+      "text": "Echoes of Memory<tab>Available for exchange in Living Memory."
+    },
+    {
+      "id": "0x000002BD",
+      "text": "Faerie Battle<tab>Available for exchange in Solution Nine."
+    },
+    {
+      "id": "0x000002BE",
+      "text": "Paved in Solitude<tab>Materials for synthesis obtained from a trial in Dawntrail unlocked via the wandering minstrel.<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x000002BF",
+      "text": "Paved with Resolve<tab>Materials for synthesis obtained from a trial in Dawntrail unlocked via the wandering minstrel.<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x000002C0",
+      "text": "Bright Bustle<tab>Quest reward."
+    },
+    {
+      "id": "0x000002C1",
+      "text": "Return to Oblivion (Scions & Sinners: Band)<tab>Available for exchange in Old Gridania."
+    },
+    {
+      "id": "0x000002C2",
+      "text": "A Sundering of Light<tab>Available for exchange in Old Gridania."
+    },
+    {
+      "id": "0x000002C3",
+      "text": "Where Dæmons Abide<tab>Quest reward."
+    },
+    {
+      "id": "0x000002C4",
+      "text": "The Travel Agency (Dawntrail)<tab>Available for exchange in Dock Poga."
+    },
+    {
+      "id": "0x000002C5",
+      "text": "The Grand Duchy of Jeuno<tab>Quest reward."
+    },
+    {
+      "id": "0x000002C6",
+      "text": "The Forgotten City - Tavnazian Safehold<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x000002C7",
+      "text": "Shadow Lord<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x000002C8",
+      "text": "Depths of the Soul<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x000002C9",
+      "text": "Battle in the Dungeon<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x000002CA",
+      "text": "Battle in the Dungeon #3<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x000002CB",
+      "text": "Tu'Lia<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x000002CC",
+      "text": "Battle Theme from FINAL FANTASY XI<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x000002CD",
+      "text": "Fighters of the Crystal<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x000002CE",
+      "text": "Castle Zvahl<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x000002CF",
+      "text": "Awakening<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x000002D0",
+      "text": "Vana'diel March<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x000002D2",
+      "text": "Winter's Warm Boughs<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x000002D3",
+      "text": "Nature's Bounty<tab>Obtained from subaquatic voyages."
+    },
+    {
+      "id": "0x000002D4",
+      "text": "Cast Stones in Shadow<tab>Obtained from treasure hunts."
+    },
+    {
+      "id": "0x000002D5",
+      "text": "Bee My Honey (Darkest Before Dawn)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x000002D6",
+      "text": "Give It All (Darkest Before Dawn)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x000002D7",
+      "text": "Mog House<tab>Available for exchange in Old Gridania."
+    },
+    {
+      "id": "0x000002D8",
+      "text": "Home at Heart<tab>Available for exchange in Gok Golma."
+    },
+    {
+      "id": "0x000002D9",
+      "text": "Roses of May (Dawntrail)<tab>Materials for synthesis obtained from a trial in Dawntrail unlocked via the wandering minstrel.<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x000002DA",
+      "text": "Garden Relics<tab>Available for exchange on the Occult Crescent: South Horn."
+    },
+    {
+      "id": "0x000002DB",
+      "text": "Garden Ruins<tab>Available for exchange on the Occult Crescent: South Horn."
+    },
+    {
+      "id": "0x000002DC",
+      "text": "Town Theme (Dawntrail)<tab>Available for exchange on the Occult Crescent: South Horn."
+    },
+    {
+      "id": "0x000002DD",
+      "text": "A New World (Dawntrail)<tab>Available for exchange on the Occult Crescent: South Horn."
+    },
+    {
+      "id": "0x000002DE",
+      "text": "Exdeath's Castle (Dawntrail)<tab>Available for exchange on the Occult Crescent: South Horn."
+    },
+    {
+      "id": "0x000002DF",
+      "text": "FINAL FANTASY V: Battle 1 (Dawntrail)<tab>Available for exchange on the Occult Crescent: South Horn."
+    },
+    {
+      "id": "0x000002E0",
+      "text": "Stargazers<tab>Obtained from cosmic fortunes in Sinus Ardorum."
+    },
+    {
+      "id": "0x000002E1",
+      "text": "Hey, Cid!<tab>Available for exchange in cosmic exploration base camps."
+    },
+    {
+      "id": "0x000002E2",
+      "text": "The Airship<tab>Available for exchange in cosmic exploration base camps."
+    },
+    {
+      "id": "0x000002E3",
+      "text": "Find the Princess (Dawntrail)<tab>Obtained in the Underkeep."
+    },
+    {
+      "id": "0x000002E4",
+      "text": "Ride the Rhythm<tab>Obtained in AAC Cruiserweight M1."
+    },
+    {
+      "id": "0x000002E5",
+      "text": "Back to the Drawing Board<tab>Obtained in AAC Cruiserweight M2."
+    },
+    {
+      "id": "0x000002E6",
+      "text": "Not Afraid<tab>Obtained in AAC Cruiserweight M3."
+    },
+    {
+      "id": "0x000002E7",
+      "text": "Unleashed<tab>Obtained in AAC Cruiserweight M4."
+    },
+    {
+      "id": "0x000002E8",
+      "text": "Peerless<tab>Obtained in AAC Cruiserweight M4 (Savage)."
+    },
+    {
+      "id": "0x000002E9",
+      "text": "Echoes in the Distance<tab>Obtained from cosmic fortunes in Sinus Ardorum."
+    },
+    {
+      "id": "0x000002EA",
+      "text": "Close in the Distance (Instrumental)<tab>Obtained from cosmic fortunes in Sinus Ardorum."
+    },
+    {
+      "id": "0x000002EB",
+      "text": "Todoroki<tab>Available for exchange in Idyllshire."
+    },
+    {
+      "id": "0x000002EC",
+      "text": "Sunset<tab>Available for exchange in Idyllshire."
+    },
+    {
+      "id": "0x000002ED",
+      "text": "In Dawn's Embrace<tab>Obtained from subaquatic voyages."
+    },
+    {
+      "id": "0x000002EE",
+      "text": "Fun and Games<tab>Obtained from treasure hunts."
+    },
+    {
+      "id": "0x000002EF",
+      "text": "FINAL FANTASY IX: The Final Battle (Dawntrail)<tab>Obtained from a trial in Dawntrail unlocked via the wandering minstrel.<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x000002F0",
+      "text": "Remembrance<tab>Obtained in the Meso Terminal."
+    },
+    {
+      "id": "0x000002F1",
+      "text": "Ronfaure<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x000002F2",
+      "text": "Tough Battle<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x000002F3",
+      "text": "Tough Battle #2<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x000002F4",
+      "text": "Eald'narche<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x000002F5",
+      "text": "Belief<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x000002F6",
+      "text": "Despair (Memoro de la S^tono)<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x000002F7",
+      "text": "Jeweled Boughs<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x000002F8",
+      "text": "Hopelessness<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x000002F9",
+      "text": "Sometime, Somewhere<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x000002FA",
+      "text": "Voyager<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x000002FB",
+      "text": "Vana'diel March #2<tab>Quest reward."
+    },
+    {
+      "id": "0x000002FC",
+      "text": "The Big One<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x000002FD",
+      "text": "Gustaberg<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x000002FE",
+      "text": "Sarutabaruta<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x000002FF",
+      "text": "Coffee Break<tab>Obtained from subaquatic voyages."
+    },
+    {
+      "id": "0x00000300",
+      "text": "Etched in Memory<tab>Obtained from treasure hunts, Cenote Ja Ja Gural, or Vault Oneiron."
+    },
+    {
+      "id": "0x00000301",
+      "text": "The Promise of Tomorrow<tab>Main scenario quest reward."
+    },
+    {
+      "id": "0x00000302",
+      "text": "Snowline Rollick<tab>Available for exchange in Urqopacha."
+    },
+    {
+      "id": "0x00000303",
+      "text": "Rays of Devotion<tab>Obtained from a piece of the Accursed Hoard in Pilgrim's Traverse."
+    },
+    {
+      "id": "0x00000304",
+      "text": "Shadows Withal (Scions & Sinners: Piano)<tab>Obtained from a piece of the Accursed Hoard in Pilgrim's Traverse."
+    },
+    {
+      "id": "0x00000305",
+      "text": "What Angel Wakes Me (Scions & Sinners: Instrumental)<tab>Quest reward."
+    },
+    {
+      "id": "0x00000306",
+      "text": "Civilizations (Pulse 2)<tab>Obtained from a piece of the Accursed Hoard in Pilgrim's Traverse."
+    },
+    {
+      "id": "0x00000307",
+      "text": "Insatiable (Pulse 2)<tab>Obtained from a piece of the Accursed Hoard in Pilgrim's Traverse."
+    },
+    {
+      "id": "0x00000308",
+      "text": "Kaleidoscope<tab>Obtained from cosmic fortunes on Phaenna."
+    },
+    {
+      "id": "0x00000309",
+      "text": "Carrots of Passion<tab>Available for exchange in cosmic exploration base camps."
+    },
+    {
+      "id": "0x0000030A",
+      "text": "Radiant Cry of Life<tab>Available for exchange in Tuliyollal."
+    },
+    {
+      "id": "0x0000030B",
+      "text": "White Wraith<tab>Available for exchange in Tuliyollal."
+    },
+    {
+      "id": "0x0000030C",
+      "text": "Base Camp (Day)<tab>Available for exchange in Tuliyollal."
+    },
+    {
+      "id": "0x0000030D",
+      "text": "Kunafa, Windsong Village - Plenty (Day)<tab>Available for exchange in Tuliyollal."
+    },
+    {
+      "id": "0x0000030E",
+      "text": "Moment of Peace<tab>Available for exchange in Tuliyollal."
+    },
+    {
+      "id": "0x0000030F",
+      "text": "Prologue<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000310",
+      "text": "Memories<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000311",
+      "text": "Party Composition<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000312",
+      "text": "Brave Story<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000313",
+      "text": "Thunder God Cid's Theme<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000314",
+      "text": "Hidden Truths<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x00000315",
+      "text": "Under the Weight (The Primals)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000316",
+      "text": "Through the Maelstrom (The Primals)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000317",
+      "text": "Fiend (The Primals)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000318",
+      "text": "Locus (The Primals)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000319",
+      "text": "Metal - Brute Justice Mode (The Primals)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x0000031A",
+      "text": "Windswept Echoes (Pulse 2)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x0000031B",
+      "text": "Close in the Distance (Pulse 2)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x0000031C",
+      "text": "Dedicated to Moonlight (Pulse 2)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x0000031D",
+      "text": "Bee My Honey (Pulse 2)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x0000031E",
+      "text": "Good King Moggle Mog XII (Pulse 2)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x0000031F",
+      "text": "Return to Oblivion (Pulse 2)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000320",
+      "text": "To the Edge (Pulse 2)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000321",
+      "text": "Fiend (Pulse 2)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000322",
+      "text": "Athena, the Tireless One (Pulse 2)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000323",
+      "text": "The Nautilus Knoweth (Pulse 2)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000324",
+      "text": "Dark City Treno (Dawntrail)<tab>Quest reward."
+    },
+    {
+      "id": "0x00000325",
+      "text": "Sweet Dreamer's Melody<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x00000326",
+      "text": "FINAL FANTASY IX: Battle 2 (Dawntrail)<tab>Obtained in Hell on Rails (Extreme).<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x00000327",
+      "text": "FINAL FANTASY IX: Battle 1 (Dawntrail)<tab>Obtained in Mistwake."
+    },
+    {
+      "id": "0x00000328",
+      "text": "Fanfare from FINAL FANTASY IX<tab>Obtained in Mistwake."
+    },
+    {
+      "id": "0x00000329",
+      "text": "A Fell Air Falleth<tab>Available for MGP exchange at the Gold Saucer."
+    },
+    {
+      "id": "0x0000032A",
+      "text": "Persistence<tab>Available for MGP exchange at the Gold Saucer."
+    },
+    {
+      "id": "0x0000032B",
+      "text": "Wrath of the Eikons<tab>Available for MGP exchange at the Gold Saucer."
+    },
+    {
+      "id": "0x0000032C",
+      "text": "Sinister<tab>Obtained in AAC Heavyweight M1."
+    },
+    {
+      "id": "0x0000032D",
+      "text": "The Mirror<tab>Obtained in AAC Heavyweight M2."
+    },
+    {
+      "id": "0x0000032E",
+      "text": "Absolute Tyranny<tab>Obtained in AAC Heavyweight M3."
+    },
+    {
+      "id": "0x0000032F",
+      "text": "Everything Burns<tab>Obtained in AAC Heavyweight M4."
+    },
+    {
+      "id": "0x00000330",
+      "text": "The Arcadion<tab>Obtained in AAC Heavyweight M4 (Savage)."
+    },
+    {
+      "id": "0x00000331",
+      "text": "The Ring's Reprieve<tab>Quest reward."
+    },
+    {
+      "id": "0x00000332",
+      "text": "Jeuno (Starlight Celebration)<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x00000333",
+      "text": "Hearts Tread and Trampled<tab>Obtained from subaquatic voyages."
+    },
+    {
+      "id": "0x00000334",
+      "text": "Taco Delight<tab>Obtained in Cenote Ja Ja Gural or Vault Oneiron."
+    },
+    {
+      "id": "0x00000335",
+      "text": "Fall into Forever<tab>Obtained from subaquatic voyages."
+    },
+    {
+      "id": "0x00000336",
+      "text": "Blade Unbroken<tab>Obtained in Cenote Ja Ja Gural or Vault Oneiron."
+    },
+    {
+      "id": "0x00000337",
+      "text": "Mind Unclouded<tab>Available for exchange in Old Gridania."
+    },
+    {
+      "id": "0x00000338",
+      "text": "Coming to Know You<tab>Available for exchange in Old Gridania."
+    },
+    {
+      "id": "0x00000339",
+      "text": "Affection Confections<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x0000033A",
+      "text": "Flavors of the Heart<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x0000033B",
+      "text": "A Heartfelt Finish<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x0000033C",
+      "text": "The Uncharted Road<tab>Obtained from cosmic fortunes on Oizys."
+    },
+    {
+      "id": "0x0000033D",
+      "text": "Worthy Pursuits<tab>Available for exchange in Old Sharlayan."
+    },
+    {
+      "id": "0x0000033E",
+      "text": "What Moves the Heart<tab>Available for exchange in Old Sharlayan."
+    },
+    {
+      "id": "0x0000033F",
+      "text": "Shadowbringers (Dark Decades)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000340",
+      "text": "Ride the Rhythm (Dark Decades)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000341",
+      "text": "FINAL FANTASY V: The Final Battle (Dawntrail)<tab>Obtained in the Unmaking (Extreme).<nl>※Drop rates increase when participating at minimum IL."
+    },
+    {
+      "id": "0x00000342",
+      "text": "Untested Voyager<tab>Obtained at the Clyteum."
+    },
+    {
+      "id": "0x00000343",
+      "text": "The Federation of Windurst<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x00000344",
+      "text": "Feast of the Ladies<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x00000345",
+      "text": "Bustle of the Capital<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x00000346",
+      "text": "Fated Strife -Besieged-<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x00000347",
+      "text": "Vana'diel March #4<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x00000348",
+      "text": "Forbidden Seal<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x00000349",
+      "text": "Ragnarok<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x0000034A",
+      "text": "A Realm of Emptiness<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x0000034B",
+      "text": "Shinryu<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x0000034C",
+      "text": "The Wyrm Who Would Be King<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x0000034D",
+      "text": "Fifth Ode: A Time for Prayer<tab>Quest reward."
+    },
+    {
+      "id": "0x0000034E",
+      "text": "Happily Ever After<tab>Quest reward."
+    },
+    {
+      "id": "0x0000034F",
+      "text": "One Last Time<tab>Quest reward."
+    },
+    {
+      "id": "0x00000350",
+      "text": "Second Ode: Distant Promises<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x00000351",
+      "text": "Main Theme from FINAL FANTASY XI<tab>Quest reward."
+    },
+    {
+      "id": "0x00000352",
+      "text": "Celestial Thunder<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x00000353",
+      "text": "Anxiety<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x00000354",
+      "text": "Recollection<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x00000355",
+      "text": "Airship<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x00000356",
+      "text": "The Kingdom of San d'Oria<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x00000357",
+      "text": "The Republic of Bastok<tab>Available for exchange in Lower Jeuno."
+    },
+    {
+      "id": "0x00000358",
+      "text": "Welcome to the Gold Saucer<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x00000359",
+      "text": "Let the Battles Begin!<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x0000035A",
+      "text": "Fight On!<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x0000035B",
+      "text": "For Hope and Happiness<tab>Obtained in Cenote Ja Ja Gural or Vault Oneiron."
+    },
+    {
+      "id": "0x0000035C",
+      "text": "Fond Farewells<tab>Obtained from subaquatic voyages."
+    },
+    {
+      "id": "0x0000035D",
+      "text": "Landscaping<tab>Obtained from cosmic fortunes on Auxesia."
+    },
+    {
+      "id": "0x0000035E",
+      "text": "Dancing Mad (Distant Worlds)<tab>Available for exchange in Old Gridania."
+    },
+    {
+      "id": "0x0000035F",
+      "text": "Pulper of Inquiry<tab>Quest reward."
+    },
+    {
+      "id": "0x00000360",
+      "text": "FINAL FANTASY IX: Battle 2<tab>Available for MGP exchange at the Gold Saucer."
+    },
+    {
+      "id": "0x00000361",
+      "text": "Matoya's Cave (Modulation)<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x00000362",
+      "text": "Eternal Wind (Modulation)<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x00000363",
+      "text": "Zanarkand (Modulation)<tab>Seasonal event reward."
+    },
+    {
+      "id": "0x00000364",
+      "text": "Dungeon (Dawntrail)<tab>Available for exchange on the Occult Crescent: North Horn."
+    },
+    {
+      "id": "0x00000365",
+      "text": "Sealed Away (Dawntrail)<tab>Available for exchange on the Occult Crescent: North Horn."
+    },
+    {
+      "id": "0x00000366",
+      "text": "To the North Mountain (Dawntrail)<tab>Available for exchange on the Occult Crescent: North Horn."
+    },
+    {
+      "id": "0x00000367",
+      "text": "Starkest Scale<tab>Available for exchange in the Central Shroud."
+    },
+    {
+      "id": "0x00000368",
+      "text": "Fiercest Fang<tab>Available for exchange in the Central Shroud."
+    },
+    {
+      "id": "0x00000369",
+      "text": "Swiftest Wing<tab>Available for exchange in the Central Shroud."
+    },
+    {
+      "id": "0x0000036A",
+      "text": "Triumph (Orchestral Version)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x0000036B",
+      "text": "Songs of Salt and Suffering (Orchestral Version)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x0000036C",
+      "text": "Tomorrow and Tomorrow (Orchestral Version)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x0000036D",
+      "text": "Windswept Echoes (Orchestral Version)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x0000036E",
+      "text": "Give It All (Orchestral Version)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x0000036F",
+      "text": "Smile (Till Dawn My Tears Flow)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000370",
+      "text": "Morrow's Might & Magic (Till Dawn My Tears Flow)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000371",
+      "text": "Bee My Honey (Till Dawn My Tears Flow)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000372",
+      "text": "Promises to Keep (Till Dawn My Tears Flow)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000373",
+      "text": "Roses of May (Till Dawn My Tears Flow)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000374",
+      "text": "Sinister (Back in the Ring)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000375",
+      "text": "The Mirror (Back in the Ring)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000376",
+      "text": "Absolute Tyranny (Back in the Ring)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000377",
+      "text": "Smile (Back in the Ring)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000378",
+      "text": "Primal Judgment - De Novo (Back in the Ring)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x00000379",
+      "text": "Smile (Orchestral Version)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x0000037A",
+      "text": "Serenity Unending: A Bygone Medley (Orchestral Version)<tab>Available for purchase on the online store or via promotional bonuses."
+    },
+    {
+      "id": "0x0000037B",
+      "text": "Carrots of Brilliance<tab>Obtained from cosmic fortunes on Auxesia."
+    }
+  ]
+}

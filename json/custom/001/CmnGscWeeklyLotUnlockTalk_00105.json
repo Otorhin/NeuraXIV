@@ -1,0 +1,9 @@
+{
+  "source_file": "exd/custom/001/CmnGscWeeklyLotUnlockTalk_00105_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_CMNGSCWEEKLYLOTUNLOCKTALK_00105_LOTTERY00105_000_000<tab>Вы пришли попытать счастья в Джамбо-кактпоте, <var 08 E905 ((леди)) ((сэр)) /var>? Дама в центре стойки поможет вам начать."
+    }
+  ]
+}

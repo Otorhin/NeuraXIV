@@ -1,0 +1,201 @@
+{
+  "source_file": "exd/CompanyAction_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "The Heat of Battle<tab>Увеличивает количество опыта, получаемого в бою, на 5%.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Earth and Water<tab>Увеличивает получаемый при собирательстве опыт на 5%.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x00000003",
+      "text": "Helping Hand<tab>Увеличивает получаемый при крафте опыт на 5%.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч"
+    },
+    {
+      "id": "0x00000004",
+      "text": "A Man's Best Friend<tab>Повышает получаемый спутниками опыт на 10%.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x00000005",
+      "text": "Mark Up<tab>Увеличивает количество получаемых Волчьих меток на 5%.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x00000006",
+      "text": "Seal Sweetener<tab>Увеличивает количество получаемых печатей компании на 5%.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Brave New World<tab>Повышает характеристики всех членов отрядов Воинского или Магического ремесла ниже 25-го уровня на 10%.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x00000008",
+      "text": "Live off the Land<tab>Повышает сбор на 5.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x00000009",
+      "text": "What You See<tab>Повышает восприятие на 5.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Eat from the Hand<tab>Повышает ремесленные навыки на 5.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "In Control<tab>Повышает контроль на 5.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x0000000C",
+      "text": "That Which Binds Us<tab>Ускоряет процесс установления духовной связи.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Meat and Mead<tab>Увеличивает длительность эффектов от еды на пять минут.  \n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Proper Care<tab>Снижает износ экипировки на 10%.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Fleet-footed<tab>Увеличивает длительность действия <var 48 F201FA /var><var 49 F201FB /var>«Спринт»<var 49 01 /var><var 48 01 /var> в крупных поселениях на 25%.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x00000010",
+      "text": "Reduced Rates<tab>Снижает плату за телепортацию на 20%.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x00000011",
+      "text": "Jackpot<tab>Увеличивает количество получаемых MGP на 5%.  \n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "The Heat of Battle II<tab>Увеличивает количество опыта, получаемого в бою, на 10%.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x00000020",
+      "text": "Earth and Water II<tab>Увеличивает получаемый при собирательстве опыт на 10%.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x00000021",
+      "text": "Helping Hand II<tab>Увеличивает получаемый при изготовлении опыт на 10%.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x00000022",
+      "text": "A Man's Best Friend II<tab>Увеличивает получаемый спутниками опыт на 15%.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x00000023",
+      "text": "Mark Up II<tab>Увеличивает количество получаемых волчьих меток на 10%.  \n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч"
+    },
+    {
+      "id": "0x00000024",
+      "text": "Seal Sweetener II<tab>Увеличивает количество получаемых печатей великой компании на 10%.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x00000025",
+      "text": "Brave New World II<tab>Повышает характеристики всех адептов Военного или Магического ремесла ниже 49-го уровня на 5%.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x00000026",
+      "text": "Live off the Land II<tab>Повышает собирательство на 10.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x00000027",
+      "text": "What You See II<tab>Повышает восприятие на 10.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x00000028",
+      "text": "Eat from the Hand II<tab>Повышает мастерство на 10.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x00000029",
+      "text": "In Control II<tab>Повышает контроль на 10.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x0000002A",
+      "text": "That Which Binds Us II<tab>Ускоряет процесс установления духовной связи.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x0000002B",
+      "text": "Meat and Mead II<tab>Увеличивает длительность эффектов еды на десять минут.  \n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x0000002C",
+      "text": "Proper Care II<tab>Снижает износ снаряжения на 20%.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x0000002D",
+      "text": "Fleet-footed II<tab>Увеличивает длительность <var 48 F201FA /var><var 49 F201FB /var>«Спринта»<var 49 01 /var><var 48 01 /var> в крупных поселениях на 50%.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x0000002E",
+      "text": "Reduced Rates II<tab>Снижает стоимость телепортации на 30%.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч"
+    },
+    {
+      "id": "0x0000002F",
+      "text": "Jackpot II<tab>Увеличивает выплату MGP на 10%.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч"
+    },
+    {
+      "id": "0x0000003D",
+      "text": "The Heat of Battle III<tab>Увеличивает количество опыта, получаемого в бою, на 15%.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x0000003E",
+      "text": "Earth and Water III<tab>Увеличивает получаемый при сборе опыт на 20%.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x0000003F",
+      "text": "Helping Hand III<tab>Увеличивает получаемый за ремесло опыт на 20%.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x00000040",
+      "text": "A Man's Best Friend III<tab>Увеличивает получаемый спутниками опыт на 20%.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч"
+    },
+    {
+      "id": "0x00000041",
+      "text": "Mark Up III<tab>Увеличивает количество получаемых Волчьих меток на 15%.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x00000042",
+      "text": "Seal Sweetener III<tab>Увеличивает количество получаемых печатей великой компании на 15%.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x00000044",
+      "text": "Live off the Land III<tab>Повышает собирательство на 15.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x00000045",
+      "text": "What You See III<tab>Повышает восприятие на 15.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x00000046",
+      "text": "Eat from the Hand III<tab>Повышает мастерство ремесленника на 15.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x00000047",
+      "text": "In Control III<tab>Повышает контроль на 15.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x00000048",
+      "text": "That Which Binds Us III<tab>Ускоряет процесс установления духовной связи.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x00000049",
+      "text": "Meat and Mead III<tab>Увеличивает длительность эффектов от пищи на 15 минут.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x0000004A",
+      "text": "Proper Care III<tab>Снижает износ снаряжения на 30%.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    },
+    {
+      "id": "0x0000004C",
+      "text": "Reduced Rates III<tab>Снижает плату за телепортацию на 40%.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч"
+    },
+    {
+      "id": "0x0000004D",
+      "text": "Jackpot III<tab>Увеличивает выплату MGP на 15%.\n<var 48 F201F8 /var><var 49 F201F9 /var>Длительность:<var 49 01 /var><var 48 01 /var> 24 ч."
+    }
+  ]
+}

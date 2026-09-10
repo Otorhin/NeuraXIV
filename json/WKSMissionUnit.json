@@ -1,0 +1,6801 @@
+{
+  "source_file": "exd/WKSMissionUnit_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": " Multi-purpose Fiberboard"
+    },
+    {
+      "id": "0x00000002",
+      "text": " Fieldwork Fuel"
+    },
+    {
+      "id": "0x00000003",
+      "text": " Gathering Miscellany"
+    },
+    {
+      "id": "0x00000004",
+      "text": " Essential Research Materials"
+    },
+    {
+      "id": "0x00000005",
+      "text": " Charcoal Longevity Testing"
+    },
+    {
+      "id": "0x00000006",
+      "text": " General-purpose Bedding"
+    },
+    {
+      "id": "0x00000007",
+      "text": " Thin Fiberboard"
+    },
+    {
+      "id": "0x00000008",
+      "text": " Carpentry Provisions"
+    },
+    {
+      "id": "0x00000009",
+      "text": " Worker's Weaving Tools"
+    },
+    {
+      "id": "0x0000000A",
+      "text": " Data Entry Paper"
+    },
+    {
+      "id": "0x0000000B",
+      "text": " Interior Insulation Materials"
+    },
+    {
+      "id": "0x0000000C",
+      "text": " Cosmoliner Supplies"
+    },
+    {
+      "id": "0x0000000D",
+      "text": " New Material Earrings"
+    },
+    {
+      "id": "0x0000000E",
+      "text": " Resupplying Containers"
+    },
+    {
+      "id": "0x0000000F",
+      "text": " Thick Fiberboard"
+    },
+    {
+      "id": "0x00000010",
+      "text": " High-quality Insulation Materials"
+    },
+    {
+      "id": "0x00000011",
+      "text": " Heat-resistant Resin"
+    },
+    {
+      "id": "0x00000012",
+      "text": " Long-term Storage Paper"
+    },
+    {
+      "id": "0x00000013",
+      "text": " Habitation Module Chairs"
+    },
+    {
+      "id": "0x00000014",
+      "text": " Test Material Gathering Tools"
+    },
+    {
+      "id": "0x00000015",
+      "text": " High-quality Rest Beds"
+    },
+    {
+      "id": "0x00000016",
+      "text": "High-durability Fiberboard"
+    },
+    {
+      "id": "0x00000017",
+      "text": "Premium-grade Paper"
+    },
+    {
+      "id": "0x00000018",
+      "text": "Starship Insulation"
+    },
+    {
+      "id": "0x00000019",
+      "text": "High Burn Charcoal"
+    },
+    {
+      "id": "0x0000001A",
+      "text": "Lunar Flora Test Processing"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "EX: Test Material Final Processing"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "EX: Serving Trays"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "EX: Bunk Beds"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "EX: Work Support Equipment"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "EX+: High-quality Crafting Tools"
+    },
+    {
+      "id": "0x00000020",
+      "text": "EX+: Elevating Platforms"
+    },
+    {
+      "id": "0x00000021",
+      "text": "Power Transmission Shafts I"
+    },
+    {
+      "id": "0x00000022",
+      "text": "EX: Power Transmission Shafts II"
+    },
+    {
+      "id": "0x00000023",
+      "text": "Specialized Materials I"
+    },
+    {
+      "id": "0x00000024",
+      "text": "EX: Specialized Materials II"
+    },
+    {
+      "id": "0x00000025",
+      "text": "EX+: Research Water Tank"
+    },
+    {
+      "id": "0x00000026",
+      "text": "EX: Rest Facility Materials"
+    },
+    {
+      "id": "0x00000027",
+      "text": "EX+: Rest Facility Furnishings"
+    },
+    {
+      "id": "0x00000028",
+      "text": "Packing Materials I"
+    },
+    {
+      "id": "0x00000029",
+      "text": "EX: Packing Materials II"
+    },
+    {
+      "id": "0x0000002A",
+      "text": "EX+: Rover Packing Materials"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "EX+: Biofuel I"
+    },
+    {
+      "id": "0x0000002C",
+      "text": "EX+: Biofuel II"
+    },
+    {
+      "id": "0x0000002D",
+      "text": "EX+: Biofuel III"
+    },
+    {
+      "id": "0x0000002E",
+      "text": " Multi-purpose Plating"
+    },
+    {
+      "id": "0x0000002F",
+      "text": " Spare Starship Parts"
+    },
+    {
+      "id": "0x00000030",
+      "text": " Alloy Inspection"
+    },
+    {
+      "id": "0x00000031",
+      "text": " Custom Parts (Simple)"
+    },
+    {
+      "id": "0x00000032",
+      "text": " Multi-purpose Metal Components"
+    },
+    {
+      "id": "0x00000033",
+      "text": " Mass-produced Necessities"
+    },
+    {
+      "id": "0x00000034",
+      "text": " Standardized Heavy Plating"
+    },
+    {
+      "id": "0x00000035",
+      "text": " Starship Shafts"
+    },
+    {
+      "id": "0x00000036",
+      "text": " Worker's Mining Tools"
+    },
+    {
+      "id": "0x00000037",
+      "text": " Standardized Alloy Rivets"
+    },
+    {
+      "id": "0x00000038",
+      "text": " Worker's Carpentry Tools"
+    },
+    {
+      "id": "0x00000039",
+      "text": " Custom Parts (Intermediate)"
+    },
+    {
+      "id": "0x0000003A",
+      "text": " Insulated Equipment"
+    },
+    {
+      "id": "0x0000003B",
+      "text": " Rover Shafts"
+    },
+    {
+      "id": "0x0000003C",
+      "text": " Standardized Light Plating"
+    },
+    {
+      "id": "0x0000003D",
+      "text": " Worker's Smithing Tools"
+    },
+    {
+      "id": "0x0000003E",
+      "text": " Bathing Fixtures"
+    },
+    {
+      "id": "0x0000003F",
+      "text": " Ceruleum Stoves"
+    },
+    {
+      "id": "0x00000040",
+      "text": " Habitation Lighting"
+    },
+    {
+      "id": "0x00000041",
+      "text": " Lunar Material Tool Processing"
+    },
+    {
+      "id": "0x00000042",
+      "text": " Lunar Material Part Processing"
+    },
+    {
+      "id": "0x00000043",
+      "text": "Key Facility Plating"
+    },
+    {
+      "id": "0x00000044",
+      "text": "Rare Material Processing"
+    },
+    {
+      "id": "0x00000045",
+      "text": "Construction Necessities"
+    },
+    {
+      "id": "0x00000046",
+      "text": "Worker's Sheet Metal Tools"
+    },
+    {
+      "id": "0x00000047",
+      "text": "Meteoric Material Test Processing"
+    },
+    {
+      "id": "0x00000048",
+      "text": "EX: Replica Far Eastern Furnishings"
+    },
+    {
+      "id": "0x00000049",
+      "text": "EX: Fine-grade Material Processing"
+    },
+    {
+      "id": "0x0000004A",
+      "text": "EX: Moongate Hub Equipment"
+    },
+    {
+      "id": "0x0000004B",
+      "text": "EX: Work Support Equipment"
+    },
+    {
+      "id": "0x0000004C",
+      "text": "EX+: High-durability Material Processing"
+    },
+    {
+      "id": "0x0000004D",
+      "text": "EX+: Impact-resistant Material Processing"
+    },
+    {
+      "id": "0x0000004E",
+      "text": "Hub Furnishings and Fixtures I"
+    },
+    {
+      "id": "0x0000004F",
+      "text": "EX: Hub Furnishings and Fixtures II"
+    },
+    {
+      "id": "0x00000050",
+      "text": "Specialized Materials I"
+    },
+    {
+      "id": "0x00000051",
+      "text": "EX: Specialized Materials II"
+    },
+    {
+      "id": "0x00000052",
+      "text": "EX+: Research Water Tank"
+    },
+    {
+      "id": "0x00000053",
+      "text": "EX: Starship Building Materials"
+    },
+    {
+      "id": "0x00000054",
+      "text": "EX+: Starship Building Material Processing"
+    },
+    {
+      "id": "0x00000055",
+      "text": "High-performance Drone Materials I"
+    },
+    {
+      "id": "0x00000056",
+      "text": "EX: High-performance Drone Materials II"
+    },
+    {
+      "id": "0x00000057",
+      "text": "EX+: High-performance Drones"
+    },
+    {
+      "id": "0x00000058",
+      "text": "EX+: Cosmotized Equipment Materials I"
+    },
+    {
+      "id": "0x00000059",
+      "text": "EX+: Cosmotized Equipment Materials II"
+    },
+    {
+      "id": "0x0000005A",
+      "text": "EX+: Cosmotized Equipment Materials III"
+    },
+    {
+      "id": "0x0000005B",
+      "text": " Multi-purpose Plating"
+    },
+    {
+      "id": "0x0000005C",
+      "text": " Spare Starship Parts"
+    },
+    {
+      "id": "0x0000005D",
+      "text": " Alloy Inspection"
+    },
+    {
+      "id": "0x0000005E",
+      "text": " Custom Parts (Simple)"
+    },
+    {
+      "id": "0x0000005F",
+      "text": " Multi-purpose Metal Components"
+    },
+    {
+      "id": "0x00000060",
+      "text": " Mass-produced Necessities"
+    },
+    {
+      "id": "0x00000061",
+      "text": " Standardized Heavy Plating"
+    },
+    {
+      "id": "0x00000062",
+      "text": " Starship Shafts"
+    },
+    {
+      "id": "0x00000063",
+      "text": " Worker's Culinary Tools I"
+    },
+    {
+      "id": "0x00000064",
+      "text": " Standardized Chainmail Sheets"
+    },
+    {
+      "id": "0x00000065",
+      "text": " Dust-filtering Equipment"
+    },
+    {
+      "id": "0x00000066",
+      "text": " Custom Parts (Intermediate)"
+    },
+    {
+      "id": "0x00000067",
+      "text": " Insulated Equipment"
+    },
+    {
+      "id": "0x00000068",
+      "text": " Rover Parts"
+    },
+    {
+      "id": "0x00000069",
+      "text": " Standardized Light Plating"
+    },
+    {
+      "id": "0x0000006A",
+      "text": " Worker's Culinary Tools II"
+    },
+    {
+      "id": "0x0000006B",
+      "text": " Beverage Stations"
+    },
+    {
+      "id": "0x0000006C",
+      "text": " Campfire Fixtures"
+    },
+    {
+      "id": "0x0000006D",
+      "text": " Habitation Storage"
+    },
+    {
+      "id": "0x0000006E",
+      "text": " Lunar Material Tool Processing"
+    },
+    {
+      "id": "0x0000006F",
+      "text": " Lunar Material Part Processing"
+    },
+    {
+      "id": "0x00000070",
+      "text": "Key Facility Plating"
+    },
+    {
+      "id": "0x00000071",
+      "text": "Rare Material Processing"
+    },
+    {
+      "id": "0x00000072",
+      "text": "Construction Necessities"
+    },
+    {
+      "id": "0x00000073",
+      "text": "High-conductivity Culinary Tools"
+    },
+    {
+      "id": "0x00000074",
+      "text": "Meteoric Material Test Processing"
+    },
+    {
+      "id": "0x00000075",
+      "text": "EX: Replica Incensories"
+    },
+    {
+      "id": "0x00000076",
+      "text": "EX: Fine-grade Material Processing"
+    },
+    {
+      "id": "0x00000077",
+      "text": "EX: Moongate Hub Equipment"
+    },
+    {
+      "id": "0x00000078",
+      "text": "EX: Workspace Lighting"
+    },
+    {
+      "id": "0x00000079",
+      "text": "EX+: High-durability Material Processing"
+    },
+    {
+      "id": "0x0000007A",
+      "text": "EX+: Impact-resistant Material Processing"
+    },
+    {
+      "id": "0x0000007B",
+      "text": "Hub Furnishings and Fixtures I"
+    },
+    {
+      "id": "0x0000007C",
+      "text": "EX: Hub Furnishings and Fixtures II"
+    },
+    {
+      "id": "0x0000007D",
+      "text": "Specialized Materials I"
+    },
+    {
+      "id": "0x0000007E",
+      "text": "EX: Specialized Materials II"
+    },
+    {
+      "id": "0x0000007F",
+      "text": "EX+: Priority Sample Storage"
+    },
+    {
+      "id": "0x00000080",
+      "text": "EX: Starship Building Materials"
+    },
+    {
+      "id": "0x00000081",
+      "text": "EX+: Starship Building Material Processing"
+    },
+    {
+      "id": "0x00000082",
+      "text": "High-performance Drone Materials I"
+    },
+    {
+      "id": "0x00000083",
+      "text": "EX: High-performance Drone Materials II"
+    },
+    {
+      "id": "0x00000084",
+      "text": "EX+: High-performance Drones"
+    },
+    {
+      "id": "0x00000085",
+      "text": "EX+: Cosmotized Equipment Materials I"
+    },
+    {
+      "id": "0x00000086",
+      "text": "EX+: Cosmotized Equipment Materials II"
+    },
+    {
+      "id": "0x00000087",
+      "text": "EX+: Cosmotized Equipment Materials III"
+    },
+    {
+      "id": "0x00000088",
+      "text": " Multi-purpose Plating"
+    },
+    {
+      "id": "0x00000089",
+      "text": " Spare Starship Parts"
+    },
+    {
+      "id": "0x0000008A",
+      "text": " Alloy Inspection"
+    },
+    {
+      "id": "0x0000008B",
+      "text": " Custom Parts (Simple)"
+    },
+    {
+      "id": "0x0000008C",
+      "text": " Multi-purpose Metal Components"
+    },
+    {
+      "id": "0x0000008D",
+      "text": " Mass-produced Necessities"
+    },
+    {
+      "id": "0x0000008E",
+      "text": " Standardized Heavy Plating"
+    },
+    {
+      "id": "0x0000008F",
+      "text": " Starship Shafts"
+    },
+    {
+      "id": "0x00000090",
+      "text": " Worker's Grinding Tools"
+    },
+    {
+      "id": "0x00000091",
+      "text": " Standardized Chainmail Sheets"
+    },
+    {
+      "id": "0x00000092",
+      "text": " Eye Protection Equipment"
+    },
+    {
+      "id": "0x00000093",
+      "text": " Custom Parts (Intermediate)"
+    },
+    {
+      "id": "0x00000094",
+      "text": " Heat Dissipation Equipment"
+    },
+    {
+      "id": "0x00000095",
+      "text": " Rover Parts"
+    },
+    {
+      "id": "0x00000096",
+      "text": " Standardized Light Plating"
+    },
+    {
+      "id": "0x00000097",
+      "text": " Worker's Weaving Tools"
+    },
+    {
+      "id": "0x00000098",
+      "text": " Observation Devices"
+    },
+    {
+      "id": "0x00000099",
+      "text": " Fireplace Fixtures"
+    },
+    {
+      "id": "0x0000009A",
+      "text": " Habitation Vanities"
+    },
+    {
+      "id": "0x0000009B",
+      "text": " Lunar Material Tool Processing"
+    },
+    {
+      "id": "0x0000009C",
+      "text": " Lunar Material Part Processing"
+    },
+    {
+      "id": "0x0000009D",
+      "text": "Key Facility Plating"
+    },
+    {
+      "id": "0x0000009E",
+      "text": "Rare Material Processing"
+    },
+    {
+      "id": "0x0000009F",
+      "text": "Construction Necessities"
+    },
+    {
+      "id": "0x000000A0",
+      "text": "Fine-grade Knives"
+    },
+    {
+      "id": "0x000000A1",
+      "text": "Meteoric Material Test Processing"
+    },
+    {
+      "id": "0x000000A2",
+      "text": "EX: Replica Bathing Fixtures"
+    },
+    {
+      "id": "0x000000A3",
+      "text": "EX: Fine-grade Material Processing"
+    },
+    {
+      "id": "0x000000A4",
+      "text": "EX: Moongate Hub Equipment"
+    },
+    {
+      "id": "0x000000A5",
+      "text": "EX: Work Support Mechanical Arms"
+    },
+    {
+      "id": "0x000000A6",
+      "text": "EX+: High-durability Material Processing"
+    },
+    {
+      "id": "0x000000A7",
+      "text": "EX+: Impact-resistant Material Processing"
+    },
+    {
+      "id": "0x000000A8",
+      "text": "Hub Furnishings and Fixtures I"
+    },
+    {
+      "id": "0x000000A9",
+      "text": "EX: Hub Furnishings and Fixtures II"
+    },
+    {
+      "id": "0x000000AA",
+      "text": "Specialized Materials I"
+    },
+    {
+      "id": "0x000000AB",
+      "text": "EX: Specialized Materials II"
+    },
+    {
+      "id": "0x000000AC",
+      "text": "EX+: Vending Machines"
+    },
+    {
+      "id": "0x000000AD",
+      "text": "EX: Starship Building Materials"
+    },
+    {
+      "id": "0x000000AE",
+      "text": "EX+: Starship Building Material Processing"
+    },
+    {
+      "id": "0x000000AF",
+      "text": "High-performance Drone Materials I"
+    },
+    {
+      "id": "0x000000B0",
+      "text": "EX: High-performance Drone Materials II"
+    },
+    {
+      "id": "0x000000B1",
+      "text": "EX+: High-performance Drones"
+    },
+    {
+      "id": "0x000000B2",
+      "text": "EX+: Cosmotized Equipment Materials I"
+    },
+    {
+      "id": "0x000000B3",
+      "text": "EX+: Cosmotized Equipment Materials II"
+    },
+    {
+      "id": "0x000000B4",
+      "text": "EX+: Cosmotized Equipment Materials III"
+    },
+    {
+      "id": "0x000000B5",
+      "text": " Multi-purpose Leather Straps"
+    },
+    {
+      "id": "0x000000B6",
+      "text": " First-aid Leather"
+    },
+    {
+      "id": "0x000000B7",
+      "text": " Gatherer's Gloves"
+    },
+    {
+      "id": "0x000000B8",
+      "text": " Essential Research Materials"
+    },
+    {
+      "id": "0x000000B9",
+      "text": " Work Pouches"
+    },
+    {
+      "id": "0x000000BA",
+      "text": " Leather Room Shoes"
+    },
+    {
+      "id": "0x000000BB",
+      "text": " Heat-resistant Leather String"
+    },
+    {
+      "id": "0x000000BC",
+      "text": " Worker's Bags"
+    },
+    {
+      "id": "0x000000BD",
+      "text": " Worker's Belts"
+    },
+    {
+      "id": "0x000000BE",
+      "text": " High-grade Paper"
+    },
+    {
+      "id": "0x000000BF",
+      "text": " Sheep Rugs"
+    },
+    {
+      "id": "0x000000C0",
+      "text": " Cosmoliner Materials"
+    },
+    {
+      "id": "0x000000C1",
+      "text": " New Material Jackets"
+    },
+    {
+      "id": "0x000000C2",
+      "text": " Leather First-aid Bags"
+    },
+    {
+      "id": "0x000000C3",
+      "text": " Sterile Leather String"
+    },
+    {
+      "id": "0x000000C4",
+      "text": " High-grade Rugs"
+    },
+    {
+      "id": "0x000000C5",
+      "text": " Transport Leather"
+    },
+    {
+      "id": "0x000000C6",
+      "text": " Long-term Storage Paper"
+    },
+    {
+      "id": "0x000000C7",
+      "text": " High-grade Rest Chairs"
+    },
+    {
+      "id": "0x000000C8",
+      "text": " Test Material Gloves"
+    },
+    {
+      "id": "0x000000C9",
+      "text": " High-grade Rest Lounges"
+    },
+    {
+      "id": "0x000000CA",
+      "text": "High-durability Leather String"
+    },
+    {
+      "id": "0x000000CB",
+      "text": "Premium-grade Paper"
+    },
+    {
+      "id": "0x000000CC",
+      "text": "Research Plant Rug"
+    },
+    {
+      "id": "0x000000CD",
+      "text": "Thermal Leather"
+    },
+    {
+      "id": "0x000000CE",
+      "text": "Lunar Flora Test Processing"
+    },
+    {
+      "id": "0x000000CF",
+      "text": "EX: Test Material Final Processing"
+    },
+    {
+      "id": "0x000000D0",
+      "text": "EX: Work Pouches"
+    },
+    {
+      "id": "0x000000D1",
+      "text": "EX: High-grade Sofas"
+    },
+    {
+      "id": "0x000000D2",
+      "text": "EX: Familiar Furnishings"
+    },
+    {
+      "id": "0x000000D3",
+      "text": "EX+: Safety Shoes"
+    },
+    {
+      "id": "0x000000D4",
+      "text": "EX+: Gatherer's Overalls"
+    },
+    {
+      "id": "0x000000D5",
+      "text": "Base Supplies I"
+    },
+    {
+      "id": "0x000000D6",
+      "text": "EX: Base Supplies II"
+    },
+    {
+      "id": "0x000000D7",
+      "text": "Specialized Materials I"
+    },
+    {
+      "id": "0x000000D8",
+      "text": "EX: Specialized Materials II"
+    },
+    {
+      "id": "0x000000D9",
+      "text": "EX+: Large Research Materials"
+    },
+    {
+      "id": "0x000000DA",
+      "text": "EX: Rest Facility Materials"
+    },
+    {
+      "id": "0x000000DB",
+      "text": "EX+: Rest Facility Furnishings"
+    },
+    {
+      "id": "0x000000DC",
+      "text": "Packing Materials I"
+    },
+    {
+      "id": "0x000000DD",
+      "text": "EX: Packing Materials II"
+    },
+    {
+      "id": "0x000000DE",
+      "text": "EX+: Rover Packing Materials"
+    },
+    {
+      "id": "0x000000DF",
+      "text": "EX+: Cosmic Suits I"
+    },
+    {
+      "id": "0x000000E0",
+      "text": "EX+: Cosmic Suits II"
+    },
+    {
+      "id": "0x000000E1",
+      "text": "EX+: Cosmic Suits III"
+    },
+    {
+      "id": "0x000000E2",
+      "text": " Multi-purpose Yarn"
+    },
+    {
+      "id": "0x000000E3",
+      "text": " First-aid Cloth"
+    },
+    {
+      "id": "0x000000E4",
+      "text": " Gatherer's Helmets"
+    },
+    {
+      "id": "0x000000E5",
+      "text": " Essential Research Materials"
+    },
+    {
+      "id": "0x000000E6",
+      "text": " Multi-purpose String"
+    },
+    {
+      "id": "0x000000E7",
+      "text": " Divider Curtains"
+    },
+    {
+      "id": "0x000000E8",
+      "text": " Heat-resistant Yarn"
+    },
+    {
+      "id": "0x000000E9",
+      "text": " Room Garments"
+    },
+    {
+      "id": "0x000000EA",
+      "text": " Multi-purpose Fabric"
+    },
+    {
+      "id": "0x000000EB",
+      "text": " Composite Fiber"
+    },
+    {
+      "id": "0x000000EC",
+      "text": " Infirmary Curtains"
+    },
+    {
+      "id": "0x000000ED",
+      "text": " Cosmoliner Materials"
+    },
+    {
+      "id": "0x000000EE",
+      "text": " New Material Trousers"
+    },
+    {
+      "id": "0x000000EF",
+      "text": " Work Rope"
+    },
+    {
+      "id": "0x000000F0",
+      "text": " Sterile Yarn"
+    },
+    {
+      "id": "0x000000F1",
+      "text": " High-grade Curtains"
+    },
+    {
+      "id": "0x000000F2",
+      "text": " Transport Yarn"
+    },
+    {
+      "id": "0x000000F3",
+      "text": " Heat-resistant Composite Fiber"
+    },
+    {
+      "id": "0x000000F4",
+      "text": " Rest Supplies"
+    },
+    {
+      "id": "0x000000F5",
+      "text": " Test Material Hats"
+    },
+    {
+      "id": "0x000000F6",
+      "text": " Rest Cushions"
+    },
+    {
+      "id": "0x000000F7",
+      "text": "High-durability Yarn"
+    },
+    {
+      "id": "0x000000F8",
+      "text": "High-grade Composite Fiber"
+    },
+    {
+      "id": "0x000000F9",
+      "text": "High-grade Bedroom Curtains"
+    },
+    {
+      "id": "0x000000FA",
+      "text": "First-aid Bandaging"
+    },
+    {
+      "id": "0x000000FB",
+      "text": "Lunar Flora Test Processing"
+    },
+    {
+      "id": "0x000000FC",
+      "text": "EX: Test Material Final Processing"
+    },
+    {
+      "id": "0x000000FD",
+      "text": "EX: Weaving Materials"
+    },
+    {
+      "id": "0x000000FE",
+      "text": "EX: Rest Cushions"
+    },
+    {
+      "id": "0x000000FF",
+      "text": "EX: Familiar Furnishings"
+    },
+    {
+      "id": "0x00000100",
+      "text": "EX+: Cold-weather Work Hats"
+    },
+    {
+      "id": "0x00000101",
+      "text": "EX+: Crafter's Overalls"
+    },
+    {
+      "id": "0x00000102",
+      "text": "Cosmoliner Materials I"
+    },
+    {
+      "id": "0x00000103",
+      "text": "EX: Cosmoliner Materials II"
+    },
+    {
+      "id": "0x00000104",
+      "text": "Specialized Materials I"
+    },
+    {
+      "id": "0x00000105",
+      "text": "EX: Specialized Materials II"
+    },
+    {
+      "id": "0x00000106",
+      "text": "EX+: Large Research Materials"
+    },
+    {
+      "id": "0x00000107",
+      "text": "EX: Rest Facility Materials"
+    },
+    {
+      "id": "0x00000108",
+      "text": "EX+: Rest Facility Furnishings"
+    },
+    {
+      "id": "0x00000109",
+      "text": "Packing Materials I"
+    },
+    {
+      "id": "0x0000010A",
+      "text": "EX: Packing Materials II"
+    },
+    {
+      "id": "0x0000010B",
+      "text": "EX+: Rover Packing Materials"
+    },
+    {
+      "id": "0x0000010C",
+      "text": "EX+: Crew Suits I"
+    },
+    {
+      "id": "0x0000010D",
+      "text": "EX+: Crew Suits II"
+    },
+    {
+      "id": "0x0000010E",
+      "text": "EX+: Crew Suits III"
+    },
+    {
+      "id": "0x0000010F",
+      "text": " Foundation Bricks"
+    },
+    {
+      "id": "0x00000110",
+      "text": " Spice Processing"
+    },
+    {
+      "id": "0x00000111",
+      "text": " Building Adhesive"
+    },
+    {
+      "id": "0x00000112",
+      "text": " Nutrient Supplements"
+    },
+    {
+      "id": "0x00000113",
+      "text": " Aquatic Adhesive"
+    },
+    {
+      "id": "0x00000114",
+      "text": " Medicated Feed Research"
+    },
+    {
+      "id": "0x00000115",
+      "text": " Heat-resistant Bricks"
+    },
+    {
+      "id": "0x00000116",
+      "text": " Health Drinks"
+    },
+    {
+      "id": "0x00000117",
+      "text": " Construction Paint"
+    },
+    {
+      "id": "0x00000118",
+      "text": " Traditional Veneer"
+    },
+    {
+      "id": "0x00000119",
+      "text": " Night Lighting"
+    },
+    {
+      "id": "0x0000011A",
+      "text": " Emergency Foodstuffs Development"
+    },
+    {
+      "id": "0x0000011B",
+      "text": " Experimental Potables"
+    },
+    {
+      "id": "0x0000011C",
+      "text": " Lunar Spice Processing"
+    },
+    {
+      "id": "0x0000011D",
+      "text": " Water-resistant Bricks"
+    },
+    {
+      "id": "0x0000011E",
+      "text": " Research Medicine"
+    },
+    {
+      "id": "0x0000011F",
+      "text": " Holy Water"
+    },
+    {
+      "id": "0x00000120",
+      "text": " Lunar Flooring"
+    },
+    {
+      "id": "0x00000121",
+      "text": " Stellar Nutrients"
+    },
+    {
+      "id": "0x00000122",
+      "text": " Miniature Gardens"
+    },
+    {
+      "id": "0x00000123",
+      "text": " Decorative Lunar Plants"
+    },
+    {
+      "id": "0x00000124",
+      "text": "Water-resistant Bricks"
+    },
+    {
+      "id": "0x00000125",
+      "text": "Stellar Adhesive"
+    },
+    {
+      "id": "0x00000126",
+      "text": "Nutrient Stabilizer"
+    },
+    {
+      "id": "0x00000127",
+      "text": "Cafeteria Goods"
+    },
+    {
+      "id": "0x00000128",
+      "text": "Lunar Seafood Processing"
+    },
+    {
+      "id": "0x00000129",
+      "text": "EX: Emergency Potables"
+    },
+    {
+      "id": "0x0000012A",
+      "text": "EX: Cosmetic Research Materials"
+    },
+    {
+      "id": "0x0000012B",
+      "text": "EX: Replica Ornamental Plants"
+    },
+    {
+      "id": "0x0000012C",
+      "text": "EX: Artisan's Mixtures"
+    },
+    {
+      "id": "0x0000012D",
+      "text": "EX+: Rust Repellent"
+    },
+    {
+      "id": "0x0000012E",
+      "text": "EX+: Stable Medicine"
+    },
+    {
+      "id": "0x0000012F",
+      "text": "Natural Remedy Inspection I"
+    },
+    {
+      "id": "0x00000130",
+      "text": "EX: Natural Remedy Inspection II"
+    },
+    {
+      "id": "0x00000131",
+      "text": "Loporrit Habitat Improvements I"
+    },
+    {
+      "id": "0x00000132",
+      "text": "EX: Loporrit Habitat Improvements II"
+    },
+    {
+      "id": "0x00000133",
+      "text": "EX+: Loporrit Habitat Improvements III"
+    },
+    {
+      "id": "0x00000134",
+      "text": "EX: Aquaculture Feed I"
+    },
+    {
+      "id": "0x00000135",
+      "text": "EX+: Aquaculture Feed II"
+    },
+    {
+      "id": "0x00000136",
+      "text": "Nutrient Jelly Materials I"
+    },
+    {
+      "id": "0x00000137",
+      "text": "EX: Nutrient Jelly Materials II"
+    },
+    {
+      "id": "0x00000138",
+      "text": "EX+: Nutrient Jelly"
+    },
+    {
+      "id": "0x00000139",
+      "text": "EX+: Dichromatic Compound I"
+    },
+    {
+      "id": "0x0000013A",
+      "text": "EX+: Dichromatic Compound II"
+    },
+    {
+      "id": "0x0000013B",
+      "text": "EX+: Dichromatic Compound III"
+    },
+    {
+      "id": "0x0000013C",
+      "text": " Standard Lubricant"
+    },
+    {
+      "id": "0x0000013D",
+      "text": " Spice Processing"
+    },
+    {
+      "id": "0x0000013E",
+      "text": " Building Adhesive"
+    },
+    {
+      "id": "0x0000013F",
+      "text": " Aquatic Nutrient Concentrate"
+    },
+    {
+      "id": "0x00000140",
+      "text": " Aquatic Ink"
+    },
+    {
+      "id": "0x00000141",
+      "text": " Medicated Feed Research"
+    },
+    {
+      "id": "0x00000142",
+      "text": " Heat-resistant Lubricant"
+    },
+    {
+      "id": "0x00000143",
+      "text": " Nutrient-rich Foodstuffs"
+    },
+    {
+      "id": "0x00000144",
+      "text": " Construction Paint"
+    },
+    {
+      "id": "0x00000145",
+      "text": " Portable Foodstuffs"
+    },
+    {
+      "id": "0x00000146",
+      "text": " Nutrient-rich Seafood Processing"
+    },
+    {
+      "id": "0x00000147",
+      "text": " Emergency Foodstuff Development"
+    },
+    {
+      "id": "0x00000148",
+      "text": " Essential Whole Meals"
+    },
+    {
+      "id": "0x00000149",
+      "text": " Experimental Foodstuffs"
+    },
+    {
+      "id": "0x0000014A",
+      "text": " Water-resistant Lubricant"
+    },
+    {
+      "id": "0x0000014B",
+      "text": " Experimental Potables"
+    },
+    {
+      "id": "0x0000014C",
+      "text": " Launch Party Foodstuffs"
+    },
+    {
+      "id": "0x0000014D",
+      "text": " Home-cooked Seafood Meal"
+    },
+    {
+      "id": "0x0000014E",
+      "text": " Nutrient-rich Lunar Food"
+    },
+    {
+      "id": "0x0000014F",
+      "text": " Bakery Inspection"
+    },
+    {
+      "id": "0x00000150",
+      "text": " Mushroom Processing"
+    },
+    {
+      "id": "0x00000151",
+      "text": "Water-resistant Lubricant"
+    },
+    {
+      "id": "0x00000152",
+      "text": "Stellar Adhesive"
+    },
+    {
+      "id": "0x00000153",
+      "text": "Liquid Nutrient Supplements"
+    },
+    {
+      "id": "0x00000154",
+      "text": "Cafeteria Goods"
+    },
+    {
+      "id": "0x00000155",
+      "text": "Lunar Seafood Processing"
+    },
+    {
+      "id": "0x00000156",
+      "text": "EX: Stable Food Mass Production"
+    },
+    {
+      "id": "0x00000157",
+      "text": "EX: Sharlayan Dish Inspection"
+    },
+    {
+      "id": "0x00000158",
+      "text": "EX: Simple Field Rations"
+    },
+    {
+      "id": "0x00000159",
+      "text": "EX: Portable Nutrients"
+    },
+    {
+      "id": "0x0000015A",
+      "text": "EX+: Cured Seafood"
+    },
+    {
+      "id": "0x0000015B",
+      "text": "EX+: Cured Meat"
+    },
+    {
+      "id": "0x0000015C",
+      "text": "Worker's Banquet Preparation I"
+    },
+    {
+      "id": "0x0000015D",
+      "text": "EX: Worker's Banquet Preparation II"
+    },
+    {
+      "id": "0x0000015E",
+      "text": "Loporrit Dietary Improvement I"
+    },
+    {
+      "id": "0x0000015F",
+      "text": "EX: Loporrit Dietary Improvement II"
+    },
+    {
+      "id": "0x00000160",
+      "text": "EX+: Loporrit Dietary Improvement III"
+    },
+    {
+      "id": "0x00000161",
+      "text": "EX: Aquaculture Feed I"
+    },
+    {
+      "id": "0x00000162",
+      "text": "EX+: Aquaculture Feed II"
+    },
+    {
+      "id": "0x00000163",
+      "text": "Highly Nutritious Foodstuffs I"
+    },
+    {
+      "id": "0x00000164",
+      "text": "EX: Highly Nutritious Foodstuffs II"
+    },
+    {
+      "id": "0x00000165",
+      "text": "EX+: Highly Nutritious Foodstuffs III"
+    },
+    {
+      "id": "0x00000166",
+      "text": "EX+: Whole Meals I"
+    },
+    {
+      "id": "0x00000167",
+      "text": "EX+: Whole Meals II"
+    },
+    {
+      "id": "0x00000168",
+      "text": "EX+: Whole Meals III"
+    },
+    {
+      "id": "0x00000169",
+      "text": " Hub Vicinity Survey"
+    },
+    {
+      "id": "0x0000016A",
+      "text": " Northwestern Vicinity Survey"
+    },
+    {
+      "id": "0x0000016B",
+      "text": " Productivity Review"
+    },
+    {
+      "id": "0x0000016C",
+      "text": " Hydrofication Materials"
+    },
+    {
+      "id": "0x0000016D",
+      "text": " Multi-purpose Plating Materials"
+    },
+    {
+      "id": "0x0000016E",
+      "text": " Air Filter Materials"
+    },
+    {
+      "id": "0x0000016F",
+      "text": " Central Radius Survey"
+    },
+    {
+      "id": "0x00000170",
+      "text": " Metal Processing Materials"
+    },
+    {
+      "id": "0x00000171",
+      "text": " Heavy Plating Materials"
+    },
+    {
+      "id": "0x00000172",
+      "text": " Sustained Productivity Review"
+    },
+    {
+      "id": "0x00000173",
+      "text": " Material Collection Appraisal"
+    },
+    {
+      "id": "0x00000174",
+      "text": " Additional Meteoric Deposits"
+    },
+    {
+      "id": "0x00000175",
+      "text": " Water Filter Materials"
+    },
+    {
+      "id": "0x00000176",
+      "text": " Outer Sector Survey"
+    },
+    {
+      "id": "0x00000177",
+      "text": " Element-resistant Materials"
+    },
+    {
+      "id": "0x00000178",
+      "text": " Light Plating Materials"
+    },
+    {
+      "id": "0x00000179",
+      "text": " Lunar Yellow Copper Ore"
+    },
+    {
+      "id": "0x0000017A",
+      "text": " Technique Appraisal"
+    },
+    {
+      "id": "0x0000017B",
+      "text": " Energization Materials"
+    },
+    {
+      "id": "0x0000017C",
+      "text": " Fine-grade Processing Materials"
+    },
+    {
+      "id": "0x0000017D",
+      "text": " Stellar Repair Materials"
+    },
+    {
+      "id": "0x0000017E",
+      "text": "Alloy Processing Materials"
+    },
+    {
+      "id": "0x0000017F",
+      "text": "Crater Extraction"
+    },
+    {
+      "id": "0x00000180",
+      "text": "Special Plating Materials"
+    },
+    {
+      "id": "0x00000181",
+      "text": "Lunar Chromite Ore"
+    },
+    {
+      "id": "0x00000182",
+      "text": "Meteoric Deposits"
+    },
+    {
+      "id": "0x00000183",
+      "text": "EX: Precise Survey"
+    },
+    {
+      "id": "0x00000184",
+      "text": "EX: Alchemical Refinement Materials"
+    },
+    {
+      "id": "0x00000185",
+      "text": "EX: Southwestern Survey"
+    },
+    {
+      "id": "0x00000186",
+      "text": "EX: Precise Lunar Nadir Survey"
+    },
+    {
+      "id": "0x00000187",
+      "text": "EX+: Rare Material Extraction"
+    },
+    {
+      "id": "0x00000188",
+      "text": "EX+: Supplemental Processing Materials"
+    },
+    {
+      "id": "0x00000189",
+      "text": "Hub Vicinity Gathering I"
+    },
+    {
+      "id": "0x0000018A",
+      "text": "EX: Hub Vicinity Gathering II"
+    },
+    {
+      "id": "0x0000018B",
+      "text": "High-grade Energization Materials I"
+    },
+    {
+      "id": "0x0000018C",
+      "text": "EX: High-grade Energization Materials II"
+    },
+    {
+      "id": "0x0000018D",
+      "text": "EX+: High-grade Energization Materials III"
+    },
+    {
+      "id": "0x0000018E",
+      "text": "EX: Fine-grade Water Filter Materials I"
+    },
+    {
+      "id": "0x0000018F",
+      "text": "EX+: Fine-grade Water Filter Materials II"
+    },
+    {
+      "id": "0x00000190",
+      "text": "Fine-grade Air Filter Materials I"
+    },
+    {
+      "id": "0x00000191",
+      "text": "EX+: Fine-grade Air Filter Materials III"
+    },
+    {
+      "id": "0x00000192",
+      "text": "EX: Fine-grade Air Filter Materials II"
+    },
+    {
+      "id": "0x00000193",
+      "text": "EX+: Folkloric Materials I"
+    },
+    {
+      "id": "0x00000194",
+      "text": "EX+: Folkloric Materials II"
+    },
+    {
+      "id": "0x00000195",
+      "text": "EX+: Folkloric Materials III"
+    },
+    {
+      "id": "0x00000196",
+      "text": " Hub Vicinity Survey"
+    },
+    {
+      "id": "0x00000197",
+      "text": " Eastern Vicinity Survey"
+    },
+    {
+      "id": "0x00000198",
+      "text": " Productivity Review"
+    },
+    {
+      "id": "0x00000199",
+      "text": " Hydrofication Materials"
+    },
+    {
+      "id": "0x0000019A",
+      "text": " Multi-purpose Fiberboard Materials"
+    },
+    {
+      "id": "0x0000019B",
+      "text": " Air Filter Materials"
+    },
+    {
+      "id": "0x0000019C",
+      "text": " Central Radius Survey"
+    },
+    {
+      "id": "0x0000019D",
+      "text": " Processing Fibers"
+    },
+    {
+      "id": "0x0000019E",
+      "text": " Thin Fiberboard Materials"
+    },
+    {
+      "id": "0x0000019F",
+      "text": " Sustained Productivity Review"
+    },
+    {
+      "id": "0x000001A0",
+      "text": " Material Collection Appraisal"
+    },
+    {
+      "id": "0x000001A1",
+      "text": " Branch Collection"
+    },
+    {
+      "id": "0x000001A2",
+      "text": " Water Filter Materials"
+    },
+    {
+      "id": "0x000001A3",
+      "text": " Outer Sector Survey"
+    },
+    {
+      "id": "0x000001A4",
+      "text": " Insulation Materials"
+    },
+    {
+      "id": "0x000001A5",
+      "text": " Thick Fiberboard Materials"
+    },
+    {
+      "id": "0x000001A6",
+      "text": " Blue Fiber Collection Appraisal"
+    },
+    {
+      "id": "0x000001A7",
+      "text": " Technique Appraisal"
+    },
+    {
+      "id": "0x000001A8",
+      "text": " Energization Materials"
+    },
+    {
+      "id": "0x000001A9",
+      "text": " Fine-grade Processing Materials"
+    },
+    {
+      "id": "0x000001AA",
+      "text": " Stellar Repair Materials"
+    },
+    {
+      "id": "0x000001AB",
+      "text": "Tanning Agents"
+    },
+    {
+      "id": "0x000001AC",
+      "text": "Experimental Cultivars"
+    },
+    {
+      "id": "0x000001AD",
+      "text": "Fiberboard Materials"
+    },
+    {
+      "id": "0x000001AE",
+      "text": "Fungi Collection"
+    },
+    {
+      "id": "0x000001AF",
+      "text": "Fiber Collection Appraisal"
+    },
+    {
+      "id": "0x000001B0",
+      "text": "EX: Precise Survey"
+    },
+    {
+      "id": "0x000001B1",
+      "text": "EX: Alchemical Refinement Materials"
+    },
+    {
+      "id": "0x000001B2",
+      "text": "EX: Southwestern Survey"
+    },
+    {
+      "id": "0x000001B3",
+      "text": "EX: Precise Lunar Nadir Survey"
+    },
+    {
+      "id": "0x000001B4",
+      "text": "EX+: Rare Material Extraction"
+    },
+    {
+      "id": "0x000001B5",
+      "text": "EX+: Supplemental Processing Materials"
+    },
+    {
+      "id": "0x000001B6",
+      "text": "Hub Vicinity Gathering I"
+    },
+    {
+      "id": "0x000001B7",
+      "text": "EX: Hub Vicinity Gathering II"
+    },
+    {
+      "id": "0x000001B8",
+      "text": "High-grade Energization Materials I"
+    },
+    {
+      "id": "0x000001B9",
+      "text": "EX: High-grade Energization Materials II"
+    },
+    {
+      "id": "0x000001BA",
+      "text": "EX+: High-grade Energization Materials III"
+    },
+    {
+      "id": "0x000001BB",
+      "text": "EX: Fine-grade Water Filter Materials I"
+    },
+    {
+      "id": "0x000001BC",
+      "text": "EX+: Fine-grade Water Filter Materials II"
+    },
+    {
+      "id": "0x000001BD",
+      "text": "Fine-grade Air Filter Materials I"
+    },
+    {
+      "id": "0x000001BE",
+      "text": "EX+: Fine-grade Air Filter Materials III"
+    },
+    {
+      "id": "0x000001BF",
+      "text": "EX: Fine-grade Air Filter Materials II"
+    },
+    {
+      "id": "0x000001C0",
+      "text": "EX+: Folkloric Materials I"
+    },
+    {
+      "id": "0x000001C1",
+      "text": "EX+: Folkloric Materials II"
+    },
+    {
+      "id": "0x000001C2",
+      "text": "EX+: Folkloric Materials III"
+    },
+    {
+      "id": "0x000001C3",
+      "text": " Lunch Emergency"
+    },
+    {
+      "id": "0x000001C4",
+      "text": " Large Aquatic Specimens"
+    },
+    {
+      "id": "0x000001C5",
+      "text": " Western Water Inspection"
+    },
+    {
+      "id": "0x000001C6",
+      "text": " Aquatic Foodstuffs"
+    },
+    {
+      "id": "0x000001C7",
+      "text": " Weeping Pool Ecological Survey"
+    },
+    {
+      "id": "0x000001C8",
+      "text": " Assorted Alchemical Materials"
+    },
+    {
+      "id": "0x000001C9",
+      "text": " Big Fish"
+    },
+    {
+      "id": "0x000001CA",
+      "text": " Environmental Inspection"
+    },
+    {
+      "id": "0x000001CB",
+      "text": " Polarized Dyes"
+    },
+    {
+      "id": "0x000001CC",
+      "text": " Southeast Well Ecological Survey"
+    },
+    {
+      "id": "0x000001CD",
+      "text": " Fish Sauce Ingredients"
+    },
+    {
+      "id": "0x000001CE",
+      "text": " Aquatic Samples"
+    },
+    {
+      "id": "0x000001CF",
+      "text": " Northwestern Water Inspection"
+    },
+    {
+      "id": "0x000001D0",
+      "text": " Hollow Harbor Water Inspection"
+    },
+    {
+      "id": "0x000001D1",
+      "text": " Preserved Foodstuffs"
+    },
+    {
+      "id": "0x000001D2",
+      "text": " Hollow Harbor Ecological Survey"
+    },
+    {
+      "id": "0x000001D3",
+      "text": " Absolute Specimen"
+    },
+    {
+      "id": "0x000001D4",
+      "text": " Aetherochemical Creatures"
+    },
+    {
+      "id": "0x000001D5",
+      "text": " Westward Ecological Survey"
+    },
+    {
+      "id": "0x000001D6",
+      "text": " Supper Emergency"
+    },
+    {
+      "id": "0x000001D7",
+      "text": " Alchemical Resources"
+    },
+    {
+      "id": "0x000001D8",
+      "text": "Northward Ecological Survey"
+    },
+    {
+      "id": "0x000001D9",
+      "text": "Rare Aquatic Specimens"
+    },
+    {
+      "id": "0x000001DA",
+      "text": "Foodstuff Emergency"
+    },
+    {
+      "id": "0x000001DB",
+      "text": "Precise Water Survey"
+    },
+    {
+      "id": "0x000001DC",
+      "text": "Fine-grade Aquatic Processing Materials"
+    },
+    {
+      "id": "0x000001DD",
+      "text": "EX: Large Aquatic Specimens"
+    },
+    {
+      "id": "0x000001DE",
+      "text": "EX: Assorted Alchemical Materials"
+    },
+    {
+      "id": "0x000001DF",
+      "text": "EX: Aetherial Falls Experiment"
+    },
+    {
+      "id": "0x000001E0",
+      "text": "EX: Foodstuff Emergency"
+    },
+    {
+      "id": "0x000001E1",
+      "text": "EX+: Palus Arsenici Ecological Survey"
+    },
+    {
+      "id": "0x000001E2",
+      "text": "EX+: Large Aquatic Specimens"
+    },
+    {
+      "id": "0x000001E3",
+      "text": "Aquatic Inspection I"
+    },
+    {
+      "id": "0x000001E4",
+      "text": "EX: Aquatic Inspection II"
+    },
+    {
+      "id": "0x000001E5",
+      "text": "Fine-grade Water Filter Materials I"
+    },
+    {
+      "id": "0x000001E6",
+      "text": "EX: Fine-grade Water Filter Materials II"
+    },
+    {
+      "id": "0x000001E7",
+      "text": "EX+: Fine-grade Water Filter Materials III"
+    },
+    {
+      "id": "0x000001E8",
+      "text": "EX: Coexisting Species I"
+    },
+    {
+      "id": "0x000001E9",
+      "text": "EX+: Coexisting Species II"
+    },
+    {
+      "id": "0x000001EA",
+      "text": "Aetherochemical Samples I"
+    },
+    {
+      "id": "0x000001EB",
+      "text": "EX: Aetherochemical Samples II"
+    },
+    {
+      "id": "0x000001EC",
+      "text": "EX+: Aetherochemical Samples III"
+    },
+    {
+      "id": "0x000001ED",
+      "text": "EX+: Unidentified Aquatic Specimens I"
+    },
+    {
+      "id": "0x000001EE",
+      "text": "EX+: Unidentified Aquatic Specimens II"
+    },
+    {
+      "id": "0x000001EF",
+      "text": "EX+: Unidentified Aquatic Specimens III"
+    },
+    {
+      "id": "0x000001F0",
+      "text": "EX: Aquatic Resource Research Tanks"
+    },
+    {
+      "id": "0x000001F1",
+      "text": "EX: Impact-resistant Containers"
+    },
+    {
+      "id": "0x000001F2",
+      "text": "EX: Soothing Censers"
+    },
+    {
+      "id": "0x000001F3",
+      "text": "EX+: Automaton Digging"
+    },
+    {
+      "id": "0x000001F4",
+      "text": "EX+: Lunar Leather"
+    },
+    {
+      "id": "0x000001F5",
+      "text": "EX+: High-quality Floor Tiling"
+    },
+    {
+      "id": "0x000001F6",
+      "text": "EX: Lunar Tanning Agents"
+    },
+    {
+      "id": "0x000001F7",
+      "text": "EX: Special Spongoi Processing"
+    },
+    {
+      "id": "0x000001F8",
+      "text": "EX: Freshness Preservation"
+    },
+    {
+      "id": "0x000001F9",
+      "text": "EX+: Lunar Tools"
+    },
+    {
+      "id": "0x000001FA",
+      "text": "EX+: High Burn Furnace"
+    },
+    {
+      "id": "0x000001FB",
+      "text": "EX+: Mushroom-borne Comfort"
+    },
+    {
+      "id": "0x000001FC",
+      "text": "EX: Processed Aquatic Metals"
+    },
+    {
+      "id": "0x000001FD",
+      "text": "EX: Refined Moon Gel"
+    },
+    {
+      "id": "0x000001FE",
+      "text": "EX+: Crystallic Gems"
+    },
+    {
+      "id": "0x000001FF",
+      "text": "EX+: Eel Rations"
+    },
+    {
+      "id": "0x00000200",
+      "text": " Work Ladders"
+    },
+    {
+      "id": "0x00000201",
+      "text": " Kindling"
+    },
+    {
+      "id": "0x00000202",
+      "text": " Fungal Building Materials"
+    },
+    {
+      "id": "0x00000203",
+      "text": " Meteorite Drills"
+    },
+    {
+      "id": "0x00000204",
+      "text": " Vacuum Muzzles"
+    },
+    {
+      "id": "0x00000205",
+      "text": " Flamethrower Parts"
+    },
+    {
+      "id": "0x00000206",
+      "text": " Spare Vacuum Tanks"
+    },
+    {
+      "id": "0x00000207",
+      "text": " Vehicular Plating"
+    },
+    {
+      "id": "0x00000208",
+      "text": " Gas Tanks"
+    },
+    {
+      "id": "0x00000209",
+      "text": " Lighting Repair Tools"
+    },
+    {
+      "id": "0x0000020A",
+      "text": " Intricate Vacuum Parts"
+    },
+    {
+      "id": "0x0000020B",
+      "text": " Spare Vehicle Parts"
+    },
+    {
+      "id": "0x0000020C",
+      "text": " Impenetrable Gloves"
+    },
+    {
+      "id": "0x0000020D",
+      "text": " Reinforced Gas Masks"
+    },
+    {
+      "id": "0x0000020E",
+      "text": " Flame-resistant Workboots"
+    },
+    {
+      "id": "0x0000020F",
+      "text": " Spare Cloth"
+    },
+    {
+      "id": "0x00000210",
+      "text": " Flame-resistant Work Cloth"
+    },
+    {
+      "id": "0x00000211",
+      "text": " Fungal Cloth"
+    },
+    {
+      "id": "0x00000212",
+      "text": " Aether-resistant Agent"
+    },
+    {
+      "id": "0x00000213",
+      "text": " Gas Poisoning Antidote"
+    },
+    {
+      "id": "0x00000214",
+      "text": " Flamethrower Fuel"
+    },
+    {
+      "id": "0x00000215",
+      "text": " Cured Foodstuffs"
+    },
+    {
+      "id": "0x00000216",
+      "text": " Nutrient Supplement Jelly"
+    },
+    {
+      "id": "0x00000217",
+      "text": " Irregular Spongoi Analysis"
+    },
+    {
+      "id": "0x00000218",
+      "text": " Insulating Material"
+    },
+    {
+      "id": "0x00000219",
+      "text": " Fallen Drone Salvage"
+    },
+    {
+      "id": "0x0000021A",
+      "text": " Rare Siderite Extraction"
+    },
+    {
+      "id": "0x0000021B",
+      "text": " Medicinal Sclerotia"
+    },
+    {
+      "id": "0x0000021C",
+      "text": " Sporing Mist Analysis"
+    },
+    {
+      "id": "0x0000021D",
+      "text": " Mutated Spongoi"
+    },
+    {
+      "id": "0x0000021E",
+      "text": " Edible Fish"
+    },
+    {
+      "id": "0x0000021F",
+      "text": " Sunken Drone Salvage"
+    },
+    {
+      "id": "0x00000220",
+      "text": " Mutated Fish"
+    },
+    {
+      "id": "0x00000221",
+      "text": " Multi-purpose Glass"
+    },
+    {
+      "id": "0x00000222",
+      "text": " Improved Tents"
+    },
+    {
+      "id": "0x00000223",
+      "text": " Resource Experimentation I"
+    },
+    {
+      "id": "0x00000224",
+      "text": " Recycled Resource Utilization I"
+    },
+    {
+      "id": "0x00000225",
+      "text": " Camping Tents"
+    },
+    {
+      "id": "0x00000226",
+      "text": " Inorganic Research I"
+    },
+    {
+      "id": "0x00000227",
+      "text": " Multi-purpose Glass Resupply"
+    },
+    {
+      "id": "0x00000228",
+      "text": " Coldproof Tent Components"
+    },
+    {
+      "id": "0x00000229",
+      "text": " Resource Experimentation II"
+    },
+    {
+      "id": "0x0000022A",
+      "text": " Recycled Resource Utilization II"
+    },
+    {
+      "id": "0x0000022B",
+      "text": " Cold-weather Tents"
+    },
+    {
+      "id": "0x0000022C",
+      "text": " Inorganic Research II"
+    },
+    {
+      "id": "0x0000022D",
+      "text": " Gleaner's Gear I"
+    },
+    {
+      "id": "0x0000022E",
+      "text": " Advanced Resource Experimentation I"
+    },
+    {
+      "id": "0x0000022F",
+      "text": " Glass Fiber"
+    },
+    {
+      "id": "0x00000230",
+      "text": " Heatproof Tent Components"
+    },
+    {
+      "id": "0x00000231",
+      "text": " Efficient Recycled Resource Utilization I"
+    },
+    {
+      "id": "0x00000232",
+      "text": " Heatproof Tents"
+    },
+    {
+      "id": "0x00000233",
+      "text": " Inorganic Durability Research"
+    },
+    {
+      "id": "0x00000234",
+      "text": " Gleaner's Gear II"
+    },
+    {
+      "id": "0x00000235",
+      "text": " Habitat Bedding"
+    },
+    {
+      "id": "0x00000236",
+      "text": "Glass Fiber Resupply"
+    },
+    {
+      "id": "0x00000237",
+      "text": "Advanced Resource Experimentation II"
+    },
+    {
+      "id": "0x00000238",
+      "text": "Improved Tent Components"
+    },
+    {
+      "id": "0x00000239",
+      "text": "Efficient Recycled Resource Utilization II"
+    },
+    {
+      "id": "0x0000023A",
+      "text": "Phaenna Resource Utilization Research"
+    },
+    {
+      "id": "0x0000023B",
+      "text": "EX: Outdoor Work Equipment"
+    },
+    {
+      "id": "0x0000023C",
+      "text": "EX: Premium Tools"
+    },
+    {
+      "id": "0x0000023D",
+      "text": "EX: Versatile Packaging Materials"
+    },
+    {
+      "id": "0x0000023E",
+      "text": "EX+: Temporary Collection Points"
+    },
+    {
+      "id": "0x0000023F",
+      "text": "EX+: High-performance Bedding"
+    },
+    {
+      "id": "0x00000240",
+      "text": "Phaenna Exploration Equipment I"
+    },
+    {
+      "id": "0x00000241",
+      "text": "Phaenna Exploration Equipment II"
+    },
+    {
+      "id": "0x00000242",
+      "text": "EX: Craftwork for the Forum I"
+    },
+    {
+      "id": "0x00000243",
+      "text": "EX: Craftwork for the Forum II"
+    },
+    {
+      "id": "0x00000244",
+      "text": "EX: Craftwork for the Forum III"
+    },
+    {
+      "id": "0x00000245",
+      "text": "Habitation Improvement Plan I"
+    },
+    {
+      "id": "0x00000246",
+      "text": "EX: Habitation Improvement Plan II"
+    },
+    {
+      "id": "0x00000247",
+      "text": "EX+: Habitation Improvement Plan III"
+    },
+    {
+      "id": "0x00000248",
+      "text": "EX+: Resin Crystal Refinement I"
+    },
+    {
+      "id": "0x00000249",
+      "text": "EX+: Resin Crystal Refinement II"
+    },
+    {
+      "id": "0x0000024A",
+      "text": "EX+: Resin Crystal Refinement III"
+    },
+    {
+      "id": "0x0000024B",
+      "text": " Multi-purpose Glass"
+    },
+    {
+      "id": "0x0000024C",
+      "text": " Repair Component Processing"
+    },
+    {
+      "id": "0x0000024D",
+      "text": " Glass Resource Refinement"
+    },
+    {
+      "id": "0x0000024E",
+      "text": " Drone Lenses"
+    },
+    {
+      "id": "0x0000024F",
+      "text": " Base Equipment"
+    },
+    {
+      "id": "0x00000250",
+      "text": " Stormproof Components"
+    },
+    {
+      "id": "0x00000251",
+      "text": " Multi-purpose Glass Resupply"
+    },
+    {
+      "id": "0x00000252",
+      "text": " Station Parts"
+    },
+    {
+      "id": "0x00000253",
+      "text": " Gathering Tools"
+    },
+    {
+      "id": "0x00000254",
+      "text": " Stormproof Components Resupply"
+    },
+    {
+      "id": "0x00000255",
+      "text": " Glass Furnace Assembly"
+    },
+    {
+      "id": "0x00000256",
+      "text": " Drone Precision Components"
+    },
+    {
+      "id": "0x00000257",
+      "text": " Heaters"
+    },
+    {
+      "id": "0x00000258",
+      "text": " Interim Part Processing"
+    },
+    {
+      "id": "0x00000259",
+      "text": " Phaenna Glass"
+    },
+    {
+      "id": "0x0000025A",
+      "text": " Ore Refinement"
+    },
+    {
+      "id": "0x0000025B",
+      "text": " Stellascope Lenses"
+    },
+    {
+      "id": "0x0000025C",
+      "text": " Weather-resistant Containers"
+    },
+    {
+      "id": "0x0000025D",
+      "text": " Bathing Equipment"
+    },
+    {
+      "id": "0x0000025E",
+      "text": " Experimental Stormproof Components"
+    },
+    {
+      "id": "0x0000025F",
+      "text": " Large Kitchen Equipment"
+    },
+    {
+      "id": "0x00000260",
+      "text": "Phaenna Glass Resupply"
+    },
+    {
+      "id": "0x00000261",
+      "text": "Planetary Ore Refinement"
+    },
+    {
+      "id": "0x00000262",
+      "text": "Precision Component Processing"
+    },
+    {
+      "id": "0x00000263",
+      "text": "Crafter's Tools"
+    },
+    {
+      "id": "0x00000264",
+      "text": "Experimental Alloy Samples"
+    },
+    {
+      "id": "0x00000265",
+      "text": "EX: Artisanal Craftwork"
+    },
+    {
+      "id": "0x00000266",
+      "text": "EX: Cosmoliner Parts"
+    },
+    {
+      "id": "0x00000267",
+      "text": "EX: Glass Furnace Assembly II"
+    },
+    {
+      "id": "0x00000268",
+      "text": "EX+: Experimental Stormproof Components Resupply"
+    },
+    {
+      "id": "0x00000269",
+      "text": "EX+: Battery Packs"
+    },
+    {
+      "id": "0x0000026A",
+      "text": "Glassworker's Tools I"
+    },
+    {
+      "id": "0x0000026B",
+      "text": "Glassworker's Tools II"
+    },
+    {
+      "id": "0x0000026C",
+      "text": "EX: Operation Chilling-a-Way Drone Parts I"
+    },
+    {
+      "id": "0x0000026D",
+      "text": "EX: Operation Chilling-a-Way Drone Parts II"
+    },
+    {
+      "id": "0x0000026E",
+      "text": "EX: Operation Chilling-a-Way Drone Parts III"
+    },
+    {
+      "id": "0x0000026F",
+      "text": "Stellascope Parts I"
+    },
+    {
+      "id": "0x00000270",
+      "text": "EX: Stellascope Parts II"
+    },
+    {
+      "id": "0x00000271",
+      "text": "EX+: Stellascope Parts III"
+    },
+    {
+      "id": "0x00000272",
+      "text": "EX+: Synthetic Crystal Glass I"
+    },
+    {
+      "id": "0x00000273",
+      "text": "EX+: Synthetic Crystal Glass II"
+    },
+    {
+      "id": "0x00000274",
+      "text": "EX+: Phaenna Craftwork"
+    },
+    {
+      "id": "0x00000275",
+      "text": " Multi-purpose Glass"
+    },
+    {
+      "id": "0x00000276",
+      "text": " Repair Component Processing"
+    },
+    {
+      "id": "0x00000277",
+      "text": " Glass Resource Refinement"
+    },
+    {
+      "id": "0x00000278",
+      "text": " Drone Lenses"
+    },
+    {
+      "id": "0x00000279",
+      "text": " Base Equipment"
+    },
+    {
+      "id": "0x0000027A",
+      "text": " Stormproof Components"
+    },
+    {
+      "id": "0x0000027B",
+      "text": " Multi-purpose Glass Resupply"
+    },
+    {
+      "id": "0x0000027C",
+      "text": " Station Parts"
+    },
+    {
+      "id": "0x0000027D",
+      "text": " Gathering Tools"
+    },
+    {
+      "id": "0x0000027E",
+      "text": " Stormproof Components Resupply"
+    },
+    {
+      "id": "0x0000027F",
+      "text": " Glass Furnace Assembly"
+    },
+    {
+      "id": "0x00000280",
+      "text": " Drone Precision Components"
+    },
+    {
+      "id": "0x00000281",
+      "text": " Heaters"
+    },
+    {
+      "id": "0x00000282",
+      "text": " Interim Part Processing"
+    },
+    {
+      "id": "0x00000283",
+      "text": " Phaenna Glass"
+    },
+    {
+      "id": "0x00000284",
+      "text": " Ore Refinement"
+    },
+    {
+      "id": "0x00000285",
+      "text": " Stellascope Lenses"
+    },
+    {
+      "id": "0x00000286",
+      "text": " Weather-resistant Containers"
+    },
+    {
+      "id": "0x00000287",
+      "text": " Bathing Equipment"
+    },
+    {
+      "id": "0x00000288",
+      "text": " Experimental Stormproof Components"
+    },
+    {
+      "id": "0x00000289",
+      "text": " Large Kitchen Equipment"
+    },
+    {
+      "id": "0x0000028A",
+      "text": "Phaenna Glass Resupply"
+    },
+    {
+      "id": "0x0000028B",
+      "text": "Planetary Ore Refinement"
+    },
+    {
+      "id": "0x0000028C",
+      "text": "Precision Component Processing"
+    },
+    {
+      "id": "0x0000028D",
+      "text": "Crafter's Tools"
+    },
+    {
+      "id": "0x0000028E",
+      "text": "Experimental Alloy Samples"
+    },
+    {
+      "id": "0x0000028F",
+      "text": "EX: Artisanal Craftwork"
+    },
+    {
+      "id": "0x00000290",
+      "text": "EX: Cosmoliner Parts"
+    },
+    {
+      "id": "0x00000291",
+      "text": "EX: Emergency Stove Assembly"
+    },
+    {
+      "id": "0x00000292",
+      "text": "EX+: Experimental Stormproof Components Resupply"
+    },
+    {
+      "id": "0x00000293",
+      "text": "EX+: Battery Packs"
+    },
+    {
+      "id": "0x00000294",
+      "text": "Glassworker's Tools I"
+    },
+    {
+      "id": "0x00000295",
+      "text": "Glassworker's Tools II"
+    },
+    {
+      "id": "0x00000296",
+      "text": "EX: Operation Chilling-a-Way Drone Parts I"
+    },
+    {
+      "id": "0x00000297",
+      "text": "EX: Operation Chilling-a-Way Drone Parts II"
+    },
+    {
+      "id": "0x00000298",
+      "text": "EX: Operation Chilling-a-Way Drone Parts III"
+    },
+    {
+      "id": "0x00000299",
+      "text": "Stellascope Parts I"
+    },
+    {
+      "id": "0x0000029A",
+      "text": "EX: Stellascope Parts II"
+    },
+    {
+      "id": "0x0000029B",
+      "text": "EX+: Stellascope Parts III"
+    },
+    {
+      "id": "0x0000029C",
+      "text": "EX+: Synthetic Crystal Glass I"
+    },
+    {
+      "id": "0x0000029D",
+      "text": "EX+:  Synthetic Crystal Glass II"
+    },
+    {
+      "id": "0x0000029E",
+      "text": "EX+: Phaenna Craftwork"
+    },
+    {
+      "id": "0x0000029F",
+      "text": " Multi-purpose Glass"
+    },
+    {
+      "id": "0x000002A0",
+      "text": " Repair Component Processing"
+    },
+    {
+      "id": "0x000002A1",
+      "text": " Glass Resource Refinement"
+    },
+    {
+      "id": "0x000002A2",
+      "text": " Drone Lenses"
+    },
+    {
+      "id": "0x000002A3",
+      "text": " Base Equipment"
+    },
+    {
+      "id": "0x000002A4",
+      "text": " Stormproof Components"
+    },
+    {
+      "id": "0x000002A5",
+      "text": " Multi-purpose Glass Resupply"
+    },
+    {
+      "id": "0x000002A6",
+      "text": " Station Parts"
+    },
+    {
+      "id": "0x000002A7",
+      "text": " Gathering Tools"
+    },
+    {
+      "id": "0x000002A8",
+      "text": " Stormproof Components Resupply"
+    },
+    {
+      "id": "0x000002A9",
+      "text": " Glass Furnace Assembly"
+    },
+    {
+      "id": "0x000002AA",
+      "text": " Drone Precision Components"
+    },
+    {
+      "id": "0x000002AB",
+      "text": " Heaters"
+    },
+    {
+      "id": "0x000002AC",
+      "text": " Interim Part Processing"
+    },
+    {
+      "id": "0x000002AD",
+      "text": " Phaenna Glass"
+    },
+    {
+      "id": "0x000002AE",
+      "text": " Ore Refinement"
+    },
+    {
+      "id": "0x000002AF",
+      "text": " Stellascope Lenses"
+    },
+    {
+      "id": "0x000002B0",
+      "text": " Weather-resistant Containers"
+    },
+    {
+      "id": "0x000002B1",
+      "text": " Bathing Equipment"
+    },
+    {
+      "id": "0x000002B2",
+      "text": " Experimental Stormproof Components"
+    },
+    {
+      "id": "0x000002B3",
+      "text": " Large Kitchen Equipment"
+    },
+    {
+      "id": "0x000002B4",
+      "text": "Phaenna Glass Resupply"
+    },
+    {
+      "id": "0x000002B5",
+      "text": "Planetary Ore Refinement"
+    },
+    {
+      "id": "0x000002B6",
+      "text": "Precision Component Processing"
+    },
+    {
+      "id": "0x000002B7",
+      "text": "Crafter's Tools"
+    },
+    {
+      "id": "0x000002B8",
+      "text": "Experimental Alloy Samples"
+    },
+    {
+      "id": "0x000002B9",
+      "text": "EX: Artisanal Craftwork"
+    },
+    {
+      "id": "0x000002BA",
+      "text": "EX: Cosmoliner Parts"
+    },
+    {
+      "id": "0x000002BB",
+      "text": "EX: Emergency Oven Assembly"
+    },
+    {
+      "id": "0x000002BC",
+      "text": "EX+: Experimental Stormproof Components Resupply"
+    },
+    {
+      "id": "0x000002BD",
+      "text": "EX+: Battery Packs"
+    },
+    {
+      "id": "0x000002BE",
+      "text": "Glassworker's Tools I"
+    },
+    {
+      "id": "0x000002BF",
+      "text": "Glassworker's Tools II"
+    },
+    {
+      "id": "0x000002C0",
+      "text": "EX: Operation Chilling-a-Way Drone Parts I"
+    },
+    {
+      "id": "0x000002C1",
+      "text": "EX: Operation Chilling-a-Way Drone Parts II"
+    },
+    {
+      "id": "0x000002C2",
+      "text": "EX: Operation Chilling-a-Way Drone Parts III"
+    },
+    {
+      "id": "0x000002C3",
+      "text": "Stellascope Parts I"
+    },
+    {
+      "id": "0x000002C4",
+      "text": "EX: Stellascope Parts II"
+    },
+    {
+      "id": "0x000002C5",
+      "text": "EX+: Stellascope Parts III"
+    },
+    {
+      "id": "0x000002C6",
+      "text": "EX+: Synthetic Crystal Glass I"
+    },
+    {
+      "id": "0x000002C7",
+      "text": "EX+: Synthetic Crystal Glass II"
+    },
+    {
+      "id": "0x000002C8",
+      "text": "EX+: Phaenna Craftwork"
+    },
+    {
+      "id": "0x000002C9",
+      "text": " Multi-purpose Glass"
+    },
+    {
+      "id": "0x000002CA",
+      "text": " Improved Tents"
+    },
+    {
+      "id": "0x000002CB",
+      "text": " Resource Experimentation I"
+    },
+    {
+      "id": "0x000002CC",
+      "text": " Recycled Resource Utilization I"
+    },
+    {
+      "id": "0x000002CD",
+      "text": " Camping Tents"
+    },
+    {
+      "id": "0x000002CE",
+      "text": " Inorganic Research I"
+    },
+    {
+      "id": "0x000002CF",
+      "text": " Multi-purpose Glass Resupply"
+    },
+    {
+      "id": "0x000002D0",
+      "text": " Coldproof Tent Components"
+    },
+    {
+      "id": "0x000002D1",
+      "text": " Resource Experimentation II"
+    },
+    {
+      "id": "0x000002D2",
+      "text": " Recycled Resource Utilization II"
+    },
+    {
+      "id": "0x000002D3",
+      "text": " Cold-weather Tents"
+    },
+    {
+      "id": "0x000002D4",
+      "text": " Inorganic Research II"
+    },
+    {
+      "id": "0x000002D5",
+      "text": " Artisan's Tool Resupply I"
+    },
+    {
+      "id": "0x000002D6",
+      "text": " Advanced Resource Experimentation I"
+    },
+    {
+      "id": "0x000002D7",
+      "text": " Glass Fiber"
+    },
+    {
+      "id": "0x000002D8",
+      "text": " Heatproof Tent Components"
+    },
+    {
+      "id": "0x000002D9",
+      "text": " Efficient Recycled Resource Utilization I"
+    },
+    {
+      "id": "0x000002DA",
+      "text": " Heatproof Tents"
+    },
+    {
+      "id": "0x000002DB",
+      "text": " Inorganic Durability Research"
+    },
+    {
+      "id": "0x000002DC",
+      "text": " Artisan's Tool Resupply II"
+    },
+    {
+      "id": "0x000002DD",
+      "text": " Habitat Bedding"
+    },
+    {
+      "id": "0x000002DE",
+      "text": "Glass Fiber Resupply"
+    },
+    {
+      "id": "0x000002DF",
+      "text": "Advanced Resource Experimentation II"
+    },
+    {
+      "id": "0x000002E0",
+      "text": "Improved Tent Components"
+    },
+    {
+      "id": "0x000002E1",
+      "text": "Efficient Recycled Resource Utilization II"
+    },
+    {
+      "id": "0x000002E2",
+      "text": "Phaenna Resource Utilization Research"
+    },
+    {
+      "id": "0x000002E3",
+      "text": "EX: Outdoor Work Equipment"
+    },
+    {
+      "id": "0x000002E4",
+      "text": "EX: Reinforced Survey Equipment"
+    },
+    {
+      "id": "0x000002E5",
+      "text": "EX: Versatile Packaging Materials"
+    },
+    {
+      "id": "0x000002E6",
+      "text": "EX+: Temporary Collection Points"
+    },
+    {
+      "id": "0x000002E7",
+      "text": "EX+: High-performance Bedding"
+    },
+    {
+      "id": "0x000002E8",
+      "text": "Phaenna Exploration Equipment I"
+    },
+    {
+      "id": "0x000002E9",
+      "text": "Phaenna Exploration Equipment II"
+    },
+    {
+      "id": "0x000002EA",
+      "text": "EX: Craftwork for the Forum I"
+    },
+    {
+      "id": "0x000002EB",
+      "text": "EX: Craftwork for the Forum II"
+    },
+    {
+      "id": "0x000002EC",
+      "text": "EX: Craftwork for the Forum III"
+    },
+    {
+      "id": "0x000002ED",
+      "text": "Habitation Improvement Plan I"
+    },
+    {
+      "id": "0x000002EE",
+      "text": "EX: Habitation Improvement Plan II"
+    },
+    {
+      "id": "0x000002EF",
+      "text": "EX+: Habitation Improvement Plan III"
+    },
+    {
+      "id": "0x000002F0",
+      "text": "EX+: Pilot Suits I"
+    },
+    {
+      "id": "0x000002F1",
+      "text": "EX+: Pilot Suits II"
+    },
+    {
+      "id": "0x000002F2",
+      "text": "EX+: Pilot Suits III"
+    },
+    {
+      "id": "0x000002F3",
+      "text": " Multi-purpose Glass"
+    },
+    {
+      "id": "0x000002F4",
+      "text": " Improved Tents"
+    },
+    {
+      "id": "0x000002F5",
+      "text": " Resource Experimentation I"
+    },
+    {
+      "id": "0x000002F6",
+      "text": " Recycled Resource Utilization I"
+    },
+    {
+      "id": "0x000002F7",
+      "text": " Camping Tents"
+    },
+    {
+      "id": "0x000002F8",
+      "text": " Inorganic Research I"
+    },
+    {
+      "id": "0x000002F9",
+      "text": " Multi-purpose Glass Resupply"
+    },
+    {
+      "id": "0x000002FA",
+      "text": " Coldproof Tent Components"
+    },
+    {
+      "id": "0x000002FB",
+      "text": " Resource Experimentation II"
+    },
+    {
+      "id": "0x000002FC",
+      "text": " Recycled Resource Utilization II"
+    },
+    {
+      "id": "0x000002FD",
+      "text": " Cold-weather Tents"
+    },
+    {
+      "id": "0x000002FE",
+      "text": " Inorganic Research II"
+    },
+    {
+      "id": "0x000002FF",
+      "text": " Artisan's Tool Resupply I"
+    },
+    {
+      "id": "0x00000300",
+      "text": " Advanced Resource Experimentation I"
+    },
+    {
+      "id": "0x00000301",
+      "text": " Glass Fiber"
+    },
+    {
+      "id": "0x00000302",
+      "text": " Heatproof Tent Components"
+    },
+    {
+      "id": "0x00000303",
+      "text": " Efficient Recycled Resource Utilization I"
+    },
+    {
+      "id": "0x00000304",
+      "text": " Heatproof Tents"
+    },
+    {
+      "id": "0x00000305",
+      "text": " Inorganic Durability Research"
+    },
+    {
+      "id": "0x00000306",
+      "text": " Artisan's Tool Resupply II"
+    },
+    {
+      "id": "0x00000307",
+      "text": " Habitat Bedding"
+    },
+    {
+      "id": "0x00000308",
+      "text": "Glass Fiber Resupply"
+    },
+    {
+      "id": "0x00000309",
+      "text": "Advanced Resource Experimentation II"
+    },
+    {
+      "id": "0x0000030A",
+      "text": "Improved Tent Components"
+    },
+    {
+      "id": "0x0000030B",
+      "text": "Efficient Recycled Resource Utilization II"
+    },
+    {
+      "id": "0x0000030C",
+      "text": "Phaenna Resource Utilization Research"
+    },
+    {
+      "id": "0x0000030D",
+      "text": "EX: Outdoor Work Equipment"
+    },
+    {
+      "id": "0x0000030E",
+      "text": "EX: Heat-resistant Survey Equipment"
+    },
+    {
+      "id": "0x0000030F",
+      "text": "EX: Versatile Packaging Materials"
+    },
+    {
+      "id": "0x00000310",
+      "text": "EX+: Temporary Collection Points"
+    },
+    {
+      "id": "0x00000311",
+      "text": "EX+: High-performance Bedding"
+    },
+    {
+      "id": "0x00000312",
+      "text": "Phaenna Exploration Equipment I"
+    },
+    {
+      "id": "0x00000313",
+      "text": "Phaenna Exploration Equipment II"
+    },
+    {
+      "id": "0x00000314",
+      "text": "EX: Craftwork for the Forum I"
+    },
+    {
+      "id": "0x00000315",
+      "text": "EX: Craftwork for the Forum II"
+    },
+    {
+      "id": "0x00000316",
+      "text": "EX: Craftwork for the Forum III"
+    },
+    {
+      "id": "0x00000317",
+      "text": "Habitation Improvement Plan I"
+    },
+    {
+      "id": "0x00000318",
+      "text": "EX: Habitation Improvement Plan II"
+    },
+    {
+      "id": "0x00000319",
+      "text": "EX+: Habitation Improvement Plan III"
+    },
+    {
+      "id": "0x0000031A",
+      "text": "EX+: Captain's Suit I"
+    },
+    {
+      "id": "0x0000031B",
+      "text": "EX+: Captain's Suit II"
+    },
+    {
+      "id": "0x0000031C",
+      "text": "EX+: Captain's Suit III"
+    },
+    {
+      "id": "0x0000031D",
+      "text": " Multi-purpose Materials"
+    },
+    {
+      "id": "0x0000031E",
+      "text": " Seasoned Archon Loaf I"
+    },
+    {
+      "id": "0x0000031F",
+      "text": " Emergency Rations"
+    },
+    {
+      "id": "0x00000320",
+      "text": " Yeast Experimentation I"
+    },
+    {
+      "id": "0x00000321",
+      "text": " Fundamental Fermentation"
+    },
+    {
+      "id": "0x00000322",
+      "text": " Aquaculture I"
+    },
+    {
+      "id": "0x00000323",
+      "text": " Multi-purpose Materials Resupply"
+    },
+    {
+      "id": "0x00000324",
+      "text": " Seasoned Archon Loaf II"
+    },
+    {
+      "id": "0x00000325",
+      "text": " Yeast Experimentation II"
+    },
+    {
+      "id": "0x00000326",
+      "text": " High-volume Rations"
+    },
+    {
+      "id": "0x00000327",
+      "text": " Practical Fermentation"
+    },
+    {
+      "id": "0x00000328",
+      "text": " Aquaculture II"
+    },
+    {
+      "id": "0x00000329",
+      "text": " Inorganic Extract Research I"
+    },
+    {
+      "id": "0x0000032A",
+      "text": " Refined Archon Loaf"
+    },
+    {
+      "id": "0x0000032B",
+      "text": " Heat-resistant Materials"
+    },
+    {
+      "id": "0x0000032C",
+      "text": " Low-fat Rations"
+    },
+    {
+      "id": "0x0000032D",
+      "text": " Refined Yeast I"
+    },
+    {
+      "id": "0x0000032E",
+      "text": " Advanced Fermentation"
+    },
+    {
+      "id": "0x0000032F",
+      "text": " Mid-launch Party Preparations"
+    },
+    {
+      "id": "0x00000330",
+      "text": " Endangered Aquaculture I"
+    },
+    {
+      "id": "0x00000331",
+      "text": " Inorganic Extract Research II"
+    },
+    {
+      "id": "0x00000332",
+      "text": "Refined Archon Loaf II"
+    },
+    {
+      "id": "0x00000333",
+      "text": "Heat-resistant Materials Resupply"
+    },
+    {
+      "id": "0x00000334",
+      "text": "Functional Rations"
+    },
+    {
+      "id": "0x00000335",
+      "text": "Refined Yeast II"
+    },
+    {
+      "id": "0x00000336",
+      "text": "Endangered Aquaculture II"
+    },
+    {
+      "id": "0x00000337",
+      "text": "EX: Automated Fermentation"
+    },
+    {
+      "id": "0x00000338",
+      "text": "EX: Phaenna Confectionery"
+    },
+    {
+      "id": "0x00000339",
+      "text": "EX: Inorganic Extract Research III"
+    },
+    {
+      "id": "0x0000033A",
+      "text": "EX+: Stable Dairy Storage"
+    },
+    {
+      "id": "0x0000033B",
+      "text": "EX+: Fermentation Research Results"
+    },
+    {
+      "id": "0x0000033C",
+      "text": "Morale Maintenance I"
+    },
+    {
+      "id": "0x0000033D",
+      "text": "Morale Maintenance II"
+    },
+    {
+      "id": "0x0000033E",
+      "text": "EX: Launch Party Preparations I"
+    },
+    {
+      "id": "0x0000033F",
+      "text": "EX: Launch Party Preparations II"
+    },
+    {
+      "id": "0x00000340",
+      "text": "EX: Launch Party Preparations III"
+    },
+    {
+      "id": "0x00000341",
+      "text": "Omni-nutritious Meals I"
+    },
+    {
+      "id": "0x00000342",
+      "text": "EX: Omni-nutritious Meals II"
+    },
+    {
+      "id": "0x00000343",
+      "text": "EX+: Omni-nutritious Meals III"
+    },
+    {
+      "id": "0x00000344",
+      "text": "EX+: Cosmotized Survey Materials I"
+    },
+    {
+      "id": "0x00000345",
+      "text": "EX+: Cosmotized Survey Materials II"
+    },
+    {
+      "id": "0x00000346",
+      "text": "EX+: Cosmotized Survey Materials III"
+    },
+    {
+      "id": "0x00000347",
+      "text": " Lubricant Procural"
+    },
+    {
+      "id": "0x00000348",
+      "text": " Seasoned Archon Loaf I"
+    },
+    {
+      "id": "0x00000349",
+      "text": " Stable Rations"
+    },
+    {
+      "id": "0x0000034A",
+      "text": " Yeast Experimentation I"
+    },
+    {
+      "id": "0x0000034B",
+      "text": " Fundamental Fermentation"
+    },
+    {
+      "id": "0x0000034C",
+      "text": " Aquaculture I"
+    },
+    {
+      "id": "0x0000034D",
+      "text": " Weatherproof Lubricant"
+    },
+    {
+      "id": "0x0000034E",
+      "text": " Seasoned Archon Loaf II"
+    },
+    {
+      "id": "0x0000034F",
+      "text": " Yeast Experimentation II"
+    },
+    {
+      "id": "0x00000350",
+      "text": " Stable Rations Mass Production"
+    },
+    {
+      "id": "0x00000351",
+      "text": " Practical Fermentation"
+    },
+    {
+      "id": "0x00000352",
+      "text": " Aquaculture II"
+    },
+    {
+      "id": "0x00000353",
+      "text": " Inorganic Extract Research I"
+    },
+    {
+      "id": "0x00000354",
+      "text": " Refined Archon Loaf"
+    },
+    {
+      "id": "0x00000355",
+      "text": " Weatherproof Lubricant Production"
+    },
+    {
+      "id": "0x00000356",
+      "text": " Emergency Survey Station Rations"
+    },
+    {
+      "id": "0x00000357",
+      "text": " Refined Yeast I"
+    },
+    {
+      "id": "0x00000358",
+      "text": " Advanced Fermentation"
+    },
+    {
+      "id": "0x00000359",
+      "text": " Mid-launch Party Preparations"
+    },
+    {
+      "id": "0x0000035A",
+      "text": " Endangered Aquaculture I"
+    },
+    {
+      "id": "0x0000035B",
+      "text": " Inorganic Extract Research II"
+    },
+    {
+      "id": "0x0000035C",
+      "text": "Refined Archon Loaf II"
+    },
+    {
+      "id": "0x0000035D",
+      "text": "Precision Instrument Lubricant"
+    },
+    {
+      "id": "0x0000035E",
+      "text": "Weatherproof Stable Rations"
+    },
+    {
+      "id": "0x0000035F",
+      "text": "Refined Yeast II"
+    },
+    {
+      "id": "0x00000360",
+      "text": "Endangered Aquaculture II"
+    },
+    {
+      "id": "0x00000361",
+      "text": "EX: Automated Fermentation"
+    },
+    {
+      "id": "0x00000362",
+      "text": "EX: Launch Party Sweets"
+    },
+    {
+      "id": "0x00000363",
+      "text": "EX: Coffee Break Support"
+    },
+    {
+      "id": "0x00000364",
+      "text": "EX+: Stable Dairy Storage"
+    },
+    {
+      "id": "0x00000365",
+      "text": "EX+: Fermentation Research Results"
+    },
+    {
+      "id": "0x00000366",
+      "text": "Morale Maintenance I"
+    },
+    {
+      "id": "0x00000367",
+      "text": "Morale Maintenance II"
+    },
+    {
+      "id": "0x00000368",
+      "text": "EX: Launch Party Desserts I"
+    },
+    {
+      "id": "0x00000369",
+      "text": "EX: Launch Party Desserts II"
+    },
+    {
+      "id": "0x0000036A",
+      "text": "EX: Launch Party Desserts III"
+    },
+    {
+      "id": "0x0000036B",
+      "text": "Emergency Rations Development"
+    },
+    {
+      "id": "0x0000036C",
+      "text": "EX: All-nighter Rations Development"
+    },
+    {
+      "id": "0x0000036D",
+      "text": "EX+: Superior Supplement Trays"
+    },
+    {
+      "id": "0x0000036E",
+      "text": "EX+: Ultimate Nutrition I"
+    },
+    {
+      "id": "0x0000036F",
+      "text": "EX+: Ultimate Nutrition II"
+    },
+    {
+      "id": "0x00000370",
+      "text": "EX+: Ultimate Nutrition III"
+    },
+    {
+      "id": "0x00000371",
+      "text": " Base Vicinity Survey"
+    },
+    {
+      "id": "0x00000372",
+      "text": " Mech Route Survey"
+    },
+    {
+      "id": "0x00000373",
+      "text": " Phaenna Resource Survey"
+    },
+    {
+      "id": "0x00000374",
+      "text": " Glassblown Grotto Survey"
+    },
+    {
+      "id": "0x00000375",
+      "text": " Heat-resistant Materials"
+    },
+    {
+      "id": "0x00000376",
+      "text": " Water Purification Materials"
+    },
+    {
+      "id": "0x00000377",
+      "text": " Material Collection Evaluation"
+    },
+    {
+      "id": "0x00000378",
+      "text": " Millefiorite Collection"
+    },
+    {
+      "id": "0x00000379",
+      "text": " Training Implementation"
+    },
+    {
+      "id": "0x0000037A",
+      "text": " Multi-purpose Glass Materials"
+    },
+    {
+      "id": "0x0000037B",
+      "text": "EX+: Rare Material Extraction"
+    },
+    {
+      "id": "0x0000037C",
+      "text": " Iridescent Vitrilith Collection"
+    },
+    {
+      "id": "0x0000037D",
+      "text": " Cosmoliner Conduction Materials"
+    },
+    {
+      "id": "0x0000037E",
+      "text": " Fine-grade Processing Materials"
+    },
+    {
+      "id": "0x0000037F",
+      "text": " Polarized Lens Materials"
+    },
+    {
+      "id": "0x00000380",
+      "text": "EX+: Hyper-refractive Lenses"
+    },
+    {
+      "id": "0x00000381",
+      "text": "Glass Polishing Research"
+    },
+    {
+      "id": "0x00000382",
+      "text": "EX: Energy Panel Materials"
+    },
+    {
+      "id": "0x00000383",
+      "text": "Copper Vitrilith Selection"
+    },
+    {
+      "id": "0x00000384",
+      "text": "Alloy Procurement"
+    },
+    {
+      "id": "0x00000385",
+      "text": "EX: Transmitter Materials"
+    },
+    {
+      "id": "0x00000386",
+      "text": " Soda-lime Float Survey"
+    },
+    {
+      "id": "0x00000387",
+      "text": " Rare Minerals"
+    },
+    {
+      "id": "0x00000388",
+      "text": " Pegmatite Ore Collection"
+    },
+    {
+      "id": "0x00000389",
+      "text": " Lens Development Materials"
+    },
+    {
+      "id": "0x0000038A",
+      "text": "Soda-lime Float Survey"
+    },
+    {
+      "id": "0x0000038B",
+      "text": "Mineral Distribution Survey"
+    },
+    {
+      "id": "0x0000038C",
+      "text": "Glass Refinement Materials"
+    },
+    {
+      "id": "0x0000038D",
+      "text": "EX: Alchemical Refinement Materials"
+    },
+    {
+      "id": "0x0000038E",
+      "text": "Precise Riverbed Survey"
+    },
+    {
+      "id": "0x0000038F",
+      "text": " Masonry Materials"
+    },
+    {
+      "id": "0x00000390",
+      "text": " Sustained Productivity Evaluation"
+    },
+    {
+      "id": "0x00000391",
+      "text": " Geological Materials"
+    },
+    {
+      "id": "0x00000392",
+      "text": "Heat Sink Materials"
+    },
+    {
+      "id": "0x00000393",
+      "text": "EX: Glass-fusing Materials"
+    },
+    {
+      "id": "0x00000394",
+      "text": "EX: Conductive Core Materials"
+    },
+    {
+      "id": "0x00000395",
+      "text": "EX: Capsule Chasm Survey"
+    },
+    {
+      "id": "0x00000396",
+      "text": "EX: Reflective Materials"
+    },
+    {
+      "id": "0x00000397",
+      "text": "EX+: Geothermal Survey"
+    },
+    {
+      "id": "0x00000398",
+      "text": "EX+: Fine-grade Heat-resistant Materials"
+    },
+    {
+      "id": "0x00000399",
+      "text": "EX+: Optical Noise Reduction Research"
+    },
+    {
+      "id": "0x0000039A",
+      "text": "EX+: Resonance Damping Materials"
+    },
+    {
+      "id": "0x0000039B",
+      "text": " Base Vicinity Survey"
+    },
+    {
+      "id": "0x0000039C",
+      "text": " Mech Route Survey"
+    },
+    {
+      "id": "0x0000039D",
+      "text": " Phaenna Resource Survey"
+    },
+    {
+      "id": "0x0000039E",
+      "text": " Millefiori Survey"
+    },
+    {
+      "id": "0x0000039F",
+      "text": " Thermal Insulation Materials"
+    },
+    {
+      "id": "0x000003A0",
+      "text": " Water Purification Materials"
+    },
+    {
+      "id": "0x000003A1",
+      "text": " Material Collection Evaluation"
+    },
+    {
+      "id": "0x000003A2",
+      "text": " Glass Helix Collection"
+    },
+    {
+      "id": "0x000003A3",
+      "text": " Training Implementation"
+    },
+    {
+      "id": "0x000003A4",
+      "text": " Multi-purpose Glass Materials"
+    },
+    {
+      "id": "0x000003A5",
+      "text": "EX+: Rare Material Extraction"
+    },
+    {
+      "id": "0x000003A6",
+      "text": " Microscopic Flora"
+    },
+    {
+      "id": "0x000003A7",
+      "text": " Cosmoliner Conduction Materials"
+    },
+    {
+      "id": "0x000003A8",
+      "text": " Fine-grade Processing Materials"
+    },
+    {
+      "id": "0x000003A9",
+      "text": " Polarized Lens Materials"
+    },
+    {
+      "id": "0x000003AA",
+      "text": "EX+: Ultrathin Lenses"
+    },
+    {
+      "id": "0x000003AB",
+      "text": "Glass Polishing Research"
+    },
+    {
+      "id": "0x000003AC",
+      "text": "EX: Optical Fiber Materials"
+    },
+    {
+      "id": "0x000003AD",
+      "text": "Rare Flora Selection"
+    },
+    {
+      "id": "0x000003AE",
+      "text": "Glass Ingot Materials"
+    },
+    {
+      "id": "0x000003AF",
+      "text": "EX: Transmitter Materials"
+    },
+    {
+      "id": "0x000003B0",
+      "text": " Iridized Rise Vicinity Survey"
+    },
+    {
+      "id": "0x000003B1",
+      "text": " Processing Glass Fiber"
+    },
+    {
+      "id": "0x000003B2",
+      "text": " Faceted Bluegrass"
+    },
+    {
+      "id": "0x000003B3",
+      "text": " Blue Glass Finish"
+    },
+    {
+      "id": "0x000003B4",
+      "text": "Precise Iridized Rise Survey"
+    },
+    {
+      "id": "0x000003B5",
+      "text": "Inorganic Flora Distribution Survey"
+    },
+    {
+      "id": "0x000003B6",
+      "text": "Glass Refinement Materials"
+    },
+    {
+      "id": "0x000003B7",
+      "text": "EX: Alchemical Refinement Materials"
+    },
+    {
+      "id": "0x000003B8",
+      "text": "Precise Terrace Survey"
+    },
+    {
+      "id": "0x000003B9",
+      "text": " Red Glass Dye"
+    },
+    {
+      "id": "0x000003BA",
+      "text": " Sustained Productivity Evaluation"
+    },
+    {
+      "id": "0x000003BB",
+      "text": " Fungi Survey"
+    },
+    {
+      "id": "0x000003BC",
+      "text": "Heat-convergent Glass Research"
+    },
+    {
+      "id": "0x000003BD",
+      "text": "EX: Phaenna Glass"
+    },
+    {
+      "id": "0x000003BE",
+      "text": "EX: Mutated Fungi Survey"
+    },
+    {
+      "id": "0x000003BF",
+      "text": "EX: Capsule Chasm Survey"
+    },
+    {
+      "id": "0x000003C0",
+      "text": "EX: Hyper-aetheroconductivity Research"
+    },
+    {
+      "id": "0x000003C1",
+      "text": "EX+: Geothermal Survey"
+    },
+    {
+      "id": "0x000003C2",
+      "text": "EX+: Fine-grade Heat-resistant Materials"
+    },
+    {
+      "id": "0x000003C3",
+      "text": "EX+: Optical Noise Reduction Research"
+    },
+    {
+      "id": "0x000003C4",
+      "text": "EX+: Resonance Damping Materials"
+    },
+    {
+      "id": "0x000003C5",
+      "text": " Aquatic Foodstuffs"
+    },
+    {
+      "id": "0x000003C6",
+      "text": " Efficient Large Specimen Procurement"
+    },
+    {
+      "id": "0x000003C7",
+      "text": " Opalescent Crossing Specimen Survey"
+    },
+    {
+      "id": "0x000003C8",
+      "text": " Bulk Provision Procurement"
+    },
+    {
+      "id": "0x000003C9",
+      "text": " Opalescent Crossing Distribution Survey"
+    },
+    {
+      "id": "0x000003CA",
+      "text": " Large Mutant Cultivated Specimens"
+    },
+    {
+      "id": "0x000003CB",
+      "text": " Efficient Aquatic Foodstuffs Procurement"
+    },
+    {
+      "id": "0x000003CC",
+      "text": " West Beaconveil Distribution Survey"
+    },
+    {
+      "id": "0x000003CD",
+      "text": " Fish Paste Ingredients"
+    },
+    {
+      "id": "0x000003CE",
+      "text": " Multi-purpose Bait Test"
+    },
+    {
+      "id": "0x000003CF",
+      "text": " Emergency Bulk Provision Procurement"
+    },
+    {
+      "id": "0x000003D0",
+      "text": " Vitrified Freshwater Fish"
+    },
+    {
+      "id": "0x000003D1",
+      "text": " High-silica Environment Observation"
+    },
+    {
+      "id": "0x000003D2",
+      "text": " Upper Soda-lime Float Distribution Survey"
+    },
+    {
+      "id": "0x000003D3",
+      "text": " Central Soda-lime Channel Distribution Survey"
+    },
+    {
+      "id": "0x000003D4",
+      "text": " Arthrolure Field Test"
+    },
+    {
+      "id": "0x000003D5",
+      "text": " River Basin Large Aquatic Resources"
+    },
+    {
+      "id": "0x000003D6",
+      "text": " Saltpeter Shore Sunken Resources"
+    },
+    {
+      "id": "0x000003D7",
+      "text": " Mutant Aquatic Specimen Observations"
+    },
+    {
+      "id": "0x000003D8",
+      "text": " Vitrified Freshwater Fish Observations"
+    },
+    {
+      "id": "0x000003D9",
+      "text": " Saltpeter Shore Large Resources"
+    },
+    {
+      "id": "0x000003DA",
+      "text": "Cultivated Specimen Survey"
+    },
+    {
+      "id": "0x000003DB",
+      "text": "Stardust Bait Test"
+    },
+    {
+      "id": "0x000003DC",
+      "text": "Elemental-esque Aquaculture Specimens"
+    },
+    {
+      "id": "0x000003DD",
+      "text": "Prismatic Pull Distribution Survey"
+    },
+    {
+      "id": "0x000003DE",
+      "text": "Aquatic Glass Resource Distribution Survey"
+    },
+    {
+      "id": "0x000003DF",
+      "text": "EX: Red Cosmomaggot Field Test"
+    },
+    {
+      "id": "0x000003E0",
+      "text": "EX: Large River Resources"
+    },
+    {
+      "id": "0x000003E1",
+      "text": "EX: Capsule Pools Distribution Survey"
+    },
+    {
+      "id": "0x000003E2",
+      "text": "EX+: Large Saltpeter Shore Resources"
+    },
+    {
+      "id": "0x000003E3",
+      "text": "EX+: Stardust Bait Test"
+    },
+    {
+      "id": "0x000003E4",
+      "text": "Precision Lens Development Support"
+    },
+    {
+      "id": "0x000003E5",
+      "text": "Hyper-aetheroconductive Materials"
+    },
+    {
+      "id": "0x000003E6",
+      "text": "EX: Large Aquatic Resources"
+    },
+    {
+      "id": "0x000003E7",
+      "text": "EX: Rare Aquatic Resources"
+    },
+    {
+      "id": "0x000003E8",
+      "text": "EX: Elemental-esque River Specimens"
+    },
+    {
+      "id": "0x000003E9",
+      "text": "Lower Soda-lime Float Distribution Survey"
+    },
+    {
+      "id": "0x000003EA",
+      "text": "EX: Bubble Bursters Distribution Survey"
+    },
+    {
+      "id": "0x000003EB",
+      "text": "EX+: Fusingway Flow Distribution Survey"
+    },
+    {
+      "id": "0x000003EC",
+      "text": "EX+: Elemental-esque Saltpeter Shore Specimens"
+    },
+    {
+      "id": "0x000003ED",
+      "text": "EX+: Elemental-esque Chasm Specimens"
+    },
+    {
+      "id": "0x000003EE",
+      "text": "EX+: Elemental-esque Vent Specimens"
+    },
+    {
+      "id": "0x000003EF",
+      "text": " Wiring Repair Tools"
+    },
+    {
+      "id": "0x000003F0",
+      "text": " Mutated Flora Samples"
+    },
+    {
+      "id": "0x000003F1",
+      "text": " Glass Dust Cleaning Tools"
+    },
+    {
+      "id": "0x000003F2",
+      "text": " Experimental Lightning Rod Materials"
+    },
+    {
+      "id": "0x000003F3",
+      "text": " Vitreobotany Tools"
+    },
+    {
+      "id": "0x000003F4",
+      "text": " Nozzle Parts"
+    },
+    {
+      "id": "0x000003F5",
+      "text": " Upgrade Parts"
+    },
+    {
+      "id": "0x000003F6",
+      "text": " Dust Tanks"
+    },
+    {
+      "id": "0x000003F7",
+      "text": " Rover Plating"
+    },
+    {
+      "id": "0x000003F8",
+      "text": " Precision Components"
+    },
+    {
+      "id": "0x000003F9",
+      "text": " Electroconductive Wire"
+    },
+    {
+      "id": "0x000003FA",
+      "text": " Spare Transport Parts"
+    },
+    {
+      "id": "0x000003FB",
+      "text": " Wiring Repair Gloves"
+    },
+    {
+      "id": "0x000003FC",
+      "text": " Reinforced Lumbering Boots"
+    },
+    {
+      "id": "0x000003FD",
+      "text": " Dust-filtering Masks"
+    },
+    {
+      "id": "0x000003FE",
+      "text": " Repair Cloth"
+    },
+    {
+      "id": "0x000003FF",
+      "text": " Hanging Tool Pouches"
+    },
+    {
+      "id": "0x00000400",
+      "text": " Dust Filters"
+    },
+    {
+      "id": "0x00000401",
+      "text": " Wiring Repair Rubber"
+    },
+    {
+      "id": "0x00000402",
+      "text": " Experimental Storage Batteries"
+    },
+    {
+      "id": "0x00000403",
+      "text": " Surface Protectant"
+    },
+    {
+      "id": "0x00000404",
+      "text": " Hot Soup"
+    },
+    {
+      "id": "0x00000405",
+      "text": " Reconfiguration Lubricant"
+    },
+    {
+      "id": "0x00000406",
+      "text": " Water Quality Inspection Samples"
+    },
+    {
+      "id": "0x00000407",
+      "text": " Lightning Rod Materials"
+    },
+    {
+      "id": "0x00000408",
+      "text": " Rare Glass Resources"
+    },
+    {
+      "id": "0x00000409",
+      "text": " Metallic Materials"
+    },
+    {
+      "id": "0x0000040A",
+      "text": " Supply Route Clearing"
+    },
+    {
+      "id": "0x0000040B",
+      "text": " Glass Flora Samples"
+    },
+    {
+      "id": "0x0000040C",
+      "text": " Mutated Flora"
+    },
+    {
+      "id": "0x0000040D",
+      "text": " Soup Broth Ingredients"
+    },
+    {
+      "id": "0x0000040E",
+      "text": " Oil-extractable Aquatic Life"
+    },
+    {
+      "id": "0x0000040F",
+      "text": " Elemental-esque Specimen Acquisition"
+    },
+    {
+      "id": "0x00000410",
+      "text": " Multi-purpose Fiber"
+    },
+    {
+      "id": "0x00000411",
+      "text": " Resilient Resource Processing I"
+    },
+    {
+      "id": "0x00000412",
+      "text": " Cushioned Packaging Materials"
+    },
+    {
+      "id": "0x00000413",
+      "text": " Stabilizing Materials I"
+    },
+    {
+      "id": "0x00000414",
+      "text": " Additional Multi-purpose Fiber"
+    },
+    {
+      "id": "0x00000415",
+      "text": " Resilient Resource Processing II"
+    },
+    {
+      "id": "0x00000416",
+      "text": " Improved Cushioning Materials I"
+    },
+    {
+      "id": "0x00000417",
+      "text": " Stabilizing Materials II"
+    },
+    {
+      "id": "0x00000418",
+      "text": " Enhanced Fiber"
+    },
+    {
+      "id": "0x00000419",
+      "text": " Resilient Resource Advanced Processing"
+    },
+    {
+      "id": "0x0000041A",
+      "text": " Improved Cushioning Materials II"
+    },
+    {
+      "id": "0x0000041B",
+      "text": " Stabilizing Materials III"
+    },
+    {
+      "id": "0x0000041C",
+      "text": " Resilient Tents"
+    },
+    {
+      "id": "0x0000041D",
+      "text": "Additional Enhanced Fiber"
+    },
+    {
+      "id": "0x0000041E",
+      "text": "Fuel Processing and Storage"
+    },
+    {
+      "id": "0x0000041F",
+      "text": "High-performance Cushioning Materials"
+    },
+    {
+      "id": "0x00000420",
+      "text": "Stabilization Research"
+    },
+    {
+      "id": "0x00000421",
+      "text": "Resilient Resource Specialist Processing"
+    },
+    {
+      "id": "0x00000422",
+      "text": "Secure Tents"
+    },
+    {
+      "id": "0x00000423",
+      "text": "EX: Mass-produced Transportation Materials"
+    },
+    {
+      "id": "0x00000424",
+      "text": "EX: Excavation Necessities"
+    },
+    {
+      "id": "0x00000425",
+      "text": "EX: Excavation Equipment"
+    },
+    {
+      "id": "0x00000426",
+      "text": "EX: Beach Break Supplies"
+    },
+    {
+      "id": "0x00000427",
+      "text": "EX+: Planetary Resource Utilization"
+    },
+    {
+      "id": "0x00000428",
+      "text": "EX+: Organic Material Advanced Processing"
+    },
+    {
+      "id": "0x00000429",
+      "text": "EX+: Renewable Fuel I"
+    },
+    {
+      "id": "0x0000042A",
+      "text": "EX+: Renewable Fuel II"
+    },
+    {
+      "id": "0x0000042B",
+      "text": "EX+: Renewable Fuel III"
+    },
+    {
+      "id": "0x0000042C",
+      "text": " Multi-purpose Alloy Components"
+    },
+    {
+      "id": "0x0000042D",
+      "text": " Oizys-primed Metal Processing I"
+    },
+    {
+      "id": "0x0000042E",
+      "text": " Gravitational Anomaly Gear I"
+    },
+    {
+      "id": "0x0000042F",
+      "text": " Supplementary Excavation Equipment I"
+    },
+    {
+      "id": "0x00000430",
+      "text": " Multi-purpose Alloy Component Resupply"
+    },
+    {
+      "id": "0x00000431",
+      "text": " Oizys-primed Metal Processing II"
+    },
+    {
+      "id": "0x00000432",
+      "text": " Gravitational Anomaly Gear II"
+    },
+    {
+      "id": "0x00000433",
+      "text": " Supplementary Excavation Equipment II"
+    },
+    {
+      "id": "0x00000434",
+      "text": " Enhanced Alloy Components"
+    },
+    {
+      "id": "0x00000435",
+      "text": " Oizys-primed Containers I"
+    },
+    {
+      "id": "0x00000436",
+      "text": " Gravitational Anomaly Gear III"
+    },
+    {
+      "id": "0x00000437",
+      "text": " Advanced Excavation Equipment"
+    },
+    {
+      "id": "0x00000438",
+      "text": " Powersuit Components"
+    },
+    {
+      "id": "0x00000439",
+      "text": "Enhanced Alloy Component Resupply"
+    },
+    {
+      "id": "0x0000043A",
+      "text": "Voyager Civilization Survey"
+    },
+    {
+      "id": "0x0000043B",
+      "text": "Gravitational Anomaly Gear Advanced Processing"
+    },
+    {
+      "id": "0x0000043C",
+      "text": "Oversized Drill Resupply"
+    },
+    {
+      "id": "0x0000043D",
+      "text": "Coastal Installation Material Rust-proofing"
+    },
+    {
+      "id": "0x0000043E",
+      "text": "Oizys-primed Containers II"
+    },
+    {
+      "id": "0x0000043F",
+      "text": "EX: Oddweight Azurite Refining"
+    },
+    {
+      "id": "0x00000440",
+      "text": "EX: Gravity Generator Miniaturization I"
+    },
+    {
+      "id": "0x00000441",
+      "text": "EX: Powersuit Chest Component"
+    },
+    {
+      "id": "0x00000442",
+      "text": "EX: Maintenance Part Advanced Processing"
+    },
+    {
+      "id": "0x00000443",
+      "text": "EX+: Gravity Generator Miniaturization II"
+    },
+    {
+      "id": "0x00000444",
+      "text": "EX+: Voyager Artifact Restoration"
+    },
+    {
+      "id": "0x00000445",
+      "text": "EX+: Voyager Implement Reproduction I"
+    },
+    {
+      "id": "0x00000446",
+      "text": "EX+: Voyager Implement Reproduction II"
+    },
+    {
+      "id": "0x00000447",
+      "text": "EX+: Large Voyager Device Restoration"
+    },
+    {
+      "id": "0x00000448",
+      "text": " Multi-purpose Alloy Components"
+    },
+    {
+      "id": "0x00000449",
+      "text": " Oizys-primed Metal Processing I"
+    },
+    {
+      "id": "0x0000044A",
+      "text": " Gravitational Anomaly Gear I"
+    },
+    {
+      "id": "0x0000044B",
+      "text": " Supplementary Excavation Equipment I"
+    },
+    {
+      "id": "0x0000044C",
+      "text": " Multi-purpose Alloy Component Resupply"
+    },
+    {
+      "id": "0x0000044D",
+      "text": " Oizys-primed Metal Processing II"
+    },
+    {
+      "id": "0x0000044E",
+      "text": " Gravitational Anomaly Gear II"
+    },
+    {
+      "id": "0x0000044F",
+      "text": " Supplementary Excavation Equipment II"
+    },
+    {
+      "id": "0x00000450",
+      "text": " Enhanced Alloy Components"
+    },
+    {
+      "id": "0x00000451",
+      "text": " Oizys-primed Containers I"
+    },
+    {
+      "id": "0x00000452",
+      "text": " Gravitational Anomaly Gear III"
+    },
+    {
+      "id": "0x00000453",
+      "text": " Advanced Excavation Equipment"
+    },
+    {
+      "id": "0x00000454",
+      "text": " Powersuit Components"
+    },
+    {
+      "id": "0x00000455",
+      "text": "Enhanced Alloy Component Resupply"
+    },
+    {
+      "id": "0x00000456",
+      "text": "Voyager Civilization Survey"
+    },
+    {
+      "id": "0x00000457",
+      "text": "Gravitational Anomaly Gear Advanced Processing"
+    },
+    {
+      "id": "0x00000458",
+      "text": "Oversized Drill Resupply"
+    },
+    {
+      "id": "0x00000459",
+      "text": "Coastal Installation Material Rust-proofing"
+    },
+    {
+      "id": "0x0000045A",
+      "text": "Oizys-primed Containers II"
+    },
+    {
+      "id": "0x0000045B",
+      "text": "EX: Oddweight Azurite Refining"
+    },
+    {
+      "id": "0x0000045C",
+      "text": "EX: Gravity Generator Miniaturization I"
+    },
+    {
+      "id": "0x0000045D",
+      "text": "EX: Powersuit Chest Component"
+    },
+    {
+      "id": "0x0000045E",
+      "text": "EX: Maintenance Part Advanced Processing"
+    },
+    {
+      "id": "0x0000045F",
+      "text": "EX+: Gravity Generator Miniaturization II"
+    },
+    {
+      "id": "0x00000460",
+      "text": "EX+: Voyager Artifact Restoration"
+    },
+    {
+      "id": "0x00000461",
+      "text": "EX+: Voyager Implement Reproduction I"
+    },
+    {
+      "id": "0x00000462",
+      "text": "EX+: Voyager Implement Reproduction II"
+    },
+    {
+      "id": "0x00000463",
+      "text": "EX+: Production Precision Processing"
+    },
+    {
+      "id": "0x00000464",
+      "text": " Multi-purpose Alloy Components"
+    },
+    {
+      "id": "0x00000465",
+      "text": " Oizys-primed Metal Processing I"
+    },
+    {
+      "id": "0x00000466",
+      "text": " Gravitational Anomaly Gear I"
+    },
+    {
+      "id": "0x00000467",
+      "text": " Supplementary Excavation Equipment I"
+    },
+    {
+      "id": "0x00000468",
+      "text": " Multi-purpose Alloy Component Resupply"
+    },
+    {
+      "id": "0x00000469",
+      "text": " Oizys-primed Metal Processing II"
+    },
+    {
+      "id": "0x0000046A",
+      "text": " Gravitational Anomaly Gear II"
+    },
+    {
+      "id": "0x0000046B",
+      "text": " Supplementary Excavation Equipment II"
+    },
+    {
+      "id": "0x0000046C",
+      "text": " Enhanced Alloy Components"
+    },
+    {
+      "id": "0x0000046D",
+      "text": " Oizys-primed Containers I"
+    },
+    {
+      "id": "0x0000046E",
+      "text": " Gravitational Anomaly Gear III"
+    },
+    {
+      "id": "0x0000046F",
+      "text": " Advanced Excavation Equipment"
+    },
+    {
+      "id": "0x00000470",
+      "text": " Powersuit Components"
+    },
+    {
+      "id": "0x00000471",
+      "text": "Enhanced Alloy Component Resupply"
+    },
+    {
+      "id": "0x00000472",
+      "text": "Voyager Civilization Survey"
+    },
+    {
+      "id": "0x00000473",
+      "text": "Gravitational Anomaly Gear Advanced Processing"
+    },
+    {
+      "id": "0x00000474",
+      "text": "Oversized Drill Resupply"
+    },
+    {
+      "id": "0x00000475",
+      "text": "Coastal Installation Material Rust-proofing"
+    },
+    {
+      "id": "0x00000476",
+      "text": "Oizys-primed Containers II"
+    },
+    {
+      "id": "0x00000477",
+      "text": "EX: Oddweight Azurite Refining"
+    },
+    {
+      "id": "0x00000478",
+      "text": "EX: Gravity Generator Miniaturization I"
+    },
+    {
+      "id": "0x00000479",
+      "text": "EX: Powersuit Chest Component"
+    },
+    {
+      "id": "0x0000047A",
+      "text": "EX: Maintenance Part Advanced Processing"
+    },
+    {
+      "id": "0x0000047B",
+      "text": "EX+: Gravity Generator Miniaturization II"
+    },
+    {
+      "id": "0x0000047C",
+      "text": "EX+: Voyager Artifact Restoration"
+    },
+    {
+      "id": "0x0000047D",
+      "text": "EX+: Voyager Implement Reproduction I"
+    },
+    {
+      "id": "0x0000047E",
+      "text": "EX+: Voyager Implement Reproduction II"
+    },
+    {
+      "id": "0x0000047F",
+      "text": "EX+: Production Precision Processing"
+    },
+    {
+      "id": "0x00000480",
+      "text": " Multi-purpose Fiber"
+    },
+    {
+      "id": "0x00000481",
+      "text": " Resilient Resource Processing I"
+    },
+    {
+      "id": "0x00000482",
+      "text": " Cushioned Packaging Materials"
+    },
+    {
+      "id": "0x00000483",
+      "text": " Stabilizing Materials I"
+    },
+    {
+      "id": "0x00000484",
+      "text": " Additional Multi-purpose Fiber"
+    },
+    {
+      "id": "0x00000485",
+      "text": " Resilient Resource Processing II"
+    },
+    {
+      "id": "0x00000486",
+      "text": " Improved Cushioning Materials I"
+    },
+    {
+      "id": "0x00000487",
+      "text": " Stabilizing Materials II"
+    },
+    {
+      "id": "0x00000488",
+      "text": " Enhanced Fiber"
+    },
+    {
+      "id": "0x00000489",
+      "text": " Resilient Resource Advanced Processing"
+    },
+    {
+      "id": "0x0000048A",
+      "text": " Improved Cushioning Materials II"
+    },
+    {
+      "id": "0x0000048B",
+      "text": " Stabilizing Materials III"
+    },
+    {
+      "id": "0x0000048C",
+      "text": " Resilient Tents"
+    },
+    {
+      "id": "0x0000048D",
+      "text": "Additional Enhanced Fiber"
+    },
+    {
+      "id": "0x0000048E",
+      "text": "Fuel Processing and Storage"
+    },
+    {
+      "id": "0x0000048F",
+      "text": "High-performance Cushioning Materials"
+    },
+    {
+      "id": "0x00000490",
+      "text": "Stabilization Research"
+    },
+    {
+      "id": "0x00000491",
+      "text": "Resilient Resource Specialist Processing"
+    },
+    {
+      "id": "0x00000492",
+      "text": "Secure Tents"
+    },
+    {
+      "id": "0x00000493",
+      "text": "EX: Mass-produced Transportation Materials"
+    },
+    {
+      "id": "0x00000494",
+      "text": "EX: Excavation Necessities"
+    },
+    {
+      "id": "0x00000495",
+      "text": "EX: Excavation Equipment"
+    },
+    {
+      "id": "0x00000496",
+      "text": "EX: Beach Break Supplies"
+    },
+    {
+      "id": "0x00000497",
+      "text": "EX+: Planetary Resource Utilization"
+    },
+    {
+      "id": "0x00000498",
+      "text": "EX+: Organic Material Advanced Processing"
+    },
+    {
+      "id": "0x00000499",
+      "text": "EX+: Star Admiral's Trouser Fabric I"
+    },
+    {
+      "id": "0x0000049A",
+      "text": "EX+: Star Admiral's Trouser Fabric II"
+    },
+    {
+      "id": "0x0000049B",
+      "text": "EX+: Star Admiral's Trouser Fabric III"
+    },
+    {
+      "id": "0x0000049C",
+      "text": " Multi-purpose Fiber"
+    },
+    {
+      "id": "0x0000049D",
+      "text": " Resilient Resource Processing I"
+    },
+    {
+      "id": "0x0000049E",
+      "text": " Cushioned Packaging Materials"
+    },
+    {
+      "id": "0x0000049F",
+      "text": " Stabilizing Materials I"
+    },
+    {
+      "id": "0x000004A0",
+      "text": " Additional Multi-purpose Fiber"
+    },
+    {
+      "id": "0x000004A1",
+      "text": " Resilient Resource Processing II"
+    },
+    {
+      "id": "0x000004A2",
+      "text": " Improved Cushioning Materials"
+    },
+    {
+      "id": "0x000004A3",
+      "text": " Stabilizing Materials II"
+    },
+    {
+      "id": "0x000004A4",
+      "text": " Enhanced Fiber"
+    },
+    {
+      "id": "0x000004A5",
+      "text": " Resilient Resource Advanced Processing"
+    },
+    {
+      "id": "0x000004A6",
+      "text": " Improved Cushioning Materials II"
+    },
+    {
+      "id": "0x000004A7",
+      "text": " Stabilizing Materials III"
+    },
+    {
+      "id": "0x000004A8",
+      "text": " Resilient Tents"
+    },
+    {
+      "id": "0x000004A9",
+      "text": "Additional Enhanced Fiber"
+    },
+    {
+      "id": "0x000004AA",
+      "text": "Fuel Processing and Storage"
+    },
+    {
+      "id": "0x000004AB",
+      "text": "High-performance Cushioning Materials"
+    },
+    {
+      "id": "0x000004AC",
+      "text": "Stabilization Research"
+    },
+    {
+      "id": "0x000004AD",
+      "text": "Resilient Resource Specialist Processing"
+    },
+    {
+      "id": "0x000004AE",
+      "text": "Secure Tents"
+    },
+    {
+      "id": "0x000004AF",
+      "text": "EX: Mass-produced Transportation Materials"
+    },
+    {
+      "id": "0x000004B0",
+      "text": "EX: Excavation Necessities"
+    },
+    {
+      "id": "0x000004B1",
+      "text": "EX: Excavation Equipment"
+    },
+    {
+      "id": "0x000004B2",
+      "text": "EX: Beach Break Supplies"
+    },
+    {
+      "id": "0x000004B3",
+      "text": "EX+: Planetary Resource Utilization"
+    },
+    {
+      "id": "0x000004B4",
+      "text": "EX+: Organic Material Advanced Processing"
+    },
+    {
+      "id": "0x000004B5",
+      "text": "EX+: Star Admiral's Ornamentation I"
+    },
+    {
+      "id": "0x000004B6",
+      "text": "EX+: Star Admiral's Ornamentation II"
+    },
+    {
+      "id": "0x000004B7",
+      "text": "EX+: Star Admiral's Ornamentation III"
+    },
+    {
+      "id": "0x000004B8",
+      "text": " Emergency Water Supply"
+    },
+    {
+      "id": "0x000004B9",
+      "text": " Survey Ferrofluid"
+    },
+    {
+      "id": "0x000004BA",
+      "text": " Quakeproof Materials"
+    },
+    {
+      "id": "0x000004BB",
+      "text": " Recycled Fuel Research I"
+    },
+    {
+      "id": "0x000004BC",
+      "text": " Water Supply Preservation"
+    },
+    {
+      "id": "0x000004BD",
+      "text": " Precision Instrument Ferrofluid"
+    },
+    {
+      "id": "0x000004BE",
+      "text": " Refined Quakeproof Materials"
+    },
+    {
+      "id": "0x000004BF",
+      "text": " Recycled Fuel Refinement"
+    },
+    {
+      "id": "0x000004C0",
+      "text": " Water Supply Samples"
+    },
+    {
+      "id": "0x000004C1",
+      "text": " Mammet Ferrofluid"
+    },
+    {
+      "id": "0x000004C2",
+      "text": " Windproof Materials"
+    },
+    {
+      "id": "0x000004C3",
+      "text": " Recycled Fuel Research II"
+    },
+    {
+      "id": "0x000004C4",
+      "text": " High-quality Foodstuffs I"
+    },
+    {
+      "id": "0x000004C5",
+      "text": "High-purity Water"
+    },
+    {
+      "id": "0x000004C6",
+      "text": "Advanced Communicator Ferrofluid"
+    },
+    {
+      "id": "0x000004C7",
+      "text": "Ruin Reinforcement Components"
+    },
+    {
+      "id": "0x000004C8",
+      "text": "Recycled Fuel Research III"
+    },
+    {
+      "id": "0x000004C9",
+      "text": "High-quality Foodstuffs II"
+    },
+    {
+      "id": "0x000004CA",
+      "text": "High-quality Foodstuffs III"
+    },
+    {
+      "id": "0x000004CB",
+      "text": "EX: Archon Loaf Improvement Plan"
+    },
+    {
+      "id": "0x000004CC",
+      "text": "EX: Refined Yeast Research"
+    },
+    {
+      "id": "0x000004CD",
+      "text": "EX: Experimental Fermentation"
+    },
+    {
+      "id": "0x000004CE",
+      "text": "EX: Outskirts Supply Improvements"
+    },
+    {
+      "id": "0x000004CF",
+      "text": "EX+: Terminal Restoration Supplies"
+    },
+    {
+      "id": "0x000004D0",
+      "text": "EX+: Excavation Materials"
+    },
+    {
+      "id": "0x000004D1",
+      "text": "EX+: Cosmic Tool Enhancement I"
+    },
+    {
+      "id": "0x000004D2",
+      "text": "EX+: Cosmic Tool Enhancement II"
+    },
+    {
+      "id": "0x000004D3",
+      "text": "EX+: Cosmic Tool Enhancement III"
+    },
+    {
+      "id": "0x000004D4",
+      "text": " Emergency Water Supply"
+    },
+    {
+      "id": "0x000004D5",
+      "text": " Survey Ferrofluid"
+    },
+    {
+      "id": "0x000004D6",
+      "text": " Quakeproof Materials"
+    },
+    {
+      "id": "0x000004D7",
+      "text": " Recycled Fertilizer Research"
+    },
+    {
+      "id": "0x000004D8",
+      "text": " Water Supply Preservation"
+    },
+    {
+      "id": "0x000004D9",
+      "text": " Precision Instrument Ferrofluid"
+    },
+    {
+      "id": "0x000004DA",
+      "text": " Refined Quakeproof Materials"
+    },
+    {
+      "id": "0x000004DB",
+      "text": " Recycled Fuel Refinement"
+    },
+    {
+      "id": "0x000004DC",
+      "text": " Water Supply Samples"
+    },
+    {
+      "id": "0x000004DD",
+      "text": " Mammet Ferrofluid"
+    },
+    {
+      "id": "0x000004DE",
+      "text": " Windproof Materials"
+    },
+    {
+      "id": "0x000004DF",
+      "text": " Recycled Fuel Research I"
+    },
+    {
+      "id": "0x000004E0",
+      "text": " High-quality Foodstuffs I"
+    },
+    {
+      "id": "0x000004E1",
+      "text": "High-purity Water"
+    },
+    {
+      "id": "0x000004E2",
+      "text": "Advanced Communicator Ferrofluid"
+    },
+    {
+      "id": "0x000004E3",
+      "text": "Ruin Reinforcement Components"
+    },
+    {
+      "id": "0x000004E4",
+      "text": "Recycled Fuel Research II"
+    },
+    {
+      "id": "0x000004E5",
+      "text": "High-quality Foodstuffs II"
+    },
+    {
+      "id": "0x000004E6",
+      "text": "High-quality Foodstuffs III"
+    },
+    {
+      "id": "0x000004E7",
+      "text": "EX: Archon Loaf Improvement Plan"
+    },
+    {
+      "id": "0x000004E8",
+      "text": "EX: Refined Yeast Research"
+    },
+    {
+      "id": "0x000004E9",
+      "text": "EX: Experimental Fermentation"
+    },
+    {
+      "id": "0x000004EA",
+      "text": "EX: Outskirts Supply Improvements"
+    },
+    {
+      "id": "0x000004EB",
+      "text": "EX+: Terminal Restoration Supplies"
+    },
+    {
+      "id": "0x000004EC",
+      "text": "EX+: Excavation Materials"
+    },
+    {
+      "id": "0x000004ED",
+      "text": "EX+: Cosmic Tool Refinement I"
+    },
+    {
+      "id": "0x000004EE",
+      "text": "EX+: Cosmic Tool Refinement II"
+    },
+    {
+      "id": "0x000004EF",
+      "text": "EX+: Cosmic Tool Refinement III"
+    },
+    {
+      "id": "0x000004F0",
+      "text": " Base Vicinity Survey"
+    },
+    {
+      "id": "0x000004F1",
+      "text": " Gravity Distribution Survey"
+    },
+    {
+      "id": "0x000004F2",
+      "text": " Fundamental Mineral Procurement"
+    },
+    {
+      "id": "0x000004F3",
+      "text": " Oizys Agate Rush"
+    },
+    {
+      "id": "0x000004F4",
+      "text": " Erg Eris Survey"
+    },
+    {
+      "id": "0x000004F5",
+      "text": " Aetheric Mineral Survey"
+    },
+    {
+      "id": "0x000004F6",
+      "text": " Antigravity Sample Procurement"
+    },
+    {
+      "id": "0x000004F7",
+      "text": " Antigravity Distribution Survey"
+    },
+    {
+      "id": "0x000004F8",
+      "text": " Cape Geras Survey"
+    },
+    {
+      "id": "0x000004F9",
+      "text": " Equipment Repair Essentials"
+    },
+    {
+      "id": "0x000004FA",
+      "text": " Forming Aetheric Waveforms"
+    },
+    {
+      "id": "0x000004FB",
+      "text": " Aetheric Distribution Survey"
+    },
+    {
+      "id": "0x000004FC",
+      "text": " Oizys Mining Analysis"
+    },
+    {
+      "id": "0x000004FD",
+      "text": "Unmoored Anchor Survey"
+    },
+    {
+      "id": "0x000004FE",
+      "text": "Unique Resource Procurement"
+    },
+    {
+      "id": "0x000004FF",
+      "text": "Oizys Alumen Procurement"
+    },
+    {
+      "id": "0x00000500",
+      "text": "Mineral Gravitational Stabilizers"
+    },
+    {
+      "id": "0x00000501",
+      "text": "Multi-purpose Reductions"
+    },
+    {
+      "id": "0x00000502",
+      "text": "Oizys Historical Reductions"
+    },
+    {
+      "id": "0x00000503",
+      "text": "EX: Aether-rich Mineral Survey"
+    },
+    {
+      "id": "0x00000504",
+      "text": "EX: Indicolite Rush"
+    },
+    {
+      "id": "0x00000505",
+      "text": "EX: Bedrock Distribution Survey"
+    },
+    {
+      "id": "0x00000506",
+      "text": "EX: Extreme Mining Analysis"
+    },
+    {
+      "id": "0x00000507",
+      "text": "EX+: Crucial Initiative Reductions"
+    },
+    {
+      "id": "0x00000508",
+      "text": "EX+: Survey of Rare Aetheric Minerals"
+    },
+    {
+      "id": "0x00000509",
+      "text": "EX+: Ruin Excavation Support"
+    },
+    {
+      "id": "0x0000050A",
+      "text": "EX+: Voyager Ecological Research"
+    },
+    {
+      "id": "0x0000050B",
+      "text": "EX+: Voyager Excavation Research"
+    },
+    {
+      "id": "0x0000050C",
+      "text": " Base Vicinity Survey"
+    },
+    {
+      "id": "0x0000050D",
+      "text": " Aetherial Current Survey"
+    },
+    {
+      "id": "0x0000050E",
+      "text": " Fundamental Flora Procurement"
+    },
+    {
+      "id": "0x0000050F",
+      "text": " Regolush Grass Harvest"
+    },
+    {
+      "id": "0x00000510",
+      "text": " Foregone Oasis Survey"
+    },
+    {
+      "id": "0x00000511",
+      "text": " Aquatic Aether Survey"
+    },
+    {
+      "id": "0x00000512",
+      "text": " Voyager Sample Procurement"
+    },
+    {
+      "id": "0x00000513",
+      "text": " Voyager Distribution Survey"
+    },
+    {
+      "id": "0x00000514",
+      "text": " Northwestern Regolift Survey"
+    },
+    {
+      "id": "0x00000515",
+      "text": " Specialized Fiber Survey"
+    },
+    {
+      "id": "0x00000516",
+      "text": " Geometric Flora Procurement"
+    },
+    {
+      "id": "0x00000517",
+      "text": " Geometric Flora Distribution Survey"
+    },
+    {
+      "id": "0x00000518",
+      "text": " Oizys Harvesting Analysis"
+    },
+    {
+      "id": "0x00000519",
+      "text": "Southeastern Regolith Survey"
+    },
+    {
+      "id": "0x0000051A",
+      "text": "Suspended Flora Procurement"
+    },
+    {
+      "id": "0x0000051B",
+      "text": "Crooked Cedar Root Procurement"
+    },
+    {
+      "id": "0x0000051C",
+      "text": "Fibrous Gravitational Stabilizers"
+    },
+    {
+      "id": "0x0000051D",
+      "text": "Multi-purpose Reductions"
+    },
+    {
+      "id": "0x0000051E",
+      "text": "Oizys Historical Reductions"
+    },
+    {
+      "id": "0x0000051F",
+      "text": "EX: Aether-rich Flora Survey"
+    },
+    {
+      "id": "0x00000520",
+      "text": "EX: Terrestrianemone Tentacle Harvest"
+    },
+    {
+      "id": "0x00000521",
+      "text": "EX: Environmental Development Survey"
+    },
+    {
+      "id": "0x00000522",
+      "text": "EX: Extreme Harvesting Analysis"
+    },
+    {
+      "id": "0x00000523",
+      "text": "EX+: Rare Alchemical Reductions"
+    },
+    {
+      "id": "0x00000524",
+      "text": "EX+: Survey of Rare Aetheric Flora"
+    },
+    {
+      "id": "0x00000525",
+      "text": "EX+: Subterranean Ruin Research"
+    },
+    {
+      "id": "0x00000526",
+      "text": "EX+: Subterranean Aetherial Research"
+    },
+    {
+      "id": "0x00000527",
+      "text": "EX+: Ruin Sample Procurement"
+    },
+    {
+      "id": "0x00000528",
+      "text": " Anomaly Impact Aquaculture Survey"
+    },
+    {
+      "id": "0x00000529",
+      "text": " Megalithopolis Specimen Survey"
+    },
+    {
+      "id": "0x0000052A",
+      "text": " Foregone Oasis Environmental Survey"
+    },
+    {
+      "id": "0x0000052B",
+      "text": " Regular Base Resupply"
+    },
+    {
+      "id": "0x0000052C",
+      "text": " Large Aquatic Life-form Distribution Survey"
+    },
+    {
+      "id": "0x0000052D",
+      "text": " Oizys Bait Suitability Testing"
+    },
+    {
+      "id": "0x0000052E",
+      "text": " Large Aquatic Resource Emergency"
+    },
+    {
+      "id": "0x0000052F",
+      "text": " Valuable Plains Specimens"
+    },
+    {
+      "id": "0x00000530",
+      "text": " Magnetic Horizon Environmental Survey"
+    },
+    {
+      "id": "0x00000531",
+      "text": " Freshwater Arthrolure Testing"
+    },
+    {
+      "id": "0x00000532",
+      "text": " Oceanic Impesctor Research"
+    },
+    {
+      "id": "0x00000533",
+      "text": " Valuable Ruin Specimens"
+    },
+    {
+      "id": "0x00000534",
+      "text": " Anomaly Adaptation Aquaculture Survey"
+    },
+    {
+      "id": "0x00000535",
+      "text": "Collapsed Tunnel Specimen Survey"
+    },
+    {
+      "id": "0x00000536",
+      "text": "Red Cosmomaggot Testing"
+    },
+    {
+      "id": "0x00000537",
+      "text": "Edible Marine Life Survey"
+    },
+    {
+      "id": "0x00000538",
+      "text": "Moros Well Environmental Survey"
+    },
+    {
+      "id": "0x00000539",
+      "text": "Valuable Marine Specimens"
+    },
+    {
+      "id": "0x0000053A",
+      "text": "Marine Distribution Survey"
+    },
+    {
+      "id": "0x0000053B",
+      "text": "EX: Large Mutant Distribution Survey"
+    },
+    {
+      "id": "0x0000053C",
+      "text": "EX: Dune Resource Emergency I"
+    },
+    {
+      "id": "0x0000053D",
+      "text": "EX: Desert Burrow Environmental Survey"
+    },
+    {
+      "id": "0x0000053E",
+      "text": "EX: Gravitational Sphere Impact"
+    },
+    {
+      "id": "0x0000053F",
+      "text": "EX+: Dune Resource Emergency II"
+    },
+    {
+      "id": "0x00000540",
+      "text": "EX+: Cosmokrill Testing"
+    },
+    {
+      "id": "0x00000541",
+      "text": "EX+: Voyager Relic Survey I"
+    },
+    {
+      "id": "0x00000542",
+      "text": "EX+: Voyager Relic Survey II"
+    },
+    {
+      "id": "0x00000543",
+      "text": "EX+: Ruin Currents Environmental Survey"
+    },
+    {
+      "id": "0x00000544",
+      "text": " Hydrophytic Flora Biofuel"
+    },
+    {
+      "id": "0x00000545",
+      "text": " Relic Restoration Brushes"
+    },
+    {
+      "id": "0x00000546",
+      "text": " Compact Gravity Generator"
+    },
+    {
+      "id": "0x00000547",
+      "text": " Astrodrill Replacement Bit"
+    },
+    {
+      "id": "0x00000548",
+      "text": " Rover Chain"
+    },
+    {
+      "id": "0x00000549",
+      "text": " Overturned Rover Repair"
+    },
+    {
+      "id": "0x0000054A",
+      "text": " Portable Beacon"
+    },
+    {
+      "id": "0x0000054B",
+      "text": " Wrought Metallic Coral"
+    },
+    {
+      "id": "0x0000054C",
+      "text": " Sturdy Leather Band"
+    },
+    {
+      "id": "0x0000054D",
+      "text": " Mechanic's Gloves"
+    },
+    {
+      "id": "0x0000054E",
+      "text": " Rover Protective Covering"
+    },
+    {
+      "id": "0x0000054F",
+      "text": " Emergency Bandaging"
+    },
+    {
+      "id": "0x00000550",
+      "text": " Ruin Remedy"
+    },
+    {
+      "id": "0x00000551",
+      "text": " Emergency Salves"
+    },
+    {
+      "id": "0x00000552",
+      "text": " Hydrophytic Flora Preservatives"
+    },
+    {
+      "id": "0x00000553",
+      "text": " Emergency Pananoodles"
+    },
+    {
+      "id": "0x00000554",
+      "text": " Gilded Coral Rush"
+    },
+    {
+      "id": "0x00000555",
+      "text": " Long-lost Carrot Mining"
+    },
+    {
+      "id": "0x00000556",
+      "text": " Hydrophytic Flora Harvest"
+    },
+    {
+      "id": "0x00000557",
+      "text": " Medicinal Flora Harvest"
+    },
+    {
+      "id": "0x00000558",
+      "text": " Iron Coral Collection"
+    },
+    {
+      "id": "0x00000559",
+      "text": " Sunken Relic Salvage"
+    },
+    {
+      "id": "0x0000055A",
+      "text": " Multi-purpose Rope"
+    },
+    {
+      "id": "0x0000055B",
+      "text": " Reinforced Construction Materials"
+    },
+    {
+      "id": "0x0000055C",
+      "text": " Ruin Restoration Supplies"
+    },
+    {
+      "id": "0x0000055D",
+      "text": " Transport Supply Samples I"
+    },
+    {
+      "id": "0x0000055E",
+      "text": " Additional Multi-purpose Rope"
+    },
+    {
+      "id": "0x0000055F",
+      "text": " Reinforced Material Research"
+    },
+    {
+      "id": "0x00000560",
+      "text": " Additional Restoration Supplies"
+    },
+    {
+      "id": "0x00000561",
+      "text": " Transport Supply Samples II"
+    },
+    {
+      "id": "0x00000562",
+      "text": " Enhanced Rope"
+    },
+    {
+      "id": "0x00000563",
+      "text": " Reinforced Materials Advanced Processing"
+    },
+    {
+      "id": "0x00000564",
+      "text": " Advanced Restoration Supplies"
+    },
+    {
+      "id": "0x00000565",
+      "text": " Transport Supply Overhaul"
+    },
+    {
+      "id": "0x00000566",
+      "text": " Weatherproof Material Development I"
+    },
+    {
+      "id": "0x00000567",
+      "text": "Additional Enhanced Rope"
+    },
+    {
+      "id": "0x00000568",
+      "text": "Reinforced Construction Material Replication"
+    },
+    {
+      "id": "0x00000569",
+      "text": "Alchemical Compound Development"
+    },
+    {
+      "id": "0x0000056A",
+      "text": "Botanic Supplies"
+    },
+    {
+      "id": "0x0000056B",
+      "text": "Habitation Furniture Renewal"
+    },
+    {
+      "id": "0x0000056C",
+      "text": "Weatherproof Material Development II"
+    },
+    {
+      "id": "0x0000056D",
+      "text": "EX: Resilient Survey Equipment"
+    },
+    {
+      "id": "0x0000056E",
+      "text": "EX: Superior Transport Supplies"
+    },
+    {
+      "id": "0x0000056F",
+      "text": "EX: Auxesian Fuel Development"
+    },
+    {
+      "id": "0x00000570",
+      "text": "EX+: Portable Weatherproof Supplies"
+    },
+    {
+      "id": "0x00000571",
+      "text": "EX+: Purified Biofuel Development"
+    },
+    {
+      "id": "0x00000572",
+      "text": "EX+: Voyager Resource Research"
+    },
+    {
+      "id": "0x00000573",
+      "text": "Master: Heavy Machinery Fuel Refinement"
+    },
+    {
+      "id": "0x00000574",
+      "text": "Master: Potent Alchemical Compound Development"
+    },
+    {
+      "id": "0x00000575",
+      "text": "Master: Renewable Fuel Survey"
+    },
+    {
+      "id": "0x00000576",
+      "text": " Multi-purpose Alloy Ingots"
+    },
+    {
+      "id": "0x00000577",
+      "text": " Aether Resistance Treatment (Bronze)"
+    },
+    {
+      "id": "0x00000578",
+      "text": " Heavy Machinery Components I"
+    },
+    {
+      "id": "0x00000579",
+      "text": " Urban Exploration Provisions"
+    },
+    {
+      "id": "0x0000057A",
+      "text": " Multi-purpose Alloy Ingot Resupply"
+    },
+    {
+      "id": "0x0000057B",
+      "text": " Aether Resistance Treatment (Silver)"
+    },
+    {
+      "id": "0x0000057C",
+      "text": " Heavy Machinery Components II"
+    },
+    {
+      "id": "0x0000057D",
+      "text": " Forestry Implements"
+    },
+    {
+      "id": "0x0000057E",
+      "text": " Improved Alloy Ingots"
+    },
+    {
+      "id": "0x0000057F",
+      "text": " Aether Resistance Treatment (Gold)"
+    },
+    {
+      "id": "0x00000580",
+      "text": " Heavy Machinery Components III"
+    },
+    {
+      "id": "0x00000581",
+      "text": " Additional Forestry Implements"
+    },
+    {
+      "id": "0x00000582",
+      "text": " Additional Exploration Provisions"
+    },
+    {
+      "id": "0x00000583",
+      "text": "Improved Alloy Ingot Resupply"
+    },
+    {
+      "id": "0x00000584",
+      "text": "Aether Resistance Treatment (Platinum)"
+    },
+    {
+      "id": "0x00000585",
+      "text": "Advanced Forestry Equipment"
+    },
+    {
+      "id": "0x00000586",
+      "text": "Forestry Supplies"
+    },
+    {
+      "id": "0x00000587",
+      "text": "Aetheric Gauge Development I"
+    },
+    {
+      "id": "0x00000588",
+      "text": "High-durability Heavy Machinery Parts"
+    },
+    {
+      "id": "0x00000589",
+      "text": "EX: Superior Exploration Materials"
+    },
+    {
+      "id": "0x0000058A",
+      "text": "EX: High-durability Wire"
+    },
+    {
+      "id": "0x0000058B",
+      "text": "EX: Environmental Maintenance Equipment"
+    },
+    {
+      "id": "0x0000058C",
+      "text": "EX+: Voyager Relic Restoration"
+    },
+    {
+      "id": "0x0000058D",
+      "text": "EX+: Aetheric Gauge Development II"
+    },
+    {
+      "id": "0x0000058E",
+      "text": "EX+: Advanced Aetheric Gauge Development"
+    },
+    {
+      "id": "0x0000058F",
+      "text": "Master: Boring Drill Upgrade"
+    },
+    {
+      "id": "0x00000590",
+      "text": "Master: Ruin Restoration Supplies"
+    },
+    {
+      "id": "0x00000591",
+      "text": "Master: Core Mechanism Structure Sample "
+    },
+    {
+      "id": "0x00000592",
+      "text": " Multi-purpose Alloy Ingots"
+    },
+    {
+      "id": "0x00000593",
+      "text": " Aether Resistance Treatment (Bronze)"
+    },
+    {
+      "id": "0x00000594",
+      "text": " Heavy Machinery Components I"
+    },
+    {
+      "id": "0x00000595",
+      "text": " Urban Exploration Provisions"
+    },
+    {
+      "id": "0x00000596",
+      "text": " Multi-purpose Alloy Ingot Resupply"
+    },
+    {
+      "id": "0x00000597",
+      "text": " Aether Resistance Treatment (Silver)"
+    },
+    {
+      "id": "0x00000598",
+      "text": " Heavy Machinery Components II"
+    },
+    {
+      "id": "0x00000599",
+      "text": " Forestry Implements"
+    },
+    {
+      "id": "0x0000059A",
+      "text": " Improved Alloy Ingots"
+    },
+    {
+      "id": "0x0000059B",
+      "text": " Aether Resistance Treatment (Gold)"
+    },
+    {
+      "id": "0x0000059C",
+      "text": " Heavy Machinery Components III"
+    },
+    {
+      "id": "0x0000059D",
+      "text": " Additional Forestry Implements"
+    },
+    {
+      "id": "0x0000059E",
+      "text": " Additional Exploration Provisions"
+    },
+    {
+      "id": "0x0000059F",
+      "text": "Improved Alloy Ingot Resupply"
+    },
+    {
+      "id": "0x000005A0",
+      "text": "Aether Resistance Treatment (Platinum)"
+    },
+    {
+      "id": "0x000005A1",
+      "text": "Advanced Forestry Equipment"
+    },
+    {
+      "id": "0x000005A2",
+      "text": "Forestry Supplies"
+    },
+    {
+      "id": "0x000005A3",
+      "text": "Aetheric Gauge Development I"
+    },
+    {
+      "id": "0x000005A4",
+      "text": "High-durability Heavy Machinery Parts"
+    },
+    {
+      "id": "0x000005A5",
+      "text": "EX: Superior Exploration Materials"
+    },
+    {
+      "id": "0x000005A6",
+      "text": "EX: High-durability Wire"
+    },
+    {
+      "id": "0x000005A7",
+      "text": "EX: Environmental Maintenance Equipment"
+    },
+    {
+      "id": "0x000005A8",
+      "text": "EX+: Voyager Relic Restoration"
+    },
+    {
+      "id": "0x000005A9",
+      "text": "EX+: Aetheric Gauge Development II"
+    },
+    {
+      "id": "0x000005AA",
+      "text": "EX+: Advanced Aetheric Gauge Development"
+    },
+    {
+      "id": "0x000005AB",
+      "text": "Master: Sublimator Diffuser Upgrade"
+    },
+    {
+      "id": "0x000005AC",
+      "text": "Master: Ruin Restoration Supplies"
+    },
+    {
+      "id": "0x000005AD",
+      "text": "Master: Voyager Terminal Reproduction"
+    },
+    {
+      "id": "0x000005AE",
+      "text": " Multi-purpose Alloy Ingots"
+    },
+    {
+      "id": "0x000005AF",
+      "text": " Aether Resistance Treatment (Bronze)"
+    },
+    {
+      "id": "0x000005B0",
+      "text": " Heavy Machinery Components I"
+    },
+    {
+      "id": "0x000005B1",
+      "text": " Urban Exploration Provisions"
+    },
+    {
+      "id": "0x000005B2",
+      "text": " Multi-purpose Alloy Ingot Resupply"
+    },
+    {
+      "id": "0x000005B3",
+      "text": " Aether Resistance Treatment (Silver)"
+    },
+    {
+      "id": "0x000005B4",
+      "text": " Heavy Machinery Components II"
+    },
+    {
+      "id": "0x000005B5",
+      "text": " Forestry Implements"
+    },
+    {
+      "id": "0x000005B6",
+      "text": " Improved Alloy Ingots"
+    },
+    {
+      "id": "0x000005B7",
+      "text": " Aether Resistance Treatment (Gold)"
+    },
+    {
+      "id": "0x000005B8",
+      "text": " Heavy Machinery Components III"
+    },
+    {
+      "id": "0x000005B9",
+      "text": " Additional Forestry Implements"
+    },
+    {
+      "id": "0x000005BA",
+      "text": " Additional Exploration Provisions"
+    },
+    {
+      "id": "0x000005BB",
+      "text": "Improved Alloy Ingot Resupply"
+    },
+    {
+      "id": "0x000005BC",
+      "text": "Aether Resistance Treatment (Platinum)"
+    },
+    {
+      "id": "0x000005BD",
+      "text": "Advanced Forestry Equipment"
+    },
+    {
+      "id": "0x000005BE",
+      "text": "Forestry Supplies"
+    },
+    {
+      "id": "0x000005BF",
+      "text": "Aetheric Gauge Development I"
+    },
+    {
+      "id": "0x000005C0",
+      "text": "High-durability Heavy Machinery Parts"
+    },
+    {
+      "id": "0x000005C1",
+      "text": "EX: Superior Exploration Materials"
+    },
+    {
+      "id": "0x000005C2",
+      "text": "EX: High-durability Wire"
+    },
+    {
+      "id": "0x000005C3",
+      "text": "EX: Environmental Maintenance Equipment"
+    },
+    {
+      "id": "0x000005C4",
+      "text": "EX+: Voyager Relic Restoration"
+    },
+    {
+      "id": "0x000005C5",
+      "text": "EX+: Aetheric Gauge Development II"
+    },
+    {
+      "id": "0x000005C6",
+      "text": "EX+: Advanced Aetheric Gauge Development"
+    },
+    {
+      "id": "0x000005C7",
+      "text": "Master: Welder Upgrade"
+    },
+    {
+      "id": "0x000005C8",
+      "text": "Master: Ruin Restoration Supplies"
+    },
+    {
+      "id": "0x000005C9",
+      "text": "Master: Voyager Terminal Reproduction"
+    },
+    {
+      "id": "0x000005CA",
+      "text": " Multi-purpose Rope"
+    },
+    {
+      "id": "0x000005CB",
+      "text": " Reinforced Construction Materials"
+    },
+    {
+      "id": "0x000005CC",
+      "text": " Ruin Restoration Supplies"
+    },
+    {
+      "id": "0x000005CD",
+      "text": " Transport Supply Samples I"
+    },
+    {
+      "id": "0x000005CE",
+      "text": " Additional Multi-purpose Rope"
+    },
+    {
+      "id": "0x000005CF",
+      "text": " Reinforced Material Research"
+    },
+    {
+      "id": "0x000005D0",
+      "text": " Additional Restoration Supplies"
+    },
+    {
+      "id": "0x000005D1",
+      "text": " Transport Supply Samples II"
+    },
+    {
+      "id": "0x000005D2",
+      "text": " Enhanced Rope"
+    },
+    {
+      "id": "0x000005D3",
+      "text": " Reinforced Materials Advanced Processing"
+    },
+    {
+      "id": "0x000005D4",
+      "text": " Advanced Restoration Supplies"
+    },
+    {
+      "id": "0x000005D5",
+      "text": " Transport Supply Overhaul"
+    },
+    {
+      "id": "0x000005D6",
+      "text": " Weatherproof Material Development I"
+    },
+    {
+      "id": "0x000005D7",
+      "text": "Additional Enhanced Rope"
+    },
+    {
+      "id": "0x000005D8",
+      "text": "Reinforced Construction Material Replication"
+    },
+    {
+      "id": "0x000005D9",
+      "text": "Alchemical Compound Development"
+    },
+    {
+      "id": "0x000005DA",
+      "text": "Botanic Supplies"
+    },
+    {
+      "id": "0x000005DB",
+      "text": "Habitation Furniture Renewal"
+    },
+    {
+      "id": "0x000005DC",
+      "text": "Weatherproof Material Development II"
+    },
+    {
+      "id": "0x000005DD",
+      "text": "EX: Resilient Survey Equipment"
+    },
+    {
+      "id": "0x000005DE",
+      "text": "EX: Superior Transport Supplies"
+    },
+    {
+      "id": "0x000005DF",
+      "text": "EX: Auxesian Fuel Development"
+    },
+    {
+      "id": "0x000005E0",
+      "text": "EX+: Portable Weatherproof Supplies"
+    },
+    {
+      "id": "0x000005E1",
+      "text": "EX+: Cosmic Operator Suits"
+    },
+    {
+      "id": "0x000005E2",
+      "text": "EX+: Voyager Resource Research"
+    },
+    {
+      "id": "0x000005E3",
+      "text": "Master: Improved Cosmic Suits"
+    },
+    {
+      "id": "0x000005E4",
+      "text": "Master: Improved Pilot Suits"
+    },
+    {
+      "id": "0x000005E5",
+      "text": "Master: Fine-grade Powersuits"
+    },
+    {
+      "id": "0x000005E6",
+      "text": " Multi-purpose Rope"
+    },
+    {
+      "id": "0x000005E7",
+      "text": " Reinforced Construction Materials"
+    },
+    {
+      "id": "0x000005E8",
+      "text": " Ruin Restoration Supplies"
+    },
+    {
+      "id": "0x000005E9",
+      "text": " Transport Supply Samples I"
+    },
+    {
+      "id": "0x000005EA",
+      "text": " Additional Multi-purpose Rope"
+    },
+    {
+      "id": "0x000005EB",
+      "text": " Reinforced Material Research"
+    },
+    {
+      "id": "0x000005EC",
+      "text": " Additional Restoration Supplies"
+    },
+    {
+      "id": "0x000005ED",
+      "text": " Transport Supply Samples II"
+    },
+    {
+      "id": "0x000005EE",
+      "text": " Enhanced Rope"
+    },
+    {
+      "id": "0x000005EF",
+      "text": " Reinforced Materials Advanced Processing"
+    },
+    {
+      "id": "0x000005F0",
+      "text": " Advanced Restoration Supplies"
+    },
+    {
+      "id": "0x000005F1",
+      "text": " Transport Supply Overhaul"
+    },
+    {
+      "id": "0x000005F2",
+      "text": " Weatherproof Material Development I"
+    },
+    {
+      "id": "0x000005F3",
+      "text": "Additional Enhanced Rope"
+    },
+    {
+      "id": "0x000005F4",
+      "text": "Reinforced Construction Material Replication"
+    },
+    {
+      "id": "0x000005F5",
+      "text": "Alchemical Compound Development"
+    },
+    {
+      "id": "0x000005F6",
+      "text": "Botanic Supplies"
+    },
+    {
+      "id": "0x000005F7",
+      "text": "Habitation Furniture Renewal"
+    },
+    {
+      "id": "0x000005F8",
+      "text": "Weatherproof Material Development II"
+    },
+    {
+      "id": "0x000005F9",
+      "text": "EX: Resilient Survey Equipment"
+    },
+    {
+      "id": "0x000005FA",
+      "text": "EX: Superior Transport Supplies"
+    },
+    {
+      "id": "0x000005FB",
+      "text": "EX: Auxesian Fuel Development"
+    },
+    {
+      "id": "0x000005FC",
+      "text": "EX+: Portable Weatherproof Supplies"
+    },
+    {
+      "id": "0x000005FD",
+      "text": "EX+: Explorer Suits"
+    },
+    {
+      "id": "0x000005FE",
+      "text": "EX+: Voyager Resource Research"
+    },
+    {
+      "id": "0x000005FF",
+      "text": "Master: Improved Crew Suits"
+    },
+    {
+      "id": "0x00000600",
+      "text": "Master: Improved Captain's Suits"
+    },
+    {
+      "id": "0x00000601",
+      "text": "Master: Star Admiral's Ornamentation"
+    },
+    {
+      "id": "0x00000602",
+      "text": " Mineral Resource Procurement"
+    },
+    {
+      "id": "0x00000603",
+      "text": " Long-life Potables"
+    },
+    {
+      "id": "0x00000604",
+      "text": " Experimental Loporrit Enrichment"
+    },
+    {
+      "id": "0x00000605",
+      "text": " Portable Provisions"
+    },
+    {
+      "id": "0x00000606",
+      "text": " Additional Mineral Resource Procurement"
+    },
+    {
+      "id": "0x00000607",
+      "text": " Additional Long-life Potables"
+    },
+    {
+      "id": "0x00000608",
+      "text": " Further Experimental Loporrit Enrichment"
+    },
+    {
+      "id": "0x00000609",
+      "text": " Additional Portable Provisions"
+    },
+    {
+      "id": "0x0000060A",
+      "text": " Mineral Resource Research"
+    },
+    {
+      "id": "0x0000060B",
+      "text": " Heavy Machinery Water Reserves"
+    },
+    {
+      "id": "0x0000060C",
+      "text": " Enhanced Loporrit Enrichment"
+    },
+    {
+      "id": "0x0000060D",
+      "text": " Advanced Portable Provisions"
+    },
+    {
+      "id": "0x0000060E",
+      "text": " Portable Foodstuff Improvements"
+    },
+    {
+      "id": "0x0000060F",
+      "text": "Mineral Resource Development"
+    },
+    {
+      "id": "0x00000610",
+      "text": "Long-lasting Coolant"
+    },
+    {
+      "id": "0x00000611",
+      "text": "Loporrit Enrichment Research"
+    },
+    {
+      "id": "0x00000612",
+      "text": "Fieldwork Essentials"
+    },
+    {
+      "id": "0x00000613",
+      "text": "Applied Auxesian Flora"
+    },
+    {
+      "id": "0x00000614",
+      "text": "Further Portable Foodstuff Improvements"
+    },
+    {
+      "id": "0x00000615",
+      "text": "EX: Auxesian Extract Applications"
+    },
+    {
+      "id": "0x00000616",
+      "text": "EX: Sustainable Construction Materials"
+    },
+    {
+      "id": "0x00000617",
+      "text": "EX: Launch Party Liquor"
+    },
+    {
+      "id": "0x00000618",
+      "text": "EX+: Periphery Provisions"
+    },
+    {
+      "id": "0x00000619",
+      "text": "EX+: Renewable Resource Development"
+    },
+    {
+      "id": "0x0000061A",
+      "text": "EX+: The Ultimate Yeast"
+    },
+    {
+      "id": "0x0000061B",
+      "text": "Master: Advanced Ruins Formula"
+    },
+    {
+      "id": "0x0000061C",
+      "text": "Master: Advanced Restoration Materials"
+    },
+    {
+      "id": "0x0000061D",
+      "text": "Master: Cosmic Tool Catalyst"
+    },
+    {
+      "id": "0x0000061E",
+      "text": " Mineral Resource Procurement"
+    },
+    {
+      "id": "0x0000061F",
+      "text": " Long-life Potables"
+    },
+    {
+      "id": "0x00000620",
+      "text": " Experimental Loporrit Enrichment"
+    },
+    {
+      "id": "0x00000621",
+      "text": " Portable Provisions"
+    },
+    {
+      "id": "0x00000622",
+      "text": " Additional Mineral Resource Procurement"
+    },
+    {
+      "id": "0x00000623",
+      "text": " Additional Long-life Potables"
+    },
+    {
+      "id": "0x00000624",
+      "text": " Further Experimental Loporrit Enrichment"
+    },
+    {
+      "id": "0x00000625",
+      "text": " Additional Portable Provisions"
+    },
+    {
+      "id": "0x00000626",
+      "text": " Mineral Resource Research"
+    },
+    {
+      "id": "0x00000627",
+      "text": " Husbandry Water Reserves"
+    },
+    {
+      "id": "0x00000628",
+      "text": " Enhanced Loporrit Enrichment"
+    },
+    {
+      "id": "0x00000629",
+      "text": " Advanced Portable Provisions"
+    },
+    {
+      "id": "0x0000062A",
+      "text": " Portable Foodstuff Improvements"
+    },
+    {
+      "id": "0x0000062B",
+      "text": "Mineral Resource Development"
+    },
+    {
+      "id": "0x0000062C",
+      "text": "Long-lasting Coolant"
+    },
+    {
+      "id": "0x0000062D",
+      "text": "Loporrit Enrichment Research"
+    },
+    {
+      "id": "0x0000062E",
+      "text": "Fieldwork Essentials"
+    },
+    {
+      "id": "0x0000062F",
+      "text": "Applied Auxesian Flora"
+    },
+    {
+      "id": "0x00000630",
+      "text": "Further Portable Foodstuff Improvements"
+    },
+    {
+      "id": "0x00000631",
+      "text": "EX: Auxesian Extract Applications"
+    },
+    {
+      "id": "0x00000632",
+      "text": "EX: Sustainable Construction Materials"
+    },
+    {
+      "id": "0x00000633",
+      "text": "EX: Launch Party Liquor"
+    },
+    {
+      "id": "0x00000634",
+      "text": "EX+: Periphery Provisions"
+    },
+    {
+      "id": "0x00000635",
+      "text": "EX+: Renewable Resource Development"
+    },
+    {
+      "id": "0x00000636",
+      "text": "EX+: The Ultimate Yeast"
+    },
+    {
+      "id": "0x00000637",
+      "text": "Master: Cosmic Meals"
+    },
+    {
+      "id": "0x00000638",
+      "text": "Master: Edible Auxesian Flora"
+    },
+    {
+      "id": "0x00000639",
+      "text": "Master: Cosmic Tool Catalyst"
+    },
+    {
+      "id": "0x0000063A",
+      "text": " Base Vicinity Survey"
+    },
+    {
+      "id": "0x0000063B",
+      "text": " Ruins Infrastructure Survey"
+    },
+    {
+      "id": "0x0000063C",
+      "text": " Fundamental Mineral Procurement"
+    },
+    {
+      "id": "0x0000063D",
+      "text": " Treestone Rush"
+    },
+    {
+      "id": "0x0000063E",
+      "text": " New Growth City Survey"
+    },
+    {
+      "id": "0x0000063F",
+      "text": " Aetheric Mineral Survey"
+    },
+    {
+      "id": "0x00000640",
+      "text": " Anomalous Sample Procurement"
+    },
+    {
+      "id": "0x00000641",
+      "text": " Arcane Remnant Distribution Survey"
+    },
+    {
+      "id": "0x00000642",
+      "text": " South Pileus Pergola Survey"
+    },
+    {
+      "id": "0x00000643",
+      "text": " Archaeological Material Survey"
+    },
+    {
+      "id": "0x00000644",
+      "text": " Research Subject Bulk Procurement"
+    },
+    {
+      "id": "0x00000645",
+      "text": " Urban Aethernet Distribution Survey"
+    },
+    {
+      "id": "0x00000646",
+      "text": " Auxesia Mining Analysis"
+    },
+    {
+      "id": "0x00000647",
+      "text": "Northeast Full Bloom Gardens Survey"
+    },
+    {
+      "id": "0x00000648",
+      "text": "Onionroot Ore Procurement"
+    },
+    {
+      "id": "0x00000649",
+      "text": "Tricolored Onionroot Ore Procurement"
+    },
+    {
+      "id": "0x0000064A",
+      "text": "Conductive Ore Procurement"
+    },
+    {
+      "id": "0x0000064B",
+      "text": "Multi-purpose Reductions"
+    },
+    {
+      "id": "0x0000064C",
+      "text": "Precious Metal Reductions"
+    },
+    {
+      "id": "0x0000064D",
+      "text": "EX: Ruins Material Procurement"
+    },
+    {
+      "id": "0x0000064E",
+      "text": "EX: Granny Nickel Mining Analysis"
+    },
+    {
+      "id": "0x0000064F",
+      "text": "EX: Collection of Oizys-strain Samples"
+    },
+    {
+      "id": "0x00000650",
+      "text": "EX+: Aether-rich Mineral Survey"
+    },
+    {
+      "id": "0x00000651",
+      "text": "EX+: Rare Alchemical Material Procurement"
+    },
+    {
+      "id": "0x00000652",
+      "text": "EX+: Aether-rich Sample Extraction"
+    },
+    {
+      "id": "0x00000653",
+      "text": "Master: Auxesia Geological Research"
+    },
+    {
+      "id": "0x00000654",
+      "text": "Master: Auxesia Botanical Research"
+    },
+    {
+      "id": "0x00000655",
+      "text": "Master: Auxesia Ecological Research"
+    },
+    {
+      "id": "0x00000656",
+      "text": " Base Vicinity Survey"
+    },
+    {
+      "id": "0x00000657",
+      "text": " Aetherial Current Survey"
+    },
+    {
+      "id": "0x00000658",
+      "text": " Fundamental Flora Procurement"
+    },
+    {
+      "id": "0x00000659",
+      "text": " New Growth Beech Log "
+    },
+    {
+      "id": "0x0000065A",
+      "text": " New Growth City Survey"
+    },
+    {
+      "id": "0x0000065B",
+      "text": " Aetheric Flora Survey"
+    },
+    {
+      "id": "0x0000065C",
+      "text": " Anomalous Sample Procurement"
+    },
+    {
+      "id": "0x0000065D",
+      "text": " Arcane Remnant Distribution Survey"
+    },
+    {
+      "id": "0x0000065E",
+      "text": " Pileus Pergola Survey"
+    },
+    {
+      "id": "0x0000065F",
+      "text": " Survey of Anomalous Materials"
+    },
+    {
+      "id": "0x00000660",
+      "text": " Research Subject Bulk Procurement"
+    },
+    {
+      "id": "0x00000661",
+      "text": " Urban Aethernet Distribution Survey"
+    },
+    {
+      "id": "0x00000662",
+      "text": " Auxesia Harvesting Analysis"
+    },
+    {
+      "id": "0x00000663",
+      "text": "Highwood Estates Survey"
+    },
+    {
+      "id": "0x00000664",
+      "text": "Copycube Sample Procurement"
+    },
+    {
+      "id": "0x00000665",
+      "text": "Rainbow Copycube Flowers Procurement"
+    },
+    {
+      "id": "0x00000666",
+      "text": "Conductive Fiber Procurement"
+    },
+    {
+      "id": "0x00000667",
+      "text": "Multi-purpose Reductions"
+    },
+    {
+      "id": "0x00000668",
+      "text": "Resource Reductions for Research"
+    },
+    {
+      "id": "0x00000669",
+      "text": "EX: Ruins Material Procurement"
+    },
+    {
+      "id": "0x0000066A",
+      "text": "EX: Dayspring Dew Harvesting Analysis"
+    },
+    {
+      "id": "0x0000066B",
+      "text": "EX: Mineralized Log Collection"
+    },
+    {
+      "id": "0x0000066C",
+      "text": "EX+: Aether-rich Bark Survey"
+    },
+    {
+      "id": "0x0000066D",
+      "text": "EX+: Rare Alchemical Material Procurement"
+    },
+    {
+      "id": "0x0000066E",
+      "text": "EX+: Aether-rich Sample Extraction"
+    },
+    {
+      "id": "0x0000066F",
+      "text": "Master: Auxesia Geological Research"
+    },
+    {
+      "id": "0x00000670",
+      "text": "Master: Auxesia Botanical Research"
+    },
+    {
+      "id": "0x00000671",
+      "text": "Master: Auxesia Ecological Research"
+    },
+    {
+      "id": "0x00000672",
+      "text": " Aquaculture Impact Survey"
+    },
+    {
+      "id": "0x00000673",
+      "text": " Timberpond Specimen Survey"
+    },
+    {
+      "id": "0x00000674",
+      "text": " Timberpond Environmental Survey"
+    },
+    {
+      "id": "0x00000675",
+      "text": " Regular Base Resupply"
+    },
+    {
+      "id": "0x00000676",
+      "text": " Large Aquatic Specimen Distribution Survey"
+    },
+    {
+      "id": "0x00000677",
+      "text": " Auxesia Bait Suitability Testing"
+    },
+    {
+      "id": "0x00000678",
+      "text": " Large Aquatic Specimen Collection"
+    },
+    {
+      "id": "0x00000679",
+      "text": " Valuable Southern-central Specimens"
+    },
+    {
+      "id": "0x0000067A",
+      "text": " Sprouting Towerling Environmental Survey"
+    },
+    {
+      "id": "0x0000067B",
+      "text": " Cosmic Tarantula Testing"
+    },
+    {
+      "id": "0x0000067C",
+      "text": " Botanifish Research"
+    },
+    {
+      "id": "0x0000067D",
+      "text": " Valuable Ruin Specimens"
+    },
+    {
+      "id": "0x0000067E",
+      "text": " Aquatic Flora Distribution Survey"
+    },
+    {
+      "id": "0x0000067F",
+      "text": "Emerald Springs Specimen Survey"
+    },
+    {
+      "id": "0x00000680",
+      "text": "Freshwater Arthrolure Testing"
+    },
+    {
+      "id": "0x00000681",
+      "text": "Aquatic Mechanism Operational Survey"
+    },
+    {
+      "id": "0x00000682",
+      "text": "Emerald Springs Environmental Survey"
+    },
+    {
+      "id": "0x00000683",
+      "text": "Valuable Northern-central Specimens"
+    },
+    {
+      "id": "0x00000684",
+      "text": "Aquatic Mechanism Distribution Survey"
+    },
+    {
+      "id": "0x00000685",
+      "text": "EX: Northern-central Specimen Survey"
+    },
+    {
+      "id": "0x00000686",
+      "text": "EX: Large Aquatic Organism Distribution Survey"
+    },
+    {
+      "id": "0x00000687",
+      "text": "EX: Large Mutant Distribution Survey"
+    },
+    {
+      "id": "0x00000688",
+      "text": "EX+: Full Bloom Fountain Specimen Survey"
+    },
+    {
+      "id": "0x00000689",
+      "text": "EX+: Western Nervure Cultivation Survey"
+    },
+    {
+      "id": "0x0000068A",
+      "text": "EX+: Stratostone Shores Environmental Survey"
+    },
+    {
+      "id": "0x0000068B",
+      "text": "Master: Botanifish Diversity Survey"
+    },
+    {
+      "id": "0x0000068C",
+      "text": "Master: Botanifish Ecosystem Survey"
+    },
+    {
+      "id": "0x0000068D",
+      "text": "Master: Legendary Botanifish Survey"
+    },
+    {
+      "id": "0x0000068E",
+      "text": " Firepower Fuel"
+    },
+    {
+      "id": "0x0000068F",
+      "text": " Wakening Incense"
+    },
+    {
+      "id": "0x00000690",
+      "text": " Plant Incineration Equipment"
+    },
+    {
+      "id": "0x00000691",
+      "text": " Boring Drill Bits"
+    },
+    {
+      "id": "0x00000692",
+      "text": " Machina Repair Plating"
+    },
+    {
+      "id": "0x00000693",
+      "text": " Spore Collection Tanks"
+    },
+    {
+      "id": "0x00000694",
+      "text": " Precision Replacement Parts"
+    },
+    {
+      "id": "0x00000695",
+      "text": " Replacement Drone Circuits"
+    },
+    {
+      "id": "0x00000696",
+      "text": " Flora Extraction Gloves"
+    },
+    {
+      "id": "0x00000697",
+      "text": " Filtered Masks"
+    },
+    {
+      "id": "0x00000698",
+      "text": " Incineration Masks"
+    },
+    {
+      "id": "0x00000699",
+      "text": " Drone Repair Tool Pouch"
+    },
+    {
+      "id": "0x0000069A",
+      "text": " Functional Firelighter"
+    },
+    {
+      "id": "0x0000069B",
+      "text": " Sobering Tonic"
+    },
+    {
+      "id": "0x0000069C",
+      "text": " Water Sample Collection"
+    },
+    {
+      "id": "0x0000069D",
+      "text": " Drill Lubricant"
+    },
+    {
+      "id": "0x0000069E",
+      "text": " Rare Gold Artichoke Ore"
+    },
+    {
+      "id": "0x0000069F",
+      "text": " Machina Repair Plating Materials"
+    },
+    {
+      "id": "0x000006A0",
+      "text": " Flamethrower Alternative"
+    },
+    {
+      "id": "0x000006A1",
+      "text": " Fungi Samples"
+    },
+    {
+      "id": "0x000006A2",
+      "text": " Luminescent Aquatic Flora"
+    },
+    {
+      "id": "0x000006A3",
+      "text": " Incense Materials"
+    }
+  ]
+}

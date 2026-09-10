@@ -1,0 +1,797 @@
+{
+  "source_file": "exd/CabinetSubCategory_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Paladin"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Monk"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Warrior"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Dragoon"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Bard"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Ninja"
+    },
+    {
+      "id": "0x00000007",
+      "text": "White Mage"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Black Mage"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Summoner"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Scholar"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Disciples of the Land and Hand"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Little Ladies' Day - Legacy"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Little Ladies' Day - 2015"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Little Ladies' Day - 2016"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Little Ladies' Day - 2017"
+    },
+    {
+      "id": "0x00000010",
+      "text": "Little Ladies' Day - 2019"
+    },
+    {
+      "id": "0x00000011",
+      "text": "Little Ladies' Day - 2020"
+    },
+    {
+      "id": "0x00000012",
+      "text": "Little Ladies' Day - 2022"
+    },
+    {
+      "id": "0x00000013",
+      "text": "Hatching-tide - Legacy"
+    },
+    {
+      "id": "0x00000014",
+      "text": "Hatching-tide - 2015"
+    },
+    {
+      "id": "0x00000015",
+      "text": "Hatching-tide - 2019"
+    },
+    {
+      "id": "0x00000016",
+      "text": "Hatching-tide - 2020"
+    },
+    {
+      "id": "0x00000017",
+      "text": "Hatching-tide - 2021"
+    },
+    {
+      "id": "0x00000018",
+      "text": "Hatching-tide - 2023"
+    },
+    {
+      "id": "0x00000019",
+      "text": "Make It Rain Campaign - 2024"
+    },
+    {
+      "id": "0x0000001A",
+      "text": "Moonfire Faire - Legacy"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "Moonfire Faire - 2014"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "Moonfire Faire - 2015"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "Moonfire Faire - 2016"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "Moonfire Faire - 2017"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "Moonfire Faire - 2018"
+    },
+    {
+      "id": "0x00000020",
+      "text": "Moonfire Faire - 2019"
+    },
+    {
+      "id": "0x00000021",
+      "text": "Moonfire Faire - 2020"
+    },
+    {
+      "id": "0x00000022",
+      "text": "Moonfire Faire - 2022"
+    },
+    {
+      "id": "0x00000023",
+      "text": "Moonfire Faire - 2023"
+    },
+    {
+      "id": "0x00000024",
+      "text": "All Saints' Wake - Legacy"
+    },
+    {
+      "id": "0x00000025",
+      "text": "All Saints' Wake - 2014"
+    },
+    {
+      "id": "0x00000026",
+      "text": "All Saints' Wake - 2015"
+    },
+    {
+      "id": "0x00000027",
+      "text": "All Saints' Wake - 2016"
+    },
+    {
+      "id": "0x00000028",
+      "text": "All Saints' Wake - 2017"
+    },
+    {
+      "id": "0x00000029",
+      "text": "All Saints' Wake - 2021"
+    },
+    {
+      "id": "0x0000002A",
+      "text": "All Saints' Wake - 2022"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "All Saints' Wake - 2024"
+    },
+    {
+      "id": "0x0000002C",
+      "text": "Heavensturn - Legacy"
+    },
+    {
+      "id": "0x0000002D",
+      "text": "Heavensturn - 2014"
+    },
+    {
+      "id": "0x0000002E",
+      "text": "Heavensturn - 2015"
+    },
+    {
+      "id": "0x0000002F",
+      "text": "Heavensturn - 2016"
+    },
+    {
+      "id": "0x00000030",
+      "text": "Heavensturn - 2017"
+    },
+    {
+      "id": "0x00000031",
+      "text": "Heavensturn - 2018"
+    },
+    {
+      "id": "0x00000032",
+      "text": "Heavensturn - 2019"
+    },
+    {
+      "id": "0x00000033",
+      "text": "Heavensturn - 2020"
+    },
+    {
+      "id": "0x00000034",
+      "text": "Heavensturn - 2021"
+    },
+    {
+      "id": "0x00000035",
+      "text": "Heavensturn - 2022"
+    },
+    {
+      "id": "0x00000036",
+      "text": "Heavensturn - 2023"
+    },
+    {
+      "id": "0x00000037",
+      "text": "Valentione's Day - Legacy"
+    },
+    {
+      "id": "0x00000038",
+      "text": "Valentione's Day - 2014"
+    },
+    {
+      "id": "0x00000039",
+      "text": "Valentione's Day - 2016"
+    },
+    {
+      "id": "0x0000003A",
+      "text": "Valentione's Day - 2019"
+    },
+    {
+      "id": "0x0000003B",
+      "text": "Valentione's Day - 2020"
+    },
+    {
+      "id": "0x0000003C",
+      "text": "Valentione's & Little Ladies' Day - 2021"
+    },
+    {
+      "id": "0x0000003D",
+      "text": "Valentione's Day - 2023"
+    },
+    {
+      "id": "0x0000003E",
+      "text": "Starlight Celebration - Legacy"
+    },
+    {
+      "id": "0x0000003F",
+      "text": "Starlight Celebration - 2014"
+    },
+    {
+      "id": "0x00000040",
+      "text": "Starlight Celebration - 2015"
+    },
+    {
+      "id": "0x00000041",
+      "text": "Starlight Celebration - 2016"
+    },
+    {
+      "id": "0x00000042",
+      "text": "Starlight Celebration - 2018"
+    },
+    {
+      "id": "0x00000043",
+      "text": "Starlight Celebration - 2023"
+    },
+    {
+      "id": "0x00000044",
+      "text": "FINAL FANTASY XI ONLINE - The Maiden's Rhapsody"
+    },
+    {
+      "id": "0x00000045",
+      "text": "FINAL FANTASY XIII - Lightning Strikes"
+    },
+    {
+      "id": "0x00000046",
+      "text": "FINAL FANTASY XV - A Nocturne for Heroes"
+    },
+    {
+      "id": "0x00000047",
+      "text": "FINAL FANTASY XVI - The Path Infernal"
+    },
+    {
+      "id": "0x00000048",
+      "text": "DRAGON QUEST X"
+    },
+    {
+      "id": "0x00000049",
+      "text": "Yo-kai Watch"
+    },
+    {
+      "id": "0x0000004A",
+      "text": "Fall Guys"
+    },
+    {
+      "id": "0x0000004B",
+      "text": "Achievement - Legacy"
+    },
+    {
+      "id": "0x0000004C",
+      "text": "Achievement - Battle"
+    },
+    {
+      "id": "0x0000004D",
+      "text": "Achievement - PvP"
+    },
+    {
+      "id": "0x0000004E",
+      "text": "Achievement - Character"
+    },
+    {
+      "id": "0x0000004F",
+      "text": "Achievement - Items"
+    },
+    {
+      "id": "0x00000050",
+      "text": "Achievement - Crafting & Gathering"
+    },
+    {
+      "id": "0x00000051",
+      "text": "Achievement - Quests"
+    },
+    {
+      "id": "0x00000052",
+      "text": "Achievement - Grand Company"
+    },
+    {
+      "id": "0x00000053",
+      "text": "Bonus Items - Legacy"
+    },
+    {
+      "id": "0x00000054",
+      "text": "Exclusive Extras - A Realm Reborn"
+    },
+    {
+      "id": "0x00000055",
+      "text": "Exclusive Extras - Heavensward"
+    },
+    {
+      "id": "0x00000056",
+      "text": "Exclusive Extras - Stormblood"
+    },
+    {
+      "id": "0x00000057",
+      "text": "Exclusive Extras - Shadowbringers"
+    },
+    {
+      "id": "0x00000058",
+      "text": "Exclusive Extras - Endwalker"
+    },
+    {
+      "id": "0x00000059",
+      "text": "Exclusive Extras - Dawntrail"
+    },
+    {
+      "id": "0x0000005A",
+      "text": "Exclusive Extras - Other"
+    },
+    {
+      "id": "0x0000005B",
+      "text": "Veteran Rewards"
+    },
+    {
+      "id": "0x0000005C",
+      "text": "Veteran Rewards - Achievement Certificates"
+    },
+    {
+      "id": "0x0000005D",
+      "text": "Fan Festival Items"
+    },
+    {
+      "id": "0x0000005E",
+      "text": "Campaign Items"
+    },
+    {
+      "id": "0x0000005F",
+      "text": "Alphinaud & Alisaie"
+    },
+    {
+      "id": "0x00000060",
+      "text": "Minfilia"
+    },
+    {
+      "id": "0x00000061",
+      "text": "Thancred"
+    },
+    {
+      "id": "0x00000062",
+      "text": "Y'shtola"
+    },
+    {
+      "id": "0x00000063",
+      "text": "Urianger"
+    },
+    {
+      "id": "0x00000064",
+      "text": "Papalymo"
+    },
+    {
+      "id": "0x00000065",
+      "text": "Yda & Lyse"
+    },
+    {
+      "id": "0x00000066",
+      "text": "Krile"
+    },
+    {
+      "id": "0x00000067",
+      "text": "Hildibrand"
+    },
+    {
+      "id": "0x00000068",
+      "text": "Edda"
+    },
+    {
+      "id": "0x00000069",
+      "text": "Garlond Ironworks"
+    },
+    {
+      "id": "0x0000006A",
+      "text": "Cid"
+    },
+    {
+      "id": "0x0000006B",
+      "text": "The Heavens' Ward"
+    },
+    {
+      "id": "0x0000006C",
+      "text": "Aymeric"
+    },
+    {
+      "id": "0x0000006D",
+      "text": "Ysayle"
+    },
+    {
+      "id": "0x0000006E",
+      "text": "Hien"
+    },
+    {
+      "id": "0x0000006F",
+      "text": "Gosetsu"
+    },
+    {
+      "id": "0x00000070",
+      "text": "Alma"
+    },
+    {
+      "id": "0x00000071",
+      "text": "Ryne"
+    },
+    {
+      "id": "0x00000072",
+      "text": "Gaia"
+    },
+    {
+      "id": "0x00000073",
+      "text": "Omega"
+    },
+    {
+      "id": "0x00000074",
+      "text": "Legacy Replicas"
+    },
+    {
+      "id": "0x00000075",
+      "text": "Little Ladies' Day - 2025"
+    },
+    {
+      "id": "0x00000076",
+      "text": "Leisurewear"
+    },
+    {
+      "id": "0x00000077",
+      "text": "Belt-leather"
+    },
+    {
+      "id": "0x00000078",
+      "text": "Alternative"
+    },
+    {
+      "id": "0x00000079",
+      "text": "G'raha Tia"
+    },
+    {
+      "id": "0x0000007A",
+      "text": "Zero"
+    },
+    {
+      "id": "0x0000007B",
+      "text": "War of the Visions"
+    },
+    {
+      "id": "0x0000007C",
+      "text": "Moonfire Faire - 2025"
+    },
+    {
+      "id": "0x0000007D",
+      "text": "Azeyma"
+    },
+    {
+      "id": "0x0000007E",
+      "text": "Galatea Magna"
+    },
+    {
+      "id": "0x0000007F",
+      "text": "FINAL FANTASY TACTICS"
+    },
+    {
+      "id": "0x00000080",
+      "text": "FANTASIAN Neo Dimension"
+    },
+    {
+      "id": "0x00000081",
+      "text": "Eastern Inspired"
+    },
+    {
+      "id": "0x00000082",
+      "text": "FINAL FANTASY IX"
+    },
+    {
+      "id": "0x00000083",
+      "text": "Carpenter"
+    },
+    {
+      "id": "0x00000084",
+      "text": "Blacksmith"
+    },
+    {
+      "id": "0x00000085",
+      "text": "Armorer"
+    },
+    {
+      "id": "0x00000086",
+      "text": "Goldsmith"
+    },
+    {
+      "id": "0x00000087",
+      "text": "Leatherworker"
+    },
+    {
+      "id": "0x00000088",
+      "text": "Weaver"
+    },
+    {
+      "id": "0x00000089",
+      "text": "Alchemist"
+    },
+    {
+      "id": "0x0000008A",
+      "text": "Culinarian"
+    },
+    {
+      "id": "0x0000008B",
+      "text": "Miner"
+    },
+    {
+      "id": "0x0000008C",
+      "text": "Botanist"
+    },
+    {
+      "id": "0x0000008D",
+      "text": "Fisher"
+    },
+    {
+      "id": "0x0000008E",
+      "text": "Moogle"
+    },
+    {
+      "id": "0x0000008F",
+      "text": "Carbuncle"
+    },
+    {
+      "id": "0x00000090",
+      "text": "Fat Cat"
+    },
+    {
+      "id": "0x00000091",
+      "text": "Fuga"
+    },
+    {
+      "id": "0x00000092",
+      "text": "Angelic & Demonic"
+    },
+    {
+      "id": "0x00000093",
+      "text": "Exclusive Far Eastern Journey"
+    },
+    {
+      "id": "0x00000094",
+      "text": "Nezha Lord & Lady"
+    },
+    {
+      "id": "0x00000095",
+      "text": "Loyal Butler & Housemaid"
+    },
+    {
+      "id": "0x00000096",
+      "text": "Highborn"
+    },
+    {
+      "id": "0x00000097",
+      "text": "Enforcer & Socialite"
+    },
+    {
+      "id": "0x00000098",
+      "text": "Peacock"
+    },
+    {
+      "id": "0x00000099",
+      "text": "Faerie Tale"
+    },
+    {
+      "id": "0x0000009A",
+      "text": "Traditional"
+    },
+    {
+      "id": "0x0000009B",
+      "text": "School Uniform"
+    },
+    {
+      "id": "0x0000009C",
+      "text": "Resshi"
+    },
+    {
+      "id": "0x0000009D",
+      "text": "Street"
+    },
+    {
+      "id": "0x0000009E",
+      "text": "Magitek"
+    },
+    {
+      "id": "0x0000009F",
+      "text": "Far Eastern Lord & Lady"
+    },
+    {
+      "id": "0x000000A0",
+      "text": "Far Eastern Noble"
+    },
+    {
+      "id": "0x000000A1",
+      "text": "Far Eastern Patriarch & Matriarch"
+    },
+    {
+      "id": "0x000000A2",
+      "text": "Far Eastern Gentleman & Beauty"
+    },
+    {
+      "id": "0x000000A3",
+      "text": "Far Eastern Dignitary & Courtier"
+    },
+    {
+      "id": "0x000000A4",
+      "text": "Far Eastern Officer & Maiden"
+    },
+    {
+      "id": "0x000000A5",
+      "text": "Far Eastern Schoolboy & Schoolgirl"
+    },
+    {
+      "id": "0x000000A6",
+      "text": "Far Eastern Lord & Lady Errant"
+    },
+    {
+      "id": "0x000000A7",
+      "text": "Far Eastern Performer"
+    },
+    {
+      "id": "0x000000A8",
+      "text": "Valentione's Day - 2026"
+    },
+    {
+      "id": "0x000000A9",
+      "text": "Hatching-tide - 2026"
+    },
+    {
+      "id": "0x000000AA",
+      "text": "Little Ladies' Day - 2026"
+    },
+    {
+      "id": "0x000000AB",
+      "text": "Neotunic"
+    },
+    {
+      "id": "0x000000AC",
+      "text": "Sphene"
+    },
+    {
+      "id": "0x000000AD",
+      "text": "Yozakura"
+    },
+    {
+      "id": "0x000000AE",
+      "text": "Machinist"
+    },
+    {
+      "id": "0x000000AF",
+      "text": "Dark Knight"
+    },
+    {
+      "id": "0x000000B0",
+      "text": "Astrologian"
+    },
+    {
+      "id": "0x000000B1",
+      "text": "Samurai"
+    },
+    {
+      "id": "0x000000B2",
+      "text": "Red Mage"
+    },
+    {
+      "id": "0x000000B3",
+      "text": "Blue Mage"
+    },
+    {
+      "id": "0x000000B4",
+      "text": "Gunbreaker"
+    },
+    {
+      "id": "0x000000B5",
+      "text": "Dancer"
+    },
+    {
+      "id": "0x000000B6",
+      "text": "Reaper"
+    },
+    {
+      "id": "0x000000B7",
+      "text": "Sage"
+    },
+    {
+      "id": "0x000000B8",
+      "text": "Viper"
+    },
+    {
+      "id": "0x000000B9",
+      "text": "Pictomancer"
+    },
+    {
+      "id": "0x000000BA",
+      "text": "Beastmaster"
+    },
+    {
+      "id": "0x000000BD",
+      "text": "Ihuykatumu"
+    },
+    {
+      "id": "0x000000BE",
+      "text": "Worqor Zormor"
+    },
+    {
+      "id": "0x000000BF",
+      "text": "The Skydeep Cenote"
+    },
+    {
+      "id": "0x000000C0",
+      "text": "Vanguard"
+    },
+    {
+      "id": "0x000000C1",
+      "text": "Origenics"
+    },
+    {
+      "id": "0x000000C2",
+      "text": "Alexandria"
+    },
+    {
+      "id": "0x000000C3",
+      "text": "Yuweyawata Field Station"
+    },
+    {
+      "id": "0x000000C4",
+      "text": "The Underkeep"
+    },
+    {
+      "id": "0x000000C5",
+      "text": "The Meso Terminal"
+    },
+    {
+      "id": "0x000000C6",
+      "text": "Mistwake"
+    },
+    {
+      "id": "0x000000C7",
+      "text": "The Clyteum"
+    },
+    {
+      "id": "0x000000C8",
+      "text": "FINAL FANTASY VII"
+    }
+  ]
+}

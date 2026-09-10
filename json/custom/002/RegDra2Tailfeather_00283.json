@@ -1,0 +1,77 @@
+{
+  "source_file": "exd/custom/002/RegDra2Tailfeather_00283_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_REGDRA2TAILFEATHER_00283_COLINA_000_000<tab>О, вы путешественник? Позвольте мне одним из первых поприветствовать вас в Хвостомере!"
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_REGDRA2TAILFEATHER_00283_Q1_000_000<tab>Что ты спросишь?"
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_REGDRA2TAILFEATHER_00283_A1_000_001<tab>Что ты здесь делаешь?"
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_REGDRA2TAILFEATHER_00283_A1_000_002<tab>Что это за место?"
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_REGDRA2TAILFEATHER_00283_A1_000_003<tab>Ничего."
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_REGDRA2TAILFEATHER_00283_COLINA_000_010<tab>На что это похоже? Осваиваю охотничье ремесло, как мои родичи! Правда, я ещё ни разу не <var 1A 02 /var>охотился<var 1A 01 /var>, но и без того дел по горло — помогаю всем в лагере."
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_REGDRA2TAILFEATHER_00283_COLINA_000_011<tab>Добываю охотничьи припасы, приглядываю за птицами... Вот и сейчас осматриваю этого только что пойманного чокобо. Другие охотники говорят, что с луком я тоже неплохо управляюсь!"
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_REGDRA2TAILFEATHER_00283_COLINA_000_020<tab>Охотники со всех краёв облюбовали этот лагерь и сделали его своей базой. Одни надеются здесь разбогатеть, другие пришли от безделья. В этом лагере каких только людей не встретишь — скучать тут не приходится!"
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_REGDRA2TAILFEATHER_00283_COLINA_000_021<tab>Этот лес просто кишит дикими чокобо! А поймаешь здоровенного — купцы из Ишгарда отвалят за него целые ведра гилов! Вот ради этого острые ощущения и не дают нам сдаваться перед лицом бандерснэчей и драконов."
+    },
+    {
+      "id": "0x00000009",
+      "text": "TEXT_REGDRA2TAILFEATHER_00283_COLINA_000<tab>"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "TEXT_REGDRA2TAILFEATHER_00283_SCENE00000Q<tab>"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "TEXT_REGDRA2TAILFEATHER_00283_SCENE00000A1<tab>"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "TEXT_REGDRA2TAILFEATHER_00283_SCENE00000A2<tab>"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "TEXT_REGDRA2TAILFEATHER_00283_SCENE00000A3<tab>"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "TEXT_REGDRA2TAILFEATHER_00283_COLINA_010<tab>"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "TEXT_REGDRA2TAILFEATHER_00283_COLINA_011<tab>"
+    },
+    {
+      "id": "0x00000010",
+      "text": "TEXT_REGDRA2TAILFEATHER_00283_COLINA_020<tab>"
+    },
+    {
+      "id": "0x00000011",
+      "text": "TEXT_REGDRA2TAILFEATHER_00283_COLINA_021<tab>"
+    }
+  ]
+}

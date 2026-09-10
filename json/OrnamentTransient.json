@@ -1,0 +1,229 @@
+{
+  "source_file": "exd/OrnamentTransient_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Open a parasol."
+    },
+    {
+      "id": "0x00000002",
+      "text": "Open a sky blue parasol."
+    },
+    {
+      "id": "0x00000003",
+      "text": "Open a vermilion paper parasol."
+    },
+    {
+      "id": "0x00000004",
+      "text": "Open a plum paper parasol."
+    },
+    {
+      "id": "0x00000005",
+      "text": "Open a gold paper parasol."
+    },
+    {
+      "id": "0x00000006",
+      "text": "Open a calming checkered parasol."
+    },
+    {
+      "id": "0x00000007",
+      "text": "Open a cheerful checkered parasol."
+    },
+    {
+      "id": "0x00000008",
+      "text": "Open a classy checkered parasol."
+    },
+    {
+      "id": "0x00000009",
+      "text": "Spread your angel wings."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Open a gold parasaucer."
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Open a pleasant dot parasol."
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Open a prim dot parasol."
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Open a pastoral dot parasol."
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Open a fat cat parasol."
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Open a great paraserpent."
+    },
+    {
+      "id": "0x00000010",
+      "text": "Open a red moon parasol."
+    },
+    {
+      "id": "0x00000011",
+      "text": "Spread angel wings blacker than your heart (or so you will doubtless say)."
+    },
+    {
+      "id": "0x00000012",
+      "text": "Spread your illusory─yet still impressive─golden wings."
+    },
+    {
+      "id": "0x00000013",
+      "text": "Spread your wicked wings, realistic enough to fool any man─though voidsent are another matter."
+    },
+    {
+      "id": "0x00000014",
+      "text": "Spread mischief and mayhem! Also, fae wings."
+    },
+    {
+      "id": "0x00000016",
+      "text": "Don a pair of oval spectacles that do not improve your eyesight in any way."
+    },
+    {
+      "id": "0x00000017",
+      "text": "Open a white lace parasol."
+    },
+    {
+      "id": "0x00000018",
+      "text": "Open a blue blossom parasol."
+    },
+    {
+      "id": "0x00000019",
+      "text": "Don a pair of tinted lenses and try not to bump into anything."
+    },
+    {
+      "id": "0x0000001A",
+      "text": "Don a pair of rectangular glasses for a classic illusion of intelligence."
+    },
+    {
+      "id": "0x0000001B",
+      "text": "Open a sabotender parasol. Inscrutable twirling recommended."
+    },
+    {
+      "id": "0x0000001C",
+      "text": "Spread mischief, mayhem, and your lovely aquamarine fae wings."
+    },
+    {
+      "id": "0x0000001E",
+      "text": "Open a felicitous furball umbrella."
+    },
+    {
+      "id": "0x0000001F",
+      "text": "Engage your raindrop defense system."
+    },
+    {
+      "id": "0x00000020",
+      "text": "Don a pair of rose-colored spectacles and exude incurable optimism."
+    },
+    {
+      "id": "0x00000021",
+      "text": "Open a tsukumogami parasol. Rest assured it's not an actual umbrella ghost...or is it?"
+    },
+    {
+      "id": "0x00000022",
+      "text": "Open a tactful taskmaster umbrella and <var 1A 02 /var>get back to work<var 1A 01 /var>."
+    },
+    {
+      "id": "0x00000023",
+      "text": "Shoulder a knapsack and look the part of a seasoned traveler."
+    },
+    {
+      "id": "0x00000024",
+      "text": "Spread trickery, deceit, and a graceful pair of fae wings."
+    },
+    {
+      "id": "0x00000025",
+      "text": "Open a giant leaf parasol. "
+    },
+    {
+      "id": "0x00000026",
+      "text": "Open a colorful carrotsol."
+    },
+    {
+      "id": "0x00000027",
+      "text": "Open a neon parasol─you'll be positively <var 1A 02 /var>glowing<var 1A 01 /var>."
+    },
+    {
+      "id": "0x00000028",
+      "text": "Open a ribboned parasol."
+    },
+    {
+      "id": "0x00000029",
+      "text": "Open a bomb parasol and make an explosive fashion statement."
+    },
+    {
+      "id": "0x0000002A",
+      "text": "Open a mandragora parasol. "
+    },
+    {
+      "id": "0x0000002B",
+      "text": "Open an Archon egg parasol."
+    },
+    {
+      "id": "0x0000002C",
+      "text": "Shoulder a Pelupack and assume the role of a roving peddler."
+    },
+    {
+      "id": "0x0000002D",
+      "text": "Open a black embroidered parasol."
+    },
+    {
+      "id": "0x0000002E",
+      "text": "Open a white embroidered parasol."
+    },
+    {
+      "id": "0x0000002F",
+      "text": "Open a loparasol."
+    },
+    {
+      "id": "0x00000030",
+      "text": "Hold a torch aloft."
+    },
+    {
+      "id": "0x00000031",
+      "text": "Open a Mizutsune parasol."
+    },
+    {
+      "id": "0x00000032",
+      "text": "Open a pixie parasol."
+    },
+    {
+      "id": "0x00000033",
+      "text": "Open a blue pixie parasol."
+    },
+    {
+      "id": "0x00000034",
+      "text": "Shoulder a Senor Otter pack and become the envy of otter-lovers the realm over."
+    },
+    {
+      "id": "0x00000035",
+      "text": "Open a Corvosi parasol."
+    },
+    {
+      "id": "0x00000036",
+      "text": "Open a spriggan parasol."
+    },
+    {
+      "id": "0x00000037",
+      "text": "Equip an Avalanche Gatling gun and spit in destiny's eye, if you so choose."
+    },
+    {
+      "id": "0x00000038",
+      "text": "Heft a pointy pitchfork."
+    },
+    {
+      "id": "0x00000039",
+      "text": "Heft a sturdy shovel."
+    },
+    {
+      "id": "0x0000003A",
+      "text": "Light an antique lantern."
+    }
+  ]
+}

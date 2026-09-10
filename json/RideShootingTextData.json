@@ -1,0 +1,17 @@
+{
+  "source_file": "exd/RideShootingTextData_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Fire"
+    },
+    {
+      "id": "0x00000064",
+      "text": "Get your trigger finger ready. It's time to earn some bonus points!\nBeware the ruby bombs and shoot as many targets as you can."
+    },
+    {
+      "id": "0x00000065",
+      "text": "That's it for the bonus phase. Just a little further to the end, so keep it up!"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "source_file": "exd/custom/004/RegOth3Reunion_00416_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_REGOTH3REUNION_00416_OZBEG_000_000<tab>..."
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_REGOTH3REUNION_00416_OZBEG_000_001<tab>"
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_REGOTH3REUNION_00416_Q1_000_000<tab>Что ты спросишь?"
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_REGOTH3REUNION_00416_A1_000_001<tab>Что ты здесь делаешь?"
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_REGOTH3REUNION_00416_A1_000_002<tab>Что это за место?"
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_REGOTH3REUNION_00416_A1_000_003<tab>Ничего."
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_REGOTH3REUNION_00416_OZBEG_000_010<tab>..."
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_REGOTH3REUNION_00416_SYSTEM_000_011<tab>Вглядываясь в холодные мёртвые глаза Озбега, вы понимаете, что именно он следит за торговцами, ведущими дела в Реюньоне."
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_REGOTH3REUNION_00416_OZBEG_000_020<tab>..."
+    },
+    {
+      "id": "0x00000009",
+      "text": "TEXT_REGOTH3REUNION_00416_OZBEG_000_021<tab>"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "TEXT_REGOTH3REUNION_00416_OZBEG_000_022<tab>"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "TEXT_REGOTH3REUNION_00416_SYSTEM_000_023<tab>Не шелохнувшись, Озбег продолжает смотреть вдаль. Обернувшись, ты замечаешь, что взгляд его прикован к торговой площади. Похоже, в Воссоединение съезжаются торговцы со всех концов света, чтобы продавать самые разные товары."
+    },
+    {
+      "id": "0x0000000C",
+      "text": "TEXT_REGOTH3REUNION_00416_TALK_ACTOR<tab>"
+    }
+  ]
+}

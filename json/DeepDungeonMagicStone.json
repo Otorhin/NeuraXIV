@@ -1,0 +1,25 @@
+{
+  "source_file": "exd/DeepDungeonMagicStone_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "splinter of Inferno magicite<tab>splinters of Inferno magicite<tab>Inferno Magicite<tab>Creates a simulacrum of Ifrit, Lord of the Inferno, based off the wielder's memories of past encounters with the primal."
+    },
+    {
+      "id": "0x00000002",
+      "text": "splinter of Crag magicite<tab>splinters of Crag magicite<tab>Crag Magicite<tab>Creates a simulacrum of Titan, Lord of Crags, based off the wielder's memories of past encounters with the primal."
+    },
+    {
+      "id": "0x00000003",
+      "text": "splinter of Vortex magicite<tab>splinters of Vortex magicite<tab>Vortex Magicite<tab>Creates a simulacrum of Garuda, Lady of the Vortex, based off the wielder's memories of past encounters with the primal."
+    },
+    {
+      "id": "0x00000004",
+      "text": "splinter of elder magicite<tab>splinters of elder magicite<tab>Elder Magicite<tab>Creates a simulacrum of Odin based off the wielder's memories of past encounters with the elder primal."
+    },
+    {
+      "id": "0x00000005",
+      "text": "piece of poisonfruit incense<tab>pieces of poisonfruit incense<tab>Poisonfruit Incense<tab>Juniper incense burned by the deceased in accordance with First Light funereal practices. Summons the faerie king to sentence all foes to death."
+    }
+  ]
+}

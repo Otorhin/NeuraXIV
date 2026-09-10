@@ -1,0 +1,97 @@
+{
+  "source_file": "exd/custom/007/CtsMjiConstructWorkPlace_00784_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_CTSMJICONSTRUCTWORKPLACE_00784_TALK_ACTOR<tab>0"
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_CTSMJICONSTRUCTWORKPLACE_00784_SYSTEM_000_000<tab>Что ты будешь делать?"
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_CTSMJICONSTRUCTWORKPLACE_00784_Q1_000_001<tab>Постройте сооружение."
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_CTSMJICONSTRUCTWORKPLACE_00784_Q1_000_010<tab>Ничего."
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_CTSMJICONSTRUCTWORKPLACE_00784_SYSTEM_000_100<tab>Мастерская I."
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_CTSMJICONSTRUCTWORKPLACE_00784_SYSTEM_000_101<tab>Мастерская II."
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_CTSMJICONSTRUCTWORKPLACE_00784_SYSTEM_000_102<tab>Мастерская III."
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_CTSMJICONSTRUCTWORKPLACE_00784_SYSTEM_000_103<tab>Мастерская IV."
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_CTSMJICONSTRUCTWORKPLACE_00784_SYSTEM_000_104<tab>Мастерская V."
+    },
+    {
+      "id": "0x00000009",
+      "text": "TEXT_CTSMJICONSTRUCTWORKPLACE_00784_SYSTEM_000_110<tab>Амбар I."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "TEXT_CTSMJICONSTRUCTWORKPLACE_00784_SYSTEM_000_111<tab>Амбар II."
+    },
+    {
+      "id": "0x0000000B",
+      "text": "TEXT_CTSMJICONSTRUCTWORKPLACE_00784_SYSTEM_000_112<tab>Зернохранилище III."
+    },
+    {
+      "id": "0x0000000C",
+      "text": "TEXT_CTSMJICONSTRUCTWORKPLACE_00784_SYSTEM_000_113<tab>Зернохранилище IV."
+    },
+    {
+      "id": "0x0000000D",
+      "text": "TEXT_CTSMJICONSTRUCTWORKPLACE_00784_SYSTEM_000_114<tab>Зернохранилище V."
+    },
+    {
+      "id": "0x0000000E",
+      "text": "TEXT_CTSMJICONSTRUCTWORKPLACE_00784_SYSTEM_000_120<tab>Что ты будешь делать?"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "TEXT_CTSMJICONSTRUCTWORKPLACE_00784_Q2_000_121<tab>Обновить сооружение."
+    },
+    {
+      "id": "0x00000010",
+      "text": "TEXT_CTSMJICONSTRUCTWORKPLACE_00784_Q2_000_122<tab>Изменить внешний вид объекта."
+    },
+    {
+      "id": "0x00000011",
+      "text": "TEXT_CTSMJICONSTRUCTWORKPLACE_00784_Q2_000_123<tab>Переместить объект."
+    },
+    {
+      "id": "0x00000012",
+      "text": "TEXT_CTSMJICONSTRUCTWORKPLACE_00784_Q2_000_124<tab>Ничего."
+    },
+    {
+      "id": "0x00000013",
+      "text": "TEXT_CTSMJICONSTRUCTWORKPLACE_00784_SYSTEM_000_200<tab>Похоже, это бревно с прикреплённой к нему доской. Как занятно."
+    },
+    {
+      "id": "0x00000014",
+      "text": "TEXT_CTSMJICONSTRUCTWORKPLACE_00784_SYSTEM_000_300<tab>Вы можете узнать расчетное время завершения строительства любого объекта, осмотрев информационную доску перед соответствующим участком."
+    },
+    {
+      "id": "0x00000015",
+      "text": "TEXT_CTSMJICONSTRUCTWORKPLACE_00784_SYSTEM_000_305<tab>Вы можете узнать расчетное время завершения строительства любого объекта, осмотрев информационную доску перед соответствующим участком."
+    },
+    {
+      "id": "0x00000016",
+      "text": "TEXT_CTSMJICONSTRUCTWORKPLACE_00784_SYSTEM_100_000<tab>Амбар построен. Поговорите с неугомонным исследователем возле уютной хижины, чтобы отправить экспедицию на сбор припасов."
+    }
+  ]
+}

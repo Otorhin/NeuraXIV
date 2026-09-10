@@ -1,0 +1,33 @@
+{
+  "source_file": "exd/MYCTemporaryItemUICategory_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Offensive<tab>Offensive"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Defensive<tab>Defensive"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Restorative<tab>Restorative"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Beneficial<tab>Beneficial"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Tactical<tab>Tactical"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Detrimental<tab>Detrimental"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Item-related<tab>Item-related"
+    }
+  ]
+}

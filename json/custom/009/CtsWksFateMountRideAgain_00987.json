@@ -1,0 +1,9 @@
+{
+  "source_file": "exd/custom/009/CtsWksFateMountRideAgain_00987_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_CTSWKSFATEMOUNTRIDEAGAIN_00987_TALK_ACTOR<tab>Сесть на «<var 28 ((Mount)) E80201 /var>»?"
+    }
+  ]
+}

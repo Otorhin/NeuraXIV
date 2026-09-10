@@ -1,0 +1,25 @@
+{
+  "source_file": "exd/custom/004/CtsErkEureka1Transpoint_00473_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_CTSERKEUREKA1TRANSPOINT_00473_MENUTITLE<tab>Выберите пункт назначения."
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_CTSERKEUREKA1TRANSPOINT_00473_DESTINATION<tab><var 2D ((<var 31 ((PlaceName)) 03 ((<var 28 ((EurekaAethernet)) E80201 /var>)) 0302 /var>)) /var>."
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_CTSERKEUREKA1TRANSPOINT_00473_MENUCANCEL<tab>Отмена."
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_CTSERKEUREKA1TRANSPOINT_00473_OPEN_000_000<tab>Вы настроились на осколок эфирита и теперь можете пользоваться эфиритовой сетью этого региона."
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_CTSERKEUREKA1TRANSPOINT_00473_OPEN_000_001<tab>Дополнительные осколки эфира можно найти по всей Запретной земле Эврика. Настройтесь на них, чтобы быстрее перемещаться по острову."
+    }
+  ]
+}

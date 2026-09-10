@@ -1,0 +1,25 @@
+{
+  "source_file": "exd/cut_scene/063/VoiceMan_06301_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_VOICEMAN_06301_000005_NOPHICA<tab>Наконец-то пришло время!"
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_VOICEMAN_06301_000010_MENPHINA<tab>"
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_VOICEMAN_06301_000020_MENPHINA<tab>"
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_VOICEMAN_06301_000030_MENPHINA<tab>Приходите искупаться в нежном сиянии луны!"
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_VOICEMAN_06301_000040_MENPHINA<tab>Наши мечты могут стать реальностью. Спасибо."
+    }
+  ]
+}

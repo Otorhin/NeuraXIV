@@ -1,0 +1,49 @@
+{
+  "source_file": "exd/custom/002/CmnDefMiniGame_00200_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_CMNDEFMINIGAME_00200_TALK_ACTOR_000_0005<tab>Выберите мини-игру."
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_CMNDEFMINIGAME_00200_TALK_ACTOR_000_0001<tab>Скольжение I+XIV."
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_CMNDEFMINIGAME_00200_TALK_ACTOR_000_0002<tab>Переговоры."
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_CMNDEFMINIGAME_00200_TALK_ACTOR_000_0006<tab>Концентрация."
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_CMNDEFMINIGAME_00200_TALK_ACTOR_000_0007<tab>Дешёвое подземелье."
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_CMNDEFMINIGAME_00200_TALK_ACTOR_000_0008<tab>Ригги — охотник за яйцами."
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_CMNDEFMINIGAME_00200_TALK_ACTOR_000_0009<tab>Пазл."
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_CMNDEFMINIGAME_00200_TALK_ACTOR_000_0010<tab>Купо-купó: приключение."
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_CMNDEFMINIGAME_00200_TALK_ACTOR_000_0004<tab>Отмена."
+    },
+    {
+      "id": "0x00000009",
+      "text": "TEXT_CMNDEFMINIGAME_00200_TALK_ACTOR_000_0003<tab>Вы пока не открыли ни одной мини-игры."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "TEXT_CMNDEFMINIGAME_00200_TALK_ACTOR<tab>"
+    }
+  ]
+}

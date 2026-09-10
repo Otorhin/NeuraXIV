@@ -1,0 +1,25 @@
+{
+  "source_file": "exd/WorldPhysicalDC_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Japan"
+    },
+    {
+      "id": "0x00000002",
+      "text": "North America"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Europe"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Oceania"
+    },
+    {
+      "id": "0x00000005",
+      "text": "NA Cloud Data Center (Beta)"
+    }
+  ]
+}

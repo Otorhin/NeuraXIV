@@ -1,0 +1,41 @@
+{
+  "source_file": "exd/leve/CraftLeveClient_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_CRAFTLEVECLIENT_ADDITIONAL_TRADE_SELECTION_TITLE<tab>Сдать дополнительные предметы?"
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_CRAFTLEVECLIENT_ADDITIONAL_TRADE_SELECTION_0<tab>Пожалуйста, пришлите английский текст для перевода."
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_CRAFTLEVECLIENT_ADDITIONAL_TRADE_SELECTION_1<tab>Нет, заверши текущий заказ."
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_CRAFTLEVECLIENT_ADDITIONAL_TRADE_SELECTION_2<tab>Решить позже."
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_CRAFTLEVECLIENT_SYSTEM_NO_ITEM<tab>У вас недостаточно предметов."
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_CRAFTLEVECLIENT_CONFIRM_CANCEL_ADDITIONAL_TRADE_TITLE<tab>Завершить текущий заказ без добавления дополнительных предметов?"
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_CRAFTLEVECLIENT_CONFIRM_CANCEL_ADDITIONAL_TRADE_YES<tab>Да"
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_CRAFTLEVECLIENT_CONFIRM_CANCEL_ADDITIONAL_TRADE_NO<tab>Нет"
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_CRAFTLEVECLIENT_TALK_ADD_REWARD<tab>В доставке было <var 08 E4E80202 ((один или несколько высококачественных предметов)) ((<var 08 E802 ((<var 08 E2E8020B ((<var 09 E802 ((один)) ((два)) ((три)) ((четыре)) ((пять)) ((шесть)) ((семь)) ((восемь)) ((девять)) ((десять)) /var>)) ((<var 20 E802 /var>)) /var>)) ((<var 20 E802 /var>)) /var> типов высококачественных предметов)) /var>. Ваша награда увеличена на <var 20 E803 /var>%."
+    }
+  ]
+}

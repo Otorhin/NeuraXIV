@@ -1,0 +1,9 @@
+{
+  "source_file": "exd/custom/003/CmnDefSkyIslandLotteryExchangeShop_00382_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_CMNDEFSKYISLANDLOTTERYEXCHANGESHOP_00382_TALK_ACTOR<tab>Приветствую, <var 08 E905 ((мадам)) ((сэр)) /var>! Я по профессии слесарь и решил обосноваться здесь, когда услышал, что люди приносят с Диадемы запертые сундуки. С радостью применю свои навыки на пользу вам... если, конечно, они вам понадобятся."
+    }
+  ]
+}

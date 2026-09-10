@@ -1,0 +1,21 @@
+{
+  "source_file": "exd/DeepDungeon_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "the Palace of the Dead"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Heaven-on-High"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Eureka Orthos"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Pilgrim's Traverse"
+    }
+  ]
+}

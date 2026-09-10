@@ -1,0 +1,73 @@
+{
+  "source_file": "exd/custom/007/CmnGscTripleTriadLTDTournament_00703_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_CARDTOURNAMENT_000<tab>Добро пожаловать на Карточную площадь — священное поле брани для почитателей Тройной триады со всех уголков Эорзеи. Обратитесь к мастеру Тройной триады в самом сердце этого святилища, и она с радостью посвятит вас в правила игры!"
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_CARDTOURNAMENT_001<tab>Добро пожаловать на Кард-сквер! Если наши обычные турниры кажутся вам немного слишком напряжёнными, то Открытый турнир — как раз то, что вам нужно!"
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_SYSTEM_002<tab>Открытый турнир уже идёт!"
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_SYSTEM_003<tab>Регистрация на открытый турнир завершена.  \nСледующий турнир начнётся через <var 08 E1E80201 ((<var 20 E802 /var> <var 08 E4E80202 ((ч.)) ((ч.)) /var><var 08 E1E80201 ((<var 08 E1E80301 (( и )) (()) /var>)) (()) /var><var 08 E1E80301 ((<var 20 E803 /var> <var 08 E4E80302 ((мин.)) ((мин.)) /var>)) (()) /var>)) ((<var 08 E1E80301 ((<var 20 E803 /var> <var 08 E4E80302 ((мин.)) ((мин.)) /var>)) ((менее 1 минуты)) /var>)) /var>."
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_Q1_000<tab>Записаться на открытый турнир."
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_Q1_001<tab>Просмотреть расписание открытого турнира."
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_Q1_002<tab>Просмотреть пояснения к турнирному режиму."
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_Q1_003<tab>Отмена."
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_SYSTEM_005<tab>За исключением правила «Драфт», в текущем турнире не действуют расширенные правила. Для участия достаточно знать основные правила Тройной триады.\n\nЗаписаться на этот турнир?"
+    },
+    {
+      "id": "0x00000009",
+      "text": "TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_SYSTEM_105<tab>Помимо правила «Драфт», в текущем турнире действуют следующие дополнительные правила:\n・<var 28 ((TripleTriadRule)) E80201 /var>\n<var 08 E1E80301 ((・<var 28 ((TripleTriadRule)) E80301 /var>\n)) (()) /var><var 08 E1E80401 ((・<var 28 ((TripleTriadRule)) E80401 /var>\n)) (()) /var><var 08 E1E80501 ((・<var 28 ((TripleTriadRule)) E80501 /var>)) (()) /var>\nЗаписаться на этот турнир?"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_CARDTOURNAMENT_006<tab>Прошу прощения, <var 08 E905 ((госпожа)) ((сэр)) /var>, но приём заявок на текущий турнир уже завершён. Не будете ли вы так любезны дождаться следующего периода регистрации?.."
+    },
+    {
+      "id": "0x0000000B",
+      "text": "TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_CARDTOURNAMENT_007<tab>Мне ужасно жаль, <var 08 E905 ((мадам)) ((сэр)) /var>, но следующий Открытый турнир начнётся ещё не скоро."
+    },
+    {
+      "id": "0x0000000C",
+      "text": "TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_CARDTOURNAMENT_008<tab>Если захотите вернуться и зарегистрироваться позже, можете в любое время ознакомиться с расписанием!"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_CARDTOURNAMENT_009<tab>Участники турнира получают награды в зависимости от занятого места, так что позвольте посоветовать вам привести вещи в порядок до регистрации. Не хотелось бы, чтобы с таким трудом завоёванный приз оказался раздавлен на дне вашей сумки!"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_SYSTEM_010<tab>Невозможно зарегистрироваться на турнир. Недостаточно места в инвентаре."
+    },
+    {
+      "id": "0x0000000F",
+      "text": "TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_PROG_TEST_000<tab>"
+    },
+    {
+      "id": "0x00000010",
+      "text": "TEXT_CMNGSCTRIPLETRIADLTDTOURNAMENT_00703_PROG_TEST_001<tab>"
+    }
+  ]
+}

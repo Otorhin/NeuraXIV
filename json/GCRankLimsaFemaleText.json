@@ -1,0 +1,81 @@
+{
+  "source_file": "exd/GCRankLimsaFemaleText_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Storm Private Third Class<tab>Storm Privates Third Class<tab>private<tab>"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Storm Private Second Class<tab>Storm Privates Second Class<tab>private<tab>"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Storm Private First Class<tab>Storm Privates First Class<tab>private<tab>"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Storm Corporal<tab>Storm Corporals<tab>corporal<tab>"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Storm Sergeant Third Class<tab>Storm Sergeants Third Class<tab>sergeant<tab>"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Storm Sergeant Second Class<tab>Storm Sergeants Second Class<tab>sergeant<tab>"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Storm Sergeant First Class<tab>Storm Sergeants First Class<tab>sergeant<tab>"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Chief Storm Sergeant<tab>Chief Storm Sergeants<tab>sergeant<tab>"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Second Storm Lieutenant<tab>Second Storm Lieutenants<tab>lieutenant<tab>"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "First Storm Lieutenant<tab>First Storm Lieutenants<tab>lieutenant<tab>"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Storm Captain<tab>Storm Captains<tab>captain<tab>"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Second Storm Commander<tab>Second Storm Commanders<tab>commander<tab>"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "First Storm Commander<tab>First Storm Commanders<tab>commander<tab>"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "High Storm Commander<tab>High Storm Commanders<tab>commander<tab>"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Rear Storm Marshal<tab>Rear Storm Marshals<tab>rear marshal<tab>"
+    },
+    {
+      "id": "0x00000010",
+      "text": "Vice Storm Marshal<tab>Vice Storm Marshals<tab>vice marshal<tab>"
+    },
+    {
+      "id": "0x00000011",
+      "text": "Storm Marshal<tab>Storm Marshals<tab>marshal<tab>"
+    },
+    {
+      "id": "0x00000012",
+      "text": "Grand Storm Marshal<tab>Grand Storm Marshals<tab>grand marshal<tab>"
+    },
+    {
+      "id": "0x00000013",
+      "text": "Storm Champion<tab>Storm Champions<tab>champion<tab>"
+    }
+  ]
+}

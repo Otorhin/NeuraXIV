@@ -1,0 +1,17 @@
+{
+  "source_file": "exd/EmoteCategory_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "General"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Special"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Expressions"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "source_file": "exd/LotteryExchangeShop_3407872_en.exd",
+  "rows": [
+    {
+      "id": "0x00340002",
+      "text": "Open Lockbox<tab>"
+    },
+    {
+      "id": "0x00340003",
+      "text": "<tab>LotteryExchangeShopEurekaLockPicker"
+    },
+    {
+      "id": "0x00340004",
+      "text": "<tab>LotteryExchangeShopEureka1Crystal"
+    },
+    {
+      "id": "0x00340005",
+      "text": "<tab>LotteryExchangeShopEureka3Shard"
+    },
+    {
+      "id": "0x00340006",
+      "text": "<tab>LotteryExchangeShopMycTemporaryItem"
+    },
+    {
+      "id": "0x00340007",
+      "text": "<tab>LotteryExchangeShopMycLockPicker"
+    },
+    {
+      "id": "0x00340008",
+      "text": "<tab>LotteryExchangeShopMycTemporaryItem"
+    },
+    {
+      "id": "0x00340009",
+      "text": "<tab>LotteryExchangeShopDeepDungeon1TemporaryItem"
+    },
+    {
+      "id": "0x0034000A",
+      "text": "<tab>LotteryExchangeShopDeepDungeon2TemporaryItem"
+    },
+    {
+      "id": "0x0034000B",
+      "text": "<tab>LotteryExchangeShopDeepDungeon3TemporaryItem"
+    },
+    {
+      "id": "0x0034000C",
+      "text": "<tab>LotteryExchangeShopDeepDungeon4TemporaryItem"
+    },
+    {
+      "id": "0x0034000D",
+      "text": "<tab>LotteryExchangeShopWksTreasure"
+    }
+  ]
+}

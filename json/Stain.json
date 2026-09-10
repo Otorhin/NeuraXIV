@@ -1,0 +1,509 @@
+{
+  "source_file": "exd/Stain_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "No Color<tab>No Color"
+    },
+    {
+      "id": "0x00000001",
+      "text": "Snow White<tab>Snow White"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Ash Grey<tab>Ash Grey"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Goobbue Grey<tab>Goobbue Grey"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Slate Grey<tab>Slate Grey"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Charcoal Grey<tab>Charcoal Grey"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Soot Black<tab>Soot Black"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Rose Pink<tab>Rose Pink"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Lilac Purple<tab>Lilac Purple"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Rolanberry Red<tab>Rolanberry Red"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Dalamud Red<tab>Dalamud Red"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Rust Red<tab>Rust Red"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Wine Red<tab>Wine Red"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Coral Pink<tab>Coral Pink"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Blood Red<tab>Blood Red"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Salmon Pink<tab>Salmon Pink"
+    },
+    {
+      "id": "0x00000010",
+      "text": "Sunset Orange<tab>Sunset Orange"
+    },
+    {
+      "id": "0x00000011",
+      "text": "Mesa Red<tab>Mesa Red"
+    },
+    {
+      "id": "0x00000012",
+      "text": "Bark Brown<tab>Bark Brown"
+    },
+    {
+      "id": "0x00000013",
+      "text": "Chocolate Brown<tab>Chocolate Brown"
+    },
+    {
+      "id": "0x00000014",
+      "text": "Russet Brown<tab>Russet Brown"
+    },
+    {
+      "id": "0x00000015",
+      "text": "Kobold Brown<tab>Kobold Brown"
+    },
+    {
+      "id": "0x00000016",
+      "text": "Cork Brown<tab>Cork Brown"
+    },
+    {
+      "id": "0x00000017",
+      "text": "Qiqirn Brown<tab>Qiqirn Brown"
+    },
+    {
+      "id": "0x00000018",
+      "text": "Opo-opo Brown<tab>Opo-opo Brown"
+    },
+    {
+      "id": "0x00000019",
+      "text": "Aldgoat Brown<tab>Aldgoat Brown"
+    },
+    {
+      "id": "0x0000001A",
+      "text": "Pumpkin Orange<tab>Pumpkin Orange"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "Acorn Brown<tab>Acorn Brown"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "Orchard Brown<tab>Orchard Brown"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "Chestnut Brown<tab>Chestnut Brown"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "Gobbiebag Brown<tab>Gobbiebag Brown"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "Shale Brown<tab>Shale Brown"
+    },
+    {
+      "id": "0x00000020",
+      "text": "Mole Brown<tab>Mole Brown"
+    },
+    {
+      "id": "0x00000021",
+      "text": "Loam Brown<tab>Loam Brown"
+    },
+    {
+      "id": "0x00000022",
+      "text": "Bone White<tab>Bone White"
+    },
+    {
+      "id": "0x00000023",
+      "text": "Ul Brown<tab>Ul Brown"
+    },
+    {
+      "id": "0x00000024",
+      "text": "Desert Yellow<tab>Desert Yellow"
+    },
+    {
+      "id": "0x00000025",
+      "text": "Honey Yellow<tab>Honey Yellow"
+    },
+    {
+      "id": "0x00000026",
+      "text": "Millioncorn Yellow<tab>Millioncorn Yellow"
+    },
+    {
+      "id": "0x00000027",
+      "text": "Coeurl Yellow<tab>Coeurl Yellow"
+    },
+    {
+      "id": "0x00000028",
+      "text": "Cream Yellow<tab>Cream Yellow"
+    },
+    {
+      "id": "0x00000029",
+      "text": "Halatali Yellow<tab>Halatali Yellow"
+    },
+    {
+      "id": "0x0000002A",
+      "text": "Raisin Brown<tab>Raisin Brown"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "Mud Green<tab>Mud Green"
+    },
+    {
+      "id": "0x0000002C",
+      "text": "Sylph Green<tab>Sylph Green"
+    },
+    {
+      "id": "0x0000002D",
+      "text": "Lime Green<tab>Lime Green"
+    },
+    {
+      "id": "0x0000002E",
+      "text": "Moss Green<tab>Moss Green"
+    },
+    {
+      "id": "0x0000002F",
+      "text": "Meadow Green<tab>Meadow Green"
+    },
+    {
+      "id": "0x00000030",
+      "text": "Olive Green<tab>Olive Green"
+    },
+    {
+      "id": "0x00000031",
+      "text": "Marsh Green<tab>Marsh Green"
+    },
+    {
+      "id": "0x00000032",
+      "text": "Apple Green<tab>Apple Green"
+    },
+    {
+      "id": "0x00000033",
+      "text": "Cactuar Green<tab>Cactuar Green"
+    },
+    {
+      "id": "0x00000034",
+      "text": "Hunter Green<tab>Hunter Green"
+    },
+    {
+      "id": "0x00000035",
+      "text": "Ochu Green<tab>Ochu Green"
+    },
+    {
+      "id": "0x00000036",
+      "text": "Adamantoise Green<tab>Adamantoise Green"
+    },
+    {
+      "id": "0x00000037",
+      "text": "Nophica Green<tab>Nophica Green"
+    },
+    {
+      "id": "0x00000038",
+      "text": "Deepwood Green<tab>Deepwood Green"
+    },
+    {
+      "id": "0x00000039",
+      "text": "Celeste Green<tab>Celeste Green"
+    },
+    {
+      "id": "0x0000003A",
+      "text": "Turquoise Green<tab>Turquoise Green"
+    },
+    {
+      "id": "0x0000003B",
+      "text": "Morbol Green<tab>Morbol Green"
+    },
+    {
+      "id": "0x0000003C",
+      "text": "Ice Blue<tab>Ice Blue"
+    },
+    {
+      "id": "0x0000003D",
+      "text": "Sky Blue<tab>Sky Blue"
+    },
+    {
+      "id": "0x0000003E",
+      "text": "Seafog Blue<tab>Seafog Blue"
+    },
+    {
+      "id": "0x0000003F",
+      "text": "Peacock Blue<tab>Peacock Blue"
+    },
+    {
+      "id": "0x00000040",
+      "text": "Rhotano Blue<tab>Rhotano Blue"
+    },
+    {
+      "id": "0x00000041",
+      "text": "Corpse Blue<tab>Corpse Blue"
+    },
+    {
+      "id": "0x00000042",
+      "text": "Ceruleum Blue<tab>Ceruleum Blue"
+    },
+    {
+      "id": "0x00000043",
+      "text": "Woad Blue<tab>Woad Blue"
+    },
+    {
+      "id": "0x00000044",
+      "text": "Ink Blue<tab>Ink Blue"
+    },
+    {
+      "id": "0x00000045",
+      "text": "Raptor Blue<tab>Raptor Blue"
+    },
+    {
+      "id": "0x00000046",
+      "text": "Othard Blue<tab>Othard Blue"
+    },
+    {
+      "id": "0x00000047",
+      "text": "Storm Blue<tab>Storm Blue"
+    },
+    {
+      "id": "0x00000048",
+      "text": "Void Blue<tab>Void Blue"
+    },
+    {
+      "id": "0x00000049",
+      "text": "Royal Blue<tab>Royal Blue"
+    },
+    {
+      "id": "0x0000004A",
+      "text": "Midnight Blue<tab>Midnight Blue"
+    },
+    {
+      "id": "0x0000004B",
+      "text": "Shadow Blue<tab>Shadow Blue"
+    },
+    {
+      "id": "0x0000004C",
+      "text": "Abyssal Blue<tab>Abyssal Blue"
+    },
+    {
+      "id": "0x0000004D",
+      "text": "Lavender Purple<tab>Lavender Purple"
+    },
+    {
+      "id": "0x0000004E",
+      "text": "Gloom Purple<tab>Gloom Purple"
+    },
+    {
+      "id": "0x0000004F",
+      "text": "Currant Purple<tab>Currant Purple"
+    },
+    {
+      "id": "0x00000050",
+      "text": "Iris Purple<tab>Iris Purple"
+    },
+    {
+      "id": "0x00000051",
+      "text": "Grape Purple<tab>Grape Purple"
+    },
+    {
+      "id": "0x00000052",
+      "text": "Lotus Pink<tab>Lotus Pink"
+    },
+    {
+      "id": "0x00000053",
+      "text": "Colibri Pink<tab>Colibri Pink"
+    },
+    {
+      "id": "0x00000054",
+      "text": "Plum Purple<tab>Plum Purple"
+    },
+    {
+      "id": "0x00000055",
+      "text": "Regal Purple<tab>Regal Purple"
+    },
+    {
+      "id": "0x00000056",
+      "text": "Ruby Red<tab>Ruby Red"
+    },
+    {
+      "id": "0x00000057",
+      "text": "Cherry Pink<tab>Cherry Pink"
+    },
+    {
+      "id": "0x00000058",
+      "text": "Canary Yellow<tab>Canary Yellow"
+    },
+    {
+      "id": "0x00000059",
+      "text": "Vanilla Yellow<tab>Vanilla Yellow"
+    },
+    {
+      "id": "0x0000005A",
+      "text": "Dragoon Blue<tab>Dragoon Blue"
+    },
+    {
+      "id": "0x0000005B",
+      "text": "Turquoise Blue<tab>Turquoise Blue"
+    },
+    {
+      "id": "0x0000005C",
+      "text": "Gunmetal Black<tab>Gunmetal Black"
+    },
+    {
+      "id": "0x0000005D",
+      "text": "Pearl White<tab>Pearl White"
+    },
+    {
+      "id": "0x0000005E",
+      "text": "Metallic Brass<tab>Metallic Brass"
+    },
+    {
+      "id": "0x0000005F",
+      "text": "Carmine Red<tab>Carmine Red"
+    },
+    {
+      "id": "0x00000060",
+      "text": "Neon Pink<tab>Neon Pink"
+    },
+    {
+      "id": "0x00000061",
+      "text": "Bright Orange<tab>Bright Orange"
+    },
+    {
+      "id": "0x00000062",
+      "text": "Neon Yellow<tab>Neon Yellow"
+    },
+    {
+      "id": "0x00000063",
+      "text": "Neon Green <tab>Neon Green "
+    },
+    {
+      "id": "0x00000064",
+      "text": "Azure Blue<tab>Azure Blue"
+    },
+    {
+      "id": "0x00000065",
+      "text": "Pure White<tab>Pure White"
+    },
+    {
+      "id": "0x00000066",
+      "text": "Jet Black<tab>Jet Black"
+    },
+    {
+      "id": "0x00000067",
+      "text": "Pastel Pink<tab>Pastel Pink"
+    },
+    {
+      "id": "0x00000068",
+      "text": "Dark Red<tab>Dark Red"
+    },
+    {
+      "id": "0x00000069",
+      "text": "Dark Brown<tab>Dark Brown"
+    },
+    {
+      "id": "0x0000006A",
+      "text": "Pastel Green<tab>Pastel Green"
+    },
+    {
+      "id": "0x0000006B",
+      "text": "Dark Green<tab>Dark Green"
+    },
+    {
+      "id": "0x0000006C",
+      "text": "Pastel Blue<tab>Pastel Blue"
+    },
+    {
+      "id": "0x0000006D",
+      "text": "Dark Blue<tab>Dark Blue"
+    },
+    {
+      "id": "0x0000006E",
+      "text": "Pastel Purple<tab>Pastel Purple"
+    },
+    {
+      "id": "0x0000006F",
+      "text": "Dark Purple<tab>Dark Purple"
+    },
+    {
+      "id": "0x00000070",
+      "text": "Metallic Silver<tab>Metallic Silver"
+    },
+    {
+      "id": "0x00000071",
+      "text": "Metallic Gold<tab>Metallic Gold"
+    },
+    {
+      "id": "0x00000072",
+      "text": "Metallic Red<tab>Metallic Red"
+    },
+    {
+      "id": "0x00000073",
+      "text": "Metallic Orange<tab>Metallic Orange"
+    },
+    {
+      "id": "0x00000074",
+      "text": "Metallic Yellow<tab>Metallic Yellow"
+    },
+    {
+      "id": "0x00000075",
+      "text": "Metallic Green<tab>Metallic Green"
+    },
+    {
+      "id": "0x00000076",
+      "text": "Metallic Sky Blue<tab>Metallic Sky Blue"
+    },
+    {
+      "id": "0x00000077",
+      "text": "Metallic Blue<tab>Metallic Blue"
+    },
+    {
+      "id": "0x00000078",
+      "text": "Metallic Purple<tab>Metallic Purple"
+    },
+    {
+      "id": "0x00000079",
+      "text": "Violet Purple<tab>Violet Purple"
+    },
+    {
+      "id": "0x0000007A",
+      "text": "Metallic Pink <tab>Metallic Pink "
+    },
+    {
+      "id": "0x0000007B",
+      "text": "Metallic Ruby Red <tab>Metallic Ruby Red "
+    },
+    {
+      "id": "0x0000007C",
+      "text": "Metallic Cobalt Green<tab>Metallic Cobalt Green"
+    },
+    {
+      "id": "0x0000007D",
+      "text": "Metallic Dark Blue<tab>Metallic Dark Blue"
+    }
+  ]
+}

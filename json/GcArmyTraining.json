@@ -1,0 +1,33 @@
+{
+  "source_file": "exd/GcArmyTraining_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Basic Training: Physical<tab>Overall Physical Ability +40"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Basic Training: Mental<tab>Overall Mental Ability +40"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Basic Training: Tactical<tab>Overall Tactical Ability +40"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Advanced Training: Physical & Mental<tab>Overall Physical/Mental Abilities +20"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Advanced Training: Physical & Tactical<tab>Overall Physical/Tactical Abilities +20"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Advanced Training: Mental & Tactical<tab>Overall Tactical/Mental Abilities +20"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Comprehensive Training Course<tab>None"
+    }
+  ]
+}

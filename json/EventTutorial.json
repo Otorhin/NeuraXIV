@@ -1,0 +1,49 @@
+{
+  "source_file": "exd/EventTutorial_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000003",
+      "text": "Transport<tab>Transporting"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Transparent<tab>Transparent"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Escort<tab>Escorting"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Following<tab>Following"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Sneaking<tab>Sneaking"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Transformation<tab>Transformations"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Guise<tab>Guises"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Guard<tab>Guarding"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Perform an Instinctual Combo<tab>Instinctual Combos"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Perform an Intentional Combo<tab>Intentional Combos"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Perform an Infinitive Combo<tab>Infinitive Combos"
+    }
+  ]
+}

@@ -1,0 +1,1133 @@
+{
+  "source_file": "exd/LeveClient_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Client: 2nd Levy Infantry, Yellowjacket Sergeant Sylskaetsyn"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Client: Brugaire Consortium Warehouse Foreman, Wynstin Walder"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Client: Test"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Client: Moogle's Gift Mounts"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Client: Moogle's Gift Mounts Stablehand, Audrie Clovenfoot"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Client: Stillglade Fane "
+    },
+    {
+      "id": "0x00000007",
+      "text": "Client: Vivandier, Ayled the Steadfast"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Client: Buscarron's Druthers Proprietor, Buscarron Strongarm"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Client: Black Rabbit Traders Consignor, Maisenta Hawke"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Client: Third Spear Wood Wailers"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Client: Fourth Spear Wood Wailers"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Client: Fifth Spear Wood Wailers"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Client: Fifth Spear Wood Wailer, Juliembert Loitalant"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Client: Residents of Quarrymill"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Client: Greatloam Growery"
+    },
+    {
+      "id": "0x00000010",
+      "text": "Client: The Trappers' League"
+    },
+    {
+      "id": "0x00000011",
+      "text": "Client: Master Gabineaux"
+    },
+    {
+      "id": "0x00000012",
+      "text": "Client: First Spear Wood Wailers"
+    },
+    {
+      "id": "0x00000013",
+      "text": "Client: First Spear Wood Wailer, Lanverlais the Lawful"
+    },
+    {
+      "id": "0x00000014",
+      "text": "Client: Trappers' League Huntsman, Eugenaire the Grey"
+    },
+    {
+      "id": "0x00000015",
+      "text": "Client: 1st Bow of the Quiver's Centaurs, Galfrid Mossback"
+    },
+    {
+      "id": "0x00000016",
+      "text": "Client: Botanists' Guild, Master Gabineaux"
+    },
+    {
+      "id": "0x00000017",
+      "text": "Client: Botanists' Guild Receptionist, Leonceault Leadthumb"
+    },
+    {
+      "id": "0x00000018",
+      "text": "Client: Stillglade Fane Conjurer, Sister Alixie"
+    },
+    {
+      "id": "0x00000019",
+      "text": "Client: 3rd Bow of the Quiver's Centaurs, Maurelin Modreaux"
+    },
+    {
+      "id": "0x0000001A",
+      "text": "Client: Moogle's Gift Mounts Stablehand, Margault Shortmane"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "Client: Third Spear Wood Wailer, Eylgar the Sullen"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "Client: Moogle's Gift Mounts Stablehand, Gustavain Gysahlheart"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "Client: Stillglade Fane Conjurer, Brother Waldew"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "Client: Fourth Spear Wood Wailer, Florimond the Fleet"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "Client: Buscarron's Druthers Proprietor, Buscarron Strongarm"
+    },
+    {
+      "id": "0x00000020",
+      "text": "Client: Fullflower Comb Beekeeper, Rosa Hawthorne"
+    },
+    {
+      "id": "0x00000021",
+      "text": "Client: Forest Dweller, Ysabel Hawthorne"
+    },
+    {
+      "id": "0x00000022",
+      "text": "Client: Homestead Owner, Rolfe Hawthorne"
+    },
+    {
+      "id": "0x00000023",
+      "text": "Client: Fifth Spear Wood Wailer, Balan the Keen"
+    },
+    {
+      "id": "0x00000024",
+      "text": "Client: Quarrymill Resident, Ombeline Delieux"
+    },
+    {
+      "id": "0x00000025",
+      "text": "Client: Moogleborn Melodymaker, Kupni Kapp"
+    },
+    {
+      "id": "0x00000026",
+      "text": "Client: Stillglade Fane Conjurer, Sister Charline"
+    },
+    {
+      "id": "0x00000027",
+      "text": "Client: Quarrymill Resident, Alderique Lebronc"
+    },
+    {
+      "id": "0x00000028",
+      "text": "Client: Third Spear Wood Wailer, Averay the Ardent"
+    },
+    {
+      "id": "0x00000029",
+      "text": "Client: Stillglade Fane Conjurer, Brother Adestan"
+    },
+    {
+      "id": "0x0000002A",
+      "text": "Client: Good Gobbie, Guttrix Sliverpicks"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "Client: Seeker of Antiquity, Rolandaix of House Nevelle"
+    },
+    {
+      "id": "0x0000002C",
+      "text": "Client: Second Spear Wood Wailer, Pimoh Nelhah"
+    },
+    {
+      "id": "0x0000002D",
+      "text": "Client: Fifth Spear Wood Wailer, Castellaint the Careful"
+    },
+    {
+      "id": "0x0000002E",
+      "text": "Client: Red Rooster Stead Landlord, Anaoc the Youngest"
+    },
+    {
+      "id": "0x0000002F",
+      "text": "Client: Red Rooster Stead Botanist, Arenlona of the Dawn Meadow"
+    },
+    {
+      "id": "0x00000030",
+      "text": "Client: Red Rooster Stead Shepherd, Moegramm Sheepsong"
+    },
+    {
+      "id": "0x00000031",
+      "text": "Client: Grey Fleet High Miller, Weitzaren Flazmarmsyn"
+    },
+    {
+      "id": "0x00000032",
+      "text": "Client: <var 1A 02 /var>Orion<var 1A 01 /var> Captain, Ahldskyf the Eld"
+    },
+    {
+      "id": "0x00000033",
+      "text": "Client: Swiftperch Housebond, Lyulf the Swollen"
+    },
+    {
+      "id": "0x00000034",
+      "text": "Client: Wawalago's Pullers Shoalskimmer, Faucillien"
+    },
+    {
+      "id": "0x00000035",
+      "text": "Client: 2nd Levy Infantry, Yellowjacket Private Ancreta Ilm"
+    },
+    {
+      "id": "0x00000036",
+      "text": "Client: 2nd Levy Infantry, Yellowjacket Sergeant Sylskaetsyn"
+    },
+    {
+      "id": "0x00000037",
+      "text": "Client: 3rd Levy Infantry, Yellowjacket Private Fraeloefsyn"
+    },
+    {
+      "id": "0x00000038",
+      "text": "Client: 3rd Levy Infantry, Yellowjacket Private Hyllbornsyn"
+    },
+    {
+      "id": "0x00000039",
+      "text": "Client: 4th Levy Infantry, Yellowjacket Major Y'alabali Gojah"
+    },
+    {
+      "id": "0x0000003A",
+      "text": "Client: Aleport Brewery, Myndeidin Three-barrels"
+    },
+    {
+      "id": "0x0000003B",
+      "text": "Client: Aleport Brewery, O'adebh Jhah"
+    },
+    {
+      "id": "0x0000003C",
+      "text": "Client: Candlekeep Quay Portermaster, Haldbroda Nortnystsyn"
+    },
+    {
+      "id": "0x0000003D",
+      "text": "Client: Gegeruju Manor Majordomo, Gugudi Gudi"
+    },
+    {
+      "id": "0x0000003E",
+      "text": "Client: Gegeruju Manor Guard, Wheiskaet Saeskyfsyn"
+    },
+    {
+      "id": "0x0000003F",
+      "text": "Client: Naldiq & Vymelli's Smith, Maetimynd Hammerhands"
+    },
+    {
+      "id": "0x00000040",
+      "text": "Client: Naturalist, Isouda Kindle"
+    },
+    {
+      "id": "0x00000041",
+      "text": "Client: Flying Shark Proprietor, Dyrstweitz the Daft"
+    },
+    {
+      "id": "0x00000042",
+      "text": "Client: Memeroon's Trading Post Proprietor, Memeroon"
+    },
+    {
+      "id": "0x00000043",
+      "text": "Client: Mealvaan's Gate Log Assessor, P'tahjha Stah"
+    },
+    {
+      "id": "0x00000044",
+      "text": "Client: Wineport Vigneron, Syzfrusk Wiltwilfsyn"
+    },
+    {
+      "id": "0x00000045",
+      "text": "Client: Wineport Winemaker, E'bandala Dajha"
+    },
+    {
+      "id": "0x00000046",
+      "text": "Client: Amajina & Sons Minekeep, Adelard the Able"
+    },
+    {
+      "id": "0x00000047",
+      "text": "Client: Amajina & Sons Miner, Crooked Haft"
+    },
+    {
+      "id": "0x00000048",
+      "text": "Client: Amajina & Sons Minekeep, Linette"
+    },
+    {
+      "id": "0x00000049",
+      "text": "Client: Amajina & Sons Minemaster, Drunken Stag"
+    },
+    {
+      "id": "0x0000004A",
+      "text": "Client: Naturalist, Marcette Manne"
+    },
+    {
+      "id": "0x0000004B",
+      "text": "Client: Mun-Tuy Cellars Masher, Erimmont Blackfoot"
+    },
+    {
+      "id": "0x0000004C",
+      "text": "Client: Bismarck Guildmaster, Lyngsath Doesfalksyn"
+    },
+    {
+      "id": "0x0000004D",
+      "text": "Client: Pipikkuli the Poor"
+    },
+    {
+      "id": "0x0000004E",
+      "text": "Client: East Aldenard Trading Accountant, Shushunen Bubunen"
+    },
+    {
+      "id": "0x0000004F",
+      "text": "Client: Goldsmiths' Guild Luminary, Aurumheart Aewuld"
+    },
+    {
+      "id": "0x00000050",
+      "text": "Client: Order of Nald'thal Deacon, Airell Finn"
+    },
+    {
+      "id": "0x00000051",
+      "text": "Client: Order of Nald'thal Bishop, Lilimolu Gigimolu"
+    },
+    {
+      "id": "0x00000052",
+      "text": "Client: Anonymous"
+    },
+    {
+      "id": "0x00000053",
+      "text": "Client: Seventy-Seven Caravans Dispatch, Guntram Greenbank"
+    },
+    {
+      "id": "0x00000054",
+      "text": "Client: Sultansworn Knight, Aubelet Whiteblade"
+    },
+    {
+      "id": "0x00000055",
+      "text": "Client: Brass Blades, Solitary Elk of the Rose"
+    },
+    {
+      "id": "0x00000056",
+      "text": "Client: Frondale's Phrontistery Alchemist, Alewyn Alder"
+    },
+    {
+      "id": "0x00000057",
+      "text": "Client: Brass Blades, Kokobi Kobi of the Balsam"
+    },
+    {
+      "id": "0x00000058",
+      "text": "Client: Seventy-Seven Caravans Dispatch, Zuzutyro Nanatyro"
+    },
+    {
+      "id": "0x00000059",
+      "text": "Client: Brass Blades, Chechezan Yayazan of the Rose"
+    },
+    {
+      "id": "0x0000005A",
+      "text": "Client: Arrzaneth Ossuary Bonekeeper, Yayake Yake"
+    },
+    {
+      "id": "0x0000005B",
+      "text": "Client: Amajina & Sons Minemaster, Drunken Stag"
+    },
+    {
+      "id": "0x0000005C",
+      "text": "Client: Independent Historian, Havak Alvak"
+    },
+    {
+      "id": "0x0000005D",
+      "text": "Client: Brass Blades, Aalot Rand of the Orchid"
+    },
+    {
+      "id": "0x0000005E",
+      "text": "Client: Seventy-Seven Caravans Dispatch, Tutusi Tusi"
+    },
+    {
+      "id": "0x0000005F",
+      "text": "Client: Little Ala Mhigo Resident, Grifiud the Proud"
+    },
+    {
+      "id": "0x00000060",
+      "text": "Client: Brass Blades, Ryumomo Qimomo of the Lotus"
+    },
+    {
+      "id": "0x00000061",
+      "text": "Client: Order of Nald'thal Bishop, Mamane Mane"
+    },
+    {
+      "id": "0x00000062",
+      "text": "Client: Maelstrom Command, Board of Shipwrights"
+    },
+    {
+      "id": "0x00000063",
+      "text": "Client: Maelstrom Command"
+    },
+    {
+      "id": "0x00000064",
+      "text": "Client: Maelstrom Foreign Levy"
+    },
+    {
+      "id": "0x00000065",
+      "text": "Client: Maelstrom Command, Board of Engineers"
+    },
+    {
+      "id": "0x00000066",
+      "text": "Client: The Maelstrom Black Sails"
+    },
+    {
+      "id": "0x00000067",
+      "text": "Client: The Order of the Twin Adder Black Boars"
+    },
+    {
+      "id": "0x00000068",
+      "text": "Client: The Order of the Twin Adder Blue Badgers"
+    },
+    {
+      "id": "0x00000069",
+      "text": "Client: The Order of the Twin Adder Red Otters"
+    },
+    {
+      "id": "0x0000006A",
+      "text": "Client: The Order of the Twin Adder White Wolves"
+    },
+    {
+      "id": "0x0000006B",
+      "text": "Client: The Immortal Flames Ala Mhigan Brigade"
+    },
+    {
+      "id": "0x0000006C",
+      "text": "Client: The Immortal Flames 1st Corps of Engineers"
+    },
+    {
+      "id": "0x0000006D",
+      "text": "Client: The Immortal Flames 2nd Main Brigade"
+    },
+    {
+      "id": "0x0000006E",
+      "text": "Client: The Immortal Flames Bloodsworn"
+    },
+    {
+      "id": "0x0000006F",
+      "text": "Client: The Immortal Flames Foreign Brigade"
+    },
+    {
+      "id": "0x00000070",
+      "text": "Client: The Immortal Flames 3rd Main Brigade"
+    },
+    {
+      "id": "0x00000071",
+      "text": "Client: Gegeruju Shipping Head Clerk, Ririphon Liliphon"
+    },
+    {
+      "id": "0x00000072",
+      "text": "Client: Brugaire Consortium Vice-chairman, Bango Zango"
+    },
+    {
+      "id": "0x00000073",
+      "text": "Client: Red Rooster Stead Smallholder, Zwynwyda the Tall"
+    },
+    {
+      "id": "0x00000074",
+      "text": "Client: Independent Exporter, Fewon Bulion"
+    },
+    {
+      "id": "0x00000075",
+      "text": "Client: <var 1A 02 /var>Ice Princess<var 1A 01 /var> Captain H'rhanbolo Oya"
+    },
+    {
+      "id": "0x00000076",
+      "text": "Client: Ashgana Exports, Baron Roarich"
+    },
+    {
+      "id": "0x00000077",
+      "text": "Client: Seventy-Seven Caravans Dispatch, Gigiyon"
+    },
+    {
+      "id": "0x00000078",
+      "text": "Client: Seventy-Seven Caravans Dispatch, Mimina Mina"
+    },
+    {
+      "id": "0x00000079",
+      "text": "Client: Seventy-Seven Caravans Dispatch, Frediswitha"
+    },
+    {
+      "id": "0x0000007A",
+      "text": "Client: Independent Sutler, Vivenne Pamisolaux"
+    },
+    {
+      "id": "0x0000007B",
+      "text": "Client: Independent Sutler, Lanquairt the Lean"
+    },
+    {
+      "id": "0x0000007C",
+      "text": "Client: Sons of Saint Coinach Cataloger, Syele Steele"
+    },
+    {
+      "id": "0x0000007D",
+      "text": "Client: Independent Sutler, Duvicauroix Dariustel"
+    },
+    {
+      "id": "0x0000007E",
+      "text": "Client: Holy See of Ishgard Temple Knight Marcelain the Meek"
+    },
+    {
+      "id": "0x0000007F",
+      "text": "Client: Observatorium Astrologian, Edmelle Lothaire"
+    },
+    {
+      "id": "0x00000080",
+      "text": "Client: House Fortemps Knight, Arthurioux the Bear"
+    },
+    {
+      "id": "0x00000081",
+      "text": "Client: Coliseum Coincounter, Uwilsyng Hollkoensyn"
+    },
+    {
+      "id": "0x00000082",
+      "text": "Client: Sons of Saint Coinach Anthropogeographer, Rammbroes"
+    },
+    {
+      "id": "0x00000083",
+      "text": "Client: Sons of Saint Coinach Bone Sifter, Nazyl Duzyl"
+    },
+    {
+      "id": "0x00000084",
+      "text": "Client: The Order of the Twin Adder Yellow Serpents"
+    },
+    {
+      "id": "0x00000085",
+      "text": "Client: Amajina & Sons Miner, Blanbroes "
+    },
+    {
+      "id": "0x00000086",
+      "text": "Client: Amajina & Sons Minekeep, Eight Lives Irmengard"
+    },
+    {
+      "id": "0x00000087",
+      "text": "Client: House Haillenarte Knight, Prairillot the Silver"
+    },
+    {
+      "id": "0x00000088",
+      "text": "Client: Astroscope Engineer, Aimiliens Ouraux"
+    },
+    {
+      "id": "0x00000089",
+      "text": "Client: Snowcloak Expeditionary Unit, Lancefer Hortimont"
+    },
+    {
+      "id": "0x0000008A",
+      "text": "Client: House Fortemps Knight, Corentiaux the Colder"
+    },
+    {
+      "id": "0x0000008B",
+      "text": "Client: House Durendaire Knight, Brunadier of the Blue Bell"
+    },
+    {
+      "id": "0x0000008C",
+      "text": "Client: House Durendaire Housebond, Hanrieaux"
+    },
+    {
+      "id": "0x0000008D",
+      "text": "Client: Cultured Culinarian, Unsynwilf Greensleeves"
+    },
+    {
+      "id": "0x0000008E",
+      "text": "Client: Wholesale Trader, Silvertail Q'molosi"
+    },
+    {
+      "id": "0x0000008F",
+      "text": "Client: Fupepe and Associates Brokerage Owner, Fupepe Fupe"
+    },
+    {
+      "id": "0x00000090",
+      "text": "Client: Twelveswood Fisher, Daca Jinjahl"
+    },
+    {
+      "id": "0x00000091",
+      "text": "Client: Gegeruju Manor Retainer, F'abodji Nhal"
+    },
+    {
+      "id": "0x00000092",
+      "text": "Client: Mountain Skyfisher, Drividot Shortline"
+    },
+    {
+      "id": "0x00000093",
+      "text": "Client: Wholesale Trader, Louviaune of the Lake"
+    },
+    {
+      "id": "0x00000094",
+      "text": "Client: Sons of Saint Coinach Cataloger, Clifton Crabbe"
+    },
+    {
+      "id": "0x00000095",
+      "text": "Client: Quarrymill Resident, Aedoc the Ailing"
+    },
+    {
+      "id": "0x00000096",
+      "text": "Client: Wawalago's Pullers Shoalskimmer, Bloemerl"
+    },
+    {
+      "id": "0x00000097",
+      "text": "Client: Temple Knights Second Commander Ser Handeloup"
+    },
+    {
+      "id": "0x00000098",
+      "text": "Client: Order of the Friars Templar, Brother Padilloux"
+    },
+    {
+      "id": "0x00000099",
+      "text": "Client: Temple Knights Minister of Coin, Amianne Tristelle"
+    },
+    {
+      "id": "0x0000009A",
+      "text": "Client: Temple Knights Hospitalier Captain Abel Whitecape"
+    },
+    {
+      "id": "0x0000009B",
+      "text": "Client: Holy Inquisitor Gaidelie the Just"
+    },
+    {
+      "id": "0x0000009C",
+      "text": "Client: Ser Brucemont of the Knights Dragoon"
+    },
+    {
+      "id": "0x0000009D",
+      "text": "Client: Temple Knights First Commander Ser Lucia"
+    },
+    {
+      "id": "0x0000009E",
+      "text": "Client: Ironworks Engineer, Lowell Tanner"
+    },
+    {
+      "id": "0x0000009F",
+      "text": "Client: Traveling Scholar, Tanga Tonga"
+    },
+    {
+      "id": "0x000000A0",
+      "text": "Client: Resistance Sapper, Imblen the Mole"
+    },
+    {
+      "id": "0x000000A1",
+      "text": "Client: Ugan Akiudo, Dealer in Stone and Metal"
+    },
+    {
+      "id": "0x000000A2",
+      "text": "Client: Sagan Akiudo, Dealer in Lumber and Lumber"
+    },
+    {
+      "id": "0x000000A3",
+      "text": "Client: Hairpin Crafter, Fuyo Kaneuchi"
+    },
+    {
+      "id": "0x000000A4",
+      "text": "Client: He Who Weeps for Doma"
+    },
+    {
+      "id": "0x000000A5",
+      "text": "Client: Independent Weaponsmith, Sekka Furukane"
+    },
+    {
+      "id": "0x000000A6",
+      "text": "Client: Hingan Physicker, Steady Hand Tsugomori"
+    },
+    {
+      "id": "0x000000A7",
+      "text": "Client: Little Ala Mhigo Leader, Gundobald the Resolute"
+    },
+    {
+      "id": "0x000000A8",
+      "text": "Client: Ala Gannha Village Elder, Ragnafrid the Old"
+    },
+    {
+      "id": "0x000000A9",
+      "text": "Client: Resistance Fighter, Gisela the Unfortunate"
+    },
+    {
+      "id": "0x000000AA",
+      "text": "Client: Resistance Infirmary Healer, Orella Heavenstouch"
+    },
+    {
+      "id": "0x000000AB",
+      "text": "Client: Botanists' Guild Guildmaster, Fufucha Fucha"
+    },
+    {
+      "id": "0x000000AC",
+      "text": "Client: East Aldenard Trading Company Associate, Kikimo Kimo"
+    },
+    {
+      "id": "0x000000AD",
+      "text": "Client: Peering Stones Chief, M'rahz Nunh"
+    },
+    {
+      "id": "0x000000AE",
+      "text": "Client: Humble Shopkeep, Kuzubana Kasanui"
+    },
+    {
+      "id": "0x000000AF",
+      "text": "Client: Independent Arms Dealer, Kanamari Six Knives"
+    },
+    {
+      "id": "0x000000B0",
+      "text": "Client: Daitenya Attendant, Yagiri Kawanami"
+    },
+    {
+      "id": "0x000000B1",
+      "text": "Client: Writer and Ul'dahn Dignitary, Liliju Liju"
+    },
+    {
+      "id": "0x000000B2",
+      "text": "Client: Sekiseigumi Coincounter, Shimoyo Quickfingers"
+    },
+    {
+      "id": "0x000000B3",
+      "text": "Client: <var 1A 02 /var>Imperial Princess<var 1A 01 /var> Captain, Jubleel of House Hazaar"
+    },
+    {
+      "id": "0x000000B4",
+      "text": "Client: Gigas Forge Merchant, C'ndanya Ahlk"
+    },
+    {
+      "id": "0x000000B5",
+      "text": "Client: Formalwear Rentals, Kotobuki Chosai"
+    },
+    {
+      "id": "0x000000B6",
+      "text": "Client: Hingan Metalsmith, Unryu the Stubborn"
+    },
+    {
+      "id": "0x000000B7",
+      "text": "Client: Sekiseigumi Potwatch, Sangoya Blackbottom"
+    },
+    {
+      "id": "0x000000B8",
+      "text": "Client: Mujikoza Stagehand, Iskua Gakunin"
+    },
+    {
+      "id": "0x000000B9",
+      "text": "Client: Umineko Teahouse Proprietress, Ume Kaujin "
+    },
+    {
+      "id": "0x000000BA",
+      "text": "Client: Shiokaze Hostelry Proprietress, Kotokaze Benitoki"
+    },
+    {
+      "id": "0x000000BB",
+      "text": "Client: Thavnairian Consulate Clerk, Bharifhal Dzak"
+    },
+    {
+      "id": "0x000000BC",
+      "text": "Client: Akamatsu-tei Proprietress, Saeda the Silken"
+    },
+    {
+      "id": "0x000000BD",
+      "text": "Client: Seifu's Temple of Tomes, Seifu the Well-read"
+    },
+    {
+      "id": "0x000000BE",
+      "text": "Client: Struggling Materia Melder, Clerebold the Cracked"
+    },
+    {
+      "id": "0x000000BF",
+      "text": "Client: Traveling Salesman, Tazuna Fleet-of-Foot"
+    },
+    {
+      "id": "0x000000C0",
+      "text": "Client: Bakufu-approved Salesman, Tazuna "
+    },
+    {
+      "id": "0x000000C1",
+      "text": "Client: Hyrstmill Resident, Albreda Pike"
+    },
+    {
+      "id": "0x000000C2",
+      "text": "Client: Kojin Importer, Soroban "
+    },
+    {
+      "id": "0x000000C3",
+      "text": "Client: Wandering Stairs Proprietor, Glynard"
+    },
+    {
+      "id": "0x000000C4",
+      "text": "Client: Spagyrics Chief Chirurgeon, Chessamile "
+    },
+    {
+      "id": "0x000000C5",
+      "text": "Client: Independent Kholusian Trader, Spadden"
+    },
+    {
+      "id": "0x000000C6",
+      "text": "Client: Facet of Forging Apprentice, Hakon"
+    },
+    {
+      "id": "0x000000C7",
+      "text": "Client: Facet of Gathering Deputy Chief, Tatcha"
+    },
+    {
+      "id": "0x000000C8",
+      "text": "Client: Ballistics Engineer, Soe-Rend"
+    },
+    {
+      "id": "0x000000C9",
+      "text": "Client: Facet of Forging Journeyman, Hakon"
+    },
+    {
+      "id": "0x000000CA",
+      "text": "Client: Facet of Forging Forgemaster, Hakon"
+    },
+    {
+      "id": "0x000000CB",
+      "text": "Client: Facet of Forging Famed Forgemaster, Hakon"
+    },
+    {
+      "id": "0x000000CC",
+      "text": "Client: Independent Legendary Forgemaster, Hakon"
+    },
+    {
+      "id": "0x000000CD",
+      "text": "Client: Hortorium Researcher, Edendreda"
+    },
+    {
+      "id": "0x000000CE",
+      "text": "Client: Facet of Nourishing Apprentice, Saulfort"
+    },
+    {
+      "id": "0x000000CF",
+      "text": "Client: Facet of Fishing Deputy Chief, Vrue-Shirr"
+    },
+    {
+      "id": "0x000000D0",
+      "text": "Client: Facet of Nourishing Journeyman, Saulfort"
+    },
+    {
+      "id": "0x000000D1",
+      "text": "Client: Facet of Nourishing Master Culinarian, Saulfort"
+    },
+    {
+      "id": "0x000000D2",
+      "text": "Client: Facet of Nourishing Famed Culinarian, Saulfort"
+    },
+    {
+      "id": "0x000000D3",
+      "text": "Client: Facet of Nourishing Exceedingly Famed Culinarian, Saulfort"
+    },
+    {
+      "id": "0x000000D4",
+      "text": "Client: Facet of Crafting Influential Artisan, Owell"
+    },
+    {
+      "id": "0x000000D5",
+      "text": "Client: Facet of Fishing Master Fisherman, Mervyl "
+    },
+    {
+      "id": "0x000000D6",
+      "text": "Client: Caravan Leader, Cassard"
+    },
+    {
+      "id": "0x000000D7",
+      "text": "Client: Crystarium Guard Officer, Pitrig "
+    },
+    {
+      "id": "0x000000D8",
+      "text": "Client: The Bellows Smith, Eismon"
+    },
+    {
+      "id": "0x000000D9",
+      "text": "Client: Steelskins Proprietor, Doddard"
+    },
+    {
+      "id": "0x000000DA",
+      "text": "Client: Cabinet of Curiosity Librarian, Moren"
+    },
+    {
+      "id": "0x000000DB",
+      "text": "Client: Hack and Slash Proprietor, Shai-Tistt"
+    },
+    {
+      "id": "0x000000DC",
+      "text": "Client: Sweetsieve Senior Groundskeeper, Tobyl"
+    },
+    {
+      "id": "0x000000DD",
+      "text": "Client: The Second Serving Proprietor, Hanji-Fae"
+    },
+    {
+      "id": "0x000000DE",
+      "text": "Client: The Bellows Forgemaster, Iola"
+    },
+    {
+      "id": "0x000000DF",
+      "text": "Client: Facet of Nourishing Overseer, Bethric"
+    },
+    {
+      "id": "0x000000E0",
+      "text": "Client: The Catenaries Manager, Sylgham"
+    },
+    {
+      "id": "0x000000E1",
+      "text": "Client: Musica Universalis Master of the Markets, Bragi"
+    },
+    {
+      "id": "0x000000E2",
+      "text": "Client: Crystalline Mean Director, Katliss"
+    },
+    {
+      "id": "0x000000E3",
+      "text": "Client: Enigmatic Sphere of Wonder, Noddy"
+    },
+    {
+      "id": "0x000000E4",
+      "text": "Client: Wonderhall Proprietor, Ania"
+    },
+    {
+      "id": "0x000000E5",
+      "text": "Client: Lady of House Leveilleur, Ameliance Leveilleur"
+    },
+    {
+      "id": "0x000000E6",
+      "text": "Client: Anonymous Albright Manor Servant"
+    },
+    {
+      "id": "0x000000E7",
+      "text": "Client: The Last Stand Proprietor, Dickon"
+    },
+    {
+      "id": "0x000000E8",
+      "text": "Client: Fervent Forgemaster, Kokkol Dankkol"
+    },
+    {
+      "id": "0x000000E9",
+      "text": "Client: Footwear Enthusiast, Chapas Porpas"
+    },
+    {
+      "id": "0x000000EA",
+      "text": "Client: Gleaners' Guildship Envoy, Erenville"
+    },
+    {
+      "id": "0x000000EB",
+      "text": "Client: Council Archon, Sakoko"
+    },
+    {
+      "id": "0x000000EC",
+      "text": "Client: Studium Associate Professor in Engineering, Gaelle"
+    },
+    {
+      "id": "0x000000ED",
+      "text": "Client: Studium First-year Pupil, Benger"
+    },
+    {
+      "id": "0x000000EE",
+      "text": "Client: Faculty of Medicine Professor, Galveroche"
+    },
+    {
+      "id": "0x000000EF",
+      "text": "Client: Studium Theater Society Director, Bevis"
+    },
+    {
+      "id": "0x000000F0",
+      "text": "Client: Studium Substitute History Lecturer, Snoeharr"
+    },
+    {
+      "id": "0x000000F1",
+      "text": "Client: Searchers' Meet Administrator, Qih Aliapoh"
+    },
+    {
+      "id": "0x000000F2",
+      "text": "Client: Anonymous Female Studium Pupil"
+    },
+    {
+      "id": "0x000000F3",
+      "text": "Client: Anonymous Male Studium Pupil"
+    },
+    {
+      "id": "0x000000F4",
+      "text": "Client: Noumenon Librarian, Isilswys"
+    },
+    {
+      "id": "0x000000F5",
+      "text": "Client: Physis Technon Sage, Towering Sky"
+    },
+    {
+      "id": "0x000000F6",
+      "text": "Client: The Confluence Lead Researcher, Avalbane"
+    },
+    {
+      "id": "0x000000F7",
+      "text": "Client: Full Plate Armoire Proprietor, Y'sohnjin"
+    },
+    {
+      "id": "0x000000F8",
+      "text": "Client: Aspiring Studium Pupil, Benger"
+    },
+    {
+      "id": "0x000000F9",
+      "text": "Client: Studium Biology Professor, Waguda Mabaguda"
+    },
+    {
+      "id": "0x000000FA",
+      "text": "Client: Passemerrant Pasturponics Researcher, Resolute Swan"
+    },
+    {
+      "id": "0x000000FB",
+      "text": "Client: Labyrinthos Deputy Chief Administrator, Stymmwaen"
+    },
+    {
+      "id": "0x000000FC",
+      "text": "Client: Gem and Mineral Enthusiast, Tyago Tayuun"
+    },
+    {
+      "id": "0x000000FD",
+      "text": "Client: Kokkol's Forgehand, Opal Fog"
+    },
+    {
+      "id": "0x000000FE",
+      "text": "Client: Regular Last Stand Customer, Mikac"
+    },
+    {
+      "id": "0x000000FF",
+      "text": "Client: Faculty of Aetherology Graduate Student, Aubracie"
+    },
+    {
+      "id": "0x00000100",
+      "text": "Client: <var 1A 02 /var>Bibliotheca Historica<var 1A 01 /var> Compiler, Godfroy"
+    },
+    {
+      "id": "0x00000101",
+      "text": "Client: Turali Agricultural Association, Tonuhali"
+    },
+    {
+      "id": "0x00000102",
+      "text": "Client: Povlu's Peddlery Southern Representative, Toplu"
+    },
+    {
+      "id": "0x00000103",
+      "text": "Client: Wing of Reflection Arcane Practitioner, Neeval Ja"
+    },
+    {
+      "id": "0x00000104",
+      "text": "Client: Landsguard Chief Technician, Ty'at Lyis"
+    },
+    {
+      "id": "0x00000105",
+      "text": "Client: Sunperch Apothecary, Pananyihe"
+    },
+    {
+      "id": "0x00000106",
+      "text": "Client: Owner of Xbalyav Ty'e, Br'uk Evu"
+    },
+    {
+      "id": "0x00000107",
+      "text": "Client: Wing of Reflection Scholar, Eshue"
+    },
+    {
+      "id": "0x00000108",
+      "text": "Client: Professional Procrastinator, Prangkobiq"
+    },
+    {
+      "id": "0x00000109",
+      "text": "Client: Povlu's Peddlery Northern Representative, Moplu"
+    },
+    {
+      "id": "0x0000010A",
+      "text": "Client: Wing of Reflection Archaeology Specialist, Yoani"
+    },
+    {
+      "id": "0x0000010B",
+      "text": "Client: Vollok Shoonsa Mage, Riwoll Ja"
+    },
+    {
+      "id": "0x0000010C",
+      "text": "Client: Owner of Aunt Tii's Tacos, Tiisol Ja"
+    },
+    {
+      "id": "0x0000010D",
+      "text": "Client: Whalaqee Mage, Pashenine"
+    },
+    {
+      "id": "0x0000010E",
+      "text": "Client: Bayside Fancies Clerk, Yimepi"
+    },
+    {
+      "id": "0x0000010F",
+      "text": "Client: Resplendent Quarter Chairman, E'enuhanu"
+    },
+    {
+      "id": "0x00000110",
+      "text": "Client: Landsguard Provisioner, Vodoll Ja"
+    },
+    {
+      "id": "0x00000111",
+      "text": "Client: Dawn's Drapery Proprietress, Xax Lamat"
+    },
+    {
+      "id": "0x00000112",
+      "text": "Client: <var 1A 02 /var>Assistance<var 1A 01 /var> Captain, Helbstyrn"
+    },
+    {
+      "id": "0x00000113",
+      "text": "Client: Hammerin' Bros. Co-owner, Bol Ty'ukuk"
+    },
+    {
+      "id": "0x00000114",
+      "text": "Client: Dirigible Mechanic, Huvool Ja"
+    },
+    {
+      "id": "0x00000115",
+      "text": "Client: Wild Crafts Owner, Mittahwo"
+    },
+    {
+      "id": "0x00000116",
+      "text": "Client: Landsguard Training Instructor, Br'uk Br'aax"
+    },
+    {
+      "id": "0x00000117",
+      "text": "Client: For'ard Cabins Receptionist, Peshekwa"
+    },
+    {
+      "id": "0x00000118",
+      "text": "Client: Traveling Artist, Uapyone"
+    },
+    {
+      "id": "0x00000119",
+      "text": "Client: Wing of Reflection Scribe, Kuraal Ja"
+    },
+    {
+      "id": "0x0000011A",
+      "text": "Client: Sunperch Chef, Shoape"
+    }
+  ]
+}

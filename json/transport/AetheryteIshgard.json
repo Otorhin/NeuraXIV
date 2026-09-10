@@ -1,0 +1,9 @@
+{
+  "source_file": "exd/transport/AetheryteIshgard_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_AETHERYTEISHGARD_HWD_WARP<tab><var 12 46 /var> Отправиться в Небесный свод."
+    }
+  ]
+}

@@ -1,0 +1,2385 @@
+{
+  "source_file": "exd/AddonTransient_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "<var 1E 0B /var> Withdraw Item"
+    },
+    {
+      "id": "0x00000002",
+      "text": "<var 1E 0D /var> + <var 1E 0E /var> Paste  <var 1E 0B /var> Delete<var 08 E95F ((  <var 1E 0C /var> <var 42 2A /var>)) ((<var 1D /var>)) /var>"
+    },
+    {
+      "id": "0x00000003",
+      "text": "<var 1E 09 /var> Change Order  <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000004",
+      "text": "<var 1E 0C /var> Execute Search"
+    },
+    {
+      "id": "0x00000005",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 09 /var> Purchase　<var 1E 0C /var> Select Item to Sell"
+    },
+    {
+      "id": "0x00000006",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0C /var> Text Commands"
+    },
+    {
+      "id": "0x00000007",
+      "text": "<var 1E 0B /var> Subcommand  <var 1E 0C /var> New Letter"
+    },
+    {
+      "id": "0x00000008",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000009",
+      "text": "<var 1E 09 /var><var 1E 0B /var>Subcommands  <var 1E 0A /var>Back"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "<var 1E 09 /var> Target Attachment"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "<var 1E 0B /var> Prioritize/Hide in Duty List <var 1E 19 /var> Scroll"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0A /var> Return"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "<var 1E 0D /var>"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "<var 1E 0E /var>"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "<var 1E 0B /var> Set to Hotbar  <var 1E 09 /var> Execute Action"
+    },
+    {
+      "id": "0x00000010",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000011",
+      "text": "<var 1E 18 /var> Scroll  <var 1E 0C /var> Switch Type  <var 1E 0D /var>+<var 1E 18 /var> Zoom  <var 1E 09 /var> Toggle Map"
+    },
+    {
+      "id": "0x00000012",
+      "text": "<var 1E 18 /var> Scroll  <var 1E 0C /var> Switch Type  <var 1E 0D /var>＋<var 1E 0B /var> Toggle Floor  <var 1E 0D /var>+<var 1E 18 /var> Zoom  <var 1E 09 /var> Toggle Map"
+    },
+    {
+      "id": "0x00000013",
+      "text": "<var 1E 09 /var><var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000014",
+      "text": "<var 1E 09 /var><var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000015",
+      "text": "<var 1E 09 /var><var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000016",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000017",
+      "text": "<var 1E 0B /var>Subcommands  <var 1E 0C /var>Select Item"
+    },
+    {
+      "id": "0x00000018",
+      "text": "<var 1E 09 /var> Put up for Sale  <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000019",
+      "text": "<var 1E 09 /var><var 1E 0B /var> Subcommands  <var 1E 0C /var> Select Item"
+    },
+    {
+      "id": "0x0000001A",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "<var 1E 0B /var> Subcommands　<var 1E 0A /var> Return"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "<var 1E 0B /var> Subcommands　<var 1E 0A /var> Return"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "<var 1E 09 /var>Accept　<var 1E 0C /var>Open Journal  <var 1E 19 /var> Scroll"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "<var 1E 0C /var> Execute Search"
+    },
+    {
+      "id": "0x00000020",
+      "text": "<var 1E 0B /var> Subcommands <var 1E 09 /var> View Search Results <var 1E 0A /var> Back"
+    },
+    {
+      "id": "0x00000021",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 09 /var> View Search Results  <var 1E 0A /var> Back  <var 1E 0D /var><var 1E 0E /var> Turn Pages"
+    },
+    {
+      "id": "0x00000022",
+      "text": "<var 1E 09 /var><var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000023",
+      "text": "<var 1E 0C /var> Reload List  <var 1E 0B /var> Subcommands  <var 1E 09 /var> View Details"
+    },
+    {
+      "id": "0x00000024",
+      "text": "<var 1E 0C /var> Search"
+    },
+    {
+      "id": "0x00000025",
+      "text": "<var 1E 0B /var><var 1E 0C /var> Cycle Between Roles  <var 1E 09 /var> Specify Class/Job"
+    },
+    {
+      "id": "0x00000026",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 09 /var> Exchange"
+    },
+    {
+      "id": "0x00000027",
+      "text": "<var 1E 0B /var> Subcommand"
+    },
+    {
+      "id": "0x00000028",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 09 /var> Confirm  <var 1E 0A /var> Close"
+    },
+    {
+      "id": "0x00000029",
+      "text": "<var 1E 0E /var>"
+    },
+    {
+      "id": "0x0000002A",
+      "text": "<var 1E 0D /var>"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "<var 1E 18 /var> Scroll  <var 1E 0C /var> Switch Type  <var 1E 0D /var>+<var 1E 18 /var> Zoom  <var 1E 09 /var> Teleport"
+    },
+    {
+      "id": "0x0000002C",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x0000002D",
+      "text": "<var 1E 09 /var><var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x0000002E",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0C /var> Macro Editor  <var 1E 19 /var> Scroll"
+    },
+    {
+      "id": "0x0000002F",
+      "text": "<var 1E 09 /var> Select Materia  <var 1E 0C /var> Move to Materia Transmutation"
+    },
+    {
+      "id": "0x00000030",
+      "text": "<var 1E 09 /var> Deselect Materia  <var 1E 0C /var> Move to Inventory"
+    },
+    {
+      "id": "0x00000031",
+      "text": "<var 1E 0C /var> Move to Inventory"
+    },
+    {
+      "id": "0x00000032",
+      "text": "<var 1E 0B /var> Subcommands <var 1E 0C /var> Search for Matching Items"
+    },
+    {
+      "id": "0x00000033",
+      "text": "<var 1E 15 /var> Move <var 1E 1A /var> Rotate <var 1E 0D /var>＋<var 1E 19 /var> Zoom In/Out"
+    },
+    {
+      "id": "0x00000034",
+      "text": "<var 1E 0D /var><var 1E 0E /var> Toggle Lists"
+    },
+    {
+      "id": "0x00000035",
+      "text": "<var 1E 18 /var> Scroll"
+    },
+    {
+      "id": "0x00000036",
+      "text": "<var 1E 0B /var> Cancel"
+    },
+    {
+      "id": "0x00000037",
+      "text": "<var 1E 09 /var> Enter Room  <var 1E 0B /var> View Room Details"
+    },
+    {
+      "id": "0x00000038",
+      "text": "<var 1E 09 /var> Train  <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000039",
+      "text": "<var 1E 09 /var> Train  <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x0000003A",
+      "text": "<var 1E 0C /var> Display Vista Record  <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x0000003B",
+      "text": "<var 1E 0C /var> Display Impressions  <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x0000003C",
+      "text": "<var 1E 0B /var> Set to Hotbar  <var 1E 09 /var> Summon"
+    },
+    {
+      "id": "0x0000003D",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x0000003E",
+      "text": "<var 1E 0C /var> Change Display  <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x0000003F",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000040",
+      "text": "<var 1E 0C /var> Confirm"
+    },
+    {
+      "id": "0x00000041",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 09 /var> Select"
+    },
+    {
+      "id": "0x00000042",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000043",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 02 /var>Select Log  <var 1E 0C /var> Expand Log"
+    },
+    {
+      "id": "0x00000044",
+      "text": "<var 1E 02 /var>Select Log  <var 1E 0C /var> Expand Log"
+    },
+    {
+      "id": "0x00000045",
+      "text": "<var 1E 09 /var> Register in Additional Actions"
+    },
+    {
+      "id": "0x00000046",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 09 /var> Select"
+    },
+    {
+      "id": "0x00000047",
+      "text": "<var 1E 09 /var> Change Gear  <var 1E 0B /var> Subcommands  <var 1E 0D /var><var 1E 0E /var> Change Category"
+    },
+    {
+      "id": "0x00000048",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 02 /var> Select Log  <var 1E 03 /var> Toggle Tabs  <var 1E 0C /var> Expand Log"
+    },
+    {
+      "id": "0x00000049",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0A /var> Chat Input  <var 1E 0C /var> Expand Log"
+    },
+    {
+      "id": "0x0000004A",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0A /var> Chat Input  <var 1E 0C /var> Restore Log Size"
+    },
+    {
+      "id": "0x0000004B",
+      "text": "<var 1E 06 /var> History  <var 1E 0D /var> + <var 1E 0E /var> Paste  <var 1E 0B /var> Delete  <var 1E 0E /var> Auto-translate<var 08 E95F (( <var 1E 0C /var> <var 42 2A /var>)) ((<var 1D /var>)) /var>"
+    },
+    {
+      "id": "0x0000004C",
+      "text": "<var 1E 04 /var> Previous  <var 1E 05 /var> Next  <var 1E 0E /var> Auto-translate"
+    },
+    {
+      "id": "0x0000004D",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0C /var> Apply"
+    },
+    {
+      "id": "0x0000004E",
+      "text": "<var 1E 0C /var> Apply  <var 1E 0B /var> Delete Settings　"
+    },
+    {
+      "id": "0x0000004F",
+      "text": "<var 1E 09 /var> Skip  <var 1E 0A /var> Cancel"
+    },
+    {
+      "id": "0x00000050",
+      "text": "<var 1E 0D /var><var 1E 0E /var> Select Class"
+    },
+    {
+      "id": "0x00000051",
+      "text": "<var 1E 09 /var><var 1E 0B /var> Subcommands  <var 1E 0C /var> Search Parameters"
+    },
+    {
+      "id": "0x00000052",
+      "text": "<var 1E 06 /var> Order  <var 1E 09 /var> Confirm  <var 1E 0A /var> Cancel"
+    },
+    {
+      "id": "0x00000053",
+      "text": "<var 1E 08 /var> Move  <var 1E 09 /var> Confirm  <var 1E 0A /var> Cancel"
+    },
+    {
+      "id": "0x00000054",
+      "text": "<var 1E 0C /var> Edit Company Board"
+    },
+    {
+      "id": "0x00000055",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000056",
+      "text": "<var 1E 09 /var> Retrieve Online Status  <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000057",
+      "text": "<var 1E 0C /var> Apply"
+    },
+    {
+      "id": "0x00000058",
+      "text": "<var 1E 0C /var> Apply"
+    },
+    {
+      "id": "0x00000059",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0C /var> Apply"
+    },
+    {
+      "id": "0x0000005A",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0A /var> Return"
+    },
+    {
+      "id": "0x0000005B",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0A /var> Return"
+    },
+    {
+      "id": "0x0000005C",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0A /var> Return"
+    },
+    {
+      "id": "0x0000005D",
+      "text": "<var 1E 09 /var> Move to Armoury Chest  <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x0000005E",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0D /var><var 1E 0E /var> Change Category"
+    },
+    {
+      "id": "0x0000005F",
+      "text": "<var 1E 09 /var> Open Inventory  <var 1E 0D /var><var 1E 0E /var> Change Category"
+    },
+    {
+      "id": "0x00000060",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0D /var><var 1E 0E /var> Change Category  <var 1E 0A /var> Return"
+    },
+    {
+      "id": "0x00000061",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0D /var><var 1E 0E /var> Change Category  <var 1E 0A /var> Return"
+    },
+    {
+      "id": "0x00000062",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0D /var><var 1E 0E /var> Change Category  <var 1E 0A /var> Return"
+    },
+    {
+      "id": "0x00000063",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0D /var><var 1E 0E /var> Change Category  <var 1E 0A /var> Return"
+    },
+    {
+      "id": "0x00000064",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0D /var><var 1E 0E /var> Change Category  <var 1E 0A /var> Return"
+    },
+    {
+      "id": "0x00000065",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0D /var><var 1E 0E /var> Change Category  <var 1E 0A /var> Return"
+    },
+    {
+      "id": "0x00000066",
+      "text": "<var 1E 0B /var> Gear Subcommands"
+    },
+    {
+      "id": "0x00000067",
+      "text": "<var 1E 0D /var><var 1E 0E /var> Select Category"
+    },
+    {
+      "id": "0x00000068",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 04 /var><var 1E 05 /var> Change Page"
+    },
+    {
+      "id": "0x00000069",
+      "text": "<var 1E 09 /var> Retrieve Online Status  <var 1E 0B /var> Subcommands  <var 1E 04 /var><var 1E 05 /var> Change Page"
+    },
+    {
+      "id": "0x0000006A",
+      "text": "<var 1E 18 /var> Scroll"
+    },
+    {
+      "id": "0x0000006B",
+      "text": "<var 1E 09 /var> Use  <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x0000006C",
+      "text": "<var 1E 0B /var> Set to Hotbar"
+    },
+    {
+      "id": "0x0000006D",
+      "text": "<var 1E 0B /var> Select  <var 1E 0C /var> Register  <var 1E 19 /var> Scroll"
+    },
+    {
+      "id": "0x0000006E",
+      "text": "<var 1E 0B /var> Return Item"
+    },
+    {
+      "id": "0x0000006F",
+      "text": "<var 1E 09 /var> Select Item"
+    },
+    {
+      "id": "0x00000070",
+      "text": "<var 1E 06 /var> Scroll"
+    },
+    {
+      "id": "0x00000071",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0C /var> Select Item"
+    },
+    {
+      "id": "0x00000072",
+      "text": "<var 1E 08 /var> Move  <var 1E 09 /var> Select  <var 1E 0A /var> Cancel"
+    },
+    {
+      "id": "0x00000073",
+      "text": "<var 1E 09 /var> Remove Item <var 1E 0C /var> Select Item"
+    },
+    {
+      "id": "0x00000074",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0A /var> Return"
+    },
+    {
+      "id": "0x00000075",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0D /var><var 1E 0E /var> Change Category  <var 1E 0A /var> Return"
+    },
+    {
+      "id": "0x00000076",
+      "text": "<var 1E 0B /var> Set to Hotbar"
+    },
+    {
+      "id": "0x00000077",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000078",
+      "text": "<var 1E 09 /var> Equip/Remove Gear"
+    },
+    {
+      "id": "0x00000079",
+      "text": "<var 1E 0C /var> Randomize"
+    },
+    {
+      "id": "0x0000007A",
+      "text": "<var 1E 09 /var> Select Tincture  <var 1E 0C /var> Randomize"
+    },
+    {
+      "id": "0x0000007B",
+      "text": "<var 1E 09 /var> Select  <var 1E 0C /var> Randomize"
+    },
+    {
+      "id": "0x0000007C",
+      "text": "<var 1E 19 /var> Scroll"
+    },
+    {
+      "id": "0x0000007D",
+      "text": "<var 1E 04 /var><var 1E 05 /var> Move <var 1E 09 /var> Confirm"
+    },
+    {
+      "id": "0x0000007E",
+      "text": "<var 1E 0C /var> Apply"
+    },
+    {
+      "id": "0x0000007F",
+      "text": "<var 1E 0C /var> Select Item to Deposit"
+    },
+    {
+      "id": "0x00000080",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 02 /var> Select Log  <var 1E 0C /var> Restore Log Size"
+    },
+    {
+      "id": "0x00000081",
+      "text": "<var 12 12 /var> Change Element Size  <var 1E 0C /var> Hide/Display"
+    },
+    {
+      "id": "0x00000082",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0C /var> View Set"
+    },
+    {
+      "id": "0x00000083",
+      "text": "<var 1E 09 /var> Display Locations"
+    },
+    {
+      "id": "0x00000084",
+      "text": "<var 1E 18 /var> Scroll Map"
+    },
+    {
+      "id": "0x00000085",
+      "text": "<var 1E 18 /var> Scroll Map  <var 1E 09 /var> Fish Guide"
+    },
+    {
+      "id": "0x00000086",
+      "text": "<var 1E 02 /var> Select Log  <var 1E 03 /var> Toggle Tabs  <var 1E 0C /var> Expand Log"
+    },
+    {
+      "id": "0x00000087",
+      "text": "<var 1E 02 /var> Select Log  <var 1E 0C /var> Restore Log Size"
+    },
+    {
+      "id": "0x00000088",
+      "text": "<var 1E 0C /var> Select Item to Deposit"
+    },
+    {
+      "id": "0x00000089",
+      "text": "<var 1E 0B /var> Undo Changes"
+    },
+    {
+      "id": "0x0000008A",
+      "text": "<var 1E 0B /var> Subcommands <var 1E 0C /var> View Furnishings"
+    },
+    {
+      "id": "0x0000008B",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0C /var> Inventory<var 08 E4E96A01 ((  <var 1E 0F /var><var 1E 10 /var> Toggle Storeroom)) (()) /var>"
+    },
+    {
+      "id": "0x0000008C",
+      "text": "<var 1E 0C /var> Move"
+    },
+    {
+      "id": "0x0000008D",
+      "text": "<var 1E 15 /var> Move <var 1E 1A /var> Rotate <var 1E 0D /var>＋<var 1E 19 /var> Zoom In/Out"
+    },
+    {
+      "id": "0x0000008E",
+      "text": "<var 1E 0B /var> Gear Subcommands  <var 1E 15 /var> Move <var 1E 1A /var> Rotate  <var 1E 0D /var>＋<var 1E 19 /var> Zoom In/Out"
+    },
+    {
+      "id": "0x0000008F",
+      "text": "<var 1E 0B /var> Set to Hotbar"
+    },
+    {
+      "id": "0x00000090",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 02 /var> Select Log  <var 1E 03 /var> Toggle Tabs"
+    },
+    {
+      "id": "0x00000091",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0A /var> Back"
+    },
+    {
+      "id": "0x00000092",
+      "text": "<var 1E 02 /var> Select Log  <var 1E 03 /var> Toggle Tabs"
+    },
+    {
+      "id": "0x00000093",
+      "text": "<var 1E 0D /var><var 1E 0E /var> Cycle Tab"
+    },
+    {
+      "id": "0x00000094",
+      "text": "<var 1E 0A /var> Chat Input  <var 1E 0C /var> Expand Log"
+    },
+    {
+      "id": "0x00000095",
+      "text": "<var 1E 0A /var> Chat Input  <var 1E 0C /var> Restore Log Size"
+    },
+    {
+      "id": "0x00000096",
+      "text": "<var 1E 18 /var> Scroll   <var 1E 0C /var> Switch Type  <var 1E 0D /var>+<var 1E 18 /var> Zoom In/Out"
+    },
+    {
+      "id": "0x00000097",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000098",
+      "text": "<var 1E 0A /var> Back"
+    },
+    {
+      "id": "0x00000099",
+      "text": "<var 1E 02 /var> Select Log  <var 1E 03 /var> Toggle Tabs"
+    },
+    {
+      "id": "0x0000009A",
+      "text": "<var 1E 0D /var><var 1E 0E /var> Select Class"
+    },
+    {
+      "id": "0x0000009B",
+      "text": "<var 1E 0D /var><var 1E 0E /var> Select Category  <var 1E 0B /var> Subcommands  <var 1E 0C /var> Synthesize"
+    },
+    {
+      "id": "0x0000009C",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0C /var> Synthesize"
+    },
+    {
+      "id": "0x0000009D",
+      "text": "<var 1E 0A /var> Target Close Button"
+    },
+    {
+      "id": "0x0000009E",
+      "text": "<var 1E 0A /var> Target Close Button"
+    },
+    {
+      "id": "0x0000009F",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000000A0",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000000A1",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000000A2",
+      "text": "<var 1E 0B /var> Gear Subcommands  <var 1E 15 /var> Move  <var 1E 1A /var> Rotate  <var 1E 0D /var>+<var 1E 19 /var> Zoom In/Out"
+    },
+    {
+      "id": "0x000000A3",
+      "text": "<var 1E 18 /var> Scroll  <var 1E 0C /var> Switch Type  <var 1E 0D /var>+<var 1E 18 /var> Zoom In/Out <var 1E 0D /var>+<var 1E 0E /var> Map Link"
+    },
+    {
+      "id": "0x000000A4",
+      "text": "<var 1E 18 /var> Scroll  <var 1E 0C /var> Switch Type  <var 1E 0D /var>＋<var 1E 0B /var> Toggle Floor  <var 1E 0D /var>+<var 1E 18 /var> Zoom In/Out <var 1E 0D /var>+<var 1E 0E /var> Map Link"
+    },
+    {
+      "id": "0x000000A5",
+      "text": "<var 1E 0C /var> Select Random Number"
+    },
+    {
+      "id": "0x000000A6",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000000A7",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000000A8",
+      "text": "<var 1E 0C /var> Select Random Word"
+    },
+    {
+      "id": "0x000000A9",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000000AA",
+      "text": "<var 1E 0C /var> Display Rules"
+    },
+    {
+      "id": "0x000000AB",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 09 /var> Select Item"
+    },
+    {
+      "id": "0x000000AC",
+      "text": "<var 1E 0A /var> Target Close Button"
+    },
+    {
+      "id": "0x000000AD",
+      "text": "<var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var>\nlua 5.1.4 / MIT License\n<var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var>\nCopyright (C) 1994-2008 Lua.org, PUC-Rio.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: \n\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.\n\n\n<var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var>\nrsa-md5 / RSA Data Security License\n<var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var>\nCopyright (C) 1991-2, RSA Data Security, Inc. Created 1991. All rights reserved.\n\nLicense to copy and use this software is granted provided that it is identified as the “RSA Data Security, Inc. MD5 Message-Digest Algorithm” in all material mentioning or referencing this software or this function.\n\nLicense is also granted to make and use derivative works provided that such works are identified as “derived from the RSA Data Security, Inc. MD5 Message-Digest Algorithm” in all material mentioning or referencing the derived work.\n\nRSA Data Security, Inc. makes no representations concerning either the merchantability of this software or the suitability of this software for any particular purpose. It is provided “as is” without express or implied warranty of any kind.\n\nThese notices must be retained in any copies of any part of this documentation and/or software. \n\n\n<var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var>\nSHA-1 (Internet Society)\n<var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var>\nCopyright (C) The Internet Society (2001). All Rights Reserved.\n\nThis document and translations of it may be copied and furnished to others, and derivative works that comment on or otherwise explain it or assist in its implementation may be prepared, copied, published and distributed, in whole or in part, without restriction of any kind, provided that the above copyright notice and this paragraph are included on all such copies and derivative works. However, this document itself may not be modified in any way, such as by removing the copyright notice or references to the Internet Society or other Internet organizations, except as needed for the purpose of developing Internet standards in which case the procedures for copyrights defined in the Internet Standards process must be followed, or as required to translate it into languages other than English.\n\nThe limited permissions granted above are perpetual and will not be revoked by the Internet Society or its successors or assigns.\n\nThis document and the information contained herein is provided on an “AS IS” basis and THE INTERNET SOCIETY AND THE INTERNET ENGINEERING TASK FORCE DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTY THAT THE USE OF THE INFORMATION HEREIN WILL NOT INFRINGE ANY RIGHTS OR ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.\n\nAcknowledgement\n\nFunding for the RFC Editor function is currently provided by the Internet Society.\n\n\n<var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var>\nzstream.h (zlib)\n<var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var>\nCopyright (c) 1997\nChristian Michelsen Research AS\nAdvanced Computing\nFantoftvegen 38, 5036 BERGEN, Norway\nhttp://www.cmr.no\n\nPermission to use, copy, modify, distribute and sell this software and its documentation for any purpose is hereby granted without fee, provided that the above copyright notice appear in all copies and that both that copyright notice and this permission notice appear in supporting documentation. Christian Michelsen Research AS makes no representations about the suitability of this software for any purpose. It is provided “as is” without express or implied warranty.\n\n\n<var 1F /var><var 1F /var><var 1F /var>\nLIBRARY FOR DUALSHOCK®4 & DualSense™ WIRELESS CONTROLLER\n<var 1F /var><var 1F /var><var 1F /var>\n“DUALSHOCK” and “DualSense” are registered trademarks or trademarks of Sony Interactive Entertainment Inc.\nLibrary programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 Sony Interactive Entertainment Inc.\n<var 1F /var><var 1F /var><var 1F /var>\n\n\n<var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var>\nQR Code is a registered trademark of DENSO WAVE INCORPORATED in Japan and in other countries.\n<var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var><var 1F /var>"
+    },
+    {
+      "id": "0x000000AE",
+      "text": "<var 1E 0D /var><var 1E 0E /var> Select Category"
+    },
+    {
+      "id": "0x000000AF",
+      "text": "<var 1E 0D /var><var 1E 0E /var> Toggle Phase  <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000000B0",
+      "text": "<var 1E 0D /var><var 1E 0E /var> Toggle Phase  <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000000B1",
+      "text": "<var 1E 0A /var> Return  <var 1E 0C /var> Commence Voyage"
+    },
+    {
+      "id": "0x000000B2",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000000B3",
+      "text": "<var 1E 09 /var> Select <var 1E 0A /var> Close <var 1E 0C /var> Register"
+    },
+    {
+      "id": "0x000000B4",
+      "text": "<var 1E 06 /var> History  <var 1E 0D /var> + <var 1E 0E /var> Paste  <var 1E 0B /var> Delete<var 08 E95F ((  <var 1E 0C /var> <var 42 2A /var>)) ((<var 1D /var>)) /var>"
+    },
+    {
+      "id": "0x000000B5",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0C /var> Apply Changes and Close"
+    },
+    {
+      "id": "0x000000B6",
+      "text": "<var 1E 0A /var> Apply Changes and Close"
+    },
+    {
+      "id": "0x000000B7",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0C /var> Display Minion List"
+    },
+    {
+      "id": "0x000000B8",
+      "text": "<var 1E 09 /var> Summon"
+    },
+    {
+      "id": "0x000000B9",
+      "text": "<var 1E 19 /var> Scroll"
+    },
+    {
+      "id": "0x000000BA",
+      "text": "<var 1E 0B /var> Set to Hotbar  <var 1E 0C /var> Edit Minion Hotbar  <var 1E 09 /var> Summon"
+    },
+    {
+      "id": "0x000000BB",
+      "text": "<var 48 F201F4 /var><var 49 F201F5 /var>Learn Your Structures<var 49 01 /var><var 48 01 /var>\n<var 48 F201FA /var><var 49 F201FB /var>Arcana Stones<var 49 01 /var><var 48 01 /var>\n  You and your opponent each have three of these immobile crystals on\n  the playing field. Shatter all of your enemy's Arcana Stones to claim\n  victory.\n<var 48 F201FA /var><var 49 F201FB /var>Gates<var 49 01 /var><var 48 01 /var>\n  Minions will appear in front of your currently selected gate.\n  Returning minions to a gate area will restore their HP.\n  Minions can still be summoned from a destroyed gate, but they will be\n  unable to exit the gate area. Conversely, minions outside a destroyed\n  gate will be unable to enter.\n<var 48 F201FA /var><var 49 F201FB /var>Search Eye<var 49 01 /var><var 48 01 /var>\n  This structure reveals your opponent's minions. If the Search Eye is\n  destroyed, you will only be able to see enemy units that are near\n  your own minions.\n<var 48 F201FA /var><var 49 F201FB /var>Shield<var 49 01 /var><var 48 01 /var>\n  This structure adds defensive strength to Arcana Stones. Destroy the\n  enemy Shield and your opponent's Arcana Stones will be more easily\n  shattered.\n\n<var 48 F201F4 /var><var 49 F201F5 /var>Structural Regeneration<var 49 01 /var><var 48 01 /var>\n  All structures except for Arcana Stones can only be temporarily\n  destroyed. Their various functions will reactivate at full strength\n  after a certain amount of time has passed.\n  ※Positioning your minions near a destroyed structure will hasten\n  　the reactivation process.\n\n<var 48 F201F4 /var><var 49 F201F5 /var>Play to Your Minions' Strengths<var 49 01 /var><var 48 01 /var>\n  Each variety of minion is capable of inflicting greater damage against\n  certain structures. Learn each unit's strengths, and pick the right\n  minion for the job!\n\n<var 48 F201F4 /var><var 49 F201F5 /var>Turn the Tide with Special Actions<var 49 01 /var><var 48 01 /var>\n  These conditions must be met before a special action can be used:\n  ・Four minions of the same variety are gathered in an action party\n  ・Each minion in the action party has full action points\n   (Action points accumulate over time)\n  To perform a special action, select an individual minion from the\n  action party, and press the Execute Action button on the minion\n  hotbar.\n\n<var 48 F201F4 /var><var 49 F201F5 /var>Mastering Traps<var 49 01 /var><var 48 01 /var>\n  Some minions will place traps with their special actions. A trap will\n  become armed ten seconds after it has been placed, and it can then\n  be triggered by pressing the Trigger Trap button on the minion\n  hotbar.\n  ※Only one trap can be placed at a time.\n\n<var 08 E1E95101 ((<var 48 F201F4 /var><var 49 F201F5 /var>Playing with a <var 42 02 /var><var 49 01 /var><var 48 01 /var>\n<var 48 F201FA /var><var 49 F201FB /var>Selecting Minions<var 49 01 /var><var 48 01 /var>\n  ・Selecting an individual minion\n     <var 1E 0D /var>＋<var 1E 08 /var>  : Select minion from party list\n  ・Selecting multiple minions\n     <var 1E 0C /var>　　　: Activate selection circle and select targeted minions\n<var 48 F201FA /var><var 49 F201FB /var>Useful Commands<var 49 01 /var><var 48 01 /var>\n  ・General\n     <var 12 12 /var>　　　: Switch summoning gate\n     <var 1E 10 /var>　　　: Toggle minion party list display\n     <var 12 11 /var>　　　: Select summoning queue\n     <var 1E 0D /var>＋<var 12 0B /var>  : Execute special action\n     <var 1E 0E /var>＋<var 1E 15 /var>  : Move ground target pointer\n     <var 1E 0E /var>＋<var 12 11 /var>  : Reset ground target pointer\n     <var 1E 13 /var>  : Display help\n  ・Minion Selection\n     <var 1E 0D /var>＋<var 12 09 /var>  : Select all minions near currently selected minion\n     <var 1E 0D /var>＋<var 12 0C /var>  : Select all nearby minions of same variety as currently\n　　　　　      selected minion\n     <var 1E 0D /var>＋<var 12 0A /var>  : Select all minions of same variety as currently selected\n　　　　　      minion\n  ・Minimap Controls\n     <var 1E 0F /var> while pressed : Record map jump point (release button to jump)\n     <var 1E 0F /var>＋<var 1E 18 /var>  : Map jump point selection\n     <var 1E 0F /var>＋<var 12 12 /var>  : Restore map jump point defaults\n\n<var 48 F201F4 /var><var 49 F201F5 /var>Mouse Controls<var 49 01 /var><var 48 01 /var>\n<var 48 F201FA /var><var 49 F201FB /var>Selecting Minions<var 49 01 /var><var 48 01 /var>\n   Left-Click : Select individual minion\n   　※Left-clicking on your currently selected minion will select all\n   　nearby minions of the same variety.\n   Left-Click + Drag : Select all minions in the selection square\n)) ((<var 48 F201F4 /var><var 49 F201F5 /var>Mouse Controls<var 49 01 /var><var 48 01 /var>\n<var 48 F201FA /var><var 49 F201FB /var>Selecting Minions<var 49 01 /var><var 48 01 /var>\n   Left-Click : Select individual minion\n   　※Left-clicking on your currently selected minion will select all\n   　nearby minions of the same variety.\n   Left-Click + Drag : Select all minions in the selection square\n\n<var 48 F201F4 /var><var 49 F201F5 /var>Playing with a <var 42 02 /var><var 49 01 /var><var 48 01 /var>\n<var 48 F201FA /var><var 49 F201FB /var>Selecting Minions<var 49 01 /var><var 48 01 /var>\n  ・Selecting an individual minion\n     <var 1E 0D /var>＋<var 1E 08 /var>  : Select minion from party list\n  ・Selecting multiple minions\n     <var 1E 0C /var>　　　: Activate selection circle and select targeted minions\n<var 48 F201FA /var><var 49 F201FB /var>Useful Commands<var 49 01 /var><var 48 01 /var>\n  ・General\n     <var 12 12 /var>　　　: Switch summoning gate\n     <var 1E 10 /var>　　　: Toggle minion party list display\n     <var 12 11 /var>　　　: Select summoning queue\n     <var 1E 0D /var>＋<var 12 0B /var>  : Execute special action\n     <var 1E 0E /var>＋<var 1E 15 /var>  : Move ground target pointer\n     <var 1E 0E /var>＋<var 12 11 /var>  : Reset ground target pointer\n     <var 1E 13 /var>  : Display help\n  ・Minion Selection\n     <var 1E 0D /var>＋<var 12 09 /var>  : Select all minions near currently selected minion\n     <var 1E 0D /var>＋<var 12 0C /var>  : Select all nearby minions of same variety as currently\n　　　　　      selected minion\n     <var 1E 0D /var>＋<var 12 0A /var>  : Select all minions of same variety as currently selected\n　　　　　      minion\n  ・Minimap Controls\n     <var 1E 0F /var> while pressed : Record map jump point (release button to jump)\n     <var 1E 0F /var>＋<var 1E 18 /var>  : Map jump point selection\n     <var 1E 0F /var>＋<var 12 12 /var>  : Restore map jump point defaults\n)) /var>\n<var 48 F201F4 /var><var 49 F201F5 /var>Keyboard Shortcuts<var 49 01 /var><var 48 01 /var>\n  The following keybinds will be assigned different functions while\n  playing Lord of Verminion.\n<var 08 E4E94C02 (()) ((  Hotbar 1 - Slots 1 to 12 : Minion hotbar bottom row\n  Hotbar 2 - Slots 1 to 12 : Minion hotbar top row\n  Hotbar 3 - Slot 1 : Execute Action\n  Hotbar 3 - Slot 2 : Trigger Trap\n  Hotbar 3 - Slot 3 : Withdraw Minion\n)) /var>  Draw/Sheathe Weapon : Switch summoning gate\n  Minion Guide : Battle List"
+    },
+    {
+      "id": "0x000000BC",
+      "text": "'<var 1E 09 /var> Select  <var 1E 0C /var> Embark  <var 1E 19 /var> Scroll"
+    },
+    {
+      "id": "0x000000BD",
+      "text": "<var 1E 09 /var>Change Order/Tier  <var 1E 0B /var> Turn On/Off  <var 1E 0C /var> Apply"
+    },
+    {
+      "id": "0x000000BE",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000000BF",
+      "text": "<var 1E 06 /var> Change Order  <var 1E 07 /var> Change Tier  <var 1E 09 /var> Confirm  <var 1E 0A /var> Cancel  <var 1E 0B /var> Hide  <var 1E 0C /var> Apply"
+    },
+    {
+      "id": "0x000000C0",
+      "text": "<var 1E 0D /var><var 1E 0E /var> Select Category  <var 1E 09 /var> Listen  <var 1E 0C /var> Set Roll  <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000000C1",
+      "text": "<var 1E 0D /var><var 1E 0E /var> Select Category  <var 1E 09 /var> Set Roll  <var 1E 0C /var> Stop  <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000000C2",
+      "text": "<var 1E 0D /var><var 1E 0E /var> Select Category  <var 1E 09 /var> Stop  <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000000C3",
+      "text": "<var 1E 0D /var><var 1E 0E /var> Select Category  <var 1E 09 /var> Play  <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000000C4",
+      "text": "<var 1E 09 /var> Buyback"
+    },
+    {
+      "id": "0x000000C5",
+      "text": "<var 1E 0B /var> Gear Subcommands"
+    },
+    {
+      "id": "0x000000C6",
+      "text": "<var 1E 15 /var> Move  <var 1E 1A /var> Rotate  <var 1E 0D /var>＋<var 1E 19 /var> Zoom In/Out"
+    },
+    {
+      "id": "0x000000C7",
+      "text": "<var 1E 0B /var> Gear Subcommands  <var 1E 15 /var> Move  <var 1E 1A /var> Rotate  <var 1E 0D /var>＋<var 1E 19 /var> Zoom In/Out"
+    },
+    {
+      "id": "0x000000C8",
+      "text": "<var 1E 09 /var> Select  <var 1E 0C /var> Begin  <var 1E 19 /var> Scroll"
+    },
+    {
+      "id": "0x000000C9",
+      "text": "<var 1E 0D /var><var 1E 0E /var> Select Category"
+    },
+    {
+      "id": "0x000000CA",
+      "text": "<var 1E 09 /var><var 1E 0B /var> Subcommands  <var 1E 0D /var><var 1E 0E /var> Toggle Lists"
+    },
+    {
+      "id": "0x000000CB",
+      "text": "<var 1E 09 /var> Change Role Order  <var 1E 0C /var> Apply"
+    },
+    {
+      "id": "0x000000CC",
+      "text": "<var 1E 06 /var> Move  <var 1E 09 /var> Confirm  <var 1E 0A /var> Cancel  <var 1E 0C /var> Apply"
+    },
+    {
+      "id": "0x000000CD",
+      "text": "<var 1E 0B /var> Select  <var 1E 0C /var> Close Confirmation  <var 1E 19 /var> Scroll"
+    },
+    {
+      "id": "0x000000CE",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0C /var> Examine"
+    },
+    {
+      "id": "0x000000CF",
+      "text": "<var 1E 0A /var> Close  <var 1E 19 /var> Scroll"
+    },
+    {
+      "id": "0x000000D0",
+      "text": "<var 1E 0A /var> Close  <var 1E 19 /var> Scroll"
+    },
+    {
+      "id": "0x000000D1",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 09 /var> Confirm  <var 1E 0A /var> Cancel"
+    },
+    {
+      "id": "0x000000D2",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 09 /var> Confirm  <var 1E 0A /var> Cancel"
+    },
+    {
+      "id": "0x000000D3",
+      "text": "<var 1E 09 /var> Listen  <var 1E 0C /var> Play  <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000000D4",
+      "text": "<var 1E 09 /var> Play  <var 1E 0C /var> Stop  <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000000D5",
+      "text": "<var 1E 09 /var> Stop  <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000000D6",
+      "text": "<var 1E 0C /var> Edit Squadron"
+    },
+    {
+      "id": "0x000000D7",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0A /var> Close"
+    },
+    {
+      "id": "0x000000D8",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000000D9",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000000DA",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000000DB",
+      "text": "<var 1E 0F /var><var 1E 10 /var> Toggle Camera  <var 1E 13 /var> View Menu"
+    },
+    {
+      "id": "0x000000DC",
+      "text": "<var 1E 09 /var> Move to Room  <var 1E 0B /var> View Apartment Details"
+    },
+    {
+      "id": "0x000000DD",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000000DE",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000000DF",
+      "text": "<var 1E 18 /var> Scroll  <var 1E 0D /var>＋<var 1E 18 /var> Zoom  <var 1E 0E /var> Toggle Camera"
+    },
+    {
+      "id": "0x000000E0",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000000E1",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0C /var> Toggle Environment"
+    },
+    {
+      "id": "0x000000E2",
+      "text": "<var 1E 0A /var> Close  <var 1E 19 /var> Scroll"
+    },
+    {
+      "id": "0x000000E3",
+      "text": "<var 1E 0D /var><var 1E 0E /var> Select Category  <var 1E 09 /var> Add  <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000000E4",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000000E5",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000000E6",
+      "text": "<var 1E 0B /var> Equipment Subcommands"
+    },
+    {
+      "id": "0x000000E7",
+      "text": "<var 1E 0B /var> Equipment Subcommands  <var 1E 15 /var> Move  <var 1E 1A /var> Rotate  <var 1E 0D /var>＋<var 1E 19 /var> Zoom"
+    },
+    {
+      "id": "0x000000E8",
+      "text": "<var 1E 09 /var><var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000000E9",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000000EA",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000000EB",
+      "text": "<var 1E 0B /var> Set to Hotbar  <var 1E 09 /var> Execute Action"
+    },
+    {
+      "id": "0x000000EC",
+      "text": "<var 1E 09 /var> Register in Additional PvP Actions"
+    },
+    {
+      "id": "0x000000ED",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 09 /var>Select"
+    },
+    {
+      "id": "0x000000EE",
+      "text": "<var 1E 04 /var><var 1E 05 /var> Move <var 1E 09 /var> Confirm"
+    },
+    {
+      "id": "0x000000EF",
+      "text": "<var 1E 18 /var> Scroll  <var 1E 0C /var> Switch Type  <var 1E 0D /var>＋<var 1E 0B /var> Toggle Floor  <var 1E 0D /var>+<var 1E 18 /var> Zoom"
+    },
+    {
+      "id": "0x000000F0",
+      "text": "<var 1E 09 /var> Add PvP Trait"
+    },
+    {
+      "id": "0x000000F1",
+      "text": "<var 1E 09 /var><var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000000F2",
+      "text": "<var 1E 0A /var> Give Up"
+    },
+    {
+      "id": "0x000000F3",
+      "text": "<var 1E 0A /var> Target Close Button"
+    },
+    {
+      "id": "0x000000F4",
+      "text": "<var 1E 06 /var> Scroll  <var 1E 0A /var> Close"
+    },
+    {
+      "id": "0x000000F5",
+      "text": "<var 1E 0C /var> Edit Squadron"
+    },
+    {
+      "id": "0x000000F6",
+      "text": "<var 1E 09 /var> Retrieve Online Status  <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000000F7",
+      "text": "When using the performance actions, you are strictly prohibited from performing the music of any third parties. You may record and upload your performance and hereby agree to license such recordings to us for use by Square Enix or others in accordance with the terms of the “FINAL FANTASY XIV Material Usage License”."
+    },
+    {
+      "id": "0x000000F8",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000000F9",
+      "text": "<var 1E 0C /var> Start/Abandon"
+    },
+    {
+      "id": "0x000000FA",
+      "text": "<var 1E 0C /var> Start/Retry  <var 1E 0B /var> Close"
+    },
+    {
+      "id": "0x000000FB",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0C /var> Select Item"
+    },
+    {
+      "id": "0x000000FC",
+      "text": "<var 1E 08 /var> Move  <var 1E 09 /var> Confirm  <var 1E 0A /var> Cancel"
+    },
+    {
+      "id": "0x000000FD",
+      "text": "<var 1E 0B /var>Subcommands  <var 1E 0A /var> Return"
+    },
+    {
+      "id": "0x000000FE",
+      "text": "<var 1E 0B /var>Subcommands  <var 1E 0A /var> Return"
+    },
+    {
+      "id": "0x000000FF",
+      "text": "<var 1E 0B /var>Subcommands  <var 1E 0D /var><var 1E 0E /var>Change Category  <var 1E 0A /var> Return"
+    },
+    {
+      "id": "0x00000100",
+      "text": "<var 1E 0C /var> Apply"
+    },
+    {
+      "id": "0x00000101",
+      "text": "<var 1E 09 /var> Affix Magicite　<var 1E 0B /var> Remove Magicite"
+    },
+    {
+      "id": "0x00000102",
+      "text": "<var 1E 0C /var> Change Target   <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000103",
+      "text": "<var 1E 0A /var><var 1E 0C /var> Change Target   <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000104",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000105",
+      "text": "<var 1E 0A /var> Return to Plate"
+    },
+    {
+      "id": "0x00000106",
+      "text": "<var 1E 0B /var> Subcommands　<var 1E 0A /var> Return to Plate"
+    },
+    {
+      "id": "0x00000107",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 15 /var> Move  <var 1E 1A /var> Rotate  <var 1E 0D /var>＋<var 1E 19 /var> Zoom"
+    },
+    {
+      "id": "0x00000108",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000109",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x0000010A",
+      "text": "<var 1E 09 /var><var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x0000010B",
+      "text": "<var 1E 0A /var> Close"
+    },
+    {
+      "id": "0x0000010C",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x0000010D",
+      "text": "<var 1E 0C /var> Check All On/Off"
+    },
+    {
+      "id": "0x0000010E",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x0000010F",
+      "text": "<var 1E 09 /var> Remove Item  <var 1E 0C /var> Select Item to Donate"
+    },
+    {
+      "id": "0x00000110",
+      "text": "<var 1E 09 /var><var 1E 0B /var> Subcommands  <var 1E 0A /var> Return"
+    },
+    {
+      "id": "0x00000111",
+      "text": "<var 1E 19 /var> Scroll"
+    },
+    {
+      "id": "0x00000112",
+      "text": "<var 1E 0B /var><var 1E 09 /var> Subcommands"
+    },
+    {
+      "id": "0x00000113",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0C /var> Move Favorite"
+    },
+    {
+      "id": "0x00000114",
+      "text": "<var 1E 0C /var> Select Item to Donate"
+    },
+    {
+      "id": "0x00000115",
+      "text": "<var 1E 09 /var> Summon/Dismiss  <var 1E 0B /var> Subcommands  <var 1E 0C /var> Edit Minion Hotbar"
+    },
+    {
+      "id": "0x00000116",
+      "text": "<var 1E 09 /var> Summon/Dismiss  <var 1E 0B /var> Subcommands <var 1E 0C /var> Move"
+    },
+    {
+      "id": "0x00000117",
+      "text": "<var 1E 08 /var> Move  <var 1E 0C /var><var 1E 09 /var> Confirm  <var 1E 0A /var> Cancel"
+    },
+    {
+      "id": "0x00000118",
+      "text": "<var 1E 06 /var> History  <var 1E 0D /var> + <var 1E 0E /var> Paste<var 08 E95F ((  <var 1E 0C /var> <var 42 2A /var>)) ((<var 1D /var>)) /var>"
+    },
+    {
+      "id": "0x00000119",
+      "text": "<var 1E 06 /var> Move  <var 1E 09 /var> Summon/Dismiss  <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x0000011A",
+      "text": "<var 1E 09 /var> Execute  <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x0000011B",
+      "text": "<var 1E 09 /var> Execute  <var 1E 0B /var> Subcommands  <var 1E 0C /var> Move"
+    },
+    {
+      "id": "0x0000011C",
+      "text": "<var 1E 08 /var> Move  <var 1E 0C /var><var 1E 09 /var> Confirm  <var 1E 0A /var> Cancel"
+    },
+    {
+      "id": "0x0000011D",
+      "text": "<var 1E 06 /var> History  <var 1E 0D /var> + <var 1E 0E /var> Paste<var 08 E95F ((  <var 1E 0C /var> <var 42 2A /var>)) ((<var 1D /var>)) /var>"
+    },
+    {
+      "id": "0x0000011E",
+      "text": "<var 1E 06 /var> Move  <var 1E 09 /var> Execute  <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x0000011F",
+      "text": "<var 1E 08 /var> Move  <var 1E 0C /var><var 1E 09 /var><var 1E 0B /var> Confirm  <var 1E 0A /var> Cancel"
+    },
+    {
+      "id": "0x00000120",
+      "text": "<var 1E 09 /var> Summon/Dismiss  <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000121",
+      "text": "<var 1E 0C /var> New Letter"
+    },
+    {
+      "id": "0x00000122",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 09 /var> Accept"
+    },
+    {
+      "id": "0x00000123",
+      "text": "<var 1E 09 /var> Add to Active Actions"
+    },
+    {
+      "id": "0x00000124",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 09 /var> Assign New Slot"
+    },
+    {
+      "id": "0x00000125",
+      "text": "<var 1E 08 /var> Move  <var 1E 09 /var> Confirm  <var 1E 0A /var> Cancel"
+    },
+    {
+      "id": "0x00000126",
+      "text": "<var 1E 0A /var> Close"
+    },
+    {
+      "id": "0x00000127",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 09 /var> Set  <var 1E 0A /var> Manipulate  <var 1E 0C /var> Logos Actions"
+    },
+    {
+      "id": "0x00000128",
+      "text": "<var 1E 09 /var> Enable  <var 1E 0C /var> Close"
+    },
+    {
+      "id": "0x00000129",
+      "text": "<var 1E 0C /var> Select Logogram  <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x0000012A",
+      "text": "<var 1E 0B /var><var 1E 09 /var> Subcommands"
+    },
+    {
+      "id": "0x0000012B",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0A /var><var 1E 0C /var> Manipulate"
+    },
+    {
+      "id": "0x0000012C",
+      "text": "<var 1E 0C /var> Select Logogram  <var 1E 0A /var> Close"
+    },
+    {
+      "id": "0x0000012D",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x0000012E",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x0000012F",
+      "text": "<var 1E 09 /var><var 1E 0B /var> View Tag"
+    },
+    {
+      "id": "0x00000130",
+      "text": "<var 1E 09 /var><var 1E 0B /var> View Tag"
+    },
+    {
+      "id": "0x00000131",
+      "text": "<var 1E 0B /var> Delete<var 08 E95F ((  <var 1E 0C /var> <var 42 2A /var>)) ((<var 1D /var>)) /var>"
+    },
+    {
+      "id": "0x00000132",
+      "text": "<var 1E 09 /var><var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000133",
+      "text": "<var 1E 09 /var>Execute Action  <var 1E 0B /var>Set to Hotbar  <var 1E 0C /var> Edit Hotbar"
+    },
+    {
+      "id": "0x00000134",
+      "text": "<var 1E 09 /var>Execute Action  <var 1E 0B /var>Set to Hotbar"
+    },
+    {
+      "id": "0x00000135",
+      "text": "<var 1E 09 /var>Execute Action  <var 1E 0B /var>Set to Hotbar"
+    },
+    {
+      "id": "0x00000136",
+      "text": "<var 1E 0D /var><var 1E 0E /var> Toggle Stage Info"
+    },
+    {
+      "id": "0x00000137",
+      "text": "<var 1E 09 /var> Confirm  <var 1E 0C /var> Return to Home World  <var 1E 19 /var> Scroll"
+    },
+    {
+      "id": "0x00000138",
+      "text": "<var 1E 09 /var> Confirm  <var 1E 0C /var> Return to Home World"
+    },
+    {
+      "id": "0x00000139",
+      "text": "<var 1E 0B /var> Change Calls  <var 1E 0C /var> Toggle Support Features"
+    },
+    {
+      "id": "0x0000013A",
+      "text": "<var 1E 09 /var> Retrieve Online Status  <var 1E 0B /var> Subcommands  <var 1E 0A /var> Return"
+    },
+    {
+      "id": "0x0000013B",
+      "text": "<var 1E 0D /var><var 1E 0E /var> Toggle Act Info  <var 1E 09 /var> Confirm Enemy's Vulnerabilities"
+    },
+    {
+      "id": "0x0000013C",
+      "text": "<var 1E 09 /var> Confirm  <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x0000013D",
+      "text": "<var 1E 09 /var> Select  <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x0000013E",
+      "text": "<var 1E 06 /var> Scroll"
+    },
+    {
+      "id": "0x0000013F",
+      "text": "<var 1E 09 /var> Select Item"
+    },
+    {
+      "id": "0x00000140",
+      "text": "<var 1E 09 /var> Add/Remove Party Member"
+    },
+    {
+      "id": "0x00000141",
+      "text": "<var 1E 0B /var>Subcommands  <var 1E 09 /var> Add/Remove Party Member"
+    },
+    {
+      "id": "0x00000142",
+      "text": "<var 1E 09 /var> Toggle On/Off  <var 1E 0B /var> Toggle Others On/Off  <var 1E 0C /var> Filter"
+    },
+    {
+      "id": "0x00000143",
+      "text": "<var 1E 0A /var> Close <var 1E 19 /var> Scroll"
+    },
+    {
+      "id": "0x00000144",
+      "text": "<var 1E 09 /var> Select <var 1E 0A /var> Close <var 1E 0C /var> Register <var 1E 19 /var> Scroll"
+    },
+    {
+      "id": "0x00000145",
+      "text": "<var 1E 09 /var> To Details  <var 1E 19 /var> Scroll  <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000146",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000147",
+      "text": "<var 1E 0B /var>Subcommands  <var 1E 0C /var>Enable/Disable Quick Gathering"
+    },
+    {
+      "id": "0x00000148",
+      "text": "<var 1E 09 /var> View Details  <var 1E 19 /var> Scroll <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000149",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x0000014A",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x0000014B",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0D /var><var 1E 0E /var> Change Page"
+    },
+    {
+      "id": "0x0000014C",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x0000014D",
+      "text": "<var 1E 0B /var> Set to Hotbar  <var 1E 09 /var> Execute Action"
+    },
+    {
+      "id": "0x0000014E",
+      "text": "<var 1E 19 /var> Scroll"
+    },
+    {
+      "id": "0x0000014F",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000150",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0C /var> Return  <var 1E 0A /var> Close"
+    },
+    {
+      "id": "0x00000151",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000152",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 09 /var> Select"
+    },
+    {
+      "id": "0x00000153",
+      "text": "<var 1E 0C /var> Apply"
+    },
+    {
+      "id": "0x00000154",
+      "text": "<var 1E 0B /var> Subcommands <var 1E 0D /var><var 1E 0E /var> Change Page"
+    },
+    {
+      "id": "0x00000155",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000156",
+      "text": "<var 1E 0A /var> Return to Toy Chest"
+    },
+    {
+      "id": "0x00000157",
+      "text": "<var 1E 0A /var> Target Close Button"
+    },
+    {
+      "id": "0x00000158",
+      "text": "<var 1E 09 /var><var 1E 0B /var> Subcommands  <var 1E 0A /var> Back"
+    },
+    {
+      "id": "0x00000159",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 09 /var> Execute"
+    },
+    {
+      "id": "0x0000015A",
+      "text": "<var 1E 09 /var> Use  <var 1E 0C /var> Return"
+    },
+    {
+      "id": "0x0000015B",
+      "text": "<var 1E 08 /var> Move  <var 1E 09 /var> Turn Panel"
+    },
+    {
+      "id": "0x0000015C",
+      "text": "<var 1E 09 /var> Move to Lost Finds Holster  <var 1E 0B /var> Subcommands  <var 1E 0C /var> Manage Lost Finds Holster"
+    },
+    {
+      "id": "0x0000015D",
+      "text": "<var 1E 09 /var> Use  <var 1E 0B /var> Subcommands  <var 1E 0C /var> Return"
+    },
+    {
+      "id": "0x0000015E",
+      "text": "<var 1E 09 /var> Move to Lost Finds Cache  <var 1E 0B /var> Subcommands  <var 1E 0C /var> Manage Lost Finds Cache"
+    },
+    {
+      "id": "0x0000015F",
+      "text": "<var 1E 0C /var> Return"
+    },
+    {
+      "id": "0x00000160",
+      "text": "<var 1E 0C /var> Manage Lost Finds Cache"
+    },
+    {
+      "id": "0x00000161",
+      "text": "<var 1E 0C /var> Recommended"
+    },
+    {
+      "id": "0x00000162",
+      "text": "<var 1E 0A /var> Close"
+    },
+    {
+      "id": "0x00000163",
+      "text": "<var 1E 19 /var> Scroll"
+    },
+    {
+      "id": "0x00000164",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000165",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 09 /var> Exchange"
+    },
+    {
+      "id": "0x00000166",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000167",
+      "text": "<var 1E 0B /var> Display Map"
+    },
+    {
+      "id": "0x00000168",
+      "text": "<var 1E 02 /var>"
+    },
+    {
+      "id": "0x00000169",
+      "text": "<var 1E 03 /var>"
+    },
+    {
+      "id": "0x0000016A",
+      "text": "<var 1E 04 /var>"
+    },
+    {
+      "id": "0x0000016B",
+      "text": "<var 1E 05 /var>"
+    },
+    {
+      "id": "0x0000016C",
+      "text": "<var 1E 06 /var>"
+    },
+    {
+      "id": "0x0000016D",
+      "text": "<var 1E 07 /var>"
+    },
+    {
+      "id": "0x0000016E",
+      "text": "<var 1E 08 /var>"
+    },
+    {
+      "id": "0x0000016F",
+      "text": "<var 1E 09 /var>"
+    },
+    {
+      "id": "0x00000170",
+      "text": "<var 1E 0A /var>"
+    },
+    {
+      "id": "0x00000171",
+      "text": "<var 1E 0B /var>"
+    },
+    {
+      "id": "0x00000172",
+      "text": "<var 1E 0C /var>"
+    },
+    {
+      "id": "0x00000173",
+      "text": "<var 1E 0D /var>"
+    },
+    {
+      "id": "0x00000174",
+      "text": "<var 1E 0E /var>"
+    },
+    {
+      "id": "0x00000175",
+      "text": "<var 1E 0F /var>"
+    },
+    {
+      "id": "0x00000176",
+      "text": "<var 1E 10 /var>"
+    },
+    {
+      "id": "0x00000177",
+      "text": "<var 12 11 /var>"
+    },
+    {
+      "id": "0x00000178",
+      "text": "<var 12 12 /var>"
+    },
+    {
+      "id": "0x00000179",
+      "text": "<var 1E 13 /var>"
+    },
+    {
+      "id": "0x0000017A",
+      "text": "<var 1E 14 /var>"
+    },
+    {
+      "id": "0x0000017B",
+      "text": "<var 1E 15 /var>"
+    },
+    {
+      "id": "0x0000017C",
+      "text": "<var 1E 16 /var>"
+    },
+    {
+      "id": "0x0000017D",
+      "text": "<var 1E 17 /var>"
+    },
+    {
+      "id": "0x0000017E",
+      "text": "<var 1E 18 /var>"
+    },
+    {
+      "id": "0x0000017F",
+      "text": "<var 1E 19 /var>"
+    },
+    {
+      "id": "0x00000180",
+      "text": "<var 1E 1A /var>"
+    },
+    {
+      "id": "0x00000181",
+      "text": "<var 1E 0C /var> Quick Scroll <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000182",
+      "text": "<var 1E 06 /var> History <var 1E 0D /var> + <var 1E 0E /var> Paste <var 1E 0B /var> Delete<var 08 E95F ((  <var 1E 0C /var> <var 42 2A /var>)) ((<var 1D /var>)) /var>"
+    },
+    {
+      "id": "0x00000183",
+      "text": "<var 1E 09 /var> Claim Rewards <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000184",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000185",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000186",
+      "text": "<var 1E 0D /var><var 1E 0E /var> Select Class <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000187",
+      "text": "<var 1E 0D /var><var 1E 0E /var> Select Class  <var 1E 09 /var> Open Map"
+    },
+    {
+      "id": "0x00000188",
+      "text": "<var 1E 06 /var> Select Destination <var 1E 09 /var> Teleport <var 1E 0C /var> Previous Location <var 1E 18 /var> Navigate Map"
+    },
+    {
+      "id": "0x00000189",
+      "text": "<var 1E 18 /var> Scroll <var 1E 08 /var> Return to List <var 1E 0C /var> Previous Location"
+    },
+    {
+      "id": "0x0000018A",
+      "text": "<var 1E 18 /var> Scroll <var 1E 09 /var> Teleport <var 1E 0C /var> Previous Location <var 1E 08 /var> Return to List"
+    },
+    {
+      "id": "0x0000018B",
+      "text": "<var 1E 0B /var> Cycle Between Roles <var 1E 09 /var> Specify Class/Job  <var 1E 0C /var> Execute Search"
+    },
+    {
+      "id": "0x0000018C",
+      "text": "<var 1E 0B /var> Select/Deselect All  <var 1E 0C /var> Execute Search"
+    },
+    {
+      "id": "0x0000018D",
+      "text": "<var 1E 0B /var> Toggle Role or Single Class/Job"
+    },
+    {
+      "id": "0x0000018E",
+      "text": "<var 1E 0B /var> Toggle Area or Region"
+    },
+    {
+      "id": "0x0000018F",
+      "text": "<var 1E 0C /var> Select and Close"
+    },
+    {
+      "id": "0x00000190",
+      "text": "<var 1E 18 /var> Scroll <var 1E 0C /var> Switch Type <var 1E 0D /var>＋<var 1E 0B /var> Toggle Floor <var 1E 0D /var>＋<var 1E 18 /var> Zoom <var 1E 09 /var> Teleport"
+    },
+    {
+      "id": "0x00000191",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0C /var> Register  <var 1E 19 /var> Scroll"
+    },
+    {
+      "id": "0x00000192",
+      "text": "<var 1E 0A /var> Return to List  <var 1E 19 /var> Scroll"
+    },
+    {
+      "id": "0x00000193",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 19 /var> Scroll"
+    },
+    {
+      "id": "0x00000194",
+      "text": "<var 1E 19 /var> Scroll"
+    },
+    {
+      "id": "0x00000195",
+      "text": "<var 1E 09 /var><var 1E 0C /var> Preview  <var 1E 0B /var> Subcommands  <var 1E 15 /var> Move  <var 1E 1A /var> Rotate  <var 1E 0D /var>＋<var 1E 19 /var> Zoom"
+    },
+    {
+      "id": "0x00000196",
+      "text": "<var 1E 0C /var> Confirm and Register  <var 1E 0B /var> Party Selection"
+    },
+    {
+      "id": "0x00000197",
+      "text": "<var 1E 09 /var> Change/Remove Members  <var 1E 0A /var> End Selection"
+    },
+    {
+      "id": "0x00000198",
+      "text": "Trust"
+    },
+    {
+      "id": "0x00000199",
+      "text": "You may challenge previously completed main scenario dungeons of level 71 and above with a party of <var 48 F201FA /var><var 49 F201FB /var>NPC avatars<var 49 01 /var><var 48 01 /var>. Avatars will gain EXP and level up in accordance with their duty participation.\n\n<var 48 F201F4 /var><var 49 F201F5 /var>※When using Trust, coffers found in the duty will contain fewer items. In addition, some enemies will no longer drop rewards.<var 49 01 /var><var 48 01 /var>"
+    },
+    {
+      "id": "0x0000019A",
+      "text": "Glamours"
+    },
+    {
+      "id": "0x0000019B",
+      "text": "The glamour system will be unlocked for NPC avatars who have attained level 80. Use the <var 48 F201FA /var><var 49 F201FB /var>Glamour<var 49 01 /var><var 48 01 /var> icons or subcommand from the party selection window to adjust character appearances."
+    },
+    {
+      "id": "0x0000019C",
+      "text": "Avatar Restrictions"
+    },
+    {
+      "id": "0x0000019D",
+      "text": "It should be noted that certain avatars may not be permitted to accompany you into some instanced dungeons."
+    },
+    {
+      "id": "0x0000019E",
+      "text": "Entering Dungeons"
+    },
+    {
+      "id": "0x0000019F",
+      "text": "You may challenge a dungeon via two different methods: by calling upon the <var 48 F201FA /var><var 49 F201FB /var>support of trusty NPCs<var 49 01 /var><var 48 01 /var>, or by forming a party <var 48 F201FA /var><var 49 F201FB /var>with other players<var 49 01 /var><var 48 01 /var>. Player parties may be preformed or assigned via the Duty Finder. No matter what method you choose, the duty that awaits will offer comparable difficulty and experience.\n\n<var 48 F201F4 /var><var 49 F201F5 /var>※When challenging a duty with NPCs, coffers will contain fewer items. In addition, some enemies will no longer drop rewards.<var 49 01 /var><var 48 01 /var>"
+    },
+    {
+      "id": "0x000001A0",
+      "text": "Duty Support"
+    },
+    {
+      "id": "0x000001A1",
+      "text": "By choosing <var 48 F201FA /var><var 49 F201FB /var>Duty Support<var 49 01 /var><var 48 01 /var> under <var 48 F201FA /var><var 49 F201FB /var>Duty<var 49 01 /var><var 48 01 /var> in the main menu, or by accessing the entrance of any applicable duty, you can summon a <var 48 F201FA /var><var 49 F201FB /var>team of NPC allies<var 49 01 /var><var 48 01 /var> to assist you. NPC parties will be <var 48 F201FA /var><var 49 F201FB /var>automatically balanced<var 49 01 /var><var 48 01 /var> to suit your current class or job. Once you have made your preparations, select <var 48 F201FA /var><var 49 F201FB /var>Register for Duty<var 49 01 /var><var 48 01 /var>, and ready yourself for battle!"
+    },
+    {
+      "id": "0x000001A2",
+      "text": "Commencing Duty"
+    },
+    {
+      "id": "0x000001A3",
+      "text": "Once you have registered and your duty is available, a prompt window indicated by a <var 48 F201FA /var><var 49 F201FB /var>notification sound<var 49 01 /var><var 48 01 /var> will appear. Begin duty by selecting <var 48 F201FA /var><var 49 F201FB /var>Commence<var 49 01 /var><var 48 01 /var>.\n\n<var 48 F201F4 /var><var 49 F201F5 /var>※Please note that if you do not commence duty within the time limit, your registration will be automatically withdrawn, and you must start the process over.<var 49 01 /var><var 48 01 /var>"
+    },
+    {
+      "id": "0x000001A4",
+      "text": "What Next?"
+    },
+    {
+      "id": "0x000001A5",
+      "text": "Over the course of your adventures, the number of duties available to you will gradually increase. Should you encounter a duty for which NPC support is not available, access the <var 48 F201FA /var><var 49 F201FB /var>Duty Finder<var 49 01 /var><var 48 01 /var> to team up with other players instead. You may also rechallenge previously cleared duties by using either the <var 48 F201FA /var><var 49 F201FB /var>Duty Finder<var 49 01 /var><var 48 01 /var> or <var 48 F201FA /var><var 49 F201FB /var>Duty Support<var 49 01 /var><var 48 01 /var>, both accessible via <var 48 F201FA /var><var 49 F201FB /var>Duty<var 49 01 /var><var 48 01 /var> in the main menu."
+    },
+    {
+      "id": "0x000001A6",
+      "text": "Party Selection"
+    },
+    {
+      "id": "0x000001A7",
+      "text": "When challenging main scenario duties of level 71 and above, you may choose your favorite <var 48 F201FA /var><var 49 F201FB /var>support NPCs<var 49 01 /var><var 48 01 /var> with which to form a party. Click on a member of your current party to see all <var 48 F201FA /var><var 49 F201FB /var>members available for selection<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x000001A8",
+      "text": "<var 1E 09 /var><var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000001A9",
+      "text": "<var 1E 09 /var><var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000001AC",
+      "text": "Duty Finder"
+    },
+    {
+      "id": "0x000001AD",
+      "text": "The <var 48 F201FA /var><var 49 F201FB /var>Duty Finder<var 49 01 /var><var 48 01 /var> allows you to challenge dungeons and other duties with a <var 48 F201FA /var><var 49 F201FB /var>party of other players<var 49 01 /var><var 48 01 /var>. You may access it via <var 48 F201FA /var><var 49 F201FB /var>Duty<var 49 01 /var><var 48 01 /var> in the main menu, or by choosing the appropriate option at the entrance of any duty."
+    },
+    {
+      "id": "0x000001AE",
+      "text": "Duty Registration"
+    },
+    {
+      "id": "0x000001AF",
+      "text": "Enter dungeons and other duties via the <var 48 F201FA /var><var 49 F201FB /var>Duty Finder<var 49 01 /var><var 48 01 /var> by choosing your desired duty, then selecting <var 48 F201FA /var><var 49 F201FB /var>Join<var 49 01 /var><var 48 01 /var>. You will then be automatically matched with compatible players destined for the same duty.\n\n<var 48 F201F4 /var><var 49 F201F5 /var>※You may register for up to five duties at one time.\n※Duties marked by a lock symbol require certain conditions to be met before becoming accessible.<var 49 01 /var><var 48 01 /var>"
+    },
+    {
+      "id": "0x000001B0",
+      "text": "Duty Status"
+    },
+    {
+      "id": "0x000001B1",
+      "text": "When you register for a duty, it will appear along with an icon in your duty list. You may check <var 48 F201FA /var><var 49 F201FB /var>duty status<var 49 01 /var><var 48 01 /var>, including matching progress and approximate waiting times, by selecting this entry."
+    },
+    {
+      "id": "0x000001B2",
+      "text": "Commencing Duty"
+    },
+    {
+      "id": "0x000001B3",
+      "text": "Once you have been successfully matched with other players, a prompt window indicated by a <var 48 F201FA /var><var 49 F201FB /var>notification sound<var 49 01 /var><var 48 01 /var> will appear. Begin duty by selecting <var 48 F201FA /var><var 49 F201FB /var>Commence<var 49 01 /var><var 48 01 /var>.\n\n<var 48 F201F4 /var><var 49 F201F5 /var>※Please note that if you do not commence duty within the time limit, your registration will be automatically withdrawn, and you must start the process over.<var 49 01 /var><var 48 01 /var>"
+    },
+    {
+      "id": "0x000001B4",
+      "text": "What Next?"
+    },
+    {
+      "id": "0x000001B5",
+      "text": "Over the course of your adventures, the number of duties available to you will gradually increase. Many duties can be cleared via both the <var 48 F201FA /var><var 49 F201FB /var>Duty Finder<var 49 01 /var><var 48 01 /var> and <var 48 F201FA /var><var 49 F201FB /var>Duty Support<var 49 01 /var><var 48 01 /var> systems, so it's worth familiarizing yourself with both. You may also rechallenge previously cleared dungeons by accessing <var 48 F201FA /var><var 49 F201FB /var>Duty Finder<var 49 01 /var><var 48 01 /var> or <var 48 F201FA /var><var 49 F201FB /var>Duty Support<var 49 01 /var><var 48 01 /var> via <var 48 F201FA /var><var 49 F201FB /var>Duty<var 49 01 /var><var 48 01 /var> in the main menu."
+    },
+    {
+      "id": "0x000001B6",
+      "text": "<var 1E 15 /var> Move <var 1E 1A /var> Rotate <var 1E 0D /var>＋<var 1E 19 /var> Zoom In/Out"
+    },
+    {
+      "id": "0x000001B7",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000001B8",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000001B9",
+      "text": "Playback Controls"
+    },
+    {
+      "id": "0x000001BA",
+      "text": "※Keyboard/Mouse settings listed are default.\n<var 08 E4E94C01 ((\n<var 48 F201FA /var><var 49 F201FB /var>Move Camera<var 49 01 /var><var 48 01 /var>\n<var 1E 15 /var> Stick/[W, A, S, D] Keys (Movement)\n\n<var 48 F201FA /var><var 49 F201FB /var>Reset Camera<var 49 01 /var><var 48 01 /var>\n<var 12 11 /var> Button/[Z] Key (Draw/Sheathe Weapon)\n\n<var 48 F201FA /var><var 49 F201FB /var>Change Target Character<var 49 01 /var><var 48 01 /var>\n<var 1E 08 /var> Buttons/[<var 08 E4E94F04 ((tab, shift+tab)) ((Tab, Shift+Tab)) /var>] Keys\n\n<var 48 F201FA /var><var 49 F201FB /var>Pause/Play<var 49 01 /var><var 48 01 /var>\n<var 1E 0C /var> Button/[<var 08 E4E94F04 ((space bar)) ((Space Bar)) /var>] (Jump)\n\n<var 48 F201FA /var><var 49 F201FB /var>Open/Close Controls<var 49 01 /var><var 48 01 /var>\n<var 1E 0B /var> Button/[R] Key or  Button (Auto Run))) ((\n<var 48 F201FA /var><var 49 F201FB /var>Move Camera<var 49 01 /var><var 48 01 /var>\n[W, A, S, D] Keys (Movement)/<var 1E 15 /var> Stick\n\n<var 48 F201FA /var><var 49 F201FB /var>Reset Camera<var 49 01 /var><var 48 01 /var>\n[Z] Key (Draw/Sheathe Weapon)/<var 12 11 /var> Button\n\n<var 48 F201FA /var><var 49 F201FB /var>Change Target Character<var 49 01 /var><var 48 01 /var>\n[<var 08 E4E94F04 ((tab, shift+tab)) ((Tab, Shift+Tab)) /var>] Keys/<var 1E 08 /var> <var 08 E4E96B64 ((D-pad)) ((Directional Buttons)) /var>\n\n<var 48 F201FA /var><var 49 F201FB /var>Pause/Play<var 49 01 /var><var 48 01 /var>\n[<var 08 E4E94F04 ((space bar)) ((Space Bar)) /var>] (Jump)/<var 1E 0C /var> Button\n\n<var 48 F201FA /var><var 49 F201FB /var>Open/Close Controls<var 49 01 /var><var 48 01 /var>\n[R] Key or  Button (Auto Run)/<var 1E 0B /var> Button)) /var>"
+    },
+    {
+      "id": "0x000001BB",
+      "text": "Recording Duties"
+    },
+    {
+      "id": "0x000001BC",
+      "text": "The following conditions must be met to use the Duty Recorder:\n　1. Recorder is enabled.\n　2. Current duty is available for recording.\n　3. Parties meet minimum size requirements.\n　4. Record ready check has been executed.\n\n<var 48 F201FA /var><var 49 F201FB /var>1. Recorder settings are enabled<var 49 01 /var><var 48 01 /var>\nRecorder settings can be adjusted under <var 48 F201F4 /var><var 49 F201F5 /var>Duty Recorder<var 49 01 /var><var 48 01 /var> in the main menu.\n\n<var 48 F201FA /var><var 49 F201FB /var>2. Current duty is available for recording<var 49 01 /var><var 48 01 /var>\nNot all duties are available for recording.\nRecordable duties are marked with a special icon.\n\n<var 48 F201FA /var><var 49 F201FB /var>3. Parties meet minimum size requirements<var 49 01 /var><var 48 01 /var>\nDuties undertaken by undersized parties cannot be recorded.\n※This includes parties formed via the Duty Finder.\n※Duties with the unrestricted party setting enabled cannot be recorded, even if minimum party size requirements are met.\n\n<var 48 F201FA /var><var 49 F201FB /var>4. Record ready check has been executed<var 49 01 /var><var 48 01 /var>\nApproval from all party members is required before recording can begin.\n※Record ready checks must be performed within 5 minutes of commencing a duty.\n\nOnly 3 records may be saved at once. Oldest records will be overwritten.\n※Up to 2 records can be protected at once."
+    },
+    {
+      "id": "0x000001BD",
+      "text": "Viewing Recorded Duties"
+    },
+    {
+      "id": "0x000001BE",
+      "text": "The following conditions must be met to view duty records:\n　1. You are in an inn room.\n　2. Recorded duty is from the most recent game version.\n\n<var 48 F201FA /var><var 49 F201FB /var>1. You are in an inn room<var 49 01 /var><var 48 01 /var>\nDuty playback is only available in inn rooms.\n\n<var 48 F201FA /var><var 49 F201FB /var>2. Recorded duty is from the most recent game version<var 49 01 /var><var 48 01 /var>\nThis includes both major updates and minor hotfixes.\nRecordings will become inaccessible after applying the newest data patch."
+    },
+    {
+      "id": "0x000001BF",
+      "text": "Playback Controls"
+    },
+    {
+      "id": "0x000001C0",
+      "text": "※Keyboard/Mouse settings listed are default.\n<var 08 E4E94C01 ((\n<var 48 F201FA /var><var 49 F201FB /var>Move Camera<var 49 01 /var><var 48 01 /var>\n<var 1E 15 /var> Stick/[W, A, S, D] Keys (Movement)\n\n<var 48 F201FA /var><var 49 F201FB /var>Reset Camera<var 49 01 /var><var 48 01 /var>\n<var 12 11 /var> Button/[Z] Key (Draw/Sheathe Weapon)\n\n<var 48 F201FA /var><var 49 F201FB /var>Change Target Character<var 49 01 /var><var 48 01 /var>\n<var 1E 08 /var> Buttons/[<var 08 E4E94F04 ((tab, shift+tab)) ((Tab, Shift+Tab)) /var>] Keys\n\n<var 48 F201FA /var><var 49 F201FB /var>Pause/Play<var 49 01 /var><var 48 01 /var>\n<var 1E 0C /var> Button/[<var 08 E4E94F04 ((space bar)) ((Space Bar)) /var>] (Jump)\n\n<var 48 F201FA /var><var 49 F201FB /var>Open/Close Controls<var 49 01 /var><var 48 01 /var>\n<var 1E 0B /var> Button/[R] Key or  Button (Auto Run))) ((\n<var 48 F201FA /var><var 49 F201FB /var>Move Camera<var 49 01 /var><var 48 01 /var>\n[W, A, S, D] Keys (Movement)/<var 1E 15 /var> Stick\n\n<var 48 F201FA /var><var 49 F201FB /var>Reset Camera<var 49 01 /var><var 48 01 /var>\n[Z] Key (Draw/Sheathe Weapon)/<var 12 11 /var> Button\n\n<var 48 F201FA /var><var 49 F201FB /var>Change Target Character<var 49 01 /var><var 48 01 /var>\n[<var 08 E4E94F04 ((tab, shift+tab)) ((Tab, Shift+Tab)) /var>] Keys/<var 1E 08 /var> <var 08 E4E96B64 ((D-pad)) ((Directional Buttons)) /var>\n\n<var 48 F201FA /var><var 49 F201FB /var>Pause/Play<var 49 01 /var><var 48 01 /var>\n[<var 08 E4E94F04 ((space bar)) ((Space Bar)) /var>] (Jump)/<var 1E 0C /var> Button\n\n<var 48 F201FA /var><var 49 F201FB /var>Open/Close Controls<var 49 01 /var><var 48 01 /var>\n[R] Key or  Button (Auto Run)/<var 1E 0B /var> Button)) /var>"
+    },
+    {
+      "id": "0x000001C1",
+      "text": "Functions"
+    },
+    {
+      "id": "0x000001C2",
+      "text": "<var 48 F201FA /var><var 49 F201FB /var>Pause<var 49 01 /var><var 48 01 /var>\nTemporarily stop playback.\n\n<var 48 F201FA /var><var 49 F201FB /var>Chapter Selection<var 49 01 /var><var 48 01 /var>\nStart playback at the position selected.\n※Depending on chapter position, playback may not be instantaneous.\n\n<var 48 F201FA /var><var 49 F201FB /var>Next Chapter<var 49 01 /var><var 48 01 /var>\nSkip to the next available chapter.\n\n<var 48 F201FA /var><var 49 F201FB /var>Previous Chapter<var 49 01 /var><var 48 01 /var>\nSkip to the previous chapter.\n\n<var 48 F201FA /var><var 49 F201FB /var>HUD Display<var 49 01 /var><var 48 01 /var>\nToggle on/off on-screen UI elements.\n※Settings are saved for next playback.\n\n<var 48 F201FA /var><var 49 F201FB /var>Focus Target<var 49 01 /var><var 48 01 /var>\nDisplays focus target information for the selected target.\n\n<var 48 F201FA /var><var 49 F201FB /var>Exit<var 49 01 /var><var 48 01 /var>\nExit playback."
+    },
+    {
+      "id": "0x000001C3",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000001C4",
+      "text": "<var 1E 19 /var> Scroll"
+    },
+    {
+      "id": "0x000001C5",
+      "text": "<var 1E 09 /var> Open  <var 1E 19 /var> Scroll"
+    },
+    {
+      "id": "0x000001C6",
+      "text": "<var 1E 19 /var> Scroll"
+    },
+    {
+      "id": "0x000001C7",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000001C8",
+      "text": "<var 1E 09 /var> Release Minion  <var 1E 0B /var> Subcommands  <var 1E 0C /var> Move"
+    },
+    {
+      "id": "0x000001C9",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000001CA",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000001CB",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000001CC",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 19 /var> Scroll"
+    },
+    {
+      "id": "0x000001CD",
+      "text": "<var 1E 06 /var> Move  <var 1E 09 /var> Release Minion  <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000001CE",
+      "text": "<var 1E 09 /var> Release Minion  <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000001CF",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000001D0",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000001D1",
+      "text": "<var 1E 0B /var> Subcommand <var 1E 0C /var> Multiple Select"
+    },
+    {
+      "id": "0x000001D2",
+      "text": "<var 1E 0B /var>サブコマンド <var 1E 15 /var>移動 <var 1E 19 /var>拡縮 <var 1E 0D /var><var 1E 0E /var>回転"
+    },
+    {
+      "id": "0x000001D3",
+      "text": "<var 1E 09 /var> Commend Player"
+    },
+    {
+      "id": "0x000001D4",
+      "text": "<var 1E 19 /var> Scroll"
+    },
+    {
+      "id": "0x000001D5",
+      "text": "<var 1E 0C /var> Claim Reward <var 1E 19 /var> Scroll"
+    },
+    {
+      "id": "0x000001D6",
+      "text": "<var 1E 0B /var> Subcommands <var 1E 19 /var> Scroll"
+    },
+    {
+      "id": "0x000001D7",
+      "text": "<var 1E 0C /var> Claim Reward <var 1E 0B /var> Subcommands <var 1E 19 /var> Scroll"
+    },
+    {
+      "id": "0x000001D8",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000001D9",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000001DA",
+      "text": "<var 1E 0C /var> Confirm"
+    },
+    {
+      "id": "0x000001DB",
+      "text": "<var 1E 0B /var> Set to Hotbar  <var 1E 0D /var><var 1E 0E /var> Change Page"
+    },
+    {
+      "id": "0x000001DC",
+      "text": "<var 1E 0D /var><var 1E 0E /var> Change Page"
+    },
+    {
+      "id": "0x000001DD",
+      "text": "<var 1E 09 /var> Display Locations"
+    },
+    {
+      "id": "0x000001DE",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000001DF",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000001E0",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000001E1",
+      "text": "<var 1E 13 /var> Finish Placing Furnishing Glamours"
+    },
+    {
+      "id": "0x000001E2",
+      "text": "<var 12 0E /var>+<var 12 15 /var> Move <var 1E 0F /var><var 1E 10 /var> Rotate <var 1E 0B /var> Subcommands <var 1E 0C /var> <var 08 E802 ((Enable Grid Snap)) ((Disable Grid Snap)) /var>"
+    },
+    {
+      "id": "0x000001E3",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0C /var> Registered Glamours List"
+    },
+    {
+      "id": "0x000001E4",
+      "text": "<var 1E 0B /var> Subcommands  <var 1E 0C /var> Inventory<var 08 E4E96A01 ((  <var 1E 0F /var><var 1E 10 /var> Toggle Registered/Placed Glamours)) (()) /var>"
+    },
+    {
+      "id": "0x000001E5",
+      "text": "<var 1E 0C /var> Apply"
+    },
+    {
+      "id": "0x000001E6",
+      "text": "<var 1E 0B /var> Subcommands <var 1E 0C /var> <var 08 E802 ((Enable Grid Snap)) ((Disable Grid Snap)) /var>"
+    },
+    {
+      "id": "0x000001E7",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000001E8",
+      "text": "<var 1E 13 /var> Quit Coloring"
+    },
+    {
+      "id": "0x000001E9",
+      "text": "<var 1E 13 /var> Finish Placing Furnishings"
+    },
+    {
+      "id": "0x000001EA",
+      "text": "<var 12 0E /var>+<var 12 15 /var> Move <var 1E 0F /var><var 1E 10 /var> Rotate <var 1E 0C /var><var 08 E802 ((Enable Grid Snap)) ((Disable Grid Snap)) /var>"
+    },
+    {
+      "id": "0x000001EB",
+      "text": "<var 1E 0C /var><var 08 E802 ((Enable Grid Snap)) ((Disable Grid Snap)) /var>"
+    },
+    {
+      "id": "0x000001EC",
+      "text": "<var 1E 09 /var> Select"
+    },
+    {
+      "id": "0x000001ED",
+      "text": "<var 1E 0B /var> Subcommands <var 1E 09 /var> Equip"
+    },
+    {
+      "id": "0x000001EE",
+      "text": "<var 1E 0C /var> Enable/Disable Quick Gathering"
+    },
+    {
+      "id": "0x000001EF",
+      "text": "<var 1E 0C /var> Synthesize"
+    },
+    {
+      "id": "0x000001F0",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000001F1",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000001F2",
+      "text": "<var 1E 0C /var> Apply"
+    },
+    {
+      "id": "0x000001F3",
+      "text": "<var 1E 19 /var> Scroll"
+    },
+    {
+      "id": "0x000001F4",
+      "text": "<var 1E 19 /var> Scroll"
+    },
+    {
+      "id": "0x000001F5",
+      "text": "<var 1E 19 /var> Scroll"
+    },
+    {
+      "id": "0x000001F6",
+      "text": "<var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000001F7",
+      "text": "<var 1E 0B /var> Display Map"
+    },
+    {
+      "id": "0x000001F8",
+      "text": "<var 1E 0B /var>サブコマンド <var 1E 0C /var>複数選択 <var 1E 15 /var>カーソルの移動"
+    },
+    {
+      "id": "0x000001F9",
+      "text": "<var 1E 09 /var> Open/Close Preview  <var 1E 0C /var> Preview  <var 1E 15 /var> Move  <var 1E 1A /var> Rotate  <var 1E 0D /var>＋<var 1E 19 /var> Zoom In/Out"
+    },
+    {
+      "id": "0x000001FA",
+      "text": "<var 1E 0C /var> Apply"
+    },
+    {
+      "id": "0x000001FB",
+      "text": "<var 1E 0B /var> Subcommand"
+    },
+    {
+      "id": "0x000001FC",
+      "text": "<var 1E 09 /var> Confirm <var 1E 0D /var><var 1E 0E /var> Select Data Center <var 1E 0C /var> Return to Home World <var 1E 19 /var> Scroll"
+    },
+    {
+      "id": "0x000001FD",
+      "text": "<var 1E 09 /var> Confirm <var 1E 0D /var><var 1E 0E /var> Select Data Center <var 1E 0C /var> Return to Home World"
+    },
+    {
+      "id": "0x000001FE",
+      "text": "<var 1E 09 /var><var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x000001FF",
+      "text": "<var 1E 0C /var> Details <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000200",
+      "text": "<var 1E 0C /var> Team Composition"
+    },
+    {
+      "id": "0x00000201",
+      "text": "<var 1E 0C /var><var 1E 0A /var> Board Layout <var 1E 0B /var> Subcommands"
+    },
+    {
+      "id": "0x00000202",
+      "text": "<var 1E 09 /var> Sell <var 1E 0B /var> Subcommands <var 1E 0C /var> Inventory"
+    },
+    {
+      "id": "0x00000203",
+      "text": "<var 1E 0B /var> Subcommands <var 1E 0C /var> Inventory"
+    },
+    {
+      "id": "0x00000204",
+      "text": "<var 1E 0C /var><var 1E 0A /var> Return"
+    },
+    {
+      "id": "0x00000205",
+      "text": "<var 1E 0C /var> Inventory"
+    },
+    {
+      "id": "0x00000206",
+      "text": "<var 1E 0C /var> Details"
+    },
+    {
+      "id": "0x00000207",
+      "text": "<var 1E 0C /var><var 1E 0A /var> Board Layout"
+    },
+    {
+      "id": "0x00000208",
+      "text": "<var 1E 09 /var> Toggle On/Off  <var 1E 0B /var> Toggle Others On/Off  <var 1E 0C /var> Filter"
+    },
+    {
+      "id": "0x000003E8",
+      "text": "Report could not be sent.\nPlease try again."
+    },
+    {
+      "id": "0x000003EB",
+      "text": "Fellowships"
+    },
+    {
+      "id": "0x000003EC",
+      "text": "Fellowships are gatherings of players who share common interests. With up to 1,000 members permitted in each fellowship, they provide an excellent way to connect and socialize with like-minded adventurers.\n\nAnyone can create their own fellowship or become a member of another. Fellowships are cross-world, and you can belong to a maximum of ten at any given time.\n\nTo search for fellowships that are currently recruiting, select <var 48 F201F4 /var><var 49 F201F5 /var>Social<var 49 01 /var><var 48 01 /var> from the <var 48 F201F4 /var><var 49 F201F5 /var>main menu<var 49 01 /var><var 48 01 /var>, and then <var 48 F201F4 /var><var 49 F201F5 /var>Fellowship Finder<var 49 01 /var><var 48 01 /var>.\n\nEach fellowship is led by a master, who can grant administrative rights to other members to assist them. The master role automatically falls to the fellowship's founder, but it can also be transferred to another.\n\nJoin a fellowship or create your own, and gain access to its myriad benefits!"
+    },
+    {
+      "id": "0x000003ED",
+      "text": "General Tab"
+    },
+    {
+      "id": "0x000003EE",
+      "text": "■Message of the Day\nLeave a message for fellowship members to see, be it a motto, an announcement, or something random. Messages can be posted by the master and admin members.\n\n■Poll\nPolls can be created by the fellowship master and admin members. All members are eligible to cast one vote per poll.\n\n■Notices\nPost up to five notices at a time. This feature is available only to the fellowship master and admin members."
+    },
+    {
+      "id": "0x000003EF",
+      "text": "Message Board Tab"
+    },
+    {
+      "id": "0x000003F0",
+      "text": "All fellowship members can post comments to the message board.\n\nUp to 100 comments are displayed, with the oldest being deleted first. The fellowship master and admin members can delete comments at any time.\n\n* Characters on the free trial cannot post to the message board during their first 14 days as a fellowship member."
+    },
+    {
+      "id": "0x000003F1",
+      "text": "Members Tab"
+    },
+    {
+      "id": "0x000003F2",
+      "text": "Displays the list of fellowship members. Here you can carry out various administrative tasks such as appointing admin members and transferring master privileges.\n\nIt is also possible to blacklist players. Doing so removes them from the fellowship and prevents them from rejoining in the future."
+    },
+    {
+      "id": "0x000003F3",
+      "text": "Other Functions"
+    },
+    {
+      "id": "0x000003F4",
+      "text": "■Settings\nThis menu is accessible only to the master. Here you can rename the fellowship, set the fellowship's activities, manage the blacklist, and disband the fellowship. \n\n■Recruitment\nUnder this menu, you can recruit new members to the fellowship. Recruitment ends either when the target is reached, one week has elapsed, or the recruiter chooses to cancel the process. \n\n■Admin\nThe master can appoint admin members to assist in the management of the fellowship. Master privileges can only be transferred to an admin member. Furthermore, in order for the master to leave their fellowship, they must transfer their privileges first."
+    },
+    {
+      "id": "0x000003F5",
+      "text": "Fellowship Finder"
+    },
+    {
+      "id": "0x000003F6",
+      "text": "This menu displays the fellowships that are currently recruiting members, with the option to filter by activities and language."
+    },
+    {
+      "id": "0x000003F7",
+      "text": "Important Information"
+    },
+    {
+      "id": "0x000003F8",
+      "text": "<var 48 F20202 /var>■Performance Actions: Important Information<var 48 01 /var>\nWhen using the performance actions, you are strictly prohibited from performing the music of any third parties. You may record and upload your performance and hereby agree to license such recordings to us for use by Square Enix or others in accordance with the terms of the “FINAL FANTASY XIV Material Usage License”."
+    },
+    {
+      "id": "0x000003F9",
+      "text": "Ensemble Mode"
+    },
+    {
+      "id": "0x000003FA",
+      "text": "<var 48 F20202 /var>■Overview<var 48 01 /var>\nEnsemble mode makes it easier for you and your party members to play in sync for the benefit of your audience.\n\n<var 48 F20202 /var>■Playback Differences between Performance and Ensemble Mode<var 48 01 /var>\nWhen ensemble mode is enabled, all party members will be heard in sync by players in the vicinity, but there will be a delay between the inputs and the sounds being heard by those performing, according to the playback type.\nThose who select “Self Only” will only hear their own instrument, while “All Members” plays the instruments of all members with an increased delay.\n※“Playback Type” can be found in ensemble mode's settings menu.\n\n<var 48 F20202 /var>■Entering Ensemble Mode<var 48 01 /var>\nFollow the steps below to enter ensemble mode.\n 1. Select “Ensemble Ready Check” from the metronome menu.\n 2. With “Enter Ensemble Mode” enabled, select Begin.\n 3. Once all party members have responded to the ready check, you will enter ensemble mode.\n\n<var 48 F20202 /var>■Ensemble Mode Requirements<var 48 01 /var>\nEnsemble mode can only be used if the following conditions have been met:\n 1. The party leader is using Performance mode.\n 2. All party members are in an area where Performance actions can be used. Ensemble mode cannot be used in inn rooms or Grand Company barracks.\n 3. Each area has a limit on the number of ensembles that can be present at any given time. If this limit has been reached, you will not be able to use ensemble mode in that area.\n"
+    },
+    {
+      "id": "0x000003FB",
+      "text": "Performance Assistance"
+    },
+    {
+      "id": "0x000003FC",
+      "text": "<var 48 F20202 /var>■Performance Assistance<var 48 01 /var>\nThis feature helps you to play along with a number of songs, with the timings and key presses displayed as you perform.\n\n<var 48 F20202 /var>■Using Performance Assistance<var 48 01 /var>\nFollow the steps below to use Performance Assistance.\n 1. Select Performance Assistance from the Performance menu.\n 2. Select a song.\n 3. You may select the playback speed and whether or not to use a metronome.\n\n<var 48 F20202 /var>■Important<var 48 01 /var>\nIf a party member initiates an ensemble mode ready check while you are using Performance Assistance, a “No” response will be sent automatically. For this reason, it is not advisable to use Performance Assistance while in a party.\n"
+    },
+    {
+      "id": "0x000003FD",
+      "text": "<var 48 08 /var><var 49 04 /var>The rules of engagement on the Bozjan southern front are different than what you will have encountered before. The following pages contain a detailed explanation of what you may expect on the battlefield.<var 49 01 /var><var 48 01 /var>\n\n<var 48 0F /var>Read and understand them well if you would gain the upper hand over the Empire's IVth Legion.<var 48 01 /var>"
+    },
+    {
+      "id": "0x000003FE",
+      "text": "<var 48 08 /var><var 49 04 /var>■Level Sync<var 49 01 /var><var 48 01 /var>\n\nThough it is possible to join the Bozjan southern front beginning at level 71, all players will be synced to level 80 while in duty. Item level will also be synced accordingly.\n\n<var 48 0F /var>* All job actions unlocked through level 80 will also be available while in duty.<var 48 01 /var>"
+    },
+    {
+      "id": "0x000003FF",
+      "text": "<var 48 08 /var><var 49 04 /var>■Resistance Rank<var 49 01 /var><var 48 01 /var>\n\nAll players are subject to a separate leveling system while at the front, indicated by their “Resistance rank.” Performing admirably in large-scale battles such as skirmishes and critical engagements will increase your “mettle”─akin to experience points.\n\n<var 48 0F /var>* Simply defeating imperial troops and beasts is not enough to prove your mettle─you must participate in successful military operations.<var 48 01 /var>"
+    },
+    {
+      "id": "0x00000400",
+      "text": "If you demonstrate sufficient mettle upon reporting to the Resistance commander, your Resistance rank will climb. Those of higher rank will gain access to more areas of the front, as well as additional quests.\n\n<var 48 0F /var>* Your Resistance rank will not increase unless authorized by the commander, so don't forget to report for inspection!<var 48 01 /var>"
+    },
+    {
+      "id": "0x00000401",
+      "text": "<var 48 08 /var><var 49 04 /var>■Job Leveling<var 49 01 /var><var 48 01 /var>\n\nUpon successful completion of a military operation, you will gain regular experience points in addition to mettle. This experience will be applied to your job level as normal, so it is recommended that you consider using a job that has not yet reached level 80 to take advantage of experience point gains."
+    },
+    {
+      "id": "0x00000402",
+      "text": "<var 48 08 /var><var 49 04 /var>■But Wait...<var 49 01 /var><var 48 01 /var>\n\nMore information is available from Sjeros in Gangos and your Resistance comrades at the southern front, so don't hesitate to converse with them!"
+    },
+    {
+      "id": "0x00000403",
+      "text": "Collectables"
+    },
+    {
+      "id": "0x00000404",
+      "text": "The higher an item's collectability, the more attractive it is to certain NPCs who are seeking to purchase or trade for them. It should be noted, however, these items must meet a certain collectability threshold before they will be accepted by NPCs."
+    },
+    {
+      "id": "0x00000405",
+      "text": "The Collectables Interface"
+    },
+    {
+      "id": "0x00000406",
+      "text": "Selecting a collectable item in the gathering window will open the collectables interface. Here you can try to improve the item's collectability rating before adding it to your inventory."
+    },
+    {
+      "id": "0x00000407",
+      "text": "Increasing Collectability"
+    },
+    {
+      "id": "0x00000408",
+      "text": "Techniques such as <var 48 F201F4 /var><var 49 F201F5 /var>Scour<var 49 01 /var><var 48 01 /var> can be employed to increase the collectability of an item. It should be noted, however, the gathering point's <var 48 F201F4 /var><var 49 F201F5 /var>integrity<var 49 01 /var><var 48 01 /var> is diminished by the use of such actions. Integrity is also reduced when gathering items. One must be mindful of their actions to ensure integrity still remains after reaching a suitable collectability rating."
+    },
+    {
+      "id": "0x00000409",
+      "text": "Collectable Actions"
+    },
+    {
+      "id": "0x0000040A",
+      "text": "There are three key actions used to raise collectability, each of which reduces the gathering point's integrity by one.\n\nScour\nIncreases collectability by a fixed amount determined by your gathering rating.\n\nBrazen Prospector / Brazen Woodsman\nIncreases collectability by a random amount that may be lower or significantly higher than Scour. A potentially efficient option when gathering in a location where your desired item can be found in abundance.\n\nMeticulous Prospector / Meticulous Woodsman\nIncreases collectability by a fixed amount lower than Scour. However, there is chance integrity is unaffected. A good option when you're certain your next action will reach the desired collectability rating."
+    },
+    {
+      "id": "0x0000040B",
+      "text": "Gathering Collectables"
+    },
+    {
+      "id": "0x0000040C",
+      "text": "When the item reaches a sufficient collectability rating, use the <var 48 F201F4 /var><var 49 F201F5 /var>Collect<var 49 01 /var><var 48 01 /var> action to gather the item and add it to your inventory. Be mindful, however, that the integrity of the gathering spot is reduced by one for every item gathered. When its integrity reaches zero, no more items can be gathered.\n\n※You may fail to gather an item if its gathering rate is not 100%."
+    },
+    {
+      "id": "0x0000040D",
+      "text": "Improving Collectability"
+    },
+    {
+      "id": "0x0000040E",
+      "text": "The effectiveness of collectable actions such as Scour can be enhanced further by first using <var 48 F201F4 /var><var 49 F201F5 /var>Scrutiny<var 49 01 /var><var 48 01 /var>. While this action does not affect the gathering point's integrity, it does cost GP. A higher perception rating will increase the potency of this action."
+    },
+    {
+      "id": "0x0000040F",
+      "text": "Collector's Intuition"
+    },
+    {
+      "id": "0x00000410",
+      "text": "When using collectable actions, there is a chance to trigger <var 48 F201F4 /var><var 49 F201F5 /var>Collector's Intuition<var 49 01 /var><var 48 01 /var>, granting a bonus to collectability. The chance of triggering this bonus increases with a higher perception rating.\n\n※You may also increase the chance of triggering this bonus by using Collector's Focus."
+    },
+    {
+      "id": "0x00000411",
+      "text": "Collector's Standard"
+    },
+    {
+      "id": "0x00000412",
+      "text": "When using collectable actions, there is a chance you will be granted the effect of <var 48 F201F4 /var><var 49 F201F5 /var>Collector's Standard<var 49 01 /var><var 48 01 /var>. While under this effect, the potency of brazen and meticulous actions is increased significantly."
+    },
+    {
+      "id": "0x00000413",
+      "text": "Other Actions"
+    },
+    {
+      "id": "0x00000414",
+      "text": "Raising collectability should not be your only focus when gathering collectables. Actions that increase gathering rate, as well as those that grant additional gathering attempts or restore integrity, are also essential to procure as many collectables as possible. Careful planning and effective use of all actions is the key to success for accomplished Disciples of the Land."
+    },
+    {
+      "id": "0x00000415",
+      "text": "Prime and Sublime Collectables"
+    },
+    {
+      "id": "0x00000416",
+      "text": "Prime collectable items that have reached maximum collectability will, on occasion, yield exceedingly rare items from aetherial reduction.\n\nMoreover, these prime collectables may also become sublime when they are gathered with maximum collectability, which guarantees a yield of rare items from aetherial reduction.\n\nA higher gathering rate increases your chances of a prime collectable becoming sublime."
+    },
+    {
+      "id": "0x00000417",
+      "text": "Collectability"
+    },
+    {
+      "id": "0x00000418",
+      "text": "The collectability of an item is another means of measuring its intrinsic quality.\n\nCollectability required to deliver an item can be confirmed at the top right of the interface.\n\nWhen breaking down items via aetherial reduction, this rating indicates the collectability required to obtain items other than crystals."
+    },
+    {
+      "id": "0x0000041A",
+      "text": "Entering V&C Dungeons"
+    },
+    {
+      "id": "0x0000041B",
+      "text": "You can enter a variant or criterion dungeon via the V&C Dungeon Finder window, which is accessed by speaking with the NPC at the dungeon entrance, or by selecting the option from <var 48 F201FA /var><var 49 F201FB /var>Duty<var 49 01 /var><var 48 01 /var> in the main menu.\n\nThis window features all the necessary information regarding dungeon entry, as well as the dungeon-specific settings."
+    },
+    {
+      "id": "0x0000041C",
+      "text": "Variant Dungeons"
+    },
+    {
+      "id": "0x0000041D",
+      "text": "The difficulty of a <var 48 F201FA /var><var 49 F201FB /var>variant dungeon<var 49 01 /var><var 48 01 /var> is automatically adjusted to provide a challenge for parties of between one to four players. Victory will require effort and attention, but it is entirely possible to complete these dungeons alone. \n\nIf you wish to enter as a solo player or with your current party members, be sure to uncheck the <var 48 F201FA /var><var 49 F201FB /var>Enable party matching<var 49 01 /var><var 48 01 /var> option (disabled by default). Conversely, enabling this option will match you with other adventurers to tackle the dungeon in a four-player party."
+    },
+    {
+      "id": "0x0000041E",
+      "text": "Variant Actions"
+    },
+    {
+      "id": "0x0000041F",
+      "text": "To allow for greater freedom in role choices, variant dungeons grant players the use of special <var 48 F201FA /var><var 49 F201FB /var>variant actions<var 49 01 /var><var 48 01 /var>.\n\nThese actions mimic existing abilities such as <var 48 F201FA /var><var 49 F201FB /var>Cure<var 49 01 /var><var 48 01 /var> or <var 48 F201FA /var><var 49 F201FB /var>Rampart<var 49 01 /var><var 48 01 /var>, alleviating the need for dedicated tanks, DPS, or healers. Each player has two actions available for use during the dungeon, and these can be changed <var 48 F201FA /var><var 49 F201FB /var>at any time<var 49 01 /var><var 48 01 /var> via the <var 48 F201FA /var><var 49 F201FB /var>Set Actions<var 49 01 /var><var 48 01 /var> button in the V&C Dungeon Finder window."
+    },
+    {
+      "id": "0x00000420",
+      "text": "Unraveling the Story"
+    },
+    {
+      "id": "0x00000421",
+      "text": "Variant dungeons feature <var 48 F201FA /var><var 49 F201FB /var>branching paths<var 49 01 /var><var 48 01 /var>, and by exploring these choices alongside the quest character will you reveal new elements of the overarching story.\n\nUpon completing each path, a new entry will be added to the journal or expedition log associated with the dungeon. Simply open the V&C Dungeon Finder window and select the character portrait to browse the completed entries."
+    },
+    {
+      "id": "0x00000422",
+      "text": "Criterion Dungeons"
+    },
+    {
+      "id": "0x00000423",
+      "text": "You have unlocked <var 48 F201FA /var><var 49 F201FB /var>criterion dungeons<var 49 01 /var><var 48 01 /var>, a tier of higher difficulties which can be accessed by switching the tab at the top of the V&C Dungeon Finder window. \n\nCriterion dungeons have no accompanying NPC or branching paths to explore. In place of newly discovered story elements, the tab will instead display a list of available dungeons, as well as the amount of <var 48 F201FA /var><var 49 F201FB /var>special currency<var 49 01 /var><var 48 01 /var> earned from completing these more punishing challenges."
+    },
+    {
+      "id": "0x00000424",
+      "text": "Criterion Dungeon Restrictions"
+    },
+    {
+      "id": "0x00000425",
+      "text": "Unlike variant dungeons, criterion dungeons <var 48 F201FA /var><var 49 F201FB /var>do not allow job changes<var 49 01 /var><var 48 01 /var>. Resurrection via Raise or other abilities is also restricted, being permitted only through use of the special action Variant Raise II.\n\nCriterion dungeons of <var 48 F201FA /var><var 49 F201FB /var>Savage<var 49 01 /var><var 48 01 /var> difficulty disable the use of variant actions completely, and must be attempted by preformed four-player parties meeting the entry requirements."
+    },
+    {
+      "id": "0x00000426",
+      "text": "Estate Holder Rights"
+    },
+    {
+      "id": "0x00000427",
+      "text": "Rightsholders can eject specific players from their estate hall or garden and bar them from entering their property for a set period of time.\n\nFrom the Social menu, select “Housing,” followed by “Estate Settings” and lastly “Estate Holder Rights” to adjust the relevant settings."
+    },
+    {
+      "id": "0x00000428",
+      "text": "Rightsholders"
+    },
+    {
+      "id": "0x00000429",
+      "text": "Only characters designated as Rightsholders can utilize the relevant features. The Main Rightsholder is determined automatically based on the type of estate. In some cases, Secondary Rightsholders can also be appointed.\n\nIn the case of free company estates, the company master is designated as the Main Rightsholder, and can appoint shared estate members as Secondary Rightsholders.\n\nApartments and private chambers can only have a Main Rightsholder."
+    },
+    {
+      "id": "0x0000042A",
+      "text": "Barred Characters"
+    },
+    {
+      "id": "0x0000042B",
+      "text": "Characters who have been barred from entering your property are shown on the Barred Characters list. Both Main and Secondary Rightsholders can access the list by selecting “Barred Characters” from the Estate Holder Rights window.\n\nTo bar a character from your property, you must first be present on your estate and have the requisite authority. Target the character you wish to bar and select “Bar from Property” from the subcommands, then choose “Register as Barred Character.”\n\nBarred characters will remain on the Barred Characters list for 10 days. During this time they are prevented from entering your estate hall or garden.\n\nMain Rightsholders can remove characters from the list as they see fit."
+    },
+    {
+      "id": "0x0000042C",
+      "text": "Blacklist Referencing"
+    },
+    {
+      "id": "0x0000042D",
+      "text": "Blacklist referencing is a feature that automatically bars characters on a rightsholder's blacklist from entering a property. When a Main Rightsholder or Secondary Rightsholder with the setting enabled is present on an estate, characters on their blacklist will be denied access to the property, and will be automatically registered to the Barred Characters list should they attempt to enter.\n\nThis setting can be toggled on or off using the checkbox displayed to the left of a character's name under “Rightsholder Settings.”"
+    },
+    {
+      "id": "0x0000042E",
+      "text": "Exceptions"
+    },
+    {
+      "id": "0x0000042F",
+      "text": "Depending on the type of estate, you may be unable to bar certain characters from entering your property. Even when registered to your Barred Characters list, exempt characters will not be ejected from your property, nor denied access.\n\nThe following characters cannot be barred:\n・The Main Rightsholder\n・Free company estate members\n・Tenants in shared personal housing\n"
+    },
+    {
+      "id": "0x00000430",
+      "text": "Interior Design"
+    },
+    {
+      "id": "0x00000431",
+      "text": "Renovate an estate's interior with the interior design feature.\n\nFrom the Social menu, select “Housing,” followed by “Interior Design” to open the relevant window, from which you may select the desired interior style.\n\nOnce applied, everything inside of the estate aside from the wallpaper, flooring, and ceiling lights will be changed. Please note that the floor layout, including the position of the stairs, may also be altered."
+    },
+    {
+      "id": "0x00000432",
+      "text": "Requirements"
+    },
+    {
+      "id": "0x00000433",
+      "text": "The interior design of cottages, houses, and mansions can be changed.\n\nTo accommodate a newly applied interior style, all placed furnishings will be moved to the storeroom. The interior design process cannot be completed should the storeroom possess insufficient space.\n\nAdditionally, interior design adjustments cannot be made within fifteen days of estate auto-demolition.\n\n<var 48 F201F4 /var><var 49 F201F5 /var>※The interior design of apartments and private chambers cannot be changed.<var 49 01 /var><var 48 01 /var>"
+    },
+    {
+      "id": "0x00000434",
+      "text": "Authorization"
+    },
+    {
+      "id": "0x00000435",
+      "text": "Adjustment of an estate's interior design can only be performed by those granted the necessary authorization.\n\nFree Company estates: Members who have been granted both hall remodeling and furnishing placement authorization may change the estate's interior design.\n\nPrivate estates: In addition to the owners, tenants with authorization to add, remove, or change the position/color of estate furnishings or walls may change the estate's interior design."
+    },
+    {
+      "id": "0x00000436",
+      "text": "<var 1E 0B /var>Subcommands　<var 1E 0C /var>Increase Cursor Speed"
+    },
+    {
+      "id": "0x00000437",
+      "text": "<var 1E 0B /var> Subcommands"
+    }
+  ]
+}

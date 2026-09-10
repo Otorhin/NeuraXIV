@@ -1,0 +1,3545 @@
+{
+  "source_file": "exd/Title_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "The Insatiable<tab>The Insatiable"
+    },
+    {
+      "id": "0x00000002",
+      "text": "The True<tab>The True"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Coeurlfist<tab>Coeurlfist"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Ironeater<tab>Ironeater"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Of the Vengeful Lance<tab>Of the Vengeful Lance"
+    },
+    {
+      "id": "0x00000006",
+      "text": "The Godsbow<tab>The Godsbow"
+    },
+    {
+      "id": "0x00000007",
+      "text": "The White<tab>The White"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Starcaller<tab>Starcaller"
+    },
+    {
+      "id": "0x00000009",
+      "text": "The Exterminator<tab>The Exterminator"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Notorious Monster Hunter<tab>Notorious Monster Hunter"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Honest Gillionaire<tab>Honest Gillionaire"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Ruthless Gillionaire<tab>Ruthless Gillionaire"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Warmonger<tab>Warmonger"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Archmage<tab>Archmage"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Builder of the Realm<tab>Builder of the Realm"
+    },
+    {
+      "id": "0x00000010",
+      "text": "Provider of the Realm<tab>Provider of the Realm"
+    },
+    {
+      "id": "0x00000011",
+      "text": "Of the Golden Saw<tab>Of the Golden Saw"
+    },
+    {
+      "id": "0x00000012",
+      "text": "Of the Golden Anvil<tab>Of the Golden Anvil"
+    },
+    {
+      "id": "0x00000013",
+      "text": "Of the Golden Hammer<tab>Of the Golden Hammer"
+    },
+    {
+      "id": "0x00000014",
+      "text": "Of the Golden Leaf<tab>Of the Golden Leaf"
+    },
+    {
+      "id": "0x00000015",
+      "text": "Of the Golden Hide<tab>Of the Golden Hide"
+    },
+    {
+      "id": "0x00000016",
+      "text": "Of the Golden Needle<tab>Of the Golden Needle"
+    },
+    {
+      "id": "0x00000017",
+      "text": "Of the Golden Lead<tab>Of the Golden Lead"
+    },
+    {
+      "id": "0x00000018",
+      "text": "Of the Golden Ladle<tab>Of the Golden Ladle"
+    },
+    {
+      "id": "0x00000019",
+      "text": "Meadowbreaker<tab>Meadowbreaker"
+    },
+    {
+      "id": "0x0000001A",
+      "text": "Forestbreaker<tab>Forestbreaker"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "Desertbreaker<tab>Desertbreaker"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "Of the Meadow Mines<tab>Of the Meadow Mines"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "Of the Forest Mines<tab>Of the Forest Mines"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "Of the Desert Mines<tab>Of the Desert Mines"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "Meadowreaper<tab>Meadowreaper"
+    },
+    {
+      "id": "0x00000020",
+      "text": "Forestreaper<tab>Forestreaper"
+    },
+    {
+      "id": "0x00000021",
+      "text": "Desertreaper<tab>Desertreaper"
+    },
+    {
+      "id": "0x00000022",
+      "text": "Of the Meadow Grasses<tab>Of the Meadow Grasses"
+    },
+    {
+      "id": "0x00000023",
+      "text": "Of the Forest Grasses<tab>Of the Forest Grasses"
+    },
+    {
+      "id": "0x00000024",
+      "text": "Of the Desert Grasses<tab>Of the Desert Grasses"
+    },
+    {
+      "id": "0x00000025",
+      "text": "Meadowcaster<tab>Meadowcaster"
+    },
+    {
+      "id": "0x00000026",
+      "text": "Forestcaster<tab>Forestcaster"
+    },
+    {
+      "id": "0x00000027",
+      "text": "Desertcaster<tab>Desertcaster"
+    },
+    {
+      "id": "0x00000028",
+      "text": "Of the Meadow Pools<tab>Of the Meadow Pools"
+    },
+    {
+      "id": "0x00000029",
+      "text": "Of the Forest Pools<tab>Of the Forest Pools"
+    },
+    {
+      "id": "0x0000002A",
+      "text": "Of the Desert Pools<tab>Of the Desert Pools"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "Carrier of the Cauldron<tab>Carrier of the Cauldron"
+    },
+    {
+      "id": "0x0000002C",
+      "text": "The Assimilator<tab>The Assimilator"
+    },
+    {
+      "id": "0x0000002D",
+      "text": "Seeker of Blood<tab>Seeker of Blood"
+    },
+    {
+      "id": "0x0000002E",
+      "text": "Seeker of Truth<tab>Seeker of Truth"
+    },
+    {
+      "id": "0x0000002F",
+      "text": "Seeker of Skill<tab>Seeker of Skill"
+    },
+    {
+      "id": "0x00000030",
+      "text": "Seeker of Bounty<tab>Seeker of Bounty"
+    },
+    {
+      "id": "0x00000031",
+      "text": "Sidestepper<tab>Sidestepper"
+    },
+    {
+      "id": "0x00000032",
+      "text": "Lord Protector<tab>Lady Protector"
+    },
+    {
+      "id": "0x00000033",
+      "text": "Lord Creator<tab>Lady Creator"
+    },
+    {
+      "id": "0x00000034",
+      "text": "Peacemaker<tab>Peacemaker"
+    },
+    {
+      "id": "0x00000035",
+      "text": "The Last Resort<tab>The Last Resort"
+    },
+    {
+      "id": "0x00000036",
+      "text": "The Sword of La Noscea<tab>The Sword of La Noscea"
+    },
+    {
+      "id": "0x00000037",
+      "text": "The Sword of the Shroud<tab>The Sword of the Shroud"
+    },
+    {
+      "id": "0x00000038",
+      "text": "The Sword of Thanalan<tab>The Sword of Thanalan"
+    },
+    {
+      "id": "0x00000039",
+      "text": "The Sword of Eorzea<tab>The Sword of Eorzea"
+    },
+    {
+      "id": "0x0000003A",
+      "text": "The Shield of La Noscea<tab>The Shield of La Noscea"
+    },
+    {
+      "id": "0x0000003B",
+      "text": "The Shield of the Shroud<tab>The Shield of the Shroud"
+    },
+    {
+      "id": "0x0000003C",
+      "text": "The Shield of Thanalan<tab>The Shield of Thanalan"
+    },
+    {
+      "id": "0x0000003D",
+      "text": "The Shield of Eorzea<tab>The Shield of Eorzea"
+    },
+    {
+      "id": "0x0000003E",
+      "text": "Brother of the Broken Blade<tab>Sister of the Broken Blade"
+    },
+    {
+      "id": "0x0000003F",
+      "text": "The Warden's Wall<tab>The Warden's Wall"
+    },
+    {
+      "id": "0x00000040",
+      "text": "Bearer of the Horn<tab>Bearer of the Horn"
+    },
+    {
+      "id": "0x00000041",
+      "text": "The Uncommitted<tab>The Uncommitted"
+    },
+    {
+      "id": "0x00000042",
+      "text": "The Professional<tab>The Professional"
+    },
+    {
+      "id": "0x00000043",
+      "text": "Inquisitor<tab>Inquisitor"
+    },
+    {
+      "id": "0x00000044",
+      "text": "Divine Crusher<tab>Divine Crusher"
+    },
+    {
+      "id": "0x00000045",
+      "text": "Stonesplitter<tab>Stonesplitter"
+    },
+    {
+      "id": "0x00000046",
+      "text": "A Kobold's Worst Nightmare<tab>A Kobold's Worst Nightmare"
+    },
+    {
+      "id": "0x00000047",
+      "text": "An Ixal's Worst Nightmare<tab>An Ixal's Worst Nightmare"
+    },
+    {
+      "id": "0x00000048",
+      "text": "An Amalj'aa's Worst Nightmare<tab>An Amalj'aa's Worst Nightmare"
+    },
+    {
+      "id": "0x00000049",
+      "text": "The Guardian of Aleport<tab>The Guardian of Aleport"
+    },
+    {
+      "id": "0x0000004A",
+      "text": "The Guardian of Hyrstmill<tab>The Guardian of Hyrstmill"
+    },
+    {
+      "id": "0x0000004B",
+      "text": "The Guardian of the Golden Bazaar<tab>The Guardian of the Golden Bazaar"
+    },
+    {
+      "id": "0x0000004C",
+      "text": "The Wind of Aleport<tab>The Wind of Aleport"
+    },
+    {
+      "id": "0x0000004D",
+      "text": "The Wind of Hyrstmill<tab>The Wind of Hyrstmill"
+    },
+    {
+      "id": "0x0000004E",
+      "text": "The Wind of the Golden Bazaar<tab>The Wind of the Golden Bazaar"
+    },
+    {
+      "id": "0x0000004F",
+      "text": "The Hand of Aleport<tab>The Hand of Aleport"
+    },
+    {
+      "id": "0x00000050",
+      "text": "The Hand of Hyrstmill<tab>The Hand of Hyrstmill"
+    },
+    {
+      "id": "0x00000051",
+      "text": "The Hand of the Golden Bazaar<tab>The Hand of the Golden Bazaar"
+    },
+    {
+      "id": "0x00000052",
+      "text": "Wild Thing<tab>Wild Thing"
+    },
+    {
+      "id": "0x00000053",
+      "text": "The Winter Wyrm<tab>The Winter Wyrm"
+    },
+    {
+      "id": "0x00000054",
+      "text": "Messenger of Love<tab>Messenger of Love"
+    },
+    {
+      "id": "0x00000055",
+      "text": "Royal Seneschal<tab>Princess for a Day"
+    },
+    {
+      "id": "0x00000056",
+      "text": "Dreamseeker<tab>Dreamseeker"
+    },
+    {
+      "id": "0x00000057",
+      "text": "Cascadier<tab>Cascadier"
+    },
+    {
+      "id": "0x00000058",
+      "text": "Crystal Bearer<tab>Crystal Bearer"
+    },
+    {
+      "id": "0x00000059",
+      "text": "Stormlord<tab>Stormlady"
+    },
+    {
+      "id": "0x0000005A",
+      "text": "Serpentlord<tab>Serpentlady"
+    },
+    {
+      "id": "0x0000005B",
+      "text": "Flamelord<tab>Flamelady"
+    },
+    {
+      "id": "0x0000005C",
+      "text": "The Stormsworn<tab>The Stormsworn"
+    },
+    {
+      "id": "0x0000005D",
+      "text": "The Serpentsworn<tab>The Serpentsworn"
+    },
+    {
+      "id": "0x0000005E",
+      "text": "The Flamesworn<tab>The Flamesworn"
+    },
+    {
+      "id": "0x0000005F",
+      "text": "Stormcarrier<tab>Stormcarrier"
+    },
+    {
+      "id": "0x00000060",
+      "text": "Serpentcarrier<tab>Serpentcarrier"
+    },
+    {
+      "id": "0x00000061",
+      "text": "Flamecarrier<tab>Flamecarrier"
+    },
+    {
+      "id": "0x00000062",
+      "text": "Stormbringer<tab>Stormbringer"
+    },
+    {
+      "id": "0x00000063",
+      "text": "Serpentbringer<tab>Serpentbringer"
+    },
+    {
+      "id": "0x00000064",
+      "text": "Flamebringer<tab>Flamebringer"
+    },
+    {
+      "id": "0x00000065",
+      "text": "Featherfoot<tab>Featherfoot"
+    },
+    {
+      "id": "0x00000066",
+      "text": "A Bo's Best Friend<tab>A Bo's Best Friend"
+    },
+    {
+      "id": "0x00000067",
+      "text": "Lightning<tab>Lightning"
+    },
+    {
+      "id": "0x00000068",
+      "text": "Cavalier<tab>Cavalier"
+    },
+    {
+      "id": "0x00000069",
+      "text": "The Wanderer's Shadow<tab>The Wanderer's Shadow"
+    },
+    {
+      "id": "0x0000006A",
+      "text": "Green Eyes<tab>Green Eyes"
+    },
+    {
+      "id": "0x0000006B",
+      "text": "The Strategist<tab>The Strategist"
+    },
+    {
+      "id": "0x0000006C",
+      "text": "The Reaper<tab>The Reaper"
+    },
+    {
+      "id": "0x0000006D",
+      "text": "Dungeon Master<tab>Dungeon Master"
+    },
+    {
+      "id": "0x0000006E",
+      "text": "Tempter of Fate<tab>Temptress of Fate"
+    },
+    {
+      "id": "0x0000006F",
+      "text": "Elite Cascadier<tab>Elite Cascadier"
+    },
+    {
+      "id": "0x00000070",
+      "text": "Storm Puppy<tab>Storm Puppy"
+    },
+    {
+      "id": "0x00000071",
+      "text": "Storm Howler<tab>Storm Howler"
+    },
+    {
+      "id": "0x00000072",
+      "text": "Storm Growler<tab>Storm Growler"
+    },
+    {
+      "id": "0x00000073",
+      "text": "Storm Hound<tab>Storm Hound"
+    },
+    {
+      "id": "0x00000074",
+      "text": "Storm Stalker<tab>Storm Stalker"
+    },
+    {
+      "id": "0x00000075",
+      "text": "Storm Chaser<tab>Storm Chaser"
+    },
+    {
+      "id": "0x00000076",
+      "text": "Naago's Friend<tab>Naago's Friend"
+    },
+    {
+      "id": "0x00000077",
+      "text": "Naago's Partner<tab>Naago's Partner"
+    },
+    {
+      "id": "0x00000078",
+      "text": "Wings of Steel<tab>Wings of Steel"
+    },
+    {
+      "id": "0x00000079",
+      "text": "Wings of Fire<tab>Wings of Fire"
+    },
+    {
+      "id": "0x0000007A",
+      "text": "Serpent Puppy<tab>Serpent Puppy"
+    },
+    {
+      "id": "0x0000007B",
+      "text": "Serpent Howler<tab>Serpent Howler"
+    },
+    {
+      "id": "0x0000007C",
+      "text": "Serpent Growler<tab>Serpent Growler"
+    },
+    {
+      "id": "0x0000007D",
+      "text": "Serpent Hound<tab>Serpent Hound"
+    },
+    {
+      "id": "0x0000007E",
+      "text": "Serpent Stalker<tab>Serpent Stalker"
+    },
+    {
+      "id": "0x0000007F",
+      "text": "Serpent Chaser<tab>Serpent Chaser"
+    },
+    {
+      "id": "0x00000080",
+      "text": "Deep Canal Raider<tab>Deep Canal Raider"
+    },
+    {
+      "id": "0x00000081",
+      "text": "Deep Canal Dweller<tab>Deep Canal Dweller"
+    },
+    {
+      "id": "0x00000082",
+      "text": "The Luckiest of Lords<tab>The Luckiest of Ladies"
+    },
+    {
+      "id": "0x00000083",
+      "text": "Crimson Explorer<tab>Crimson Explorer"
+    },
+    {
+      "id": "0x00000084",
+      "text": "Flame Puppy<tab>Flame Puppy"
+    },
+    {
+      "id": "0x00000085",
+      "text": "Flame Howler<tab>Flame Howler"
+    },
+    {
+      "id": "0x00000086",
+      "text": "Flame Growler<tab>Flame Growler"
+    },
+    {
+      "id": "0x00000087",
+      "text": "Flame Hound<tab>Flame Hound"
+    },
+    {
+      "id": "0x00000088",
+      "text": "Flame Stalker<tab>Flame Stalker"
+    },
+    {
+      "id": "0x00000089",
+      "text": "Flame Chaser<tab>Flame Chaser"
+    },
+    {
+      "id": "0x0000008A",
+      "text": "The Legend<tab>The Legend"
+    },
+    {
+      "id": "0x0000008B",
+      "text": "Raubahn's Left Arm<tab>Raubahn's Left Arm"
+    },
+    {
+      "id": "0x0000008C",
+      "text": "Of the Blue<tab>Of the Blue"
+    },
+    {
+      "id": "0x0000008D",
+      "text": "Fashion Leader<tab>Fashion Leader"
+    },
+    {
+      "id": "0x0000008E",
+      "text": "The Ravenous Wolf<tab>The Ravenous Wolf"
+    },
+    {
+      "id": "0x0000008F",
+      "text": "The Alpha Wolf<tab>The Alpha Wolf"
+    },
+    {
+      "id": "0x00000090",
+      "text": "The Heart of the Party<tab>The Heart of the Party"
+    },
+    {
+      "id": "0x00000091",
+      "text": "Brother of Ash<tab>Sister of Ash"
+    },
+    {
+      "id": "0x00000092",
+      "text": "Sylph-Friend<tab>Sylph-Friend"
+    },
+    {
+      "id": "0x00000093",
+      "text": "Treasure Hunter<tab>Treasure Hunter"
+    },
+    {
+      "id": "0x00000094",
+      "text": "789th Order Champion<tab>789th Order Champion"
+    },
+    {
+      "id": "0x00000095",
+      "text": "Novv Clutchmate<tab>Novv Clutchmate"
+    },
+    {
+      "id": "0x00000096",
+      "text": "The Ambitious Angler<tab>The Ambitious Angler"
+    },
+    {
+      "id": "0x00000097",
+      "text": "The Meat Shield<tab>The Meat Shield"
+    },
+    {
+      "id": "0x00000098",
+      "text": "The Meat Axe<tab>The Meat Axe"
+    },
+    {
+      "id": "0x00000099",
+      "text": "Of the Stalwart Shield<tab>Of the Stalwart Shield"
+    },
+    {
+      "id": "0x0000009A",
+      "text": "Of the Stalwart Axe<tab>Of the Stalwart Axe"
+    },
+    {
+      "id": "0x0000009B",
+      "text": "Frontline Forerunner<tab>Frontline Forerunner"
+    },
+    {
+      "id": "0x0000009C",
+      "text": "Storm Forerunner<tab>Storm Forerunner"
+    },
+    {
+      "id": "0x0000009D",
+      "text": "Flame Forerunner<tab>Flame Forerunner"
+    },
+    {
+      "id": "0x0000009E",
+      "text": "Serpent Forerunner<tab>Serpent Forerunner"
+    },
+    {
+      "id": "0x0000009F",
+      "text": "Drone Sniper<tab>Drone Sniper"
+    },
+    {
+      "id": "0x000000A0",
+      "text": "Heliodrome Hero<tab>Heliodrome Hero"
+    },
+    {
+      "id": "0x000000A1",
+      "text": "Hunter for Hire<tab>Hunter for Hire"
+    },
+    {
+      "id": "0x000000A2",
+      "text": "Seeker of Fortune<tab>Seeker of Fortune"
+    },
+    {
+      "id": "0x000000A3",
+      "text": "Seasoned Tracker<tab>Seasoned Tracker"
+    },
+    {
+      "id": "0x000000A4",
+      "text": "Bounty Hunter<tab>Bounty Hunter"
+    },
+    {
+      "id": "0x000000A5",
+      "text": "Soldier of Fortune<tab>Soldier of Fortune"
+    },
+    {
+      "id": "0x000000A6",
+      "text": "Captain of the Hunt<tab>Captain of the Hunt"
+    },
+    {
+      "id": "0x000000A7",
+      "text": "Rafflesia Reaper<tab>Rafflesia Reaper"
+    },
+    {
+      "id": "0x000000A8",
+      "text": "Melusine Mauler<tab>Melusine Mauler"
+    },
+    {
+      "id": "0x000000A9",
+      "text": "The Avatar<tab>The Avatar"
+    },
+    {
+      "id": "0x000000AA",
+      "text": "Domitor<tab>Domitrix"
+    },
+    {
+      "id": "0x000000AB",
+      "text": "The Disassembler<tab>The Disassembler"
+    },
+    {
+      "id": "0x000000AC",
+      "text": "Eversharp<tab>Eversharp"
+    },
+    {
+      "id": "0x000000AD",
+      "text": "Bearer of the Coffer<tab>Bearer of the Coffer"
+    },
+    {
+      "id": "0x000000AE",
+      "text": "Defender of Eorzea<tab>Defender of Eorzea"
+    },
+    {
+      "id": "0x000000AF",
+      "text": "The Postman<tab>The Postwoman"
+    },
+    {
+      "id": "0x000000B0",
+      "text": "Ehcatl Blackguard<tab>Ehcatl Blackguard"
+    },
+    {
+      "id": "0x000000B1",
+      "text": "The Negotiator<tab>The Negotiator"
+    },
+    {
+      "id": "0x000000B2",
+      "text": "The Final Witness<tab>The Final Witness"
+    },
+    {
+      "id": "0x000000B3",
+      "text": "Of Dragons Deep<tab>Of Dragons Deep"
+    },
+    {
+      "id": "0x000000B4",
+      "text": "Master Caster<tab>Master Caster"
+    },
+    {
+      "id": "0x000000B5",
+      "text": "The New Sun<tab>The New Sun"
+    },
+    {
+      "id": "0x000000B6",
+      "text": "The Shadow<tab>The Shadow"
+    },
+    {
+      "id": "0x000000B7",
+      "text": "Icebreaker<tab>Icebreaker"
+    },
+    {
+      "id": "0x000000B8",
+      "text": "Of the Silver Lining<tab>Of the Silver Lining"
+    },
+    {
+      "id": "0x000000B9",
+      "text": "Gentleman<tab>Gentlewoman"
+    },
+    {
+      "id": "0x000000BA",
+      "text": "Cupid<tab>Cupid"
+    },
+    {
+      "id": "0x000000BB",
+      "text": "Tamer of Steeds<tab>Tamer of Steeds"
+    },
+    {
+      "id": "0x000000BC",
+      "text": "The Unsevered<tab>The Unsevered"
+    },
+    {
+      "id": "0x000000BD",
+      "text": "Slaughterhouse<tab>Slaughterhouse"
+    },
+    {
+      "id": "0x000000BE",
+      "text": "The Hand of Mercy<tab>The Hand of Mercy"
+    },
+    {
+      "id": "0x000000BF",
+      "text": "The Light in Hand<tab>The Light in Hand"
+    },
+    {
+      "id": "0x000000C0",
+      "text": "The Light of the Land<tab>The Light of the Land"
+    },
+    {
+      "id": "0x000000C1",
+      "text": "Z<tab>Z"
+    },
+    {
+      "id": "0x000000C2",
+      "text": "Golemancer<tab>Golemancer"
+    },
+    {
+      "id": "0x000000C3",
+      "text": "Gambler<tab>Gambler"
+    },
+    {
+      "id": "0x000000C4",
+      "text": "High Roller<tab>High Roller"
+    },
+    {
+      "id": "0x000000C5",
+      "text": "Chocobo Breeder<tab>Chocobo Breeder"
+    },
+    {
+      "id": "0x000000C6",
+      "text": "Chocobo Trainer<tab>Chocobo Trainer"
+    },
+    {
+      "id": "0x000000C7",
+      "text": "Bug Boy<tab>Bug Girl"
+    },
+    {
+      "id": "0x000000C8",
+      "text": "Senior Jockey<tab>Senior Jockey"
+    },
+    {
+      "id": "0x000000C9",
+      "text": "Veteran Jockey<tab>Veteran Jockey"
+    },
+    {
+      "id": "0x000000CA",
+      "text": "The First Across<tab>The First Across"
+    },
+    {
+      "id": "0x000000CB",
+      "text": "Deck Holder<tab>Deck Holder"
+    },
+    {
+      "id": "0x000000CC",
+      "text": "Deck Hoarder<tab>Deck Hoarder"
+    },
+    {
+      "id": "0x000000CD",
+      "text": "The Trinity<tab>The Trinity"
+    },
+    {
+      "id": "0x000000CE",
+      "text": "Duelist<tab>Duelist"
+    },
+    {
+      "id": "0x000000CF",
+      "text": "Keymaster<tab>Gatekeeper"
+    },
+    {
+      "id": "0x000000D0",
+      "text": "The Fungah<tab>The Fungah"
+    },
+    {
+      "id": "0x000000D1",
+      "text": "Moneybags<tab>Moneybags"
+    },
+    {
+      "id": "0x000000D2",
+      "text": "Raiser of Mountains<tab>Raiser of Mountains"
+    },
+    {
+      "id": "0x000000D3",
+      "text": "Bearer of the Torch<tab>Bearer of the Torch"
+    },
+    {
+      "id": "0x000000D4",
+      "text": "Postmaster<tab>Postmaster"
+    },
+    {
+      "id": "0x000000D5",
+      "text": "Half-boiled Hero<tab>Half-boiled Heroine"
+    },
+    {
+      "id": "0x000000D6",
+      "text": "Unbeliever<tab>Unbeliever"
+    },
+    {
+      "id": "0x000000D7",
+      "text": "The Redeemed<tab>The Redeemed"
+    },
+    {
+      "id": "0x000000D8",
+      "text": "Nidhogg Slayer<tab>Nidhogg Slayer"
+    },
+    {
+      "id": "0x000000D9",
+      "text": "Of the Silver Fuller<tab>Of the Silver Fuller"
+    },
+    {
+      "id": "0x000000DA",
+      "text": "Imperial Nuisance<tab>Imperial Nuisance"
+    },
+    {
+      "id": "0x000000DB",
+      "text": "Under-archon<tab>Under-archon"
+    },
+    {
+      "id": "0x000000DC",
+      "text": "The End of Ascalon<tab>The End of Ascalon"
+    },
+    {
+      "id": "0x000000DD",
+      "text": "Snake in the Grass<tab>Snake in the Grass"
+    },
+    {
+      "id": "0x000000DE",
+      "text": "The Oathkeeper<tab>The Oathkeeper"
+    },
+    {
+      "id": "0x000000DF",
+      "text": "Of the 14th Chakra<tab>Of the 14th Chakra"
+    },
+    {
+      "id": "0x000000E0",
+      "text": "The Mythril Heart<tab>The Mythril Heart"
+    },
+    {
+      "id": "0x000000E1",
+      "text": "The Azure Dragoon<tab>The Azure Dragoon"
+    },
+    {
+      "id": "0x000000E2",
+      "text": "Skysinger<tab>Skysinger"
+    },
+    {
+      "id": "0x000000E3",
+      "text": "Pure White<tab>Pure White"
+    },
+    {
+      "id": "0x000000E4",
+      "text": "Annihilator<tab>Annihilator"
+    },
+    {
+      "id": "0x000000E5",
+      "text": "Dreadspawn<tab>Dreadspawn"
+    },
+    {
+      "id": "0x000000E6",
+      "text": "Nymian Marine<tab>Nymian Marine"
+    },
+    {
+      "id": "0x000000E7",
+      "text": "The Darkest Shadow<tab>The Darkest Shadow"
+    },
+    {
+      "id": "0x000000E8",
+      "text": "Blackblood<tab>Blackblood"
+    },
+    {
+      "id": "0x000000E9",
+      "text": "Liberator<tab>Liberator"
+    },
+    {
+      "id": "0x000000EA",
+      "text": "Stargazer<tab>Stargazer"
+    },
+    {
+      "id": "0x000000EB",
+      "text": "Illuminati Quencher<tab>Illuminati Quencher"
+    },
+    {
+      "id": "0x000000EC",
+      "text": "Finder of False Gods<tab>Finder of False Gods"
+    },
+    {
+      "id": "0x000000ED",
+      "text": "Lighter than Air<tab>Lighter than Air"
+    },
+    {
+      "id": "0x000000EF",
+      "text": "Grandmaster of War<tab>Grandmaster of War"
+    },
+    {
+      "id": "0x000000F0",
+      "text": "Grandmaster of Magic<tab>Grandmaster of Magic"
+    },
+    {
+      "id": "0x000000F1",
+      "text": "Dark Driver<tab>Dark Driver"
+    },
+    {
+      "id": "0x000000F2",
+      "text": "Of the Stalwart Sword<tab>Of the Stalwart Sword"
+    },
+    {
+      "id": "0x000000F3",
+      "text": "Keeper of Knowledge<tab>Keeper of Knowledge"
+    },
+    {
+      "id": "0x000000F4",
+      "text": "Canal Dweller<tab>Canal Dweller"
+    },
+    {
+      "id": "0x000000F5",
+      "text": "Canal Lord<tab>Canal Lady"
+    },
+    {
+      "id": "0x000000F6",
+      "text": "The Necromancer<tab>The Necromancer"
+    },
+    {
+      "id": "0x000000F8",
+      "text": "Grandmaster of the Hand<tab>Grandmaster of the Hand"
+    },
+    {
+      "id": "0x000000F9",
+      "text": "Grandmaster of the Land<tab>Grandmaster of the Land"
+    },
+    {
+      "id": "0x000000FA",
+      "text": "Molder of Masterpieces<tab>Molder of Masterpieces"
+    },
+    {
+      "id": "0x000000FB",
+      "text": "Amasser of Masterpieces<tab>Amasser of Masterpieces"
+    },
+    {
+      "id": "0x000000FC",
+      "text": "Business Associate<tab>Business Associate"
+    },
+    {
+      "id": "0x000000FD",
+      "text": "Master Carpenter<tab>Master Carpenter"
+    },
+    {
+      "id": "0x000000FE",
+      "text": "Master Blacksmith<tab>Master Blacksmith"
+    },
+    {
+      "id": "0x000000FF",
+      "text": "Master Armorer<tab>Master Armorer"
+    },
+    {
+      "id": "0x00000100",
+      "text": "Master Goldsmith<tab>Master Goldsmith"
+    },
+    {
+      "id": "0x00000101",
+      "text": "Master Leatherworker<tab>Master Leatherworker"
+    },
+    {
+      "id": "0x00000102",
+      "text": "Master Weaver<tab>Master Weaver"
+    },
+    {
+      "id": "0x00000103",
+      "text": "Master Alchemist<tab>Master Alchemist"
+    },
+    {
+      "id": "0x00000104",
+      "text": "Master Culinarian<tab>Master Culinarian"
+    },
+    {
+      "id": "0x00000105",
+      "text": "Master Miner<tab>Master Miner"
+    },
+    {
+      "id": "0x00000106",
+      "text": "Master Botanist<tab>Master Botanist"
+    },
+    {
+      "id": "0x00000107",
+      "text": "Master Fisher<tab>Master Fisher"
+    },
+    {
+      "id": "0x00000108",
+      "text": "The Fortunate<tab>The Fortunate"
+    },
+    {
+      "id": "0x00000109",
+      "text": "Good Samaritan<tab>Good Samaritan"
+    },
+    {
+      "id": "0x0000010A",
+      "text": "Minion Collector<tab>Minion Collector"
+    },
+    {
+      "id": "0x0000010B",
+      "text": "Minion Master<tab>Minion Master"
+    },
+    {
+      "id": "0x0000010C",
+      "text": "Mammeteer<tab>Mammeteer"
+    },
+    {
+      "id": "0x0000010D",
+      "text": "Prince of Verminion<tab>Princess of Verminion"
+    },
+    {
+      "id": "0x0000010E",
+      "text": "Lord of Verminion<tab>Lady of Verminion"
+    },
+    {
+      "id": "0x0000010F",
+      "text": "House Fortemps Knight<tab>House Fortemps Knight"
+    },
+    {
+      "id": "0x00000110",
+      "text": "Sky Pirate<tab>Sky Pirate"
+    },
+    {
+      "id": "0x00000111",
+      "text": "The Noumenon<tab>The Noumenon"
+    },
+    {
+      "id": "0x00000112",
+      "text": "Sundrop Dancer<tab>Sundrop Dancer"
+    },
+    {
+      "id": "0x00000113",
+      "text": "Myth Breaker<tab>Myth Breaker"
+    },
+    {
+      "id": "0x00000114",
+      "text": "Veteran Explorer<tab>Veteran Explorer"
+    },
+    {
+      "id": "0x00000115",
+      "text": "Special Advisor<tab>Special Advisor"
+    },
+    {
+      "id": "0x00000116",
+      "text": "Notorious Monster Slayer<tab>Notorious Monster Slayer"
+    },
+    {
+      "id": "0x00000117",
+      "text": "Hungry Wolf<tab>Hungry Wolf"
+    },
+    {
+      "id": "0x00000118",
+      "text": "The Devourer<tab>The Devourer"
+    },
+    {
+      "id": "0x00000119",
+      "text": "The Unmoving<tab>The Unmoving"
+    },
+    {
+      "id": "0x0000011A",
+      "text": "The Unrelenting<tab>The Unrelenting"
+    },
+    {
+      "id": "0x0000011B",
+      "text": "The Unseen<tab>The Unseen"
+    },
+    {
+      "id": "0x0000011C",
+      "text": "The Unleashed<tab>The Unleashed"
+    },
+    {
+      "id": "0x0000011D",
+      "text": "The Undamaged<tab>The Undamaged"
+    },
+    {
+      "id": "0x0000011E",
+      "text": "Mentor<tab>Mentor"
+    },
+    {
+      "id": "0x0000011F",
+      "text": "Mentor of Mentors<tab>Mentor of Mentors"
+    },
+    {
+      "id": "0x00000120",
+      "text": "Carrier of the Kettle<tab>Carrier of the Kettle"
+    },
+    {
+      "id": "0x00000121",
+      "text": "The Gear of Change<tab>The Gear of Change"
+    },
+    {
+      "id": "0x00000122",
+      "text": "Allthoughts<tab>Allthoughts"
+    },
+    {
+      "id": "0x00000123",
+      "text": "The Newmind<tab>The Newmind"
+    },
+    {
+      "id": "0x00000124",
+      "text": "The Dragonsong<tab>The Dragonsong"
+    },
+    {
+      "id": "0x00000125",
+      "text": "Polis Raider<tab>Polis Raider"
+    },
+    {
+      "id": "0x00000126",
+      "text": "Polis Dweller<tab>Polis Dweller"
+    },
+    {
+      "id": "0x00000127",
+      "text": "Polis Lord<tab>Polis Lady"
+    },
+    {
+      "id": "0x00000128",
+      "text": "Pom Friend<tab>Pom Friend"
+    },
+    {
+      "id": "0x00000129",
+      "text": "Leader of the Pack<tab>Leader of the Pack"
+    },
+    {
+      "id": "0x0000012A",
+      "text": "Beta Wolf<tab>Beta Wolf"
+    },
+    {
+      "id": "0x0000012B",
+      "text": "Hunter Wolf<tab>Hunter Wolf"
+    },
+    {
+      "id": "0x0000012C",
+      "text": "Bronze Wolf<tab>Bronze Wolf"
+    },
+    {
+      "id": "0x0000012D",
+      "text": "Silver Wolf<tab>Silver Wolf"
+    },
+    {
+      "id": "0x0000012E",
+      "text": "Gold Wolf<tab>Gold Wolf"
+    },
+    {
+      "id": "0x0000012F",
+      "text": "Platinum Wolf<tab>Platinum Wolf"
+    },
+    {
+      "id": "0x00000130",
+      "text": "Diamond Wolf<tab>Diamond Wolf"
+    },
+    {
+      "id": "0x00000131",
+      "text": "Of the First Pack<tab>Of the First Pack"
+    },
+    {
+      "id": "0x00000132",
+      "text": "Of the Second Pack<tab>Of the Second Pack"
+    },
+    {
+      "id": "0x00000133",
+      "text": "Of the Hungry Pack<tab>Of the Hungry Pack"
+    },
+    {
+      "id": "0x00000134",
+      "text": "Of the Bronze Pack<tab>Of the Bronze Pack"
+    },
+    {
+      "id": "0x00000135",
+      "text": "Of the Silver Pack<tab>Of the Silver Pack"
+    },
+    {
+      "id": "0x00000136",
+      "text": "Of the Gold Pack<tab>Of the Gold Pack"
+    },
+    {
+      "id": "0x00000137",
+      "text": "Of the Platinum Pack<tab>Of the Platinum Pack"
+    },
+    {
+      "id": "0x00000138",
+      "text": "Of the Diamond Pack<tab>Of the Diamond Pack"
+    },
+    {
+      "id": "0x00000139",
+      "text": "The Knight of Glory<tab>The Knight of Glory"
+    },
+    {
+      "id": "0x0000013A",
+      "text": "The Chief Mourner<tab>The Chief Mourner"
+    },
+    {
+      "id": "0x0000013B",
+      "text": "The Wings of Time<tab>The Wings of Time"
+    },
+    {
+      "id": "0x0000013C",
+      "text": "Surrenderer of Souls<tab>Surrenderer of Souls"
+    },
+    {
+      "id": "0x0000013D",
+      "text": "Khloe's Friend<tab>Khloe's Friend"
+    },
+    {
+      "id": "0x0000013E",
+      "text": "Khloe's Best Friend<tab>Khloe's Best Friend"
+    },
+    {
+      "id": "0x0000013F",
+      "text": "Hero of Gelmorra<tab>Hero of Gelmorra"
+    },
+    {
+      "id": "0x00000140",
+      "text": "Lightbringer<tab>Lightbringer"
+    },
+    {
+      "id": "0x00000141",
+      "text": "Lonely Explorer<tab>Lonely Explorer"
+    },
+    {
+      "id": "0x00000142",
+      "text": "The Lucky<tab>The Lucky"
+    },
+    {
+      "id": "0x00000143",
+      "text": "Of the Sixth Sense<tab>Of the Sixth Sense"
+    },
+    {
+      "id": "0x00000144",
+      "text": "Corpse Dancer<tab>Corpse Dancer"
+    },
+    {
+      "id": "0x00000145",
+      "text": "Makai Master<tab>Makai Master"
+    },
+    {
+      "id": "0x00000146",
+      "text": "Garo<tab>Garo"
+    },
+    {
+      "id": "0x00000147",
+      "text": "Makai Monk<tab>Makai Monk"
+    },
+    {
+      "id": "0x00000148",
+      "text": "Barago<tab>Barago"
+    },
+    {
+      "id": "0x00000149",
+      "text": "Dan<tab>Dan"
+    },
+    {
+      "id": "0x0000014A",
+      "text": "Makai Bard<tab>Makai Bard"
+    },
+    {
+      "id": "0x0000014B",
+      "text": "Makai Black Mage<tab>Makai Black Mage"
+    },
+    {
+      "id": "0x0000014C",
+      "text": "Makai White Mage<tab>Makai White Mage"
+    },
+    {
+      "id": "0x0000014D",
+      "text": "Zero<tab>Zero"
+    },
+    {
+      "id": "0x0000014E",
+      "text": "Makai Summoner<tab>Makai Summoner"
+    },
+    {
+      "id": "0x0000014F",
+      "text": "Makai Scholar<tab>Makai Scholar"
+    },
+    {
+      "id": "0x00000150",
+      "text": "Kiba<tab>Kiba"
+    },
+    {
+      "id": "0x00000151",
+      "text": "Makai Machinist<tab>Makai Machinist"
+    },
+    {
+      "id": "0x00000152",
+      "text": "Makai Astrologian<tab>Makai Astrologian"
+    },
+    {
+      "id": "0x00000153",
+      "text": "Moonlifter<tab>Moonlifter"
+    },
+    {
+      "id": "0x00000154",
+      "text": "The Finest Pupil's Ally<tab>The Finest Pupil's Ally"
+    },
+    {
+      "id": "0x00000155",
+      "text": "Fatewalker<tab>Fatewalker"
+    },
+    {
+      "id": "0x00000156",
+      "text": "Of the Holy Body<tab>Of the Holy Body"
+    },
+    {
+      "id": "0x00000157",
+      "text": "Gigi's Best Friend<tab>Gigi's Best Friend"
+    },
+    {
+      "id": "0x00000158",
+      "text": "Tamer of the Undying Flame<tab>Tamer of the Undying Flame"
+    },
+    {
+      "id": "0x00000159",
+      "text": "Mortal Fist<tab>Mortal Fist"
+    },
+    {
+      "id": "0x0000015A",
+      "text": "Rhalgr's Right Fist<tab>Rhalgr's Right Fist"
+    },
+    {
+      "id": "0x0000015B",
+      "text": "Tablesetter<tab>Tablesetter"
+    },
+    {
+      "id": "0x0000015C",
+      "text": "Halone's Cup Bearer<tab>Halone's Cup Bearer"
+    },
+    {
+      "id": "0x0000015D",
+      "text": "Zhloe's Friend<tab>Zhloe's Friend"
+    },
+    {
+      "id": "0x0000015E",
+      "text": "Zhloe's Best Friend<tab>Zhloe's Best Friend"
+    },
+    {
+      "id": "0x0000015F",
+      "text": "Survivor of the Song<tab>Survivor of the Song"
+    },
+    {
+      "id": "0x00000160",
+      "text": "Ijin Traveler<tab>Ijin Traveler"
+    },
+    {
+      "id": "0x00000161",
+      "text": "Confederate<tab>Confederate"
+    },
+    {
+      "id": "0x00000162",
+      "text": "Adversary<tab>Adversary"
+    },
+    {
+      "id": "0x00000163",
+      "text": "Steppe Warrior<tab>Steppe Warrior"
+    },
+    {
+      "id": "0x00000164",
+      "text": "The Returned<tab>The Returned"
+    },
+    {
+      "id": "0x00000165",
+      "text": "Lyse's Right Fist<tab>Lyse's Right Fist"
+    },
+    {
+      "id": "0x00000166",
+      "text": "The Liberator<tab>The Liberator"
+    },
+    {
+      "id": "0x00000167",
+      "text": "Deltascape Deleter<tab>Deltascape Deleter"
+    },
+    {
+      "id": "0x00000168",
+      "text": "Ul Cup Champion<tab>Ul Cup Champion"
+    },
+    {
+      "id": "0x00000169",
+      "text": "The Fistful<tab>The Fistful"
+    },
+    {
+      "id": "0x0000016A",
+      "text": "Loved by the Axe<tab>Loved by the Axe"
+    },
+    {
+      "id": "0x0000016B",
+      "text": "The Blood Dragoon<tab>The Blood Dragoon"
+    },
+    {
+      "id": "0x0000016C",
+      "text": "Of the True Autumn<tab>Of the True Autumn"
+    },
+    {
+      "id": "0x0000016D",
+      "text": "Padjal Protector<tab>Padjal Protector"
+    },
+    {
+      "id": "0x0000016E",
+      "text": "Gembreaker<tab>Gembreaker"
+    },
+    {
+      "id": "0x0000016F",
+      "text": "The First Caller<tab>The First Caller"
+    },
+    {
+      "id": "0x00000170",
+      "text": "Keeper of the Lilacs<tab>Keeper of the Lilacs"
+    },
+    {
+      "id": "0x00000171",
+      "text": "Eorzean Ninja<tab>Eorzean Ninja"
+    },
+    {
+      "id": "0x00000172",
+      "text": "Of the Swirling Abyss<tab>Of the Swirling Abyss"
+    },
+    {
+      "id": "0x00000173",
+      "text": "The Howler<tab>The Howler"
+    },
+    {
+      "id": "0x00000174",
+      "text": "Of the Eastern Skies<tab>Of the Eastern Skies"
+    },
+    {
+      "id": "0x00000175",
+      "text": "The Red<tab>The Red"
+    },
+    {
+      "id": "0x00000176",
+      "text": "Muso<tab>Muso"
+    },
+    {
+      "id": "0x00000177",
+      "text": "God of War<tab>Goddess of War"
+    },
+    {
+      "id": "0x00000178",
+      "text": "God of Magic<tab>Goddess of Magic"
+    },
+    {
+      "id": "0x00000179",
+      "text": "God of the Hand<tab>Goddess of the Hand"
+    },
+    {
+      "id": "0x0000017A",
+      "text": "God of the Land<tab>Goddess of the Land"
+    },
+    {
+      "id": "0x0000017B",
+      "text": "Of the Longest Hunt<tab>Of the Longest Hunt"
+    },
+    {
+      "id": "0x0000017C",
+      "text": "Of the Endless Hunt<tab>Of the Endless Hunt"
+    },
+    {
+      "id": "0x0000017D",
+      "text": "Thrillseeker<tab>Thrillseeker"
+    },
+    {
+      "id": "0x0000017E",
+      "text": "Ultimate Thrillseeker<tab>Ultimate Thrillseeker"
+    },
+    {
+      "id": "0x0000017F",
+      "text": "Canal Raider<tab>Canal Raider"
+    },
+    {
+      "id": "0x00000180",
+      "text": "Hiruko Hunter<tab>Hiruko Hunter"
+    },
+    {
+      "id": "0x00000181",
+      "text": "Heavenly Gate Crasher<tab>Heavenly Gate Crasher"
+    },
+    {
+      "id": "0x00000182",
+      "text": "True Hero<tab>True Hero"
+    },
+    {
+      "id": "0x00000183",
+      "text": "Lone Hero<tab>Lone Hero"
+    },
+    {
+      "id": "0x00000184",
+      "text": "Hoarder<tab>Hoarder"
+    },
+    {
+      "id": "0x00000185",
+      "text": "Vanguard<tab>Vanguard"
+    },
+    {
+      "id": "0x00000186",
+      "text": "Kurenai's Best Friend<tab>Kurenai's Best Friend"
+    },
+    {
+      "id": "0x00000187",
+      "text": "Kurenai's Partner<tab>Kurenai's Partner"
+    },
+    {
+      "id": "0x00000188",
+      "text": "Under the Moonlight<tab>Under the Moonlight"
+    },
+    {
+      "id": "0x00000189",
+      "text": "Siltwater Socialite<tab>Siltwater Socialite"
+    },
+    {
+      "id": "0x0000018A",
+      "text": "Matchmaker<tab>Matchmaker"
+    },
+    {
+      "id": "0x0000018B",
+      "text": "Eorzean Ninja Warrior<tab>Eorzean Ninja Warrior"
+    },
+    {
+      "id": "0x0000018C",
+      "text": "Calamatologist<tab>Calamatologist"
+    },
+    {
+      "id": "0x0000018D",
+      "text": "The Ultimate Legend<tab>The Ultimate Legend"
+    },
+    {
+      "id": "0x0000018E",
+      "text": "Monster Hunter<tab>Monster Hunter"
+    },
+    {
+      "id": "0x0000018F",
+      "text": "FRC 2018 Champion<tab>FRC 2018 Champion"
+    },
+    {
+      "id": "0x00000190",
+      "text": "FRC 2018 Finalist<tab>FRC 2018 Finalist"
+    },
+    {
+      "id": "0x00000191",
+      "text": "FRC 2018 Ranker<tab>FRC 2018 Ranker"
+    },
+    {
+      "id": "0x00000192",
+      "text": "Prelude in Violet<tab>Prelude in Violet"
+    },
+    {
+      "id": "0x00000193",
+      "text": "Philanthropist<tab>Philanthropist"
+    },
+    {
+      "id": "0x00000194",
+      "text": "Altar Boy<tab>Altar Girl"
+    },
+    {
+      "id": "0x00000195",
+      "text": "The Devout<tab>The Devout"
+    },
+    {
+      "id": "0x00000196",
+      "text": "Invoker of Gods<tab>Invoker of Gods"
+    },
+    {
+      "id": "0x00000197",
+      "text": "Grandmaster Caster<tab>Grandmaster Caster"
+    },
+    {
+      "id": "0x00000198",
+      "text": "Kyubi Tamer<tab>Kyubi Tamer"
+    },
+    {
+      "id": "0x00000199",
+      "text": "Mahjong Enthusiast<tab>Mahjong Enthusiast"
+    },
+    {
+      "id": "0x0000019A",
+      "text": "Mahjong Master<tab>Mahjong Master"
+    },
+    {
+      "id": "0x0000019B",
+      "text": "Little Piggy<tab>Little Piggy"
+    },
+    {
+      "id": "0x0000019C",
+      "text": "Tough Customer<tab>Tough Customer"
+    },
+    {
+      "id": "0x0000019D",
+      "text": "Blue Blood<tab>Blue Blood"
+    },
+    {
+      "id": "0x0000019E",
+      "text": "Mask of the Blue<tab>Mask of the Blue"
+    },
+    {
+      "id": "0x0000019F",
+      "text": "Perfect Blue<tab>Perfect Blue"
+    },
+    {
+      "id": "0x000001A0",
+      "text": "Eurekan Explorer<tab>Eurekan Explorer"
+    },
+    {
+      "id": "0x000001A1",
+      "text": "A Requiem For Heroes<tab>A Requiem For Heroes"
+    },
+    {
+      "id": "0x000001A2",
+      "text": "The Soboro<tab>The Soboro"
+    },
+    {
+      "id": "0x000001A3",
+      "text": "Kageyama Killer<tab>Kageyama Killer"
+    },
+    {
+      "id": "0x000001A4",
+      "text": "Kingsglaive<tab>Kingsglaive"
+    },
+    {
+      "id": "0x000001A5",
+      "text": "Lord of the Fetch<tab>Lady of the Fetch"
+    },
+    {
+      "id": "0x000001A6",
+      "text": "Soul of War<tab>Soul of War"
+    },
+    {
+      "id": "0x000001A7",
+      "text": "Soul of Magic<tab>Soul of Magic"
+    },
+    {
+      "id": "0x000001A8",
+      "text": "Soul of the Craft<tab>Soul of the Craft"
+    },
+    {
+      "id": "0x000001A9",
+      "text": "Soul of the Harvest<tab>Soul of the Harvest"
+    },
+    {
+      "id": "0x000001AA",
+      "text": "Outlander<tab>Outlander"
+    },
+    {
+      "id": "0x000001AB",
+      "text": "The Fae-touched<tab>The Fae-touched"
+    },
+    {
+      "id": "0x000001AC",
+      "text": "Seeker of Hidden Truths<tab>Seeker of Hidden Truths"
+    },
+    {
+      "id": "0x000001AD",
+      "text": "Of the Sunless Sea<tab>Of the Sunless Sea"
+    },
+    {
+      "id": "0x000001AE",
+      "text": "Enemy of Innocence<tab>Enemy of Innocence"
+    },
+    {
+      "id": "0x000001AF",
+      "text": "Shadowbringer<tab>Shadowbringer"
+    },
+    {
+      "id": "0x000001B0",
+      "text": "Sworn Protector<tab>Sworn Protector"
+    },
+    {
+      "id": "0x000001B1",
+      "text": "The Heart's Beat<tab>The Heart's Beat"
+    },
+    {
+      "id": "0x000001B2",
+      "text": "Living Memory<tab>Living Memory"
+    },
+    {
+      "id": "0x000001B3",
+      "text": "Bulwark between Worlds<tab>Bulwark between Worlds"
+    },
+    {
+      "id": "0x000001B4",
+      "text": "The Transcendent<tab>The Transcendent"
+    },
+    {
+      "id": "0x000001B5",
+      "text": "Worldcleaver<tab>Worldcleaver"
+    },
+    {
+      "id": "0x000001B6",
+      "text": "Bolt from the Black<tab>Bolt from the Black"
+    },
+    {
+      "id": "0x000001B7",
+      "text": "The Song upon the Wind<tab>The Song upon the Wind"
+    },
+    {
+      "id": "0x000001B8",
+      "text": "Firstblessed<tab>Firstblessed"
+    },
+    {
+      "id": "0x000001B9",
+      "text": "Of Stranger Shadow<tab>Of Stranger Shadow"
+    },
+    {
+      "id": "0x000001BA",
+      "text": "Farcaller<tab>Farcaller"
+    },
+    {
+      "id": "0x000001BB",
+      "text": "Knower of Twin Worlds<tab>Knower of Twin Worlds"
+    },
+    {
+      "id": "0x000001BC",
+      "text": "Shadow of the Other<tab>Shadow of the Other"
+    },
+    {
+      "id": "0x000001BD",
+      "text": "The Boundless Dark<tab>The Boundless Dark"
+    },
+    {
+      "id": "0x000001BE",
+      "text": "The Shot Heard Across Worlds<tab>The Shot Heard Across Worlds"
+    },
+    {
+      "id": "0x000001BF",
+      "text": "Distant Stargazer<tab>Distant Stargazer"
+    },
+    {
+      "id": "0x000001C0",
+      "text": "Dualistic Duelist<tab>Dualistic Duelist"
+    },
+    {
+      "id": "0x000001C1",
+      "text": "Samurai in a Strange Land<tab>Samurai in a Strange Land"
+    },
+    {
+      "id": "0x000001C2",
+      "text": "Wandering Vanguard<tab>Wandering Vanguard"
+    },
+    {
+      "id": "0x000001C3",
+      "text": "Riftdancer<tab>Riftdancer"
+    },
+    {
+      "id": "0x000001C4",
+      "text": "Otherworld Smith<tab>Otherworld Smith"
+    },
+    {
+      "id": "0x000001C5",
+      "text": "Otherworld Artisan<tab>Otherworld Artisan"
+    },
+    {
+      "id": "0x000001C6",
+      "text": "Otherworld Apothecary<tab>Otherworld Apothecary"
+    },
+    {
+      "id": "0x000001C7",
+      "text": "Otherworld Seeker<tab>Otherworld Seeker"
+    },
+    {
+      "id": "0x000001C8",
+      "text": "Otherworld Angler<tab>Otherworld Angler"
+    },
+    {
+      "id": "0x000001C9",
+      "text": "The Multifaceted<tab>The Multifaceted"
+    },
+    {
+      "id": "0x000001CA",
+      "text": "Trusted Friend<tab>Trusted Friend"
+    },
+    {
+      "id": "0x000001CB",
+      "text": "The Invisible Hand<tab>The Invisible Hand"
+    },
+    {
+      "id": "0x000001CC",
+      "text": "Charming Brute<tab>Charming Brute"
+    },
+    {
+      "id": "0x000001CD",
+      "text": "The Fabulously Feral<tab>The Fabulously Feral"
+    },
+    {
+      "id": "0x000001CE",
+      "text": "Of Unyielding Oath<tab>Of Unyielding Oath"
+    },
+    {
+      "id": "0x000001CF",
+      "text": "Of Unyielding Steel<tab>Of Unyielding Steel"
+    },
+    {
+      "id": "0x000001D0",
+      "text": "Of Unyielding Principle<tab>Of Unyielding Principle"
+    },
+    {
+      "id": "0x000001D1",
+      "text": "Of Unyielding Lealty<tab>Of Unyielding Lealty"
+    },
+    {
+      "id": "0x000001D2",
+      "text": "Dungeon Raider<tab>Dungeon Raider"
+    },
+    {
+      "id": "0x000001D3",
+      "text": "Dungeon Dweller<tab>Dungeon Dweller"
+    },
+    {
+      "id": "0x000001D4",
+      "text": "Dungeon Lord<tab>Dungeon Lady"
+    },
+    {
+      "id": "0x000001D5",
+      "text": "Kindred Sword<tab>Kindred Sword"
+    },
+    {
+      "id": "0x000001DC",
+      "text": "Of Virtuous Deeds<tab>Of Virtuous Deeds"
+    },
+    {
+      "id": "0x000001DD",
+      "text": "Kai-Shirr's Best Mate<tab>Kai-Shirr's Best Mate"
+    },
+    {
+      "id": "0x000001DE",
+      "text": "Honeybee<tab>Honeybee"
+    },
+    {
+      "id": "0x000001DF",
+      "text": "Sweet Dreamer<tab>Sweet Dreamer"
+    },
+    {
+      "id": "0x000001E0",
+      "text": "The Perfect Legend<tab>The Perfect Legend"
+    },
+    {
+      "id": "0x000001E1",
+      "text": "Blue to the Bone<tab>Blue to the Bone"
+    },
+    {
+      "id": "0x000001E2",
+      "text": "Blue Luminary<tab>Blue Luminary"
+    },
+    {
+      "id": "0x000001E3",
+      "text": "Masked of the Round<tab>Masked of the Round"
+    },
+    {
+      "id": "0x000001E4",
+      "text": "Unbound Blue<tab>Unbound Blue"
+    },
+    {
+      "id": "0x000001E5",
+      "text": "Blue Justice<tab>Blue Justice"
+    },
+    {
+      "id": "0x000001E6",
+      "text": "The Battleforged<tab>The Battleforged"
+    },
+    {
+      "id": "0x000001E7",
+      "text": "Champion of the Blue<tab>Champion of the Blue"
+    },
+    {
+      "id": "0x000001E8",
+      "text": "Saint of the Firmament<tab>Saint of the Firmament"
+    },
+    {
+      "id": "0x000001E9",
+      "text": "Beatus of the Firmament<tab>Beata of the Firmament"
+    },
+    {
+      "id": "0x000001EA",
+      "text": "Frame of the Firmament<tab>Frame of the Firmament"
+    },
+    {
+      "id": "0x000001EB",
+      "text": "Forge of the Firmament<tab>Forge of the Firmament"
+    },
+    {
+      "id": "0x000001EC",
+      "text": "Hammer of the Firmament<tab>Hammer of the Firmament"
+    },
+    {
+      "id": "0x000001ED",
+      "text": "Jewel of the Firmament<tab>Jewel of the Firmament"
+    },
+    {
+      "id": "0x000001EE",
+      "text": "Knife of the Firmament<tab>Knife of the Firmament"
+    },
+    {
+      "id": "0x000001EF",
+      "text": "Weave of the Firmament<tab>Weave of the Firmament"
+    },
+    {
+      "id": "0x000001F0",
+      "text": "Panacea of the Firmament<tab>Panacea of the Firmament"
+    },
+    {
+      "id": "0x000001F1",
+      "text": "Pan of the Firmament<tab>Pan of the Firmament"
+    },
+    {
+      "id": "0x000001F2",
+      "text": "Pick of the Firmament<tab>Pick of the Firmament"
+    },
+    {
+      "id": "0x000001F3",
+      "text": "Hatchet of the Firmament<tab>Hatchet of the Firmament"
+    },
+    {
+      "id": "0x000001F4",
+      "text": "Rod of the Firmament<tab>Rod of the Firmament"
+    },
+    {
+      "id": "0x000001F5",
+      "text": "The Hand of Creation<tab>The Hand of Creation"
+    },
+    {
+      "id": "0x000001F6",
+      "text": "Divine Provider<tab>Divine Provider"
+    },
+    {
+      "id": "0x000001F7",
+      "text": "The Nest's Own Carpenter<tab>The Nest's Own Carpenter"
+    },
+    {
+      "id": "0x000001F8",
+      "text": "The Nest's Own Blacksmith<tab>The Nest's Own Blacksmith"
+    },
+    {
+      "id": "0x000001F9",
+      "text": "The Nest's Own Armorer<tab>The Nest's Own Armorer"
+    },
+    {
+      "id": "0x000001FA",
+      "text": "The Nest's Own Goldsmith<tab>The Nest's Own Goldsmith"
+    },
+    {
+      "id": "0x000001FB",
+      "text": "The Nest's Own Leatherworker<tab>The Nest's Own Leatherworker"
+    },
+    {
+      "id": "0x000001FC",
+      "text": "The Nest's Own Weaver<tab>The Nest's Own Weaver"
+    },
+    {
+      "id": "0x000001FD",
+      "text": "The Nest's Own Alchemist<tab>The Nest's Own Alchemist"
+    },
+    {
+      "id": "0x000001FE",
+      "text": "The Nest's Own Culinarian<tab>The Nest's Own Culinarian"
+    },
+    {
+      "id": "0x000001FF",
+      "text": "The Nest's Own Miner<tab>The Nest's Own Miner"
+    },
+    {
+      "id": "0x00000200",
+      "text": "The Nest's Own Botanist<tab>The Nest's Own Botanist"
+    },
+    {
+      "id": "0x00000201",
+      "text": "The Nest's Own Fisher<tab>The Nest's Own Fisher"
+    },
+    {
+      "id": "0x00000202",
+      "text": "Fortune's Favored Kupo<tab>Fortune's Favored Kupo"
+    },
+    {
+      "id": "0x00000203",
+      "text": "Ocean Fisher<tab>Ocean Fisher"
+    },
+    {
+      "id": "0x00000204",
+      "text": "Octopus Traveler<tab>Octopus Traveler"
+    },
+    {
+      "id": "0x00000205",
+      "text": "Shark Hunter<tab>Shark Hunter"
+    },
+    {
+      "id": "0x00000206",
+      "text": "Jellyfish Fanatic<tab>Jellyfish Fanatic"
+    },
+    {
+      "id": "0x00000207",
+      "text": "Sea Dragoon<tab>Sea Dragoon"
+    },
+    {
+      "id": "0x00000208",
+      "text": "Echo of a Fallen Star<tab>Echo of a Fallen Star"
+    },
+    {
+      "id": "0x00000209",
+      "text": "Ronkan Historian<tab>Ronkan Historian"
+    },
+    {
+      "id": "0x0000020A",
+      "text": "A Dragon's Best Friend<tab>A Dragon's Best Friend"
+    },
+    {
+      "id": "0x0000020B",
+      "text": "Tinker Tutor<tab>Tinker Tutor"
+    },
+    {
+      "id": "0x0000020C",
+      "text": "Partner in Teatime<tab>Partner in Teatime"
+    },
+    {
+      "id": "0x0000020D",
+      "text": "Vrai Ami<tab>Vraie Amie"
+    },
+    {
+      "id": "0x0000020E",
+      "text": "Tank Technician<tab>Tank Technician"
+    },
+    {
+      "id": "0x0000020F",
+      "text": "Shepherd to the Stars<tab>Shepherd to the Stars"
+    },
+    {
+      "id": "0x00000210",
+      "text": "Featherfall's Finest Carpenter<tab>Featherfall's Finest Carpenter"
+    },
+    {
+      "id": "0x00000211",
+      "text": "Featherfall's Finest Blacksmith<tab>Featherfall's Finest Blacksmith"
+    },
+    {
+      "id": "0x00000212",
+      "text": "Featherfall's Finest Armorer<tab>Featherfall's Finest Armorer"
+    },
+    {
+      "id": "0x00000213",
+      "text": "Featherfall's Finest Goldsmith<tab>Featherfall's Finest Goldsmith"
+    },
+    {
+      "id": "0x00000214",
+      "text": "Featherfall's Finest Leatherworker<tab>Featherfall's Finest Leatherworker"
+    },
+    {
+      "id": "0x00000215",
+      "text": "Featherfall's Finest Weaver<tab>Featherfall's Finest Weaver"
+    },
+    {
+      "id": "0x00000216",
+      "text": "Featherfall's Finest Alchemist<tab>Featherfall's Finest Alchemist"
+    },
+    {
+      "id": "0x00000217",
+      "text": "Featherfall's Finest Culinarian<tab>Featherfall's Finest Culinarian"
+    },
+    {
+      "id": "0x00000218",
+      "text": "Featherfall's Finest Miner<tab>Featherfall's Finest Miner"
+    },
+    {
+      "id": "0x00000219",
+      "text": "Featherfall's Finest Botanist<tab>Featherfall's Finest Botanist"
+    },
+    {
+      "id": "0x0000021A",
+      "text": "Featherfall's Finest Fisher<tab>Featherfall's Finest Fisher"
+    },
+    {
+      "id": "0x0000021B",
+      "text": "The Decisive Blow<tab>The Decisive Blow"
+    },
+    {
+      "id": "0x0000021C",
+      "text": "Skirmisher<tab>Skirmisher"
+    },
+    {
+      "id": "0x0000021D",
+      "text": "Siege Liege<tab>Siege Liege"
+    },
+    {
+      "id": "0x0000021E",
+      "text": "Gabriel's Downfall<tab>Gabriel's Downfall"
+    },
+    {
+      "id": "0x0000021F",
+      "text": "Queller of Beasts<tab>Queller of Beasts"
+    },
+    {
+      "id": "0x00000220",
+      "text": "The Death of Flame<tab>The Death of Flame"
+    },
+    {
+      "id": "0x00000221",
+      "text": "Sword of the South<tab>Sword of the South"
+    },
+    {
+      "id": "0x00000222",
+      "text": "Guardian Angel<tab>Guardian Angel"
+    },
+    {
+      "id": "0x00000223",
+      "text": "Saint of the Firmament<tab>Saint of the Firmament"
+    },
+    {
+      "id": "0x00000224",
+      "text": "Beatus of the Firmament<tab>Beata of the Firmament"
+    },
+    {
+      "id": "0x00000225",
+      "text": "Writer of Histories<tab>Writer of Histories"
+    },
+    {
+      "id": "0x00000226",
+      "text": "Of the Truest Blue<tab>Of the Truest Blue"
+    },
+    {
+      "id": "0x00000227",
+      "text": "Blue Ranger<tab>Blue Ranger"
+    },
+    {
+      "id": "0x00000228",
+      "text": "The Azure and Omega<tab>The Azure and Omega"
+    },
+    {
+      "id": "0x00000229",
+      "text": "Balloon Catcher<tab>Balloon Catcher"
+    },
+    {
+      "id": "0x0000022A",
+      "text": "Deadliest Catcher<tab>Deadliest Catcher"
+    },
+    {
+      "id": "0x0000022B",
+      "text": "Manta Maniac<tab>Manta Maniac"
+    },
+    {
+      "id": "0x0000022C",
+      "text": "World-class Troller<tab>World-class Troller"
+    },
+    {
+      "id": "0x0000022D",
+      "text": "Saint of the Firmament<tab>Saint of the Firmament"
+    },
+    {
+      "id": "0x0000022E",
+      "text": "Beatus of the Firmament<tab>Beata of the Firmament"
+    },
+    {
+      "id": "0x0000022F",
+      "text": "Tournament Leader<tab>Tournament Leader"
+    },
+    {
+      "id": "0x00000230",
+      "text": "Secret Finder<tab>Secret Finder"
+    },
+    {
+      "id": "0x00000231",
+      "text": "Secret Keeper<tab>Secret Keeper"
+    },
+    {
+      "id": "0x00000232",
+      "text": "Gaolbreaker<tab>Gaolbreaker"
+    },
+    {
+      "id": "0x00000233",
+      "text": "Master of the Sea<tab>Master of the Sea"
+    },
+    {
+      "id": "0x00000234",
+      "text": "Delubrum Delver<tab>Delubrum Delver"
+    },
+    {
+      "id": "0x00000235",
+      "text": "The Risensung Carpenter<tab>The Risensung Carpenter"
+    },
+    {
+      "id": "0x00000236",
+      "text": "The Risensung Blacksmith<tab>The Risensung Blacksmith"
+    },
+    {
+      "id": "0x00000237",
+      "text": "The Risensung Armorer<tab>The Risensung Armorer"
+    },
+    {
+      "id": "0x00000238",
+      "text": "The Risensung Goldsmith<tab>The Risensung Goldsmith"
+    },
+    {
+      "id": "0x00000239",
+      "text": "The Risensung Leatherworker<tab>The Risensung Leatherworker"
+    },
+    {
+      "id": "0x0000023A",
+      "text": "The Risensung Weaver<tab>The Risensung Weaver"
+    },
+    {
+      "id": "0x0000023B",
+      "text": "The Risensung Alchemist<tab>The Risensung Alchemist"
+    },
+    {
+      "id": "0x0000023C",
+      "text": "The Risensung Culinarian<tab>The Risensung Culinarian"
+    },
+    {
+      "id": "0x0000023D",
+      "text": "The Risensung Miner<tab>The Risensung Miner"
+    },
+    {
+      "id": "0x0000023E",
+      "text": "The Risensung Botanist<tab>The Risensung Botanist"
+    },
+    {
+      "id": "0x0000023F",
+      "text": "The Risensung Fisher<tab>The Risensung Fisher"
+    },
+    {
+      "id": "0x00000240",
+      "text": "Jack of All Cards<tab>Jack of All Cards"
+    },
+    {
+      "id": "0x00000241",
+      "text": "Speed Demon<tab>Speed Demon"
+    },
+    {
+      "id": "0x00000242",
+      "text": "The Indefatigable<tab>The Indefatigable"
+    },
+    {
+      "id": "0x00000243",
+      "text": "Lord of Far Waters<tab>Lady of Far Waters"
+    },
+    {
+      "id": "0x00000244",
+      "text": "Big Fish<tab>Big Fish"
+    },
+    {
+      "id": "0x00000245",
+      "text": "Charlemend's Angel<tab>Charlemend's Angel"
+    },
+    {
+      "id": "0x00000246",
+      "text": "Lifesaver<tab>Lifesaver"
+    },
+    {
+      "id": "0x00000247",
+      "text": "Dawn Treader<tab>Dawn Treader"
+    },
+    {
+      "id": "0x00000248",
+      "text": "Witness to the Dark Apocalypse<tab>Witness to the Dark Apocalypse"
+    },
+    {
+      "id": "0x00000249",
+      "text": "Dalriada Raider<tab>Dalriada Raider"
+    },
+    {
+      "id": "0x0000024A",
+      "text": "The Hypertuned<tab>The Hypertuned"
+    },
+    {
+      "id": "0x0000024B",
+      "text": "Commander Conqueror<tab>Commander Conqueror"
+    },
+    {
+      "id": "0x0000024C",
+      "text": "Lyon Tamer<tab>Lyon Tamer"
+    },
+    {
+      "id": "0x0000024D",
+      "text": "Hero of Zadnor<tab>Hero of Zadnor"
+    },
+    {
+      "id": "0x0000024E",
+      "text": "Gunnhildr's Blade<tab>Gunnhildr's Blade"
+    },
+    {
+      "id": "0x0000024F",
+      "text": "The Emblazoned<tab>The Emblazoned"
+    },
+    {
+      "id": "0x00000250",
+      "text": "Queen's Elect<tab>Queen's Elect"
+    },
+    {
+      "id": "0x00000251",
+      "text": "At War's Horizon<tab>At War's Horizon"
+    },
+    {
+      "id": "0x00000252",
+      "text": "At Magic's Horizon<tab>At Magic's Horizon"
+    },
+    {
+      "id": "0x00000253",
+      "text": "At Art's Horizon<tab>At Art's Horizon"
+    },
+    {
+      "id": "0x00000254",
+      "text": "At Land's Horizon<tab>At Land's Horizon"
+    },
+    {
+      "id": "0x00000255",
+      "text": "Magus Resister<tab>Magus Resister"
+    },
+    {
+      "id": "0x00000256",
+      "text": "Moonwalker<tab>Moonwalker"
+    },
+    {
+      "id": "0x00000257",
+      "text": "Lightingway<tab>Lightingway"
+    },
+    {
+      "id": "0x00000258",
+      "text": "Vrtra's Valiant<tab>Vrtra's Valiant"
+    },
+    {
+      "id": "0x00000259",
+      "text": "Elpiphoros<tab>Elpiphoros"
+    },
+    {
+      "id": "0x0000025A",
+      "text": "Hope's Legacy<tab>Hope's Legacy"
+    },
+    {
+      "id": "0x0000025B",
+      "text": "Endwalker<tab>Endwalker"
+    },
+    {
+      "id": "0x0000025C",
+      "text": "Lemures<tab>Lemures"
+    },
+    {
+      "id": "0x0000025D",
+      "text": "The Sagacious<tab>The Sagacious"
+    },
+    {
+      "id": "0x0000025E",
+      "text": "Erudite Smith<tab>Erudite Smith"
+    },
+    {
+      "id": "0x0000025F",
+      "text": "Erudite Artisan<tab>Erudite Artisan"
+    },
+    {
+      "id": "0x00000260",
+      "text": "Erudite Apothecary<tab>Erudite Apothecary"
+    },
+    {
+      "id": "0x00000261",
+      "text": "Erudite Seeker<tab>Erudite Seeker"
+    },
+    {
+      "id": "0x00000262",
+      "text": "Erudite Angler<tab>Erudite Angler"
+    },
+    {
+      "id": "0x00000263",
+      "text": "Honorary Academic<tab>Honorary Academic"
+    },
+    {
+      "id": "0x00000264",
+      "text": "The Seventh Dawn<tab>The Seventh Dawn"
+    },
+    {
+      "id": "0x00000265",
+      "text": "Of Unbreakable Oath<tab>Of Unbreakable Oath"
+    },
+    {
+      "id": "0x00000266",
+      "text": "Of Unbreakable Steel<tab>Of Unbreakable Steel"
+    },
+    {
+      "id": "0x00000267",
+      "text": "Of Unbreakable Principle<tab>Of Unbreakable Principle"
+    },
+    {
+      "id": "0x00000268",
+      "text": "Of Unbreakable Lealty<tab>Of Unbreakable Lealty"
+    },
+    {
+      "id": "0x00000269",
+      "text": "Gleaning Machine<tab>Gleaning Machine"
+    },
+    {
+      "id": "0x0000026A",
+      "text": "The Keen<tab>The Keen"
+    },
+    {
+      "id": "0x0000026B",
+      "text": "The Excruciatingly Excited<tab>The Excruciatingly Excited"
+    },
+    {
+      "id": "0x0000026C",
+      "text": "On the Hype Tron<tab>On the Hype Tron"
+    },
+    {
+      "id": "0x0000026D",
+      "text": "Lunaire Riche<tab>Lunaire Riche"
+    },
+    {
+      "id": "0x0000026E",
+      "text": "Patron of the Fates<tab>Patron of the Fates"
+    },
+    {
+      "id": "0x0000026F",
+      "text": "The Arbiter<tab>The Arbiter"
+    },
+    {
+      "id": "0x00000270",
+      "text": "Bronze Bearer<tab>Bronze Bearer"
+    },
+    {
+      "id": "0x00000271",
+      "text": "Silver Bearer<tab>Silver Bearer"
+    },
+    {
+      "id": "0x00000272",
+      "text": "Gold Bearer<tab>Gold Bearer"
+    },
+    {
+      "id": "0x00000273",
+      "text": "Platinum Bearer<tab>Platinum Bearer"
+    },
+    {
+      "id": "0x00000274",
+      "text": "Diamond Bearer<tab>Diamond Bearer"
+    },
+    {
+      "id": "0x00000275",
+      "text": "Crystal Keeper<tab>Crystal Keeper"
+    },
+    {
+      "id": "0x00000276",
+      "text": "Of the Final Conflict<tab>Of the Final Conflict"
+    },
+    {
+      "id": "0x00000277",
+      "text": "Of the Endless Conflict<tab>Of the Endless Conflict"
+    },
+    {
+      "id": "0x00000278",
+      "text": "Of the Rising Conflict<tab>Of the Rising Conflict"
+    },
+    {
+      "id": "0x00000279",
+      "text": "Hippo Hero<tab>Hippo Hero"
+    },
+    {
+      "id": "0x0000027A",
+      "text": "Ami d'Améliance<tab>Amie d'Améliance"
+    },
+    {
+      "id": "0x0000027B",
+      "text": "Academic Advocate<tab>Academic Advocate"
+    },
+    {
+      "id": "0x0000027C",
+      "text": "The Heavens' Legend<tab>The Heavens' Legend"
+    },
+    {
+      "id": "0x0000027D",
+      "text": "Newfound Adventurer<tab>Newfound Adventurer"
+    },
+    {
+      "id": "0x0000027E",
+      "text": "Blessed Relief<tab>Blessed Relief"
+    },
+    {
+      "id": "0x0000027F",
+      "text": "Makai Samurai<tab>Makai Samurai"
+    },
+    {
+      "id": "0x00000280",
+      "text": "Makai Red Mage<tab>Makai Red Mage"
+    },
+    {
+      "id": "0x00000281",
+      "text": "Makai Gunbreaker<tab>Makai Gunbreaker"
+    },
+    {
+      "id": "0x00000282",
+      "text": "Makai Dancer<tab>Makai Dancer"
+    },
+    {
+      "id": "0x00000283",
+      "text": "Makai Reaper<tab>Makai Reaper"
+    },
+    {
+      "id": "0x00000284",
+      "text": "Makai Sage<tab>Makai Sage"
+    },
+    {
+      "id": "0x00000285",
+      "text": "Sanctuary Seeker<tab>Sanctuary Seeker"
+    },
+    {
+      "id": "0x00000286",
+      "text": "Trader of Paradise<tab>Trader of Paradise"
+    },
+    {
+      "id": "0x00000287",
+      "text": "Cieldalaes Connoisseur<tab>Cieldalaes Connoisseur"
+    },
+    {
+      "id": "0x00000288",
+      "text": "Voidbound<tab>Voidbound"
+    },
+    {
+      "id": "0x00000289",
+      "text": "Of the Final Conflict<tab>Of the Final Conflict"
+    },
+    {
+      "id": "0x0000028A",
+      "text": "Of the Endless Conflict<tab>Of the Endless Conflict"
+    },
+    {
+      "id": "0x0000028B",
+      "text": "Of the Rising Conflict<tab>Of the Rising Conflict"
+    },
+    {
+      "id": "0x0000028C",
+      "text": "Of the Final Conflict<tab>Of the Final Conflict"
+    },
+    {
+      "id": "0x0000028D",
+      "text": "Of the Endless Conflict<tab>Of the Endless Conflict"
+    },
+    {
+      "id": "0x0000028E",
+      "text": "Of the Rising Conflict<tab>Of the Rising Conflict"
+    },
+    {
+      "id": "0x0000028F",
+      "text": "Barista at the End of the Universe<tab>Barista at the End of the Universe"
+    },
+    {
+      "id": "0x00000290",
+      "text": "Sultana's Shadow<tab>Sultana's Shadow"
+    },
+    {
+      "id": "0x00000291",
+      "text": "Infamy of Sil'dih<tab>Infamy of Sil'dih"
+    },
+    {
+      "id": "0x00000292",
+      "text": "Fiendslayer<tab>Fiendslayer"
+    },
+    {
+      "id": "0x00000293",
+      "text": "Leaf Whisperer<tab>Leaf Whisperer"
+    },
+    {
+      "id": "0x00000294",
+      "text": "Man-maker<tab>Man-maker"
+    },
+    {
+      "id": "0x00000295",
+      "text": "Duskfall<tab>Duskfall"
+    },
+    {
+      "id": "0x00000296",
+      "text": "True Steel<tab>True Steel"
+    },
+    {
+      "id": "0x00000297",
+      "text": "Once and Future King<tab>Once and Future Queen"
+    },
+    {
+      "id": "0x00000298",
+      "text": "The Accursed<tab>The Accursed"
+    },
+    {
+      "id": "0x00000299",
+      "text": "Sovereign Hero<tab>Sovereign Hero"
+    },
+    {
+      "id": "0x0000029A",
+      "text": "Dreaming Worker<tab>Dreaming Worker"
+    },
+    {
+      "id": "0x0000029B",
+      "text": "The Alpha Legend<tab>The Alpha Legend"
+    },
+    {
+      "id": "0x0000029C",
+      "text": "Agonistes<tab>Agonistes"
+    },
+    {
+      "id": "0x0000029D",
+      "text": "Gymnasiarch<tab>Gymnasiarch"
+    },
+    {
+      "id": "0x0000029E",
+      "text": "Olympian<tab>Olympian"
+    },
+    {
+      "id": "0x0000029F",
+      "text": "Of the Final Conflict<tab>Of the Final Conflict"
+    },
+    {
+      "id": "0x000002A0",
+      "text": "Of the Endless Conflict<tab>Of the Endless Conflict"
+    },
+    {
+      "id": "0x000002A1",
+      "text": "Of the Rising Conflict<tab>Of the Rising Conflict"
+    },
+    {
+      "id": "0x000002A2",
+      "text": "Of the Final Conflict<tab>Of the Final Conflict"
+    },
+    {
+      "id": "0x000002A3",
+      "text": "Of the Endless Conflict<tab>Of the Endless Conflict"
+    },
+    {
+      "id": "0x000002A4",
+      "text": "Of the Rising Conflict<tab>Of the Rising Conflict"
+    },
+    {
+      "id": "0x000002A5",
+      "text": "Throneshaker<tab>Throneshaker"
+    },
+    {
+      "id": "0x000002A6",
+      "text": "Wolf of Easy Street<tab>Wolf of Easy Street"
+    },
+    {
+      "id": "0x000002A7",
+      "text": "Doom of the Deep<tab>Doom of the Deep"
+    },
+    {
+      "id": "0x000002A8",
+      "text": "Sea Comber<tab>Sea Comber"
+    },
+    {
+      "id": "0x000002A9",
+      "text": "Squidzure Dragoon<tab>Squidzure Dragoon"
+    },
+    {
+      "id": "0x000002AA",
+      "text": "Shrimp Mariner<tab>Shrimp Mariner"
+    },
+    {
+      "id": "0x000002AB",
+      "text": "Of the Final Conflict<tab>Of the Final Conflict"
+    },
+    {
+      "id": "0x000002AC",
+      "text": "Of the Endless Conflict<tab>Of the Endless Conflict"
+    },
+    {
+      "id": "0x000002AD",
+      "text": "Of the Rising Conflict<tab>Of the Rising Conflict"
+    },
+    {
+      "id": "0x000002AE",
+      "text": "Of the Final Conflict<tab>Of the Final Conflict"
+    },
+    {
+      "id": "0x000002AF",
+      "text": "Of the Endless Conflict<tab>Of the Endless Conflict"
+    },
+    {
+      "id": "0x000002B0",
+      "text": "Of the Rising Conflict<tab>Of the Rising Conflict"
+    },
+    {
+      "id": "0x000002B1",
+      "text": "CCRC 2023 Champion<tab>CCRC 2023 Champion"
+    },
+    {
+      "id": "0x000002B2",
+      "text": "CCRC 2023 Finalist<tab>CCRC 2023 Finalist"
+    },
+    {
+      "id": "0x000002B3",
+      "text": "CCRC 2023 Ranker<tab>CCRC 2023 Ranker"
+    },
+    {
+      "id": "0x000002B4",
+      "text": "Glitterier than Goldor<tab>Glitterier than Goldor"
+    },
+    {
+      "id": "0x000002B5",
+      "text": "Blueblazer<tab>Blueblazer"
+    },
+    {
+      "id": "0x000002B6",
+      "text": "Forbidden Blue<tab>Forbidden Blue"
+    },
+    {
+      "id": "0x000002B7",
+      "text": "Reincarnator<tab>Reincarnator"
+    },
+    {
+      "id": "0x000002B8",
+      "text": "Ascendant Ascetic<tab>Ascendant Ascetic"
+    },
+    {
+      "id": "0x000002B9",
+      "text": "Sparrow's Harmony<tab>Sparrow's Harmony"
+    },
+    {
+      "id": "0x000002BA",
+      "text": "Force of Nature<tab>Force of Nature"
+    },
+    {
+      "id": "0x000002BB",
+      "text": "Sleepless Scholar<tab>Sleepless Scholar"
+    },
+    {
+      "id": "0x000002BC",
+      "text": "The Resourceful<tab>The Resourceful"
+    },
+    {
+      "id": "0x000002BD",
+      "text": "The Mandervillous<tab>The Mandervillous"
+    },
+    {
+      "id": "0x000002BE",
+      "text": "Of the Relentless Sledge<tab>Of the Relentless Sledge"
+    },
+    {
+      "id": "0x000002BF",
+      "text": "Of the Keen Hatchet<tab>Of the Keen Hatchet"
+    },
+    {
+      "id": "0x000002C0",
+      "text": "Of the Irresistible Lure<tab>Of the Irresistible Lure"
+    },
+    {
+      "id": "0x000002C1",
+      "text": "Wavewalker<tab>Wavewalker"
+    },
+    {
+      "id": "0x000002C2",
+      "text": "The Final Fish<tab>The Final Fish"
+    },
+    {
+      "id": "0x000002C3",
+      "text": "Count of Monte Cowrie<tab>Countess of Monte Cowrie"
+    },
+    {
+      "id": "0x000002C4",
+      "text": "King Bean<tab>Queen Bean"
+    },
+    {
+      "id": "0x000002C5",
+      "text": "Embraced by Gods<tab>Embraced by Gods"
+    },
+    {
+      "id": "0x000002C6",
+      "text": "Of the Twinned Star<tab>Of the Twinned Star"
+    },
+    {
+      "id": "0x000002C7",
+      "text": "Wyrm Whisperer<tab>Wyrm Whisperer"
+    },
+    {
+      "id": "0x000002C8",
+      "text": "Growing Light<tab>Growing Light"
+    },
+    {
+      "id": "0x000002C9",
+      "text": "Sunchaser<tab>Sunchaser"
+    },
+    {
+      "id": "0x000002CA",
+      "text": "Of the Final Conflict<tab>Of the Final Conflict"
+    },
+    {
+      "id": "0x000002CB",
+      "text": "Of the Endless Conflict<tab>Of the Endless Conflict"
+    },
+    {
+      "id": "0x000002CC",
+      "text": "Of the Rising Conflict<tab>Of the Rising Conflict"
+    },
+    {
+      "id": "0x000002CD",
+      "text": "Of the Final Conflict<tab>Of the Final Conflict"
+    },
+    {
+      "id": "0x000002CE",
+      "text": "Of the Endless Conflict<tab>Of the Endless Conflict"
+    },
+    {
+      "id": "0x000002CF",
+      "text": "Of the Rising Conflict<tab>Of the Rising Conflict"
+    },
+    {
+      "id": "0x000002D0",
+      "text": "Of the Final Conflict<tab>Of the Final Conflict"
+    },
+    {
+      "id": "0x000002D1",
+      "text": "Of the Endless Conflict<tab>Of the Endless Conflict"
+    },
+    {
+      "id": "0x000002D2",
+      "text": "Of the Rising Conflict<tab>Of the Rising Conflict"
+    },
+    {
+      "id": "0x000002D3",
+      "text": "Epic Hero<tab>Epic Hero"
+    },
+    {
+      "id": "0x000002D4",
+      "text": "The First's Foremost<tab>The First's Foremost"
+    },
+    {
+      "id": "0x000002D5",
+      "text": "Arbiter of War<tab>Arbiter of War"
+    },
+    {
+      "id": "0x000002D6",
+      "text": "Arbiter of Magic<tab>Arbiter of Magic"
+    },
+    {
+      "id": "0x000002D7",
+      "text": "Arbiter of the Arts<tab>Arbiter of the Arts"
+    },
+    {
+      "id": "0x000002D8",
+      "text": "Arbiter of the Land<tab>Arbiter of the Land"
+    },
+    {
+      "id": "0x000002D9",
+      "text": "On the Trail<tab>On the Trail"
+    },
+    {
+      "id": "0x000002DA",
+      "text": "Herald of Peace<tab>Herald of Peace"
+    },
+    {
+      "id": "0x000002DB",
+      "text": "Sunforged<tab>Sunforged"
+    },
+    {
+      "id": "0x000002DC",
+      "text": "Domebreaker<tab>Domebreaker"
+    },
+    {
+      "id": "0x000002DD",
+      "text": "Knight of Alexandria<tab>Knight of Alexandria"
+    },
+    {
+      "id": "0x000002DE",
+      "text": "Of the New Dawn<tab>Of the New Dawn"
+    },
+    {
+      "id": "0x000002DF",
+      "text": "Twinfang<tab>Twinfang"
+    },
+    {
+      "id": "0x000002E0",
+      "text": "Picto Perfect<tab>Picto Perfect"
+    },
+    {
+      "id": "0x000002E1",
+      "text": "Of Countless Alloys<tab>Of Countless Alloys"
+    },
+    {
+      "id": "0x000002E2",
+      "text": "Of Countless Crafts<tab>Of Countless Crafts"
+    },
+    {
+      "id": "0x000002E3",
+      "text": "Of Countless Concoctions<tab>Of Countless Concoctions"
+    },
+    {
+      "id": "0x000002E4",
+      "text": "Of Countless Treasures<tab>Of Countless Treasures"
+    },
+    {
+      "id": "0x000002E5",
+      "text": "Of Countless Catches<tab>Of Countless Catches"
+    },
+    {
+      "id": "0x000002E6",
+      "text": "Goldheart<tab>Goldheart"
+    },
+    {
+      "id": "0x000002E7",
+      "text": "Of Untarnished Oath<tab>Of Untarnished Oath"
+    },
+    {
+      "id": "0x000002E8",
+      "text": "Of Untarnished Steel<tab>Of Untarnished Steel"
+    },
+    {
+      "id": "0x000002E9",
+      "text": "Of Untarnished Principle<tab>Of Untarnished Principle"
+    },
+    {
+      "id": "0x000002EA",
+      "text": "Of Untarnished Lealty<tab>Of Untarnished Lealty"
+    },
+    {
+      "id": "0x000002EB",
+      "text": "Of the Bright Plume<tab>Of the Bright Plume"
+    },
+    {
+      "id": "0x000002EC",
+      "text": "Winged Death<tab>Winged Death"
+    },
+    {
+      "id": "0x000002ED",
+      "text": "Of the Hidden Cenote<tab>Of the Hidden Cenote"
+    },
+    {
+      "id": "0x000002EE",
+      "text": "Of the Brotherhood<tab>Of the Brotherhood"
+    },
+    {
+      "id": "0x000002EF",
+      "text": "Of Resplendent Depths<tab>Of Resplendent Depths"
+    },
+    {
+      "id": "0x000002F0",
+      "text": "Practically Pelupelu<tab>Practically Pelupelu"
+    },
+    {
+      "id": "0x000002F1",
+      "text": "Of the Final Conflict<tab>Of the Final Conflict"
+    },
+    {
+      "id": "0x000002F2",
+      "text": "Of the Endless Conflict<tab>Of the Endless Conflict"
+    },
+    {
+      "id": "0x000002F3",
+      "text": "Of the Rising Conflict<tab>Of the Rising Conflict"
+    },
+    {
+      "id": "0x000002F4",
+      "text": "Of the Final Conflict<tab>Of the Final Conflict"
+    },
+    {
+      "id": "0x000002F5",
+      "text": "Of the Endless Conflict<tab>Of the Endless Conflict"
+    },
+    {
+      "id": "0x000002F6",
+      "text": "Of the Rising Conflict<tab>Of the Rising Conflict"
+    },
+    {
+      "id": "0x000002F7",
+      "text": "Of the Final Conflict<tab>Of the Final Conflict"
+    },
+    {
+      "id": "0x000002F8",
+      "text": "Of the Endless Conflict<tab>Of the Endless Conflict"
+    },
+    {
+      "id": "0x000002F9",
+      "text": "Of the Rising Conflict<tab>Of the Rising Conflict"
+    },
+    {
+      "id": "0x000002FA",
+      "text": "Tourist Wrangler<tab>Tourist Wrangler"
+    },
+    {
+      "id": "0x000002FB",
+      "text": "Tracklayer<tab>Tracklayer"
+    },
+    {
+      "id": "0x000002FC",
+      "text": "Transdimensional Tycoon<tab>Transdimensional Tycoon"
+    },
+    {
+      "id": "0x000002FD",
+      "text": "Of Neon Horizons<tab>Of Neon Horizons"
+    },
+    {
+      "id": "0x000002FE",
+      "text": "Sweet Justice<tab>Sweet Justice"
+    },
+    {
+      "id": "0x000002FF",
+      "text": "Beader of Bonds<tab>Beader of Bonds"
+    },
+    {
+      "id": "0x00000300",
+      "text": "Genesis of Legends<tab>Genesis of Legends"
+    },
+    {
+      "id": "0x00000301",
+      "text": "Of the Final Conflict<tab>Of the Final Conflict"
+    },
+    {
+      "id": "0x00000302",
+      "text": "Of the Endless Conflict<tab>Of the Endless Conflict"
+    },
+    {
+      "id": "0x00000303",
+      "text": "Of the Rising Conflict<tab>Of the Rising Conflict"
+    },
+    {
+      "id": "0x00000304",
+      "text": "Of the Shining Scale<tab>Of the Shining Scale"
+    },
+    {
+      "id": "0x00000305",
+      "text": "Seeker of Eternity<tab>Seeker of Eternity"
+    },
+    {
+      "id": "0x00000306",
+      "text": "Random Encounter<tab>Random Encounter"
+    },
+    {
+      "id": "0x00000307",
+      "text": "Knower of Fates<tab>Knower of Fates"
+    },
+    {
+      "id": "0x00000308",
+      "text": "Infamy of Blood<tab>Infamy of Blood"
+    },
+    {
+      "id": "0x00000309",
+      "text": "Dead Man's Tale<tab>Dead Man's Tale"
+    },
+    {
+      "id": "0x0000030A",
+      "text": "King Among Castaways<tab>Queen Among Castaways"
+    },
+    {
+      "id": "0x0000030B",
+      "text": "Persistent Pal<tab>Persistent Pal"
+    },
+    {
+      "id": "0x0000030C",
+      "text": "Bunny-blessed<tab>Bunny-blessed"
+    },
+    {
+      "id": "0x0000030D",
+      "text": "Ready for Liftoff<tab>Ready for Liftoff"
+    },
+    {
+      "id": "0x0000030E",
+      "text": "Framer of Stars<tab>Framer of Stars"
+    },
+    {
+      "id": "0x0000030F",
+      "text": "Temperer of Stars<tab>Temperer of Stars"
+    },
+    {
+      "id": "0x00000310",
+      "text": "Forger of Stars<tab>Forger of Stars"
+    },
+    {
+      "id": "0x00000311",
+      "text": "Caster of Stars<tab>Caster of Stars"
+    },
+    {
+      "id": "0x00000312",
+      "text": "Stitcher of Stars<tab>Stitcher of Stars"
+    },
+    {
+      "id": "0x00000313",
+      "text": "Weaver of Stars<tab>Weaver of Stars"
+    },
+    {
+      "id": "0x00000314",
+      "text": "Sublimator of Stars<tab>Sublimator of Stars"
+    },
+    {
+      "id": "0x00000315",
+      "text": "Taster of Stars<tab>Taster of Stars"
+    },
+    {
+      "id": "0x00000316",
+      "text": "Excavator of Stars<tab>Excavator of Stars"
+    },
+    {
+      "id": "0x00000317",
+      "text": "Plucker of Stars<tab>Plucker of Stars"
+    },
+    {
+      "id": "0x00000318",
+      "text": "Angler of Stars<tab>Angler of Stars"
+    },
+    {
+      "id": "0x00000319",
+      "text": "Starlighter<tab>Starlighter"
+    },
+    {
+      "id": "0x0000031A",
+      "text": "Starfinder<tab>Starfinder"
+    },
+    {
+      "id": "0x0000031B",
+      "text": "Wisher upon Stars<tab>Wisher upon Stars"
+    },
+    {
+      "id": "0x0000031C",
+      "text": "Overemployed<tab>Overemployed"
+    },
+    {
+      "id": "0x0000031D",
+      "text": "Of the Final Conflict<tab>Of the Final Conflict"
+    },
+    {
+      "id": "0x0000031E",
+      "text": "Of the Endless Conflict<tab>Of the Endless Conflict"
+    },
+    {
+      "id": "0x0000031F",
+      "text": "Of the Rising Conflict<tab>Of the Rising Conflict"
+    },
+    {
+      "id": "0x00000320",
+      "text": "Of the Final Conflict<tab>Of the Final Conflict"
+    },
+    {
+      "id": "0x00000321",
+      "text": "Of the Endless Conflict<tab>Of the Endless Conflict"
+    },
+    {
+      "id": "0x00000322",
+      "text": "Of the Rising Conflict<tab>Of the Rising Conflict"
+    },
+    {
+      "id": "0x00000323",
+      "text": "Omega Tier<tab>Omega Tier"
+    },
+    {
+      "id": "0x00000324",
+      "text": "Ultima Tier<tab>Ultima Tier"
+    },
+    {
+      "id": "0x00000325",
+      "text": "The Promise of Tomorrow<tab>The Promise of Tomorrow"
+    },
+    {
+      "id": "0x00000326",
+      "text": "Of High Spirits<tab>Of High Spirits"
+    },
+    {
+      "id": "0x00000327",
+      "text": "Of Neon Nights<tab>Of Neon Nights"
+    },
+    {
+      "id": "0x00000328",
+      "text": "Sleepless in Cyberspace<tab>Sleepless in Cyberspace"
+    },
+    {
+      "id": "0x00000329",
+      "text": "Living the Dream<tab>Living the Dream"
+    },
+    {
+      "id": "0x0000032A",
+      "text": "Stellar Astronomer<tab>Stellar Astronomer"
+    },
+    {
+      "id": "0x0000032B",
+      "text": "Devoted Pilgrim<tab>Devoted Pilgrim"
+    },
+    {
+      "id": "0x0000032C",
+      "text": "Saint of Sorrows<tab>Saint of Sorrows"
+    },
+    {
+      "id": "0x0000032D",
+      "text": "The Enlightened<tab>The Enlightened"
+    },
+    {
+      "id": "0x0000032E",
+      "text": "Curse Curator<tab>Curse Curator"
+    },
+    {
+      "id": "0x0000032F",
+      "text": "The First Shadow<tab>The First Shadow"
+    },
+    {
+      "id": "0x00000330",
+      "text": "Grief's Anointed<tab>Grief's Anointed"
+    },
+    {
+      "id": "0x00000331",
+      "text": "The Mourner of Light<tab>The Mourner of Light"
+    },
+    {
+      "id": "0x00000332",
+      "text": "The White Wraith<tab>The White Wraith"
+    },
+    {
+      "id": "0x00000333",
+      "text": "Of the Final Conflict<tab>Of the Final Conflict"
+    },
+    {
+      "id": "0x00000334",
+      "text": "Of the Endless Conflict<tab>Of the Endless Conflict"
+    },
+    {
+      "id": "0x00000335",
+      "text": "Of the Rising Conflict<tab>Of the Rising Conflict"
+    },
+    {
+      "id": "0x00000336",
+      "text": "Of the Final Conflict<tab>Of the Final Conflict"
+    },
+    {
+      "id": "0x00000337",
+      "text": "Of the Endless Conflict<tab>Of the Endless Conflict"
+    },
+    {
+      "id": "0x00000338",
+      "text": "Of the Rising Conflict<tab>Of the Rising Conflict"
+    },
+    {
+      "id": "0x00000339",
+      "text": "Peak Performer<tab>Peak Performer"
+    },
+    {
+      "id": "0x0000033A",
+      "text": "CCRC 2026 Champion<tab>CCRC 2026 Champion"
+    },
+    {
+      "id": "0x0000033B",
+      "text": "CCRC 2026 Finalist<tab>CCRC 2026 Finalist"
+    },
+    {
+      "id": "0x0000033C",
+      "text": "CCRC 2026 Ranker<tab>CCRC 2026 Ranker"
+    },
+    {
+      "id": "0x0000033D",
+      "text": "Mistcloak<tab>Mistcloak"
+    },
+    {
+      "id": "0x0000033E",
+      "text": "Professional Protagonist<tab>Professional Protagonist"
+    },
+    {
+      "id": "0x0000033F",
+      "text": "Literary Cannon<tab>Literary Cannon"
+    },
+    {
+      "id": "0x00000340",
+      "text": "Gravity Defier<tab>Gravity Defier"
+    },
+    {
+      "id": "0x00000341",
+      "text": "Designer of Delight<tab>Designer of Delight"
+    },
+    {
+      "id": "0x00000342",
+      "text": "Interstellar Ambassador<tab>Interstellar Ambassador"
+    },
+    {
+      "id": "0x00000343",
+      "text": "Star-powered Carpenter<tab>Star-powered Carpenter"
+    },
+    {
+      "id": "0x00000344",
+      "text": "Star-powered Smith<tab>Star-powered Smith"
+    },
+    {
+      "id": "0x00000345",
+      "text": "Star-powered Armorer<tab>Star-powered Armorer"
+    },
+    {
+      "id": "0x00000346",
+      "text": "Star-powered Goldsmith<tab>Star-powered Goldsmith"
+    },
+    {
+      "id": "0x00000347",
+      "text": "Star-powered Leatherworker<tab>Star-powered Leatherworker"
+    },
+    {
+      "id": "0x00000348",
+      "text": "Star-powered Weaver<tab>Star-powered Weaver"
+    },
+    {
+      "id": "0x00000349",
+      "text": "Star-powered Alchemist<tab>Star-powered Alchemist"
+    },
+    {
+      "id": "0x0000034A",
+      "text": "Star-powered Culinarian<tab>Star-powered Culinarian"
+    },
+    {
+      "id": "0x0000034B",
+      "text": "Star-powered Miner<tab>Star-powered Miner"
+    },
+    {
+      "id": "0x0000034C",
+      "text": "Star-powered Botanist<tab>Star-powered Botanist"
+    },
+    {
+      "id": "0x0000034D",
+      "text": "Star-powered Fisher<tab>Star-powered Fisher"
+    },
+    {
+      "id": "0x0000034E",
+      "text": "Rocket Scientist<tab>Rocket Scientist"
+    },
+    {
+      "id": "0x0000034F",
+      "text": "Of the Final Conflict<tab>Of the Final Conflict"
+    },
+    {
+      "id": "0x00000350",
+      "text": "Of the Endless Conflict<tab>Of the Endless Conflict"
+    },
+    {
+      "id": "0x00000351",
+      "text": "Of the Rising Conflict<tab>Of the Rising Conflict"
+    },
+    {
+      "id": "0x00000352",
+      "text": "Of the Final Conflict<tab>Of the Final Conflict"
+    },
+    {
+      "id": "0x00000353",
+      "text": "Of the Endless Conflict<tab>Of the Endless Conflict"
+    },
+    {
+      "id": "0x00000354",
+      "text": "Of the Rising Conflict<tab>Of the Rising Conflict"
+    },
+    {
+      "id": "0x00000355",
+      "text": "Of the Final Conflict<tab>Of the Final Conflict"
+    },
+    {
+      "id": "0x00000356",
+      "text": "Of the Endless Conflict<tab>Of the Endless Conflict"
+    },
+    {
+      "id": "0x00000357",
+      "text": "Of the Rising Conflict<tab>Of the Rising Conflict"
+    },
+    {
+      "id": "0x00000358",
+      "text": "Trailblazer<tab>Trailblazer"
+    },
+    {
+      "id": "0x00000359",
+      "text": "Far-wanderer<tab>Far-wanderer"
+    },
+    {
+      "id": "0x0000035A",
+      "text": "Sun-winged<tab>Sun-winged"
+    },
+    {
+      "id": "0x0000035B",
+      "text": "South Sea Scourge<tab>South Sea Scourge"
+    },
+    {
+      "id": "0x0000035C",
+      "text": "Paleoichthyologist<tab>Paleoichthyologist"
+    },
+    {
+      "id": "0x0000035D",
+      "text": "Nautical Knockout<tab>Nautical Knockout"
+    },
+    {
+      "id": "0x0000035E",
+      "text": "Globe-trotting Miner<tab>Globe-trotting Miner"
+    },
+    {
+      "id": "0x0000035F",
+      "text": "Globe-trotting Botanist<tab>Globe-trotting Botanist"
+    },
+    {
+      "id": "0x00000360",
+      "text": "Globe-trotting Fisher<tab>Globe-trotting Fisher"
+    },
+    {
+      "id": "0x00000361",
+      "text": "Aunt Tii's Treasure<tab>Aunt Tii's Treasure"
+    },
+    {
+      "id": "0x00000362",
+      "text": "Taco Hero<tab>Taco Hero"
+    },
+    {
+      "id": "0x00000363",
+      "text": "Inescapable Encounter<tab>Inescapable Encounter"
+    },
+    {
+      "id": "0x00000364",
+      "text": "Writer of Fates<tab>Writer of Fates"
+    },
+    {
+      "id": "0x00000365",
+      "text": "Omniscient Obscurant<tab>Omniscient Obscurant"
+    },
+    {
+      "id": "0x00000366",
+      "text": "Of the Two Towers<tab>Of the Two Towers"
+    },
+    {
+      "id": "0x00000367",
+      "text": "The Omnipotent<tab>The Omnipotent"
+    },
+    {
+      "id": "0x00000368",
+      "text": "Phantom Salvation<tab>Phantom Salvation"
+    },
+    {
+      "id": "0x00000369",
+      "text": "Wearer of Many Hats<tab>Wearer of Many Hats"
+    },
+    {
+      "id": "0x0000036A",
+      "text": "Pirate's Displeasure<tab>Pirate's Displeasure"
+    },
+    {
+      "id": "0x0000036B",
+      "text": "Protector of Pots<tab>Protector of Pots"
+    },
+    {
+      "id": "0x0000036C",
+      "text": "Bun-believable<tab>Bun-believable"
+    },
+    {
+      "id": "0x0000036D",
+      "text": "Dangerous Gamer<tab>Dangerous Gamer"
+    },
+    {
+      "id": "0x0000036E",
+      "text": "Beast Kin<tab>Beast Kin"
+    },
+    {
+      "id": "0x0000036F",
+      "text": "Vile Kin<tab>Vile Kin"
+    },
+    {
+      "id": "0x00000370",
+      "text": "Cloud Kin<tab>Cloud Kin"
+    },
+    {
+      "id": "0x00000371",
+      "text": "Seed Kin<tab>Seed Kin"
+    },
+    {
+      "id": "0x00000372",
+      "text": "Wave Kin<tab>Wave Kin"
+    },
+    {
+      "id": "0x00000373",
+      "text": "Scale Kin<tab>Scale Kin"
+    },
+    {
+      "id": "0x00000374",
+      "text": "Soul Kin<tab>Soul Kin"
+    },
+    {
+      "id": "0x00000375",
+      "text": "Ash Kin<tab>Ash Kin"
+    },
+    {
+      "id": "0x00000376",
+      "text": "Cruel Legend<tab>Cruel Legend"
+    },
+    {
+      "id": "0x00000377",
+      "text": "Magitype Magister<tab>Magitype Magister"
+    },
+    {
+      "id": "0x00000378",
+      "text": "King of the Crucible<tab>Queen of the Crucible"
+    },
+    {
+      "id": "0x00000379",
+      "text": "Knight of the Crucible<tab>Knight of the Crucible"
+    },
+    {
+      "id": "0x0000037A",
+      "text": "Of the Golden Scales<tab>Of the Golden Scales"
+    },
+    {
+      "id": "0x0000037B",
+      "text": "Master of the Menagerie<tab>Master of the Menagerie"
+    },
+    {
+      "id": "0x0000037C",
+      "text": "The Unbroken<tab>The Unbroken"
+    },
+    {
+      "id": "0x0000037D",
+      "text": "Angler Eternal<tab>Angler Eternal"
+    }
+  ]
+}

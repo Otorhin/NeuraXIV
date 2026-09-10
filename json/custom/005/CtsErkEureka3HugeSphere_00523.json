@@ -1,0 +1,13 @@
+{
+  "source_file": "exd/custom/005/CtsErkEureka3HugeSphere_00523_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_CTSERKEUREKA3HUGESPHERE_00523_SYSTEM_000_630<tab>В центре скопления эфира вы находите мерцающий камень─магицит. Стоит вам опуститься на колени, чтобы поднять его, как скопление рассеивается..."
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_CTSERKEUREKA3HUGESPHERE_00523_TALK_ACTOR<tab>"
+    }
+  ]
+}

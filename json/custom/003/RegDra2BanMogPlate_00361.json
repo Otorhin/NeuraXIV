@@ -1,0 +1,25 @@
+{
+  "source_file": "exd/custom/003/RegDra2BanMogPlate_00361_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_REGDRA2BANMOGPLATE_00361_Q1_000_000<tab>Осмотреть гравировку?"
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_REGDRA2BANMOGPLATE_00361_A1_000_000<tab>Пожалуйста, пришлите английский текст для перевода."
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_REGDRA2BANMOGPLATE_00361_A1_000_001<tab>Нет."
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_REGDRA2BANMOGPLATE_00361_VIEWTHEPLATE00361_000_000<tab>(-Выбитая табличка-)<var 1A 02 /var>Единство и братство, сейчас и навсегда.<var 1A 01 /var>"
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_REGDRA2BANMOGPLATE_00361_VIEWTHEPLATE00361_100_000<tab>(-Гравированная Таблица-)<var 1A 02 /var>Могзин, <var 29 EB02 /var>\nТаррессон из Дземаэля, Оhl Деех\nМаринче из Форехорта, Моггон, Гуллинбурсти<var 1A 01 /var>"
+    }
+  ]
+}

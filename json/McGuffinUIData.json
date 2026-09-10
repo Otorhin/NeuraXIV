@@ -1,0 +1,33 @@
+{
+  "source_file": "exd/McGuffinUIData_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Portable Archive"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Yo-kai Medallium"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Field Record"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Aether Compass"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Unending Codex"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Mogpendium"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Occult Record"
+    }
+  ]
+}

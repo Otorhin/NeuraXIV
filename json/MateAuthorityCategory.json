@@ -1,0 +1,25 @@
+{
+  "source_file": "exd/MateAuthorityCategory_1_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Estate Customization"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Gardening"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Stable Tending"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Orchestrion"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Message Book"
+    }
+  ]
+}

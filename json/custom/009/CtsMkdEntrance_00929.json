@@ -1,0 +1,49 @@
+{
+  "source_file": "exd/custom/009/CtsMkdEntrance_00929_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_CTSMKDENTRANCE_00929_Q1_000_000<tab>Что бы вы хотели сделать?"
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_CTSMKDENTRANCE_00929_MENU_CONTENT<tab>Отправляйтесь в <var 28 ((ContentFinderCondition)) E8022C /var>."
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_CTSMKDENTRANCE_00929_A1_000_001<tab>Запросите дополнительную информацию."
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_CTSMKDENTRANCE_00929_A1_000_002<tab>Ничего."
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_CTSMKDENTRANCE_00929_A1_000_003<tab>Проверьте свой уровень знаний и доступные валюты."
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_CTSMKDENTRANCE_00929_A1_000_004<tab>Проверьте свои фантомные профессии."
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_CTSMKDENTRANCE_00929_MENU_CONTENT_CONFIRMINATION_SOUTH<tab>Отправиться в <var 28 ((ContentFinderCondition)) E8022C /var>?\n\n<var 48 F201F4 /var><var 49 F201F5 /var>※Если ваш уровень знаний превышает 20, он будет синхронизирован.<var 49 01 /var><var 48 01 /var>"
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_CTSMKDENTRANCE_00929_MENU_CONTENT_CONFIRMINATION<tab>Отправиться в <var 28 ((ContentFinderCondition)) E8022C /var>?"
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_CTSMKDENTRANCE_00929_MENU_CONTENT_CONFIRMINATION_HARD<tab>Отправиться в <var 28 ((ContentFinderCondition)) E8022C /var>?"
+    },
+    {
+      "id": "0x00000009",
+      "text": "TEXT_CTSMKDENTRANCE_00929_A1_000_005<tab>Пожалуйста, пришлите английский текст для перевода."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "TEXT_CTSMKDENTRANCE_00929_A1_000_006<tab>Нет."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "source_file": "exd/transport/AetheryteEulmore_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_AETHERYTEEULMORE_STOP_000<tab>Согласно надписи на основании, для использования этого эфирита требуется особое разрешение."
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_AETHERYTEEULMORE_STOP_010<tab>Эфирит перестал работать."
+    }
+  ]
+}

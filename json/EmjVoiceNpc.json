@@ -1,0 +1,61 @@
+{
+  "source_file": "exd/EmjVoiceNpc_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Alphinaud<tab>Alphinaud"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Alisaie<tab>Alisaie"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Thancred<tab>Thancred"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Urianger<tab>Urianger"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Y'shtola<tab>Y'shtola"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Estinien<tab>Estinien"
+    },
+    {
+      "id": "0x00000007",
+      "text": "G'raha Tia<tab>G'raha Tia"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Krile<tab>Krile"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Wuk Lamat<tab>Wuk Lamat"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Koana<tab>Koana"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Bakool Ja Ja<tab>Bakool Ja Ja"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Erenville<tab>Erenville"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Metem<tab>Metem"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Zero<tab>Zero"
+    }
+  ]
+}

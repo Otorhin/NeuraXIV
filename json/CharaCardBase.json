@@ -1,0 +1,573 @@
+{
+  "source_file": "exd/CharaCardBase_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "None"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Solid Black"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Solid White"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Solid Purple"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Tank Gradient"
+    },
+    {
+      "id": "0x00000006",
+      "text": "DPS Gradient"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Healer Gradient"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Solid Ivory"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Semi-transparent"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Solid Beige"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Lavender Gradient"
+    },
+    {
+      "id": "0x00000034",
+      "text": "Companion 1"
+    },
+    {
+      "id": "0x00000035",
+      "text": "Companion 2"
+    },
+    {
+      "id": "0x00000036",
+      "text": "Unending Coil of Bahamut"
+    },
+    {
+      "id": "0x00000037",
+      "text": "Weapon's Refrain"
+    },
+    {
+      "id": "0x00000038",
+      "text": "Epic of Alexander"
+    },
+    {
+      "id": "0x00000039",
+      "text": "Dragonsong's Reprise"
+    },
+    {
+      "id": "0x0000003A",
+      "text": "Last Dregs"
+    },
+    {
+      "id": "0x0000003B",
+      "text": "Coffee Break"
+    },
+    {
+      "id": "0x0000003C",
+      "text": "Circular Geometry"
+    },
+    {
+      "id": "0x0000003D",
+      "text": "Piano Forte"
+    },
+    {
+      "id": "0x0000003E",
+      "text": "Far Eastern"
+    },
+    {
+      "id": "0x0000003F",
+      "text": "Dreamspinners"
+    },
+    {
+      "id": "0x00000040",
+      "text": "Stewards"
+    },
+    {
+      "id": "0x00000041",
+      "text": "Watts's Anvil"
+    },
+    {
+      "id": "0x00000042",
+      "text": "Hippo Riders"
+    },
+    {
+      "id": "0x00000043",
+      "text": "Dreaming Ways"
+    },
+    {
+      "id": "0x00000044",
+      "text": "Omega Protocol"
+    },
+    {
+      "id": "0x00000045",
+      "text": "Eureka Orthos"
+    },
+    {
+      "id": "0x00000046",
+      "text": "Enaretos"
+    },
+    {
+      "id": "0x00000047",
+      "text": "Four Lords"
+    },
+    {
+      "id": "0x00000048",
+      "text": "Island Vacation"
+    },
+    {
+      "id": "0x00000049",
+      "text": "Island Memories"
+    },
+    {
+      "id": "0x0000004A",
+      "text": "Divine Circle"
+    },
+    {
+      "id": "0x0000004B",
+      "text": "Velodyna Gatekeepers"
+    },
+    {
+      "id": "0x0000004C",
+      "text": "Seven Hundred Seventy-Seven"
+    },
+    {
+      "id": "0x0000004D",
+      "text": "End of an Era"
+    },
+    {
+      "id": "0x0000004E",
+      "text": "Ten Year Anniversary"
+    },
+    {
+      "id": "0x0000004F",
+      "text": "Adventurous Angling"
+    },
+    {
+      "id": "0x00000050",
+      "text": "Big Fish"
+    },
+    {
+      "id": "0x00000051",
+      "text": "Mahjong Mastery"
+    },
+    {
+      "id": "0x00000052",
+      "text": "Gundu"
+    },
+    {
+      "id": "0x00000053",
+      "text": "Vath"
+    },
+    {
+      "id": "0x00000054",
+      "text": "Mogmenders"
+    },
+    {
+      "id": "0x00000055",
+      "text": "Halone's Blessing"
+    },
+    {
+      "id": "0x00000056",
+      "text": "Menphina's Blessing"
+    },
+    {
+      "id": "0x00000057",
+      "text": "Thaliak's Blessing"
+    },
+    {
+      "id": "0x00000058",
+      "text": "Nymeia's Blessing"
+    },
+    {
+      "id": "0x00000059",
+      "text": "Llymlaen's Blessing"
+    },
+    {
+      "id": "0x0000005A",
+      "text": "Oschon's Blessing"
+    },
+    {
+      "id": "0x0000005B",
+      "text": "Byregot's Blessing"
+    },
+    {
+      "id": "0x0000005C",
+      "text": "Rhalgr's Blessing"
+    },
+    {
+      "id": "0x0000005D",
+      "text": "Azeyma's Blessing"
+    },
+    {
+      "id": "0x0000005E",
+      "text": "Nald'thal's Blessing"
+    },
+    {
+      "id": "0x0000005F",
+      "text": "Nophica's Blessing"
+    },
+    {
+      "id": "0x00000060",
+      "text": "Althyk's Blessing"
+    },
+    {
+      "id": "0x00000061",
+      "text": "Tataru's Bespoke"
+    },
+    {
+      "id": "0x00000062",
+      "text": "Wondrous Whimsy"
+    },
+    {
+      "id": "0x00000063",
+      "text": "Fantastic Faux"
+    },
+    {
+      "id": "0x00000064",
+      "text": "Blunderful"
+    },
+    {
+      "id": "0x00000065",
+      "text": "Blunderous"
+    },
+    {
+      "id": "0x00000066",
+      "text": "Blunder-villed"
+    },
+    {
+      "id": "0x00000067",
+      "text": "Yo-kai Watch"
+    },
+    {
+      "id": "0x00000068",
+      "text": "789th Order"
+    },
+    {
+      "id": "0x00000069",
+      "text": "Little Solace"
+    },
+    {
+      "id": "0x0000006A",
+      "text": "Brotherhood of Ash"
+    },
+    {
+      "id": "0x0000006B",
+      "text": "Novv's Clutch"
+    },
+    {
+      "id": "0x0000006C",
+      "text": "Ehcatl Nine"
+    },
+    {
+      "id": "0x0000006D",
+      "text": "Crimson Dawn"
+    },
+    {
+      "id": "0x0000006E",
+      "text": "Golden Dawn"
+    },
+    {
+      "id": "0x0000006F",
+      "text": "Dark Solution"
+    },
+    {
+      "id": "0x00000070",
+      "text": "Bright Solution"
+    },
+    {
+      "id": "0x00000071",
+      "text": "Turali Travel Agency"
+    },
+    {
+      "id": "0x00000072",
+      "text": "Heavens' Orthodoxy"
+    },
+    {
+      "id": "0x00000073",
+      "text": "Heavens' Heresy"
+    },
+    {
+      "id": "0x00000074",
+      "text": "Idyll Wisdom"
+    },
+    {
+      "id": "0x00000075",
+      "text": "Idyll Industry"
+    },
+    {
+      "id": "0x00000076",
+      "text": "Kugane Commerce"
+    },
+    {
+      "id": "0x00000077",
+      "text": "Kugane Leisure"
+    },
+    {
+      "id": "0x00000078",
+      "text": "Western Reach"
+    },
+    {
+      "id": "0x00000079",
+      "text": "Eastern Reach"
+    },
+    {
+      "id": "0x0000007A",
+      "text": "Exarchic Dome"
+    },
+    {
+      "id": "0x0000007B",
+      "text": "Exarchic Tower"
+    },
+    {
+      "id": "0x0000007C",
+      "text": "Eulmoran Comfort"
+    },
+    {
+      "id": "0x0000007D",
+      "text": "Eulmoran Glory"
+    },
+    {
+      "id": "0x0000007E",
+      "text": "Sharlayan Stoa"
+    },
+    {
+      "id": "0x0000007F",
+      "text": "Sharlayan Agora"
+    },
+    {
+      "id": "0x00000080",
+      "text": "Hannish Radiance"
+    },
+    {
+      "id": "0x00000081",
+      "text": "Hannish Wonders"
+    },
+    {
+      "id": "0x00000082",
+      "text": "Futures Rewritten"
+    },
+    {
+      "id": "0x00000083",
+      "text": "Gok Golma"
+    },
+    {
+      "id": "0x00000084",
+      "text": "Deadly Welcome"
+    },
+    {
+      "id": "0x00000085",
+      "text": "Deadly Descent"
+    },
+    {
+      "id": "0x00000086",
+      "text": "Victory-on-High"
+    },
+    {
+      "id": "0x00000087",
+      "text": "Ascension-on-High"
+    },
+    {
+      "id": "0x00000088",
+      "text": "Occult Crescent 1"
+    },
+    {
+      "id": "0x00000089",
+      "text": "Cosmic Exploration"
+    },
+    {
+      "id": "0x0000008A",
+      "text": "Monster Hunter Wilds 1"
+    },
+    {
+      "id": "0x0000008B",
+      "text": "Monster Hunter Wilds 2"
+    },
+    {
+      "id": "0x0000008C",
+      "text": "Hands of Zirgorteh"
+    },
+    {
+      "id": "0x0000008D",
+      "text": "Pilgrim's Traverse"
+    },
+    {
+      "id": "0x0000008E",
+      "text": "Distant Sanctums"
+    },
+    {
+      "id": "0x0000008F",
+      "text": "Cosmic Constructs"
+    },
+    {
+      "id": "0x00000090",
+      "text": "Island Days"
+    },
+    {
+      "id": "0x00000091",
+      "text": "Cosmic Fantasy"
+    },
+    {
+      "id": "0x00000092",
+      "text": "Simple Pink"
+    },
+    {
+      "id": "0x00000093",
+      "text": "Simple Violet"
+    },
+    {
+      "id": "0x00000094",
+      "text": "Simple Pale Blue"
+    },
+    {
+      "id": "0x00000095",
+      "text": "Simple Peach"
+    },
+    {
+      "id": "0x00000096",
+      "text": "Simple Lime"
+    },
+    {
+      "id": "0x00000097",
+      "text": "Simple Pale Teal"
+    },
+    {
+      "id": "0x00000098",
+      "text": "Simple Pale Yellow"
+    },
+    {
+      "id": "0x00000099",
+      "text": "Simple Yellow"
+    },
+    {
+      "id": "0x0000009A",
+      "text": "Black Cat"
+    },
+    {
+      "id": "0x0000009B",
+      "text": "Honey B. Lovely"
+    },
+    {
+      "id": "0x0000009C",
+      "text": "Brute Bomber"
+    },
+    {
+      "id": "0x0000009D",
+      "text": "Wicked Thunder"
+    },
+    {
+      "id": "0x0000009E",
+      "text": "Dancing Green"
+    },
+    {
+      "id": "0x0000009F",
+      "text": "Sugar Riot"
+    },
+    {
+      "id": "0x000000A0",
+      "text": "Howling Blade"
+    },
+    {
+      "id": "0x000000A1",
+      "text": "Vamp Fatale"
+    },
+    {
+      "id": "0x000000A2",
+      "text": "Deep Blue"
+    },
+    {
+      "id": "0x000000A3",
+      "text": "Red Hot"
+    },
+    {
+      "id": "0x000000A4",
+      "text": "The Tyrant"
+    },
+    {
+      "id": "0x000000A5",
+      "text": "DRAGON QUEST X"
+    },
+    {
+      "id": "0x000000A6",
+      "text": "Keybound Brawler"
+    },
+    {
+      "id": "0x000000A7",
+      "text": "Crucible of the Unbroken"
+    },
+    {
+      "id": "0x000000A8",
+      "text": "Occult Crescent 2"
+    },
+    {
+      "id": "0x000000A9",
+      "text": "Prishe"
+    },
+    {
+      "id": "0x000000AA",
+      "text": "Prishe of the Distant Chains"
+    },
+    {
+      "id": "0x000000AB",
+      "text": "Fafnir"
+    },
+    {
+      "id": "0x000000AC",
+      "text": "Ark Angels"
+    },
+    {
+      "id": "0x000000AD",
+      "text": "Shadow Lord"
+    },
+    {
+      "id": "0x000000AE",
+      "text": "Faithbound Kirin"
+    },
+    {
+      "id": "0x000000AF",
+      "text": "Ultima and Omega"
+    },
+    {
+      "id": "0x000000B0",
+      "text": "Kam'lanaut"
+    },
+    {
+      "id": "0x000000B1",
+      "text": "Eald'narche"
+    },
+    {
+      "id": "0x000000B2",
+      "text": "Shantotto the Demon"
+    },
+    {
+      "id": "0x000000B3",
+      "text": "Alexander Resurrected"
+    },
+    {
+      "id": "0x000000B4",
+      "text": "Promathia"
+    },
+    {
+      "id": "0x000000B5",
+      "text": "Shinryu Paradox"
+    },
+    {
+      "id": "0x000000B6",
+      "text": "Cosmic Growth"
+    }
+  ]
+}

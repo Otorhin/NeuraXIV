@@ -1,0 +1,205 @@
+{
+  "source_file": "exd/ContentUICategory_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "The Wolves' Den"
+    },
+    {
+      "id": "0x00000002",
+      "text": "The Wolves' Den (Training)"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Frontline"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Triple Triad"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Lord of Verminion"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Dungeons (A Realm Reborn)"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Dungeons (Heavensward)"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Trials (A Realm Reborn)"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Trials (Heavensward)"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Raids (A Realm Reborn)"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Normal Raids (Heavensward)"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Savage Raids (A Realm Reborn)"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Savage Raids (Heavensward)"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Alliance Raids (A Realm Reborn)"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Alliance Raids (Heavensward)"
+    },
+    {
+      "id": "0x00000010",
+      "text": "Normal Raids (Stormblood)"
+    },
+    {
+      "id": "0x00000011",
+      "text": "Savage Raids (Stormblood)"
+    },
+    {
+      "id": "0x00000012",
+      "text": "Alliance Raids (Stormblood)"
+    },
+    {
+      "id": "0x00000013",
+      "text": "High-end Trials (A Realm Reborn)"
+    },
+    {
+      "id": "0x00000014",
+      "text": "High-end Trials (Heavensward)"
+    },
+    {
+      "id": "0x00000015",
+      "text": "Trials (Stormblood)"
+    },
+    {
+      "id": "0x00000016",
+      "text": "High-end Trials (Stormblood)"
+    },
+    {
+      "id": "0x00000017",
+      "text": "Rival Wings"
+    },
+    {
+      "id": "0x00000018",
+      "text": "The Wolves' Den (Custom)"
+    },
+    {
+      "id": "0x00000019",
+      "text": "The Wolves' Den (Custom Team)"
+    },
+    {
+      "id": "0x0000001A",
+      "text": "Chocobo Races"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "Chocobo Races (Party Member)"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "Daily Challenges"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "Mahjong"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "Dungeons (Stormblood)"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "Dungeons (Shadowbringers)"
+    },
+    {
+      "id": "0x00000020",
+      "text": "Trials (Shadowbringers)"
+    },
+    {
+      "id": "0x00000021",
+      "text": "High-end Trials (Shadowbringers)"
+    },
+    {
+      "id": "0x00000022",
+      "text": "Normal Raids (Shadowbringers)"
+    },
+    {
+      "id": "0x00000023",
+      "text": "Savage Raids (Shadowbringers)"
+    },
+    {
+      "id": "0x00000024",
+      "text": "Alliance Raids (Shadowbringers)"
+    },
+    {
+      "id": "0x00000025",
+      "text": "Dungeons (Endwalker)"
+    },
+    {
+      "id": "0x00000026",
+      "text": "Trials (Endwalker)"
+    },
+    {
+      "id": "0x00000027",
+      "text": "High-end Trials (Endwalker)"
+    },
+    {
+      "id": "0x00000028",
+      "text": "Normal Raids (Endwalker)"
+    },
+    {
+      "id": "0x00000029",
+      "text": "Savage Raids (Endwalker)"
+    },
+    {
+      "id": "0x0000002A",
+      "text": "Alliance Raids (Endwalker)"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "Crystalline Conflict"
+    },
+    {
+      "id": "0x0000002C",
+      "text": "Crystalline Conflict (Custom Match)"
+    },
+    {
+      "id": "0x0000002D",
+      "text": "Dungeons (Dawntrail)"
+    },
+    {
+      "id": "0x0000002E",
+      "text": "Trials (Dawntrail)"
+    },
+    {
+      "id": "0x0000002F",
+      "text": "High-end Trials (Dawntrail)"
+    },
+    {
+      "id": "0x00000030",
+      "text": "Normal Raids (Dawntrail)"
+    },
+    {
+      "id": "0x00000031",
+      "text": "Savage Raids (Dawntrail)"
+    },
+    {
+      "id": "0x00000032",
+      "text": "Alliance Raids (Dawntrail)"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "source_file": "exd/custom/004/FesXms2017Mount_00439_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_FESXMS2017MOUNT_00439_COMMITTEE00439_000_000<tab>Как вы наверняка заметили, Праздник Звёздного света в самом разгаре. Не хотите присоединиться к веселью? Амх Гаранджи в Гридании ищет ещё маленьких помощников!"
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_FESXMS2017MOUNT_00439_COMMITTEE00439_000_010<tab>Оставь нам связывание древесников и возвращение украденных украшений. Тебе нужно лишь оседлать <var 09 E948 ((Kochab)) ((<var 08 E905 ((Kochab)) ((Polaris)) /var>)) ((Pferkad)) ((Kochab)) ((Polaris)) ((<var 08 E905 ((Kochab)) ((Polaris)) /var>)) ((Polaris)) ((Kochab)) /var> и ослепить этих воров звёздным фейерверком!"
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_FESXMS2017MOUNT_00439_COMMITTEE00439_000_020<tab>Не хочешь ещё поохотиться на древней, ворующих украшения? <var 09 E948 ((Kochab)) ((<var 08 E905 ((Kochab)) ((Polaris)) /var>)) ((Pferkad)) ((Kochab)) ((Polaris)) ((<var 08 E905 ((Kochab)) ((Polaris)) /var>)) ((Polaris)) ((Kochab)) /var> уже готов выдвигаться!"
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_FESXMS2017MOUNT_00439_Q1_000_000<tab>Оседлать <var 09 E948 ((Кохаба)) ((<var 08 E905 ((Кохаба)) ((Полярис)) /var>)) ((Феркада)) ((Кохаба)) ((Полярис)) ((<var 08 E905 ((Кохаба)) ((Полярис)) /var>)) ((Полярис)) ((Кохаба)) /var>?"
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_FESXMS2017MOUNT_00439_TALK_ACTOR<tab>"
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_FESXMS2017MOUNT_00439_A1_000_001<tab>"
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_FESXMS2017MOUNT_00439_A1_000_002<tab>"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "source_file": "exd/custom/009/FesHlx2026HorrorRoomWarp_00995_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_FESHLX2026HORRORROOMWARP_00995_WARP00995_000_000<tab>Войти в Сокрытое святилище?"
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_FESHLX2026HORRORROOMWARP_00995_WARP00995_000_001<tab>Покинуть Сокрытое святилище?"
+    }
+  ]
+}

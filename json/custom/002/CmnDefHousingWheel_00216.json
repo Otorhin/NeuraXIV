@@ -1,0 +1,25 @@
+{
+  "source_file": "exd/custom/002/CmnDefHousingWheel_00216_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_CMNDEFHOUSINGWHEEL_00216_NULL<tab>(★Неиспользуемый / Предполагается удаление★)"
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_CMNDEFHOUSINGWHEEL_00216_MENU_TITLE<tab>Открыто: <var 20 E802 /var> | Заряжается: <var 20 E803 /var> | Готово: <var 20 E804 /var>  \nЧто вы хотите сделать?"
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_CMNDEFHOUSINGWHEEL_00216_SETUP_WHEEL<tab>Установить или убрать эфирное колесо."
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_CMNDEFHOUSINGWHEEL_00216_CONVERT_ENERGY<tab>Преобразовать заряженное эфирное колесо."
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_CMNDEFHOUSINGWHEEL_00216_CANCEL<tab>Ничего."
+    }
+  ]
+}

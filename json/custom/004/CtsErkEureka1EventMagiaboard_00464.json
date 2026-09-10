@@ -1,0 +1,13 @@
+{
+  "source_file": "exd/custom/004/CtsErkEureka1EventMagiaboard_00464_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_CTSERKEUREKA1EVENTMAGIABOARD_00464_SYSTEM_100_001<tab>Это странное и загадочное устройство, похоже, не работает..."
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_CTSERKEUREKA1EVENTMAGIABOARD_00464_SYSTEM_000_001<tab>С помощью устройства настройки магии можно устанавливать магицит на доску магии и снимать его. Закончив эксперименты, поговорите с Крилэ, чтобы продолжить."
+    }
+  ]
+}

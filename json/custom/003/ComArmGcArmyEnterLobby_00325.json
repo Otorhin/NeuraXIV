@@ -1,0 +1,17 @@
+{
+  "source_file": "exd/custom/003/ComArmGcArmyEnterLobby_00325_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_COMARMGCARMYENTERLOBBY_00325_YESNO_Q<tab>Войти в казармы?"
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_COMARMGCARMYENTERLOBBY_00325_YESNO_YES<tab>Да"
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_COMARMGCARMYENTERLOBBY_00325_YESNO_NO<tab>Нет"
+    }
+  ]
+}

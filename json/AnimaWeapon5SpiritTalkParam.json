@@ -1,0 +1,273 @@
+{
+  "source_file": "exd/AnimaWeapon5SpiritTalkParam_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "My body...it feels so heavy...<tab>My body...it feels so heavy..."
+    },
+    {
+      "id": "0x00000002",
+      "text": "Oh! Something has changed. I feel...complete.<tab>Oh! I feel I've changed somehow. I feel...complete."
+    },
+    {
+      "id": "0x00000003",
+      "text": "What is this feeling?<tab>What is this feeling?"
+    },
+    {
+      "id": "0x00000004",
+      "text": "I sense great power here.<tab>I sense great power here."
+    },
+    {
+      "id": "0x00000005",
+      "text": "Such intense power! Soon it will be a part of me!<tab>Such intense power! Soon I will make it my own!"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Fortune smiles upon us today!<tab>Fortune smiles upon us today!"
+    },
+    {
+      "id": "0x00000007",
+      "text": "This feels...strange...<tab>Such a strange sensation..."
+    },
+    {
+      "id": "0x00000008",
+      "text": "Is this the power of crystals?<tab>Is this the power of crystals?"
+    },
+    {
+      "id": "0x00000009",
+      "text": "This power... My body needs time to adjust.<tab>I need time to adjust to this power..."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "This aether is not quite like yours.<tab>This aether feels familiar, yet somehow different."
+    },
+    {
+      "id": "0x0000000B",
+      "text": "The aether... It courses through me!<tab>I can feel the aether welling inside me!"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "My power...it grows!<tab>My power...it grows!"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "The aether is almost too much to bear!<tab>I am not sure how much more aether I can hold."
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Are you certain this is safe?<tab>This will not harm me?"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Soon this power will be mine to command.<tab>Soon I will make this power my own."
+    },
+    {
+      "id": "0x00000010",
+      "text": "Again I sup on the aether of crystals.<tab>Again I feast on the aether of crystals."
+    },
+    {
+      "id": "0x00000011",
+      "text": "I can feel the aether pouring into me.<tab>I can feel the aether flowing into me."
+    },
+    {
+      "id": "0x00000012",
+      "text": "The aether swells inside me.<tab>The aether swells inside me."
+    },
+    {
+      "id": "0x00000013",
+      "text": "With every grain of sand I grow stronger.<tab>With every grain of sand I gain strength."
+    },
+    {
+      "id": "0x00000014",
+      "text": "I have come to like this sand.<tab>I rather like this sand."
+    },
+    {
+      "id": "0x00000015",
+      "text": "Do you have more?<tab>Please, may I have some more?"
+    },
+    {
+      "id": "0x00000016",
+      "text": "Mmm... This aether sustains me.<tab>Mmm... This aether sustains me."
+    },
+    {
+      "id": "0x00000017",
+      "text": "Soon I will achieve my full potential!<tab>Soon I will achieve my full potential!"
+    },
+    {
+      "id": "0x00000018",
+      "text": "I sense new power within me.<tab>I sense new strength growing within me."
+    },
+    {
+      "id": "0x00000019",
+      "text": "I will repay you in kind.<tab>I shall share this strength with you."
+    },
+    {
+      "id": "0x0000001A",
+      "text": "One day I will be worthy of this power.<tab>My strength is yours to command!"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "I must become stronger!<tab>I will become stronger!"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "I still have much room to improve.<tab>I still have much room to grow."
+    },
+    {
+      "id": "0x0000001D",
+      "text": "This gift will not be wasted.<tab>This gift will not be wasted."
+    },
+    {
+      "id": "0x0000001E",
+      "text": "It surges through me!<tab>It surges through me!"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "Behold my newfound strength!<tab>Behold my newfound strength!"
+    },
+    {
+      "id": "0x00000020",
+      "text": "When I am strong enough, no goal will be beyond our reach.<tab>When I am strong enough, no goal will be beyond our reach."
+    },
+    {
+      "id": "0x00000021",
+      "text": "Your enemies will tremble before our might!<tab>Your enemies will tremble before our might!"
+    },
+    {
+      "id": "0x00000022",
+      "text": "My spirit has never burned so brightly!<tab>My spirit has never burned so fiercely!"
+    },
+    {
+      "id": "0x00000023",
+      "text": "None can stand before our combined strength.<tab>None can stand before our combined strength."
+    },
+    {
+      "id": "0x00000024",
+      "text": "I look forward to putting this power to good use.<tab>I look forward to putting this power to good use."
+    },
+    {
+      "id": "0x00000025",
+      "text": "I must have more aether!<tab>I must have more aether!"
+    },
+    {
+      "id": "0x00000026",
+      "text": "I am full to bursting with aether.<tab>I am full to bursting with aether."
+    },
+    {
+      "id": "0x00000027",
+      "text": "What have you got there?<tab>What have you got there?"
+    },
+    {
+      "id": "0x00000028",
+      "text": "Have you need of me?<tab>Have you need of me?"
+    },
+    {
+      "id": "0x00000029",
+      "text": "Is this a new form of training? Very well.<tab>Is this a new form of training? Very well."
+    },
+    {
+      "id": "0x0000002A",
+      "text": "What are you planning to do?<tab>What are you planning to do?"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "This will not hurt...will it?<tab>This will not hurt...will it?"
+    },
+    {
+      "id": "0x0000002C",
+      "text": "Will you use the sand again?<tab>Will you use the sand again?"
+    },
+    {
+      "id": "0x0000002D",
+      "text": "Let us begin.<tab>Let us begin."
+    },
+    {
+      "id": "0x0000002E",
+      "text": "Ah, it is time once again to partake of the sand.<tab>Ah, it is time once again to partake of the sand."
+    },
+    {
+      "id": "0x0000002F",
+      "text": "I am ready.<tab>I am ready."
+    },
+    {
+      "id": "0x00000030",
+      "text": "You called?<tab>You called?"
+    },
+    {
+      "id": "0x00000031",
+      "text": "I have been looking forward to this.<tab>I have been looking forward to this."
+    },
+    {
+      "id": "0x00000032",
+      "text": "More... I must have more.<tab>More... I must have more."
+    },
+    {
+      "id": "0x00000033",
+      "text": "I wish to become stronger...for your sake.<tab>I wish to become stronger...for your sake."
+    },
+    {
+      "id": "0x00000034",
+      "text": "Another chance to grow.<tab>Another chance to grow."
+    },
+    {
+      "id": "0x00000035",
+      "text": "What have you got there?<tab>What have you got there?"
+    },
+    {
+      "id": "0x00000036",
+      "text": "Are we going to see that woman again?<tab>Are we going to see that woman again?"
+    },
+    {
+      "id": "0x00000037",
+      "text": "Is something the matter?<tab>Is something wrong?"
+    },
+    {
+      "id": "0x00000038",
+      "text": "Should I become swifter, or perhaps more attentive?<tab>Should I become swifter, or perhaps more attentive?"
+    },
+    {
+      "id": "0x00000039",
+      "text": "Do I appear...different?<tab>Have I...changed somehow?"
+    },
+    {
+      "id": "0x0000003A",
+      "text": "When will we use the sand again?<tab>When will we use the sand again?"
+    },
+    {
+      "id": "0x0000003B",
+      "text": "Does my progress please you?<tab>Does my progress please you?"
+    },
+    {
+      "id": "0x0000003C",
+      "text": "I have grown much since we began.<tab>I have grown much since we began."
+    },
+    {
+      "id": "0x0000003D",
+      "text": "I feel I have changed somehow.<tab>I feel I have changed somehow."
+    },
+    {
+      "id": "0x0000003E",
+      "text": "What will we focus on next?<tab>What will we focus on next?"
+    },
+    {
+      "id": "0x0000003F",
+      "text": "I hope I am to your satisfaction.<tab>I hope I am to your satisfaction."
+    },
+    {
+      "id": "0x00000040",
+      "text": "Will we return to the woman soon? I wish to use more sand.<tab>Will we return to the woman soon? I wish to use more sand."
+    },
+    {
+      "id": "0x00000041",
+      "text": "I feel I have developed quite well, would you not agree?<tab>I feel I have developed quite well, would you not agree?"
+    },
+    {
+      "id": "0x00000042",
+      "text": "It makes me nervous when you stare like that.<tab>It makes me nervous when you stare like that."
+    },
+    {
+      "id": "0x00000043",
+      "text": "Untreated sand? But the woman said not to use that...<tab>Untreated sand? But the woman said not to use that..."
+    }
+  ]
+}

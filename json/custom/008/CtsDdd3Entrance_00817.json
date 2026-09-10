@@ -1,0 +1,93 @@
+{
+  "source_file": "exd/custom/008/CtsDdd3Entrance_00817_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_CTSDDD3ENTRANCE_00817_KHATUN_000_000<tab>Добро пожаловать, добро пожаловать! Я полностью к вашим услугам, пока вы отправляетесь в Эврику Ортос. Мне выпала честь получить это назначение непосредственно от архимага Ной, и я ни за что её не подведу!"
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_CTSDDD3ENTRANCE_00817_START_MENU_ENTER<tab>Войти в Эврику Ортос"
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_CTSDDD3ENTRANCE_00817_START_MENU_RESET<tab>Сбросить прогресс"
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_CTSDDD3ENTRANCE_00817_START_MENU_BREAKUP<tab>Распустить постоянную группу"
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_CTSDDD3ENTRANCE_00817_START_MENU_SCORE<tab>Просмотреть свои результаты"
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_CTSDDD3ENTRANCE_00817_START_MENU_ABOUT<tab>Узнайте об Эврике-Ортосе"
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_CTSDDD3ENTRANCE_00817_ENTER_MENU_TITLE<tab>Что ты будешь делать?"
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_CTSDDD3ENTRANCE_00817_ENTER_MENU_FIXED<tab>Войти в составе заранее сформированной группы."
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_CTSDDD3ENTRANCE_00817_ENTER_MENU_MATCHING<tab>Войти в составе подобранной группы."
+    },
+    {
+      "id": "0x00000009",
+      "text": "TEXT_CTSDDD3ENTRANCE_00817_ENTER_MENU_BACK<tab>Вернуться."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "TEXT_CTSDDD3ENTRANCE_00817_ENTER_FIXED_Q<tab>Вы уверены, что хотите войти в составе заранее сформированной группы?"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "TEXT_CTSDDD3ENTRANCE_00817_ENTER_MATCHING_Q<tab>Вы уверены, что хотите войти в составе подобранной группы?"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "TEXT_CTSDDD3ENTRANCE_00817_KHATUN_000_010<tab>Ты в одиночку отправишься в Эврика-Ортос!? Что ж, Г'раха Тиа и архимаг так тебе доверяют, что, раз уж они не тревожатся, то и я не буду─Тайны Аллага в надежных руках!"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "TEXT_CTSDDD3ENTRANCE_00817_ENTER_SOLO<tab>Вы уверены, что хотите войти в одиночку?"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "TEXT_CTSDDD3ENTRANCE_00817_ENTER_WHICH_Q<tab>С какого этажа вы войдёте?"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "TEXT_CTSDDD3ENTRANCE_00817_ENTER_A1<tab>Первый этаж."
+    },
+    {
+      "id": "0x00000010",
+      "text": "TEXT_CTSDDD3ENTRANCE_00817_ENTER_A2<tab>Двадцать первый этаж."
+    },
+    {
+      "id": "0x00000011",
+      "text": "TEXT_CTSDDD3ENTRANCE_00817_ENTER_A3<tab>Вернуться."
+    },
+    {
+      "id": "0x00000012",
+      "text": "TEXT_CTSDDD3ENTRANCE_00817_MIDDLE_TOP_MENU_NEXT<tab>Перейти на следующий этаж"
+    },
+    {
+      "id": "0x00000013",
+      "text": "TEXT_CTSDDD3ENTRANCE_00817_MIDDLE_TOP_MENU_EXPLAIN<tab>Просмотреть правила Эврики Ортос"
+    },
+    {
+      "id": "0x00000014",
+      "text": "TEXT_CTSDDD3ENTRANCE_00817_MIDDLE_Q<tab>Перейти на следующий этаж с текущей группой?"
+    },
+    {
+      "id": "0x00000015",
+      "text": "TEXT_CTSDDD3ENTRANCE_00817_TALK_ACTOR<tab>"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "source_file": "exd/dungeon/000/DungeonBorderarea_00000_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_DUNGEONBORDERAREA_00000_IMPERIALGUARDRED_000_000<tab>Эти <var 1A 02 /var>дикари<var 1A 01 /var> одолели наш авангард? Впечатляет..."
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_DUNGEONBORDERAREA_00000_IMPERIALGUARDBLUE_000_001<tab>Но в конечном счёте они всего лишь дикари.  \nА теперь не будем терять времени. Его Сиятельство ожидает."
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_DUNGEONBORDERAREA_00000_IMPERIALGUARDRED_000_010<tab>Мы исполнили своё предназначение. Идём, пока отступим."
+    }
+  ]
+}

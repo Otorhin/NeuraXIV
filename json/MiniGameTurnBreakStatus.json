@@ -1,0 +1,29 @@
+{
+  "source_file": "exd/MiniGameTurnBreakStatus_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Barrier<tab>Barrier<nl>Invulnerable to all damage."
+    },
+    {
+      "id": "0x00000002",
+      "text": "Reraise<tab>Reraise<nl>Automatic revival upon KO."
+    },
+    {
+      "id": "0x00000003",
+      "text": "Levitation<tab>Levitation<nl>Floating off the ground and invulnerable to floor effects."
+    },
+    {
+      "id": "0x00000004",
+      "text": "Poison<tab>Poison<nl>Toxins are causing damage at the start of each turn."
+    },
+    {
+      "id": "0x00000005",
+      "text": "Doom<tab>Doom<nl>Certain death when counter reaches zero. Effect can only be dispelled by defeating the enemy that inflicted it."
+    },
+    {
+      "id": "0x00000006",
+      "text": "Bind<tab>Bind<nl>Unable to move."
+    }
+  ]
+}

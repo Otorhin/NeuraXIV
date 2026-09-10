@@ -1,0 +1,241 @@
+{
+  "source_file": "exd/quest/025/StmBda402_02501_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_STMBDA402_02501_SEQ_00<tab>Цирина обычно не полагается на доброту незнакомцев, но сегодня с радостью сделает исключение."
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_STMBDA402_02501_SEQ_01<tab>"
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_STMBDA402_02501_SEQ_02<tab>"
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_STMBDA402_02501_SEQ_03<tab>"
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_STMBDA402_02501_SEQ_04<tab>"
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_STMBDA402_02501_SEQ_05<tab>"
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_STMBDA402_02501_SEQ_06<tab>"
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_STMBDA402_02501_SEQ_07<tab>"
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_STMBDA402_02501_SEQ_08<tab>"
+    },
+    {
+      "id": "0x00000009",
+      "text": "TEXT_STMBDA402_02501_SEQ_09<tab>"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "TEXT_STMBDA402_02501_SEQ_10<tab>"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "TEXT_STMBDA402_02501_SEQ_11<tab>"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "TEXT_STMBDA402_02501_SEQ_12<tab>"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "TEXT_STMBDA402_02501_SEQ_13<tab>"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "TEXT_STMBDA402_02501_SEQ_14<tab>"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "TEXT_STMBDA402_02501_SEQ_15<tab>"
+    },
+    {
+      "id": "0x00000010",
+      "text": "TEXT_STMBDA402_02501_SEQ_16<tab>"
+    },
+    {
+      "id": "0x00000011",
+      "text": "TEXT_STMBDA402_02501_SEQ_17<tab>"
+    },
+    {
+      "id": "0x00000012",
+      "text": "TEXT_STMBDA402_02501_SEQ_18<tab>"
+    },
+    {
+      "id": "0x00000013",
+      "text": "TEXT_STMBDA402_02501_SEQ_19<tab>"
+    },
+    {
+      "id": "0x00000014",
+      "text": "TEXT_STMBDA402_02501_SEQ_20<tab>"
+    },
+    {
+      "id": "0x00000015",
+      "text": "TEXT_STMBDA402_02501_SEQ_21<tab>"
+    },
+    {
+      "id": "0x00000016",
+      "text": "TEXT_STMBDA402_02501_SEQ_22<tab>"
+    },
+    {
+      "id": "0x00000017",
+      "text": "TEXT_STMBDA402_02501_SEQ_23<tab>"
+    },
+    {
+      "id": "0x00000018",
+      "text": "TEXT_STMBDA402_02501_TODO_00<tab>Убейте дхолей и добудьте шёпотный корень."
+    },
+    {
+      "id": "0x00000019",
+      "text": "TEXT_STMBDA402_02501_TODO_01<tab>Доставьте шепотный корень Цирине."
+    },
+    {
+      "id": "0x0000001A",
+      "text": "TEXT_STMBDA402_02501_TODO_02<tab>"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "TEXT_STMBDA402_02501_TODO_03<tab>"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "TEXT_STMBDA402_02501_TODO_04<tab>"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "TEXT_STMBDA402_02501_TODO_05<tab>"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "TEXT_STMBDA402_02501_TODO_06<tab>"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "TEXT_STMBDA402_02501_TODO_07<tab>"
+    },
+    {
+      "id": "0x00000020",
+      "text": "TEXT_STMBDA402_02501_TODO_08<tab>"
+    },
+    {
+      "id": "0x00000021",
+      "text": "TEXT_STMBDA402_02501_TODO_09<tab>"
+    },
+    {
+      "id": "0x00000022",
+      "text": "TEXT_STMBDA402_02501_TODO_10<tab>"
+    },
+    {
+      "id": "0x00000023",
+      "text": "TEXT_STMBDA402_02501_TODO_11<tab>"
+    },
+    {
+      "id": "0x00000024",
+      "text": "TEXT_STMBDA402_02501_TODO_12<tab>"
+    },
+    {
+      "id": "0x00000025",
+      "text": "TEXT_STMBDA402_02501_TODO_13<tab>"
+    },
+    {
+      "id": "0x00000026",
+      "text": "TEXT_STMBDA402_02501_TODO_14<tab>"
+    },
+    {
+      "id": "0x00000027",
+      "text": "TEXT_STMBDA402_02501_TODO_15<tab>"
+    },
+    {
+      "id": "0x00000028",
+      "text": "TEXT_STMBDA402_02501_TODO_16<tab>"
+    },
+    {
+      "id": "0x00000029",
+      "text": "TEXT_STMBDA402_02501_TODO_17<tab>"
+    },
+    {
+      "id": "0x0000002A",
+      "text": "TEXT_STMBDA402_02501_TODO_18<tab>"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "TEXT_STMBDA402_02501_TODO_19<tab>"
+    },
+    {
+      "id": "0x0000002C",
+      "text": "TEXT_STMBDA402_02501_TODO_20<tab>"
+    },
+    {
+      "id": "0x0000002D",
+      "text": "TEXT_STMBDA402_02501_TODO_21<tab>"
+    },
+    {
+      "id": "0x0000002E",
+      "text": "TEXT_STMBDA402_02501_TODO_22<tab>"
+    },
+    {
+      "id": "0x0000002F",
+      "text": "TEXT_STMBDA402_02501_TODO_23<tab>"
+    },
+    {
+      "id": "0x00000030",
+      "text": "TEXT_STMBDA402_02501_CIRINA_000_010<tab>Ты... ты хочешь мне помочь, да?"
+    },
+    {
+      "id": "0x00000031",
+      "text": "TEXT_STMBDA402_02501_CIRINA_000_011<tab>Не знаю, что и сказать... Спасибо, <var 2C ((<var 29 EB02 /var>)) (( )) 02 /var>, спасибо!"
+    },
+    {
+      "id": "0x00000032",
+      "text": "TEXT_STMBDA402_02501_CIRINA_000_012<tab>Медлительные создания, которых нам нужно повалить, бродят по равнинам к западу от Воссоединения. Если каждый добудет по два, корней шёпота должно хватить."
+    },
+    {
+      "id": "0x00000033",
+      "text": "TEXT_STMBDA402_02501_CIRINA_000_013<tab>Возвращайся сюда, когда закончишь. Удачи!"
+    },
+    {
+      "id": "0x00000034",
+      "text": "TEXT_STMBDA402_02501_CIRINA_000_020<tab>С возвращением, <var 2C ((<var 29 EB02 /var>)) (( )) 02 /var>. Ты принёс корень шёпота?"
+    },
+    {
+      "id": "0x00000035",
+      "text": "TEXT_STMBDA402_02501_CIRINA_000_021<tab>Блажен тот, кто добр к странникам, ибо удача неизменно сопутствует ему."
+    },
+    {
+      "id": "0x00000036",
+      "text": "TEXT_STMBDA402_02501_CIRINA_000_022<tab>Этого количества будет достаточно?"
+    },
+    {
+      "id": "0x00000037",
+      "text": "TEXT_STMBDA402_02501_MASGUD_000_023<tab>Да будет так. Кинсай — твой."
+    },
+    {
+      "id": "0x00000038",
+      "text": "TEXT_STMBDA402_02501_MASGUD_000_024<tab>Боги благоволят тебе куда больше, чем ты думаешь, дитя. Удганам такие травы нужны редко, так что запас у меня невелик. Приди ты на день раньше или позже — и мне было бы нечего тебе дать."
+    },
+    {
+      "id": "0x00000039",
+      "text": "TEXT_STMBDA402_02501_CIRINA_000_025<tab>Возможно, боги привели меня сюда — как когда-то привели сюда бабушку. Как привели этого <var 08 E905 ((женщину)) ((мужчину)) /var> с Запада..."
+    },
+    {
+      "id": "0x0000003A",
+      "text": "TEXT_STMBDA402_02501_MASGUD_000_000<tab>"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "source_file": "exd/custom/007/CtsMjiConstructLandmark_00788_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_CTSMJICONSTRUCTLANDMARK_00788_TALK_ACTOR<tab>0"
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_CTSMJICONSTRUCTLANDMARK_00788_SYSTEM_000_000<tab>Что ты будешь делать?"
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_CTSMJICONSTRUCTLANDMARK_00788_Q1_000_001<tab>Постройте достопримечательность."
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_CTSMJICONSTRUCTLANDMARK_00788_Q1_000_002<tab>Восстановите достопримечательность."
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_CTSMJICONSTRUCTLANDMARK_00788_Q1_000_003<tab>Переместить ориентир."
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_CTSMJICONSTRUCTLANDMARK_00788_Q1_000_004<tab>Повернуть ориентир."
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_CTSMJICONSTRUCTLANDMARK_00788_Q1_000_010<tab>Ничего."
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_CTSMJICONSTRUCTLANDMARK_00788_Q1_003_000<tab>Повернуть ориентир (текущая ориентация: по умолчанию)"
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_CTSMJICONSTRUCTLANDMARK_00788_Q1_003_001<tab>Повернуть на 90 градусов по часовой стрелке."
+    },
+    {
+      "id": "0x00000009",
+      "text": "TEXT_CTSMJICONSTRUCTLANDMARK_00788_Q1_003_002<tab>Поверните на 90 градусов против часовой стрелки."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "TEXT_CTSMJICONSTRUCTLANDMARK_00788_Q1_003_003<tab>Поверните на 180 градусов."
+    },
+    {
+      "id": "0x0000000B",
+      "text": "TEXT_CTSMJICONSTRUCTLANDMARK_00788_Q1_003_004<tab>Повернуть ориентир  \n(Текущая ориентация: 90 градусов по часовой стрелке)"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "TEXT_CTSMJICONSTRUCTLANDMARK_00788_Q1_003_005<tab>Повернуть ориентир  \n(Текущая ориентация: 180 градусов)"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "TEXT_CTSMJICONSTRUCTLANDMARK_00788_Q1_003_006<tab>Повернуть ориентир  \n(Текущая ориентация: 90 градусов против часовой стрелки)"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "TEXT_CTSMJICONSTRUCTLANDMARK_00788_SYSTEM_000_200<tab>Похоже, это бревно с прикреплённой к нему доской. Как занятно."
+    },
+    {
+      "id": "0x0000000F",
+      "text": "TEXT_CTSMJICONSTRUCTLANDMARK_00788_SYSTEM_000_300<tab>Ознакомиться с расчётным временем завершения строительства любого объекта можно на информационной доске перед соответствующим участком."
+    }
+  ]
+}

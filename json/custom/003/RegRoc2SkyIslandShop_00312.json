@@ -1,0 +1,89 @@
+{
+  "source_file": "exd/custom/003/RegRoc2SkyIslandShop_00312_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_REGROC2SKYISLANDSHOP_00312_JAQUOINIE_000_000<tab>Подадите заявку на участие в следующей миссии? Если да, вам потребуется предоставить подтверждение покупки цистерны церулеума."
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_REGROC2SKYISLANDSHOP_00312_JAQUOINIE_000_010<tab>…Прошу прощения, <var 08 E905 ((miss)) ((sir)) /var>. Из-за опасностей, с которыми наши отряды часто сталкиваются во время вылазок, мы можем принять лишь самых опытных бойцов."
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_REGROC2SKYISLANDSHOP_00312_SYSTEM_000_011<tab>Чтобы отправиться в исследовательскую экспедицию в Ишгарде, вы и ваша группа должны соответствовать следующим требованиям:"
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_REGROC2SKYISLANDSHOP_00312_SYSTEM_000_012<tab>※Вы должны завершить основной сюжетный квест «Небеса»."
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_REGROC2SKYISLANDSHOP_00312_SYSTEM_000_013<tab>Вы должны быть адептом войны или магии 60-го уровня."
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_REGROC2SKYISLANDSHOP_00312_SYSTEM_000_014<tab>Чтобы просмотреть прогресс выполнения заданий, выберите в главном меню пункт <var 48 F201F4 /var><var 49 F201F5 /var>Задания<var 49 01 /var><var 48 01 /var>, а затем — <var 48 F201F4 /var><var 49 F201F5 /var>Журнал<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_REGROC2SKYISLANDSHOP_00312_JAQUOINIE_000_020<tab>Постой─ты уже говорил с лордом Аурваэлем? Я так и думал. Сначала тебе лучше поговорить с ним."
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_REGROC2SKYISLANDSHOP_00312_Q1_000_000<tab>Что бы вы хотели сделать?"
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_REGROC2SKYISLANDSHOP_00312_A1_000_001<tab>Купить <var 08 E803 ((<var 08 E2E8030B ((<var 09 E803 ((one)) ((two)) ((three)) ((four)) ((five)) ((six)) ((seven)) ((eight)) ((nine)) ((ten)) /var>)) ((<var 20 E803 /var>)) /var>)) ((<var 20 E803 /var>)) /var> <var 31 ((Item)) 04E802E80302 /var> за <var 22 ((,)) /var> гил."
+    },
+    {
+      "id": "0x00000009",
+      "text": "TEXT_REGROC2SKYISLANDSHOP_00312_A1_000_002<tab>Ничего."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "TEXT_REGROC2SKYISLANDSHOP_00312_Q2_000_000<tab>Купить <var 08 E803 ((<var 08 E2E8030B ((<var 09 E803 ((one)) ((two)) ((three)) ((four)) ((five)) ((six)) ((seven)) ((eight)) ((nine)) ((ten)) /var>)) ((<var 20 E803 /var>)) /var>)) ((<var 20 E803 /var>)) /var> шт. следующего товара за <var 22 E804 ((,)) /var> гил?"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "TEXT_REGROC2SKYISLANDSHOP_00312_A2_000_001<tab>Да"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "TEXT_REGROC2SKYISLANDSHOP_00312_A2_000_002<tab>Нет"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "TEXT_REGROC2SKYISLANDSHOP_00312_SHOP_000_000<tab>"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "TEXT_REGROC2SKYISLANDSHOP_00312_SHOP_000_001<tab>"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "TEXT_REGROC2SKYISLANDSHOP_00312_SHOP_000_002<tab>"
+    },
+    {
+      "id": "0x00000010",
+      "text": "TEXT_REGROC2SKYISLANDSHOP_00312_A2_000_YES<tab>"
+    },
+    {
+      "id": "0x00000011",
+      "text": "TEXT_REGROC2SKYISLANDSHOP_00312_A2_000_NO<tab>"
+    },
+    {
+      "id": "0x00000012",
+      "text": "TEXT_REGROC2SKYISLANDSHOP_00312_MILLIE_000_000<tab>"
+    },
+    {
+      "id": "0x00000013",
+      "text": "TEXT_REGROC2SKYISLANDSHOP_00312_MILLIE_000_010<tab>"
+    },
+    {
+      "id": "0x00000014",
+      "text": "TEXT_REGROC2SKYISLANDSHOP_00312_MILLIE_000_020<tab>"
+    }
+  ]
+}

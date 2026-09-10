@@ -1,0 +1,37 @@
+{
+  "source_file": "exd/custom/003/HouFurVase_00336_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_HOUFURVASE_00336_Q1_000_000<tab>На витрине: <var 28 ((Item)) E8020A /var>"
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_HOUFURVASE_00336_Q1_000_001<tab>Отображается: ничего"
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_HOUFURVASE_00336_A1_000_002<tab>Показать цветы"
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_HOUFURVASE_00336_A1_000_003<tab>Убрать цветы"
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_HOUFURVASE_00336_A1_000_004<tab>Выйти"
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_HOUFURVASE_00336_Q2_000_000<tab>Если вынуть <var 2B ((<var 31 ((Item)) 03E8020202 /var>)) /var> из вазы, он будет выброшен. Вы уверены, что хотите продолжить?"
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_HOUFURVASE_00336_Q2_000_001<tab>Да"
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_HOUFURVASE_00336_Q2_000_002<tab>Нет"
+    }
+  ]
+}

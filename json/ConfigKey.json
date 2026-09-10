@@ -1,0 +1,1733 @@
+{
+  "source_file": "exd/ConfigKey_0_en.exd",
+  "rows": [
+    {
+      "id": "0x0000000B",
+      "text": "Steer<tab>MOVE_AND_STEER"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Move Forward<tab>MOVE_FORE"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Move Back / Walk Backwards<tab>MOVE_BACK"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Move Left / Turn Left<tab>MOVE_LEFT"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Move Right / Turn Right<tab>MOVE_RIGHT"
+    },
+    {
+      "id": "0x00000010",
+      "text": "Strafe Left<tab>MOVE_STRIFE_L"
+    },
+    {
+      "id": "0x00000011",
+      "text": "Strafe Right<tab>MOVE_STRIFE_R"
+    },
+    {
+      "id": "0x00000012",
+      "text": "Jump<tab>JUMP"
+    },
+    {
+      "id": "0x00000013",
+      "text": "Toggle between Run/Walk<tab>WALK"
+    },
+    {
+      "id": "0x00000014",
+      "text": "Turn On/Off Auto-run<tab>AUTORUN_KEY"
+    },
+    {
+      "id": "0x00000015",
+      "text": "Draw/Sheathe Weapon<tab>SWARD"
+    },
+    {
+      "id": "0x00000016",
+      "text": "Lock Camera on Target<tab>CAMERA_FOCUS"
+    },
+    {
+      "id": "0x00000017",
+      "text": "Flight/Diving - Descend<tab>MOVE_DESCENT"
+    },
+    {
+      "id": "0x00000018",
+      "text": "Flight/Diving - Ascend<tab>MOVE_RETENTION"
+    },
+    {
+      "id": "0x00000019",
+      "text": "Flight/Diving - Angular Ascent<tab>MOVE_ANGLE_RISING"
+    },
+    {
+      "id": "0x0000001A",
+      "text": "Flight/Diving - Angular Descent<tab>MOVE_ANGLE_DESCENT"
+    },
+    {
+      "id": "0x00000033",
+      "text": "Point Camera Up<tab>CAMERA_UP"
+    },
+    {
+      "id": "0x00000034",
+      "text": "Point Camera Down<tab>CAMERA_DOWN"
+    },
+    {
+      "id": "0x00000035",
+      "text": "Point Camera to the Left<tab>CAMERA_LEFT"
+    },
+    {
+      "id": "0x00000036",
+      "text": "Point Camera to the Right<tab>CAMERA_RIGHT"
+    },
+    {
+      "id": "0x00000037",
+      "text": "Toggle between 1st/3rd Person Mode<tab>CAMERA_MODE"
+    },
+    {
+      "id": "0x00000038",
+      "text": "Flip Camera<tab>CAMERA_BACKWARD"
+    },
+    {
+      "id": "0x00000039",
+      "text": "Zoom Camera In / Previous Page<tab>CAMERA_ZOOMIN"
+    },
+    {
+      "id": "0x0000003A",
+      "text": "Zoom Camera Out / Next Page<tab>CAMERA_ZOOMOUT"
+    },
+    {
+      "id": "0x0000003B",
+      "text": "Return Camera to Saved Position<tab>CAMERA_LOAD"
+    },
+    {
+      "id": "0x0000003C",
+      "text": "Save Current Camera Position<tab>CAMERA_SAVE"
+    },
+    {
+      "id": "0x0000003D",
+      "text": "Return Camera to Default Position<tab>CAMERA_RESET"
+    },
+    {
+      "id": "0x0000003E",
+      "text": "Tilt Camera Up<tab>CAM_TILT_UP"
+    },
+    {
+      "id": "0x0000003F",
+      "text": "Tilt Camera Down<tab>CAM_TILT_DOWN"
+    },
+    {
+      "id": "0x00000040",
+      "text": "Face Camera<tab>CAMERA_LOOKING"
+    },
+    {
+      "id": "0x00000041",
+      "text": "Group Pose<tab>GROUP_POSE"
+    },
+    {
+      "id": "0x00000042",
+      "text": "Switch to Idling Camera<tab>IDLING_CAMERA"
+    },
+    {
+      "id": "0x00000067",
+      "text": "Cycle through Enemies (Nearest to Farthest)<tab>TARGET_NEXT"
+    },
+    {
+      "id": "0x00000068",
+      "text": "Cycle through Enemies (Farthest to Nearest)<tab>TARGET_PREV"
+    },
+    {
+      "id": "0x00000069",
+      "text": "Target Member 1 in Party List<tab>TARGET_P1"
+    },
+    {
+      "id": "0x0000006A",
+      "text": "Target Member 2 in Party List<tab>TARGET_P2"
+    },
+    {
+      "id": "0x0000006B",
+      "text": "Target Member 3 in Party List<tab>TARGET_P3"
+    },
+    {
+      "id": "0x0000006C",
+      "text": "Target Member 4 in Party List<tab>TARGET_P4"
+    },
+    {
+      "id": "0x0000006D",
+      "text": "Target Member 5 in Party List<tab>TARGET_P5"
+    },
+    {
+      "id": "0x0000006E",
+      "text": "Target Member 6 in Party List<tab>TARGET_P6"
+    },
+    {
+      "id": "0x0000006F",
+      "text": "Target Member 7 in Party List<tab>TARGET_P7"
+    },
+    {
+      "id": "0x00000070",
+      "text": "Target Member 8 in Party List<tab>TARGET_P8"
+    },
+    {
+      "id": "0x00000071",
+      "text": "Target Pet/Familiar<tab>TARGET_PET"
+    },
+    {
+      "id": "0x00000072",
+      "text": "Target the Target of Your Current Target (Assist Target)<tab>TARGET_TTOT"
+    },
+    {
+      "id": "0x00000073",
+      "text": "Target Last Target<tab>TARGET_LASTTARGET"
+    },
+    {
+      "id": "0x00000074",
+      "text": "Target Last Enemy<tab>TARGET_LASTENEMY"
+    },
+    {
+      "id": "0x00000075",
+      "text": "Target Enemy Attacking You<tab>TARGET_LASTATTACKER"
+    },
+    {
+      "id": "0x00000076",
+      "text": "Target Nearest Enemy<tab>TARGET_CLOSEST_ENEMY"
+    },
+    {
+      "id": "0x00000077",
+      "text": "Target Nearest PC<tab>TARGET_CLOSEST_PC"
+    },
+    {
+      "id": "0x00000078",
+      "text": "Target Nearest NPC or Object<tab>TARGET_CLOSEST_NPC"
+    },
+    {
+      "id": "0x00000079",
+      "text": "Set Focus Target<tab>TARGET_FOCUS"
+    },
+    {
+      "id": "0x0000007A",
+      "text": "Target Current Focus Target<tab>TARGET_SELECT"
+    },
+    {
+      "id": "0x0000007B",
+      "text": "Face Target<tab>FACE"
+    },
+    {
+      "id": "0x0000007C",
+      "text": "Set Targeting Mode to All<tab>CIRCLE_ALL"
+    },
+    {
+      "id": "0x0000007D",
+      "text": "Set Targeting Mode to PC Only<tab>CIRCLE_ENEMY"
+    },
+    {
+      "id": "0x0000007E",
+      "text": "Set Targeting Mode to Party Only<tab>CIRCLE_PARTY"
+    },
+    {
+      "id": "0x0000007F",
+      "text": "Set Targeting Mode to Enemy Only<tab>CIRCLE_PC"
+    },
+    {
+      "id": "0x00000088",
+      "text": "Cycle Up through Enmity List<tab>TARGET_ENEMY_LIST_UP_KEY"
+    },
+    {
+      "id": "0x00000089",
+      "text": "Cycle Down through Enmity List<tab>TARGET_ENEMY_LIST_DOWN_KEY"
+    },
+    {
+      "id": "0x0000008A",
+      "text": "Cycle through Alliance List (Nearest to Farthest)<tab>TARGET_ALLIANCE_NEXT_KEY"
+    },
+    {
+      "id": "0x0000008B",
+      "text": "Cycle through Alliance List (Farthest to Nearest)<tab>TARGET_ALLIANCE_PREV_KEY"
+    },
+    {
+      "id": "0x0000008C",
+      "text": "Cycle through Alliance List 1 (Nearest to Farthest)<tab>TARGET_ALLIANCE1_NEXT"
+    },
+    {
+      "id": "0x0000008D",
+      "text": "Cycle through Alliance List 1 (Farthest to Nearest)<tab>TARGET_ALLIANCE1_PREV"
+    },
+    {
+      "id": "0x0000008E",
+      "text": "Cycle through Alliance List 2 (Nearest to Farthest)<tab>TARGET_ALLIANCE2_NEXT"
+    },
+    {
+      "id": "0x0000008F",
+      "text": "Cycle through Alliance List 2 (Farthest to Nearest)<tab>TARGET_ALLIANCE2_PREV"
+    },
+    {
+      "id": "0x00000090",
+      "text": "Target Alliance 1, Member 1<tab>TARGET_ALLIANCE1_1"
+    },
+    {
+      "id": "0x00000091",
+      "text": "Target Alliance 1, Member 2<tab>TARGET_ALLIANCE1_2"
+    },
+    {
+      "id": "0x00000092",
+      "text": "Target Alliance 1, Member 3<tab>TARGET_ALLIANCE1_3"
+    },
+    {
+      "id": "0x00000093",
+      "text": "Target Alliance 1, Member 4<tab>TARGET_ALLIANCE1_4"
+    },
+    {
+      "id": "0x00000094",
+      "text": "Target Alliance 1, Member 5<tab>TARGET_ALLIANCE1_5"
+    },
+    {
+      "id": "0x00000095",
+      "text": "Target Alliance 1, Member 6<tab>TARGET_ALLIANCE1_6"
+    },
+    {
+      "id": "0x00000096",
+      "text": "Target Alliance 1, Member 7<tab>TARGET_ALLIANCE1_7"
+    },
+    {
+      "id": "0x00000097",
+      "text": "Target Alliance 1, Member 8<tab>TARGET_ALLIANCE1_8"
+    },
+    {
+      "id": "0x00000098",
+      "text": "Target Alliance 2, Member 1<tab>TARGET_ALLIANCE2_1"
+    },
+    {
+      "id": "0x00000099",
+      "text": "Target Alliance 2, Member 2<tab>TARGET_ALLIANCE2_2"
+    },
+    {
+      "id": "0x0000009A",
+      "text": "Target Alliance 2, Member 3<tab>TARGET_ALLIANCE2_3"
+    },
+    {
+      "id": "0x0000009B",
+      "text": "Target Alliance 2, Member 4<tab>TARGET_ALLIANCE2_4"
+    },
+    {
+      "id": "0x0000009C",
+      "text": "Target Alliance 2, Member 5<tab>TARGET_ALLIANCE2_5"
+    },
+    {
+      "id": "0x0000009D",
+      "text": "Target Alliance 2, Member 6<tab>TARGET_ALLIANCE2_6"
+    },
+    {
+      "id": "0x0000009E",
+      "text": "Target Alliance 2, Member 7<tab>TARGET_ALLIANCE2_7"
+    },
+    {
+      "id": "0x0000009F",
+      "text": "Target Alliance 2, Member 8<tab>TARGET_ALLIANCE2_8"
+    },
+    {
+      "id": "0x000000A0",
+      "text": "Target Own Companion<tab>BUDDY_TARGET"
+    },
+    {
+      "id": "0x000000A1",
+      "text": "Crystalline Conflict: Target Enemy Party, Member 1<tab>TARGET_PVP_OPP_P1"
+    },
+    {
+      "id": "0x000000A2",
+      "text": "Crystalline Conflict: Target Enemy Party, Member 2<tab>TARGET_PVP_OPP_P2"
+    },
+    {
+      "id": "0x000000A3",
+      "text": "Crystalline Conflict: Target Enemy Party, Member 3<tab>TARGET_PVP_OPP_P3"
+    },
+    {
+      "id": "0x000000A4",
+      "text": "Crystalline Conflict: Target Enemy Party, Member 4<tab>TARGET_PVP_OPP_P4"
+    },
+    {
+      "id": "0x000000A5",
+      "text": "Crystalline Conflict: Target Enemy Party, Member 5<tab>TARGET_PVP_OPP_P5"
+    },
+    {
+      "id": "0x000000AB",
+      "text": "Ready Chat Log<tab>CMD_CHAT"
+    },
+    {
+      "id": "0x000000AC",
+      "text": "Ready Text Command<tab>CMD_COMMAND"
+    },
+    {
+      "id": "0x000000AD",
+      "text": "Reply Temporarily (Forward)<tab>CMD_REPLY"
+    },
+    {
+      "id": "0x000000AE",
+      "text": "Reply Temporarily (Back)<tab>CMD_REPLY_REV"
+    },
+    {
+      "id": "0x000000AF",
+      "text": "Temporarily Switch Chat Mode to Say<tab>CMD_SAY"
+    },
+    {
+      "id": "0x000000B0",
+      "text": "Temporarily Switch Chat Mode to Yell<tab>CMD_YELL"
+    },
+    {
+      "id": "0x000000B1",
+      "text": "Temporarily Switch Chat Mode to Shout<tab>CMD_SHOUT"
+    },
+    {
+      "id": "0x000000B2",
+      "text": "Temporarily Switch Chat Mode to Party<tab>CMD_PARTY"
+    },
+    {
+      "id": "0x000000B3",
+      "text": "Temporarily Switch Chat Mode to Alliance<tab>CMD_ALLIANCE"
+    },
+    {
+      "id": "0x000000B4",
+      "text": "Temporarily Switch Chat Mode to Free Company<tab>CMD_FREECOM"
+    },
+    {
+      "id": "0x000000B5",
+      "text": "Temporarily Switch Chat Mode to Next Linkshell<tab>CMD_LINKSHELL"
+    },
+    {
+      "id": "0x000000B6",
+      "text": "Temporarily Switch Chat Mode to Previous Linkshell<tab>CMD_LINKSHELL_REV"
+    },
+    {
+      "id": "0x000000B7",
+      "text": "Temporarily Switch Chat Mode to Linkshell [1]<tab>CMD_LINKSHELL_1"
+    },
+    {
+      "id": "0x000000B8",
+      "text": "Temporarily Switch Chat Mode to Linkshell [2]<tab>CMD_LINKSHELL_2"
+    },
+    {
+      "id": "0x000000B9",
+      "text": "Temporarily Switch Chat Mode to Linkshell [3]<tab>CMD_LINKSHELL_3"
+    },
+    {
+      "id": "0x000000BA",
+      "text": "Temporarily Switch Chat Mode to Linkshell [4]<tab>CMD_LINKSHELL_4"
+    },
+    {
+      "id": "0x000000BB",
+      "text": "Temporarily Switch Chat Mode to Linkshell [5]<tab>CMD_LINKSHELL_5"
+    },
+    {
+      "id": "0x000000BC",
+      "text": "Temporarily Switch Chat Mode to Linkshell [6]<tab>CMD_LINKSHELL_6"
+    },
+    {
+      "id": "0x000000BD",
+      "text": "Temporarily Switch Chat Mode to Linkshell [7]<tab>CMD_LINKSHELL_7"
+    },
+    {
+      "id": "0x000000BE",
+      "text": "Temporarily Switch Chat Mode to Linkshell [8]<tab>CMD_LINKSHELL_8"
+    },
+    {
+      "id": "0x000000BF",
+      "text": "Reply (Forward)<tab>CMD_REPLY_ALWAYS"
+    },
+    {
+      "id": "0x000000C0",
+      "text": "Reply (Back)<tab>CMD_REPLY_REV_ALWAYS"
+    },
+    {
+      "id": "0x000000C1",
+      "text": "Switch Chat Mode to Say<tab>CMD_SAY_ALWAYS"
+    },
+    {
+      "id": "0x000000C2",
+      "text": "Switch Chat Mode to Yell<tab>CMD_YELL_ALWAYS"
+    },
+    {
+      "id": "0x000000C4",
+      "text": "Switch Chat Mode to Party<tab>CMD_PARTY_ALWAYS"
+    },
+    {
+      "id": "0x000000C5",
+      "text": "Switch Chat Mode to Alliance<tab>CMD_ALLIANCE_ALWAYS"
+    },
+    {
+      "id": "0x000000C6",
+      "text": "Switch Chat Mode to Free Company<tab>CMD_FREECOM_ALWAYS"
+    },
+    {
+      "id": "0x000000C7",
+      "text": "Switch Chat Mode to Linkshell (Forward)<tab>CMD_LINKSHELL_ALWAYS"
+    },
+    {
+      "id": "0x000000C8",
+      "text": "Switch Chat Mode to Linkshell (Back)<tab>CMD_LINKSHELL_REV_ALWAYS"
+    },
+    {
+      "id": "0x000000C9",
+      "text": "Switch Chat Mode to Linkshell [1]<tab>CMD_LINKSHELL_1_ALWAYS"
+    },
+    {
+      "id": "0x000000CA",
+      "text": "Switch Chat Mode to Linkshell [2]<tab>CMD_LINKSHELL_2_ALWAYS"
+    },
+    {
+      "id": "0x000000CB",
+      "text": "Switch Chat Mode to Linkshell [3]<tab>CMD_LINKSHELL_3_ALWAYS"
+    },
+    {
+      "id": "0x000000CC",
+      "text": "Switch Chat Mode to Linkshell [4]<tab>CMD_LINKSHELL_4_ALWAYS"
+    },
+    {
+      "id": "0x000000CD",
+      "text": "Switch Chat Mode to Linkshell [5]<tab>CMD_LINKSHELL_5_ALWAYS"
+    },
+    {
+      "id": "0x000000CE",
+      "text": "Switch Chat Mode to Linkshell [6]<tab>CMD_LINKSHELL_6_ALWAYS"
+    },
+    {
+      "id": "0x000000CF",
+      "text": "Switch Chat Mode to Linkshell [7]<tab>CMD_LINKSHELL_7_ALWAYS"
+    },
+    {
+      "id": "0x000000D0",
+      "text": "Switch Chat Mode to Linkshell [8]<tab>CMD_LINKSHELL_8_ALWAYS"
+    },
+    {
+      "id": "0x000000D3",
+      "text": "Confirm<tab>OK"
+    },
+    {
+      "id": "0x000000D4",
+      "text": "Cancel<tab>CANCEL"
+    },
+    {
+      "id": "0x000000D5",
+      "text": "Close UI Component/Open System Menu<tab>ESC"
+    },
+    {
+      "id": "0x000000D6",
+      "text": "Target Main Menu<tab>PAD_MAINMENUFOCUS"
+    },
+    {
+      "id": "0x000000D7",
+      "text": "Display Subcommands<tab>MENU"
+    },
+    {
+      "id": "0x000000D8",
+      "text": "Move Cursor up/Cycle up through Party List<tab>UP"
+    },
+    {
+      "id": "0x000000D9",
+      "text": "Move Cursor down/Cycle down through Party List<tab>DOWN"
+    },
+    {
+      "id": "0x000000DA",
+      "text": "Move Cursor/Target Cursor Left<tab>LEFT"
+    },
+    {
+      "id": "0x000000DB",
+      "text": "Move Cursor/Target Cursor Right<tab>RIGHT"
+    },
+    {
+      "id": "0x000000DC",
+      "text": "Cycle through UI Component Tabs (Forward)<tab>TAB_NEXT"
+    },
+    {
+      "id": "0x000000DD",
+      "text": "Cycle through UI Component Tabs (Back)<tab>TAB_PREV"
+    },
+    {
+      "id": "0x000000DE",
+      "text": "Cycle through Hotbars (Up)<tab>HOTBAR_UP"
+    },
+    {
+      "id": "0x000000DF",
+      "text": "Cycle through Hotbars (Down)<tab>HOTBAR_DOWN"
+    },
+    {
+      "id": "0x000000E0",
+      "text": "Take Screenshot<tab>KEY_SCREENSHOT"
+    },
+    {
+      "id": "0x000000E1",
+      "text": "Toggle UI Display Mode<tab>HIDE"
+    },
+    {
+      "id": "0x000000E2",
+      "text": "Open HUD Layout Mode<tab>MENU_LAYOUT"
+    },
+    {
+      "id": "0x000000E3",
+      "text": "Cycle through HUD Components (Forward)<tab>PAD_HUDFOCUS"
+    },
+    {
+      "id": "0x000000E4",
+      "text": "Cycle through HUD Components (Back)<tab>PAD_HUDFOCUS_PREV"
+    },
+    {
+      "id": "0x000000E5",
+      "text": "Target Filters<tab>TARGET_CLICK_FILTER"
+    },
+    {
+      "id": "0x000000E6",
+      "text": "Change Window Size<tab>MENU_SCALE"
+    },
+    {
+      "id": "0x000000E7",
+      "text": "Switch to Hotbar 1<tab>HOTBAR_SET_1"
+    },
+    {
+      "id": "0x000000E8",
+      "text": "Switch to Hotbar 2<tab>HOTBAR_SET_2"
+    },
+    {
+      "id": "0x000000E9",
+      "text": "Switch to Hotbar 3<tab>HOTBAR_SET_3"
+    },
+    {
+      "id": "0x000000EA",
+      "text": "Switch to Hotbar 4<tab>HOTBAR_SET_4"
+    },
+    {
+      "id": "0x000000EB",
+      "text": "Switch to Hotbar 5<tab>HOTBAR_SET_5"
+    },
+    {
+      "id": "0x000000EC",
+      "text": "Switch to Hotbar 6<tab>HOTBAR_SET_6"
+    },
+    {
+      "id": "0x000000ED",
+      "text": "Switch to Hotbar 7<tab>HOTBAR_SET_7"
+    },
+    {
+      "id": "0x000000EE",
+      "text": "Switch to Hotbar 8<tab>HOTBAR_SET_8"
+    },
+    {
+      "id": "0x000000EF",
+      "text": "Switch to Hotbar 9<tab>HOTBAR_SET_9"
+    },
+    {
+      "id": "0x000000F0",
+      "text": "Switch to Hotbar 10<tab>HOTBAR_SET_10"
+    },
+    {
+      "id": "0x000000F1",
+      "text": "Cancel Macro<tab>MACRO_FORCED_OUTAGE"
+    },
+    {
+      "id": "0x000000F2",
+      "text": "Switch to Pet Hotbar<tab>HOTBAR_SET_EX"
+    },
+    {
+      "id": "0x000000F3",
+      "text": "Mouse Sonar<tab>MOUSE_CURSOR_SONAR"
+    },
+    {
+      "id": "0x000000F4",
+      "text": "Mute Master Volume<tab>MASTER_VOLUME_MUTE"
+    },
+    {
+      "id": "0x000000F5",
+      "text": "General Duty Key<tab>MENU_CONTENTS_GENERAL"
+    },
+    {
+      "id": "0x000000F6",
+      "text": "Switch to HUD Layout 1<tab>HUDLAYOUT_SET1"
+    },
+    {
+      "id": "0x000000F7",
+      "text": "Switch to HUD Layout 2<tab>HUDLAYOUT_SET2"
+    },
+    {
+      "id": "0x000000F8",
+      "text": "Switch to HUD Layout 3<tab>HUDLAYOUT_SET3"
+    },
+    {
+      "id": "0x000000F9",
+      "text": "Switch to HUD Layout 4<tab>HUDLAYOUT_SET4"
+    },
+    {
+      "id": "0x000000FB",
+      "text": "Character<tab>MENU_STATUS"
+    },
+    {
+      "id": "0x000000FC",
+      "text": "Inventory<tab>MENU_BAG"
+    },
+    {
+      "id": "0x000000FD",
+      "text": "Armoury Chest<tab>MENU_ARMORY"
+    },
+    {
+      "id": "0x000000FE",
+      "text": "Key Items<tab>MENU_EVENT_BAG"
+    },
+    {
+      "id": "0x000000FF",
+      "text": "Maps<tab>MENU_MAP"
+    },
+    {
+      "id": "0x00000100",
+      "text": "Actions & Traits<tab>MENU_ACTION"
+    },
+    {
+      "id": "0x00000101",
+      "text": "Emotes<tab>MENU_EMOTE"
+    },
+    {
+      "id": "0x00000102",
+      "text": "Mount Guide<tab>MENU_MOUNT_NOTEBOOK"
+    },
+    {
+      "id": "0x00000103",
+      "text": "Minion Guide<tab>MENU_MINION_NOTEBOOK"
+    },
+    {
+      "id": "0x00000104",
+      "text": "PvP Profile<tab>MENU_PVP_PROFILE"
+    },
+    {
+      "id": "0x00000105",
+      "text": "Social<tab>MENU_SOCIAL"
+    },
+    {
+      "id": "0x00000106",
+      "text": "Party Members<tab>MENU_PARTY_MEMBER"
+    },
+    {
+      "id": "0x00000107",
+      "text": "Friend List<tab>MENU_FRIEND_LIST"
+    },
+    {
+      "id": "0x00000108",
+      "text": "Blacklist<tab>MENU_BLACK_LIST"
+    },
+    {
+      "id": "0x00000109",
+      "text": "Player Search<tab>MENU_PC_SEARCH"
+    },
+    {
+      "id": "0x0000010A",
+      "text": "Party Finder<tab>MENU_LFG"
+    },
+    {
+      "id": "0x0000010B",
+      "text": "Ready Check<tab>MENU_READY_CHECK"
+    },
+    {
+      "id": "0x0000010C",
+      "text": "Free Company<tab>MENU_FREECOM"
+    },
+    {
+      "id": "0x0000010D",
+      "text": "Housing<tab>MENU_HOUSING"
+    },
+    {
+      "id": "0x0000010E",
+      "text": "Linkshells<tab>MENU_LINKSHELL"
+    },
+    {
+      "id": "0x0000010F",
+      "text": "Duty Finder<tab>MENU_CONTENT"
+    },
+    {
+      "id": "0x00000110",
+      "text": "Timers<tab>MENU_CONTENT_INFO"
+    },
+    {
+      "id": "0x00000111",
+      "text": "Journal<tab>MENU_JOURNAL"
+    },
+    {
+      "id": "0x00000112",
+      "text": "Crafting Log<tab>MENU_CRAFT"
+    },
+    {
+      "id": "0x00000113",
+      "text": "Gathering Log<tab>MENU_GATHER"
+    },
+    {
+      "id": "0x00000114",
+      "text": "Hunting Log<tab>MENU_MONSTER"
+    },
+    {
+      "id": "0x00000115",
+      "text": "Fishing Log<tab>MENU_FISH"
+    },
+    {
+      "id": "0x00000116",
+      "text": "Fish Guide<tab>MENU_FISH_GUIDE"
+    },
+    {
+      "id": "0x00000117",
+      "text": "Challenge Log<tab>MENU_CONTENTS_NOTEBOOK"
+    },
+    {
+      "id": "0x00000118",
+      "text": "Sightseeing Log<tab>MENU_ADVENTURE_NOTEBOOK"
+    },
+    {
+      "id": "0x00000119",
+      "text": "Signs<tab>MENU_MARK"
+    },
+    {
+      "id": "0x0000011A",
+      "text": "Waymarks<tab>MENU_FIELD_MARK"
+    },
+    {
+      "id": "0x0000011B",
+      "text": "Companions<tab>MENU_BUDDY"
+    },
+    {
+      "id": "0x0000011C",
+      "text": "Return<tab>MENU_RETURN"
+    },
+    {
+      "id": "0x0000011D",
+      "text": "Teleport<tab>MENU_TELEPO"
+    },
+    {
+      "id": "0x0000011E",
+      "text": "Achievements<tab>MENU_ACHIVE"
+    },
+    {
+      "id": "0x0000011F",
+      "text": "System Menu<tab>MENU_SYSTEM"
+    },
+    {
+      "id": "0x00000120",
+      "text": "Active Help<tab>MENU_HOWTO"
+    },
+    {
+      "id": "0x00000121",
+      "text": "Recommendations<tab>MENU_RECOMMEND_LIST"
+    },
+    {
+      "id": "0x00000122",
+      "text": "User Macros<tab>MENU_MACRO"
+    },
+    {
+      "id": "0x00000123",
+      "text": "Support Desk<tab>MENU_SUPPORT"
+    },
+    {
+      "id": "0x00000124",
+      "text": "Character Configuration<tab>MENU_CONFIG"
+    },
+    {
+      "id": "0x00000125",
+      "text": "System Configuration<tab>MENU_SYSCONFIG"
+    },
+    {
+      "id": "0x00000126",
+      "text": "Log Colors<tab>MENU_LOGCOLOR"
+    },
+    {
+      "id": "0x00000127",
+      "text": "Button Configuration<tab>MENU_PADCUSTOMIZE"
+    },
+    {
+      "id": "0x00000128",
+      "text": "Gold Saucer<tab>MENU_GOLD_SAUCER"
+    },
+    {
+      "id": "0x00000129",
+      "text": "Aether Currents<tab>MENU_AETHER_CURRENT"
+    },
+    {
+      "id": "0x0000012A",
+      "text": "Currency<tab>MENU_CURRENCY"
+    },
+    {
+      "id": "0x0000012B",
+      "text": "Gear Sets<tab>MENU_GEAR_SET"
+    },
+    {
+      "id": "0x0000012D",
+      "text": "Hotbar 1 - Slot 1<tab>HOTBAR_1_1"
+    },
+    {
+      "id": "0x0000012E",
+      "text": "Hotbar 1 - Slot 2<tab>HOTBAR_1_2"
+    },
+    {
+      "id": "0x0000012F",
+      "text": "Hotbar 1 - Slot 3<tab>HOTBAR_1_3"
+    },
+    {
+      "id": "0x00000130",
+      "text": "Hotbar 1 - Slot 4<tab>HOTBAR_1_4"
+    },
+    {
+      "id": "0x00000131",
+      "text": "Hotbar 1 - Slot 5<tab>HOTBAR_1_5"
+    },
+    {
+      "id": "0x00000132",
+      "text": "Hotbar 1 - Slot 6<tab>HOTBAR_1_6"
+    },
+    {
+      "id": "0x00000133",
+      "text": "Hotbar 1 - Slot 7<tab>HOTBAR_1_7"
+    },
+    {
+      "id": "0x00000134",
+      "text": "Hotbar 1 - Slot 8<tab>HOTBAR_1_8"
+    },
+    {
+      "id": "0x00000135",
+      "text": "Hotbar 1 - Slot 9<tab>HOTBAR_1_9"
+    },
+    {
+      "id": "0x00000136",
+      "text": "Hotbar 1 - Slot 10<tab>HOTBAR_1_0"
+    },
+    {
+      "id": "0x00000137",
+      "text": "Hotbar 1 - Slot 11<tab>HOTBAR_1_A"
+    },
+    {
+      "id": "0x00000138",
+      "text": "Hotbar 1 - Slot 12<tab>HOTBAR_1_B"
+    },
+    {
+      "id": "0x00000139",
+      "text": "Hotbar 2 - Slot 1<tab>HOTBAR_2_1"
+    },
+    {
+      "id": "0x0000013A",
+      "text": "Hotbar 2 - Slot 2<tab>HOTBAR_2_2"
+    },
+    {
+      "id": "0x0000013B",
+      "text": "Hotbar 2 - Slot 3<tab>HOTBAR_2_3"
+    },
+    {
+      "id": "0x0000013C",
+      "text": "Hotbar 2 - Slot 4<tab>HOTBAR_2_4"
+    },
+    {
+      "id": "0x0000013D",
+      "text": "Hotbar 2 - Slot 5<tab>HOTBAR_2_5"
+    },
+    {
+      "id": "0x0000013E",
+      "text": "Hotbar 2 - Slot 6<tab>HOTBAR_2_6"
+    },
+    {
+      "id": "0x0000013F",
+      "text": "Hotbar 2 - Slot 7<tab>HOTBAR_2_7"
+    },
+    {
+      "id": "0x00000140",
+      "text": "Hotbar 2 - Slot 8<tab>HOTBAR_2_8"
+    },
+    {
+      "id": "0x00000141",
+      "text": "Hotbar 2 - Slot 9<tab>HOTBAR_2_9"
+    },
+    {
+      "id": "0x00000142",
+      "text": "Hotbar 2 - Slot 10<tab>HOTBAR_2_0"
+    },
+    {
+      "id": "0x00000143",
+      "text": "Hotbar 2 - Slot 11<tab>HOTBAR_2_A"
+    },
+    {
+      "id": "0x00000144",
+      "text": "Hotbar 2 - Slot 12<tab>HOTBAR_2_B"
+    },
+    {
+      "id": "0x00000145",
+      "text": "Hotbar 3 - Slot 1<tab>HOTBAR_3_1"
+    },
+    {
+      "id": "0x00000146",
+      "text": "Hotbar 3 - Slot 2<tab>HOTBAR_3_2"
+    },
+    {
+      "id": "0x00000147",
+      "text": "Hotbar 3 - Slot 3<tab>HOTBAR_3_3"
+    },
+    {
+      "id": "0x00000148",
+      "text": "Hotbar 3 - Slot 4<tab>HOTBAR_3_4"
+    },
+    {
+      "id": "0x00000149",
+      "text": "Hotbar 3 - Slot 5<tab>HOTBAR_3_5"
+    },
+    {
+      "id": "0x0000014A",
+      "text": "Hotbar 3 - Slot 6<tab>HOTBAR_3_6"
+    },
+    {
+      "id": "0x0000014B",
+      "text": "Hotbar 3 - Slot 7<tab>HOTBAR_3_7"
+    },
+    {
+      "id": "0x0000014C",
+      "text": "Hotbar 3 - Slot 8<tab>HOTBAR_3_8"
+    },
+    {
+      "id": "0x0000014D",
+      "text": "Hotbar 3 - Slot 9<tab>HOTBAR_3_9"
+    },
+    {
+      "id": "0x0000014E",
+      "text": "Hotbar 3 - Slot 10<tab>HOTBAR_3_0"
+    },
+    {
+      "id": "0x0000014F",
+      "text": "Hotbar 3 - Slot 11<tab>HOTBAR_3_A"
+    },
+    {
+      "id": "0x00000150",
+      "text": "Hotbar 3 - Slot 12<tab>HOTBAR_3_B"
+    },
+    {
+      "id": "0x00000151",
+      "text": "Hotbar 4 - Slot 1<tab>HOTBAR_4_1"
+    },
+    {
+      "id": "0x00000152",
+      "text": "Hotbar 4 - Slot 2<tab>HOTBAR_4_2"
+    },
+    {
+      "id": "0x00000153",
+      "text": "Hotbar 4 - Slot 3<tab>HOTBAR_4_3"
+    },
+    {
+      "id": "0x00000154",
+      "text": "Hotbar 4 - Slot 4<tab>HOTBAR_4_4"
+    },
+    {
+      "id": "0x00000155",
+      "text": "Hotbar 4 - Slot 5<tab>HOTBAR_4_5"
+    },
+    {
+      "id": "0x00000156",
+      "text": "Hotbar 4 - Slot 6<tab>HOTBAR_4_6"
+    },
+    {
+      "id": "0x00000157",
+      "text": "Hotbar 4 - Slot 7<tab>HOTBAR_4_7"
+    },
+    {
+      "id": "0x00000158",
+      "text": "Hotbar 4 - Slot 8<tab>HOTBAR_4_8"
+    },
+    {
+      "id": "0x00000159",
+      "text": "Hotbar 4 - Slot 9<tab>HOTBAR_4_9"
+    },
+    {
+      "id": "0x0000015A",
+      "text": "Hotbar 4 - Slot 10<tab>HOTBAR_4_0"
+    },
+    {
+      "id": "0x0000015B",
+      "text": "Hotbar 4 - Slot 11<tab>HOTBAR_4_A"
+    },
+    {
+      "id": "0x0000015C",
+      "text": "Hotbar 4 - Slot 12<tab>HOTBAR_4_B"
+    },
+    {
+      "id": "0x0000015D",
+      "text": "Hotbar 5 - Slot 1<tab>HOTBAR_5_1"
+    },
+    {
+      "id": "0x0000015E",
+      "text": "Hotbar 5 - Slot 2<tab>HOTBAR_5_2"
+    },
+    {
+      "id": "0x0000015F",
+      "text": "Hotbar 5 - Slot 3<tab>HOTBAR_5_3"
+    },
+    {
+      "id": "0x00000160",
+      "text": "Hotbar 5 - Slot 4<tab>HOTBAR_5_4"
+    },
+    {
+      "id": "0x00000161",
+      "text": "Hotbar 5 - Slot 5<tab>HOTBAR_5_5"
+    },
+    {
+      "id": "0x00000162",
+      "text": "Hotbar 5 - Slot 6<tab>HOTBAR_5_6"
+    },
+    {
+      "id": "0x00000163",
+      "text": "Hotbar 5 - Slot 7<tab>HOTBAR_5_7"
+    },
+    {
+      "id": "0x00000164",
+      "text": "Hotbar 5 - Slot 8<tab>HOTBAR_5_8"
+    },
+    {
+      "id": "0x00000165",
+      "text": "Hotbar 5 - Slot 9<tab>HOTBAR_5_9"
+    },
+    {
+      "id": "0x00000166",
+      "text": "Hotbar 5 - Slot 10<tab>HOTBAR_5_0"
+    },
+    {
+      "id": "0x00000167",
+      "text": "Hotbar 5 - Slot 11<tab>HOTBAR_5_A"
+    },
+    {
+      "id": "0x00000168",
+      "text": "Hotbar 5 - Slot 12<tab>HOTBAR_5_B"
+    },
+    {
+      "id": "0x00000169",
+      "text": "Hotbar 6 - Slot 1<tab>HOTBAR_6_1"
+    },
+    {
+      "id": "0x0000016A",
+      "text": "Hotbar 6 - Slot 2<tab>HOTBAR_6_2"
+    },
+    {
+      "id": "0x0000016B",
+      "text": "Hotbar 6 - Slot 3<tab>HOTBAR_6_3"
+    },
+    {
+      "id": "0x0000016C",
+      "text": "Hotbar 6 - Slot 4<tab>HOTBAR_6_4"
+    },
+    {
+      "id": "0x0000016D",
+      "text": "Hotbar 6 - Slot 5<tab>HOTBAR_6_5"
+    },
+    {
+      "id": "0x0000016E",
+      "text": "Hotbar 6 - Slot 6<tab>HOTBAR_6_6"
+    },
+    {
+      "id": "0x0000016F",
+      "text": "Hotbar 6 - Slot 7<tab>HOTBAR_6_7"
+    },
+    {
+      "id": "0x00000170",
+      "text": "Hotbar 6 - Slot 8<tab>HOTBAR_6_8"
+    },
+    {
+      "id": "0x00000171",
+      "text": "Hotbar 6 - Slot 9<tab>HOTBAR_6_9"
+    },
+    {
+      "id": "0x00000172",
+      "text": "Hotbar 6 - Slot 10<tab>HOTBAR_6_0"
+    },
+    {
+      "id": "0x00000173",
+      "text": "Hotbar 6 - Slot 11<tab>HOTBAR_6_A"
+    },
+    {
+      "id": "0x00000174",
+      "text": "Hotbar 6 - Slot 12<tab>HOTBAR_6_B"
+    },
+    {
+      "id": "0x00000175",
+      "text": "Hotbar 7 - Slot 1<tab>HOTBAR_7_1"
+    },
+    {
+      "id": "0x00000176",
+      "text": "Hotbar 7 - Slot 2<tab>HOTBAR_7_2"
+    },
+    {
+      "id": "0x00000177",
+      "text": "Hotbar 7 - Slot 3<tab>HOTBAR_7_3"
+    },
+    {
+      "id": "0x00000178",
+      "text": "Hotbar 7 - Slot 4<tab>HOTBAR_7_4"
+    },
+    {
+      "id": "0x00000179",
+      "text": "Hotbar 7 - Slot 5<tab>HOTBAR_7_5"
+    },
+    {
+      "id": "0x0000017A",
+      "text": "Hotbar 7 - Slot 6<tab>HOTBAR_7_6"
+    },
+    {
+      "id": "0x0000017B",
+      "text": "Hotbar 7 - Slot 7<tab>HOTBAR_7_7"
+    },
+    {
+      "id": "0x0000017C",
+      "text": "Hotbar 7 - Slot 8<tab>HOTBAR_7_8"
+    },
+    {
+      "id": "0x0000017D",
+      "text": "Hotbar 7 - Slot 9<tab>HOTBAR_7_9"
+    },
+    {
+      "id": "0x0000017E",
+      "text": "Hotbar 7 - Slot 10<tab>HOTBAR_7_0"
+    },
+    {
+      "id": "0x0000017F",
+      "text": "Hotbar 7 - Slot 11<tab>HOTBAR_7_A"
+    },
+    {
+      "id": "0x00000180",
+      "text": "Hotbar 7 - Slot 12<tab>HOTBAR_7_B"
+    },
+    {
+      "id": "0x00000181",
+      "text": "Hotbar 8 - Slot 1<tab>HOTBAR_8_1"
+    },
+    {
+      "id": "0x00000182",
+      "text": "Hotbar 8 - Slot 2<tab>HOTBAR_8_2"
+    },
+    {
+      "id": "0x00000183",
+      "text": "Hotbar 8 - Slot 3<tab>HOTBAR_8_3"
+    },
+    {
+      "id": "0x00000184",
+      "text": "Hotbar 8 - Slot 4<tab>HOTBAR_8_4"
+    },
+    {
+      "id": "0x00000185",
+      "text": "Hotbar 8 - Slot 5<tab>HOTBAR_8_5"
+    },
+    {
+      "id": "0x00000186",
+      "text": "Hotbar 8 - Slot 6<tab>HOTBAR_8_6"
+    },
+    {
+      "id": "0x00000187",
+      "text": "Hotbar 8 - Slot 7<tab>HOTBAR_8_7"
+    },
+    {
+      "id": "0x00000188",
+      "text": "Hotbar 8 - Slot 8<tab>HOTBAR_8_8"
+    },
+    {
+      "id": "0x00000189",
+      "text": "Hotbar 8 - Slot 9<tab>HOTBAR_8_9"
+    },
+    {
+      "id": "0x0000018A",
+      "text": "Hotbar 8 - Slot 10<tab>HOTBAR_8_0"
+    },
+    {
+      "id": "0x0000018B",
+      "text": "Hotbar 8 - Slot 11<tab>HOTBAR_8_A"
+    },
+    {
+      "id": "0x0000018C",
+      "text": "Hotbar 8 - Slot 12<tab>HOTBAR_8_B"
+    },
+    {
+      "id": "0x0000018D",
+      "text": "Hotbar 9 - Slot 1<tab>HOTBAR_9_1"
+    },
+    {
+      "id": "0x0000018E",
+      "text": "Hotbar 9 - Slot 2<tab>HOTBAR_9_2"
+    },
+    {
+      "id": "0x0000018F",
+      "text": "Hotbar 9 - Slot 3<tab>HOTBAR_9_3"
+    },
+    {
+      "id": "0x00000190",
+      "text": "Hotbar 9 - Slot 4<tab>HOTBAR_9_4"
+    },
+    {
+      "id": "0x00000191",
+      "text": "Hotbar 9 - Slot 5<tab>HOTBAR_9_5"
+    },
+    {
+      "id": "0x00000192",
+      "text": "Hotbar 9 - Slot 6<tab>HOTBAR_9_6"
+    },
+    {
+      "id": "0x00000193",
+      "text": "Hotbar 9 - Slot 7<tab>HOTBAR_9_7"
+    },
+    {
+      "id": "0x00000194",
+      "text": "Hotbar 9 - Slot 8<tab>HOTBAR_9_8"
+    },
+    {
+      "id": "0x00000195",
+      "text": "Hotbar 9 - Slot 9<tab>HOTBAR_9_9"
+    },
+    {
+      "id": "0x00000196",
+      "text": "Hotbar 9 - Slot 10<tab>HOTBAR_9_0"
+    },
+    {
+      "id": "0x00000197",
+      "text": "Hotbar 9 - Slot 11<tab>HOTBAR_9_A"
+    },
+    {
+      "id": "0x00000198",
+      "text": "Hotbar 9 - Slot 12<tab>HOTBAR_9_B"
+    },
+    {
+      "id": "0x00000199",
+      "text": "Hotbar 10 - Slot 1<tab>HOTBAR_10_1"
+    },
+    {
+      "id": "0x0000019A",
+      "text": "Hotbar 10 - Slot 2<tab>HOTBAR_10_2"
+    },
+    {
+      "id": "0x0000019B",
+      "text": "Hotbar 10 - Slot 3<tab>HOTBAR_10_3"
+    },
+    {
+      "id": "0x0000019C",
+      "text": "Hotbar 10 - Slot 4<tab>HOTBAR_10_4"
+    },
+    {
+      "id": "0x0000019D",
+      "text": "Hotbar 10 - Slot 5<tab>HOTBAR_10_5"
+    },
+    {
+      "id": "0x0000019E",
+      "text": "Hotbar 10 - Slot 6<tab>HOTBAR_10_6"
+    },
+    {
+      "id": "0x0000019F",
+      "text": "Hotbar 10 - Slot 7<tab>HOTBAR_10_7"
+    },
+    {
+      "id": "0x000001A0",
+      "text": "Hotbar 10 - Slot 8<tab>HOTBAR_10_8"
+    },
+    {
+      "id": "0x000001A1",
+      "text": "Hotbar 10 - Slot 9<tab>HOTBAR_10_9"
+    },
+    {
+      "id": "0x000001A2",
+      "text": "Hotbar 10 - Slot 10<tab>HOTBAR_10_0"
+    },
+    {
+      "id": "0x000001A3",
+      "text": "Hotbar 10 - Slot 11<tab>HOTBAR_10_A"
+    },
+    {
+      "id": "0x000001A4",
+      "text": "Hotbar 10 - Slot 12<tab>HOTBAR_10_B"
+    },
+    {
+      "id": "0x000001A5",
+      "text": "Pet Hotbar - Slot 1<tab>HOTBAR_EX_1"
+    },
+    {
+      "id": "0x000001A6",
+      "text": "Pet Hotbar - Slot 2<tab>HOTBAR_EX_2"
+    },
+    {
+      "id": "0x000001A7",
+      "text": "Pet Hotbar - Slot 3<tab>HOTBAR_EX_3"
+    },
+    {
+      "id": "0x000001A8",
+      "text": "Pet Hotbar - Slot 4<tab>HOTBAR_EX_4"
+    },
+    {
+      "id": "0x000001A9",
+      "text": "Pet Hotbar - Slot 5<tab>HOTBAR_EX_5"
+    },
+    {
+      "id": "0x000001AA",
+      "text": "Pet Hotbar - Slot 6<tab>HOTBAR_EX_6"
+    },
+    {
+      "id": "0x000001AB",
+      "text": "Pet Hotbar - Slot 7<tab>HOTBAR_EX_7"
+    },
+    {
+      "id": "0x000001AC",
+      "text": "Pet Hotbar - Slot 8<tab>HOTBAR_EX_8"
+    },
+    {
+      "id": "0x000001AD",
+      "text": "Pet Hotbar - Slot 9<tab>HOTBAR_EX_9"
+    },
+    {
+      "id": "0x000001AE",
+      "text": "Pet Hotbar - Slot 10<tab>HOTBAR_EX_0"
+    },
+    {
+      "id": "0x000001AF",
+      "text": "Pet Hotbar - Slot 11<tab>HOTBAR_EX_A"
+    },
+    {
+      "id": "0x000001B0",
+      "text": "Pet Hotbar - Slot 12<tab>HOTBAR_EX_B"
+    },
+    {
+      "id": "0x000001B1",
+      "text": "Duty Actions II<tab>HOTBAR_CONTENTS_ACT_L"
+    },
+    {
+      "id": "0x000001B2",
+      "text": "Duty Actions I<tab>HOTBAR_CONTENTS_ACT_R"
+    },
+    {
+      "id": "0x000001C3",
+      "text": "<var 12 02 /var> <var 2D ((<var 08 E4E94C01 ((<var 08 E973 ((<var 09 E973 ((directional)) ((directional)) ((directional)) ((D-pad)) ((directional buttons)) /var>)) ((directional)) /var>)) ((<var 42 3E /var>)) /var>)) /var><tab>VIRTUAL_PAD_UP"
+    },
+    {
+      "id": "0x000001C4",
+      "text": "<var 12 03 /var> <var 2D ((<var 08 E4E94C01 ((<var 08 E973 ((<var 09 E973 ((directional)) ((directional)) ((directional)) ((D-pad)) ((directional buttons)) /var>)) ((directional)) /var>)) ((<var 42 3E /var>)) /var>)) /var><tab>VIRTUAL_PAD_DOWN"
+    },
+    {
+      "id": "0x000001C5",
+      "text": "<var 12 04 /var> <var 2D ((<var 08 E4E94C01 ((<var 08 E973 ((<var 09 E973 ((directional)) ((directional)) ((directional)) ((D-pad)) ((directional buttons)) /var>)) ((directional)) /var>)) ((<var 42 3E /var>)) /var>)) /var><tab>VIRTUAL_PAD_LEFT"
+    },
+    {
+      "id": "0x000001C6",
+      "text": "<var 12 05 /var> <var 2D ((<var 08 E4E94C01 ((<var 08 E973 ((<var 09 E973 ((directional)) ((directional)) ((directional)) ((D-pad)) ((directional buttons)) /var>)) ((directional)) /var>)) ((<var 42 3E /var>)) /var>)) /var><tab>VIRTUAL_PAD_RIGHT"
+    },
+    {
+      "id": "0x000001C7",
+      "text": "<var 12 0C /var> <var 08 E4E94C01 ((<var 08 E973 ((<var 09 E973 ((△ Button)) ((△ Button)) ((△ Button)) ((Y Button)) ((X Button)) /var>)) ((Y Button)) /var>)) ((<var 42 F20119 /var>)) /var><tab>VIRTUAL_PAD_TRIANGLE"
+    },
+    {
+      "id": "0x000001C8",
+      "text": "<var 12 09 /var> <var 08 E4E94C01 ((<var 08 E973 ((<var 09 E973 ((○ Button)) ((○ Button)) ((○ Button)) ((B Button)) ((A Button)) /var>)) ((B Button)) /var>)) ((<var 42 F2012D /var>)) /var><tab>VIRTUAL_PAD_CIRCLE"
+    },
+    {
+      "id": "0x000001C9",
+      "text": "<var 12 0A /var> <var 08 E4E94C01 ((<var 08 E973 ((<var 09 E973 ((× Button)) ((× Button)) ((× Button)) ((A Button)) ((B Button)) /var>)) ((A Button)) /var>)) ((<var 42 F20141 /var>)) /var><tab>VIRTUAL_PAD_CROSS"
+    },
+    {
+      "id": "0x000001CA",
+      "text": "<var 12 0B /var> <var 08 E4E94C01 ((<var 08 E973 ((<var 09 E973 ((□ Button)) ((□ Button)) ((□ Button)) ((X Button)) ((Y Button)) /var>)) ((X Button)) /var>)) ((<var 42 F20155 /var>)) /var><tab>VIRTUAL_PAD_SQUARE"
+    },
+    {
+      "id": "0x000001CB",
+      "text": "<var 12 13 /var> <var 08 E4E94C01 ((<var 08 E973 ((<var 09 E973 ((START Button)) ((OPTIONS Button)) ((OPTIONS Button)) ((MENU Button)) ((+ Button)) /var>)) ((START Button)) /var>)) ((<var 42 F0F1 /var>)) /var><tab>VIRTUAL_PAD_START"
+    },
+    {
+      "id": "0x000001CC",
+      "text": "<var 12 14 /var> <var 08 E4E94C01 ((<var 08 E973 ((<var 09 E973 ((SELECT Button)) ((Touch Pad Button)) ((Touch Pad Button)) ((View Button)) ((- Button)) /var>)) ((BACK Button)) /var>)) ((<var 42 F20105 /var>)) /var><tab>VIRTUAL_PAD_SELECT"
+    },
+    {
+      "id": "0x000001CD",
+      "text": "<var 12 0D /var> <var 08 E4E94C01 ((<var 08 E973 ((<var 09 E973 ((L1)) ((L1)) ((L1)) ((LB)) ((L)) /var>)) ((LB)) /var>)) ((<var 42 52 /var>)) /var> <var 08 E4E94C08 (()) ((Button)) /var><tab>VIRTUAL_PAD_L1"
+    },
+    {
+      "id": "0x000001CE",
+      "text": "<var 12 0F /var> <var 08 E4E94C01 ((<var 08 E973 ((<var 09 E973 ((L2)) ((L2)) ((L2)) ((LT)) ((ZL)) /var>)) ((LT)) /var>)) ((<var 42 66 /var>)) /var> <var 08 E4E94C08 (()) ((Button)) /var><tab>VIRTUAL_PAD_L2"
+    },
+    {
+      "id": "0x000001CF",
+      "text": "<var 12 0E /var> <var 08 E4E94C01 ((<var 08 E973 ((<var 09 E973 ((R1)) ((R1)) ((R1)) ((RB)) ((R)) /var>)) ((RB)) /var>)) ((<var 42 8E /var>)) /var> <var 08 E4E94C08 (()) ((Button)) /var><tab>VIRTUAL_PAD_R1"
+    },
+    {
+      "id": "0x000001D0",
+      "text": "<var 12 10 /var> <var 08 E4E94C01 ((<var 08 E973 ((<var 09 E973 ((R2)) ((R2)) ((R2)) ((RT)) ((ZR)) /var>)) ((RT)) /var>)) ((<var 42 A2 /var>)) /var> <var 08 E4E94C08 (()) ((Button)) /var><tab>VIRTUAL_PAD_R2"
+    },
+    {
+      "id": "0x000001D1",
+      "text": "<var 12 11 /var> <var 08 E4E94C01 ((<var 08 E973 ((<var 09 E973 ((L3)) ((L3)) ((L3)) ((Left Thumb-click)) ((Left Stick Press)) /var>)) ((Left Thumb-click)) /var>)) ((<var 42 7A /var>)) /var><tab>VIRTUAL_PAD_L3"
+    },
+    {
+      "id": "0x000001D2",
+      "text": "<var 12 12 /var> <var 08 E4E94C01 ((<var 08 E973 ((<var 09 E973 ((R3)) ((R3)) ((R3)) ((Right Thumb-click)) ((Right Stick Press)) /var>)) ((Right Thumb-click)) /var>)) ((<var 42 B6 /var>)) /var><tab>VIRTUAL_PAD_R3"
+    },
+    {
+      "id": "0x000001D3",
+      "text": "<var 12 15 /var> <var 08 E4E94C01 ((<var 08 E973 ((<var 09 E973 ((Left Stick)) ((Left Stick)) ((Left Stick)) ((Left Stick)) ((Left Stick)) /var>)) ((Left Stick)) /var>)) ((<var 42 CA /var>)) /var> Up<tab>VIRTUAL_PAD_LSTICK_UP"
+    },
+    {
+      "id": "0x000001D4",
+      "text": "<var 12 15 /var> <var 08 E4E94C01 ((<var 08 E973 ((<var 09 E973 ((Left Stick)) ((Left Stick)) ((Left Stick)) ((Left Stick)) ((Left Stick)) /var>)) ((Left Stick)) /var>)) ((<var 42 CA /var>)) /var> Down<tab>VIRTUAL_PAD_LSTICK_DOWN"
+    },
+    {
+      "id": "0x000001D5",
+      "text": "<var 12 15 /var> <var 08 E4E94C01 ((<var 08 E973 ((<var 09 E973 ((Left Stick)) ((Left Stick)) ((Left Stick)) ((Left Stick)) ((Left Stick)) /var>)) ((Left Stick)) /var>)) ((<var 42 CA /var>)) /var> Left<tab>VIRTUAL_PAD_LSTICK_LEFT"
+    },
+    {
+      "id": "0x000001D6",
+      "text": "<var 12 15 /var> <var 08 E4E94C01 ((<var 08 E973 ((<var 09 E973 ((Left Stick)) ((Left Stick)) ((Left Stick)) ((Left Stick)) ((Left Stick)) /var>)) ((Left Stick)) /var>)) ((<var 42 CA /var>)) /var> Right<tab>VIRTUAL_PAD_LSTICK_RIGHT"
+    },
+    {
+      "id": "0x000001D7",
+      "text": "<var 12 18 /var> <var 08 E4E94C01 ((<var 08 E973 ((<var 09 E973 ((Right Stick)) ((Right Stick)) ((Right Stick)) ((Right Stick)) ((Right Stick)) /var>)) ((Right Stick)) /var>)) ((<var 42 F0DD /var>)) /var> Up<tab>VIRTUAL_PAD_RSTICK_UP"
+    },
+    {
+      "id": "0x000001D8",
+      "text": "<var 12 18 /var> <var 08 E4E94C01 ((<var 08 E973 ((<var 09 E973 ((Right Stick)) ((Right Stick)) ((Right Stick)) ((Right Stick)) ((Right Stick)) /var>)) ((Right Stick)) /var>)) ((<var 42 F0DD /var>)) /var> Down<tab>VIRTUAL_PAD_RSTICK_DOWN"
+    },
+    {
+      "id": "0x000001D9",
+      "text": "<var 12 18 /var> <var 08 E4E94C01 ((<var 08 E973 ((<var 09 E973 ((Right Stick)) ((Right Stick)) ((Right Stick)) ((Right Stick)) ((Right Stick)) /var>)) ((Right Stick)) /var>)) ((<var 42 F0DD /var>)) /var> Left<tab>VIRTUAL_PAD_RSTICK_LEFT"
+    },
+    {
+      "id": "0x000001DA",
+      "text": "<var 12 18 /var> <var 08 E4E94C01 ((<var 08 E973 ((<var 09 E973 ((Right Stick)) ((Right Stick)) ((Right Stick)) ((Right Stick)) ((Right Stick)) /var>)) ((Right Stick)) /var>)) ((<var 42 F0DD /var>)) /var> Right<tab>VIRTUAL_PAD_RSTICK_RIGHT"
+    },
+    {
+      "id": "0x000001EA",
+      "text": "Playguide<tab>MENU_PLAY_GUIDE"
+    },
+    {
+      "id": "0x000001EB",
+      "text": "Subcommand Customization<tab>MENU_SUBCOMMAND_CUSTOMIZE"
+    },
+    {
+      "id": "0x000001EC",
+      "text": "Novice Network List<tab>MENU_BEGINNER_CHANNEL_LIST"
+    },
+    {
+      "id": "0x000001ED",
+      "text": "Hall of the Novice<tab>MENU_BEGINNERS_MANSION"
+    },
+    {
+      "id": "0x000001EE",
+      "text": "Orchestrion List<tab>MENU_ORCHESTRION"
+    },
+    {
+      "id": "0x000001EF",
+      "text": "Raid Finder<tab>MENU_RAID_FINDER"
+    },
+    {
+      "id": "0x000001F0",
+      "text": "Countdown<tab>MENU_COUNTDOWN"
+    },
+    {
+      "id": "0x000001F1",
+      "text": "Contact List<tab>MENU_CONTACTLIST"
+    },
+    {
+      "id": "0x000001F2",
+      "text": "Mount Speed<tab>MENU_GROUND_MOUNT_SPEED"
+    },
+    {
+      "id": "0x000001F3",
+      "text": "Chocobo Saddlebag<tab>MENU_BUDDY_BAG"
+    },
+    {
+      "id": "0x000001F4",
+      "text": "Duty Recorder<tab>MENU_CONTENTS_REPLAY"
+    },
+    {
+      "id": "0x000001F5",
+      "text": "Record Ready Check<tab>MENU_REPLAY_READY_CHECK"
+    },
+    {
+      "id": "0x000001F6",
+      "text": "PvP Team<tab>MENU_PVPTEAM_UI"
+    },
+    {
+      "id": "0x000001F7",
+      "text": "Cross-world Linkshell<tab>MENU_CWLINKSHELL"
+    },
+    {
+      "id": "0x000001F8",
+      "text": "Alarms<tab>MENU_ALERM"
+    },
+    {
+      "id": "0x000001F9",
+      "text": "Blue Magic Spellbook<tab>MENU_AOZ"
+    },
+    {
+      "id": "0x000001FA",
+      "text": "Trust<tab>MENU_FAITH"
+    },
+    {
+      "id": "0x000001FB",
+      "text": "Shared FATE<tab>MENU_FATE_PROGRESS"
+    },
+    {
+      "id": "0x000001FC",
+      "text": "Fellowship<tab>MENU_CIRCLE_LIST"
+    },
+    {
+      "id": "0x000001FD",
+      "text": "Fellowship Finder<tab>MENU_CIRCLE_RECRUIT"
+    },
+    {
+      "id": "0x000001FE",
+      "text": "Collection<tab>MENU_MCGUFFIN"
+    },
+    {
+      "id": "0x000001FF",
+      "text": "New Game+<tab>MENU_QUEST_REPLAY"
+    },
+    {
+      "id": "0x00000200",
+      "text": "Fashion Accessories<tab>MENU_ORNAMENT_NOTEBOOK"
+    },
+    {
+      "id": "0x00000201",
+      "text": "Official Sites<tab>WEBLINK"
+    },
+    {
+      "id": "0x00000202",
+      "text": "Portraits<tab>MENU_BANNER_LIST"
+    },
+    {
+      "id": "0x00000203",
+      "text": "Duty Support<tab>MENU_SDS"
+    },
+    {
+      "id": "0x00000204",
+      "text": "Adventurer Plate<tab>MENU_CHARA_CARD"
+    },
+    {
+      "id": "0x00000205",
+      "text": "V&C Dungeon Finder<tab>MENU_VVD"
+    },
+    {
+      "id": "0x00000206",
+      "text": "Facewear<tab>MENU_FACE_ACCESSORY"
+    },
+    {
+      "id": "0x00000207",
+      "text": "Mute List<tab>MENU_MUTE_LIST"
+    },
+    {
+      "id": "0x00000208",
+      "text": "Term Filter<tab>TERM_FILTER"
+    },
+    {
+      "id": "0x00000209",
+      "text": "Command Panel<tab>QUICK_PANEL"
+    },
+    {
+      "id": "0x0000020A",
+      "text": "Strategy Board<tab>MENU_TOFU"
+    },
+    {
+      "id": "0x0000020B",
+      "text": "Master's Bestiary<tab>XBM_BOOK"
+    },
+    {
+      "id": "0x00000226",
+      "text": "Temporarily Switch Chat Mode to Novice Network<tab>CMD_BEGINNER"
+    },
+    {
+      "id": "0x00000227",
+      "text": "Switch Chat Mode to Novice Network<tab>CMD_BEGINNER_ALWAYS"
+    },
+    {
+      "id": "0x00000228",
+      "text": "Temporarily Switch Chat Mode to PvP Team<tab>PVPTEAM_CHAT"
+    },
+    {
+      "id": "0x00000229",
+      "text": "Switch Chat Mode to PvP Team<tab>PVPTEAM_CHAT_ALWAYS"
+    },
+    {
+      "id": "0x0000022A",
+      "text": "Temporarily Switch Chat Mode to Next Cross-world LS<tab>CMD_CWLINKSHELL"
+    },
+    {
+      "id": "0x0000022B",
+      "text": "Switch Chat Mode to Next Cross-world LS<tab>CMD_CWLINKSHELL_ALWAYS"
+    },
+    {
+      "id": "0x0000022C",
+      "text": "Temporarily Switch Chat Mode to Previous Cross-world LS<tab>CMD_CWLINKSHELL_REV"
+    },
+    {
+      "id": "0x0000022D",
+      "text": "Temporarily Switch Chat Mode to Cross-world LS [1]<tab>CMD_CWLINKSHELL_1"
+    },
+    {
+      "id": "0x0000022E",
+      "text": "Temporarily Switch Chat Mode to Cross-world LS [2]<tab>CMD_CWLINKSHELL_2"
+    },
+    {
+      "id": "0x0000022F",
+      "text": "Temporarily Switch Chat Mode to Cross-world LS [3]<tab>CMD_CWLINKSHELL_3"
+    },
+    {
+      "id": "0x00000230",
+      "text": "Temporarily Switch Chat Mode to Cross-world LS [4]<tab>CMD_CWLINKSHELL_4"
+    },
+    {
+      "id": "0x00000231",
+      "text": "Temporarily Switch Chat Mode to Cross-world LS [5]<tab>CMD_CWLINKSHELL_5"
+    },
+    {
+      "id": "0x00000232",
+      "text": "Temporarily Switch Chat Mode to Cross-world LS [6]<tab>CMD_CWLINKSHELL_6"
+    },
+    {
+      "id": "0x00000233",
+      "text": "Temporarily Switch Chat Mode to Cross-world LS [7]<tab>CMD_CWLINKSHELL_7"
+    },
+    {
+      "id": "0x00000234",
+      "text": "Temporarily Switch Chat Mode to Cross-world LS [8]<tab>CMD_CWLINKSHELL_8"
+    },
+    {
+      "id": "0x00000235",
+      "text": "Switch Chat Mode to Previous Cross-world LS<tab>CMD_CWLINKSHELL_ALWAYS_REV"
+    },
+    {
+      "id": "0x00000236",
+      "text": "Switch Chat Mode to Cross-world LS [1]<tab>CMD_CWLINKSHELL_1_ALWAYS"
+    },
+    {
+      "id": "0x00000237",
+      "text": "Switch Chat Mode to Cross-world LS [2]<tab>CMD_CWLINKSHELL_2_ALWAYS"
+    },
+    {
+      "id": "0x00000238",
+      "text": "Switch Chat Mode to Cross-world LS [3]<tab>CMD_CWLINKSHELL_3_ALWAYS"
+    },
+    {
+      "id": "0x00000239",
+      "text": "Switch Chat Mode to Cross-world LS [4]<tab>CMD_CWLINKSHELL_4_ALWAYS"
+    },
+    {
+      "id": "0x0000023A",
+      "text": "Switch Chat Mode to Cross-world LS [5]<tab>CMD_CWLINKSHELL_5_ALWAYS"
+    },
+    {
+      "id": "0x0000023B",
+      "text": "Switch Chat Mode to Cross-world LS [6]<tab>CMD_CWLINKSHELL_6_ALWAYS"
+    },
+    {
+      "id": "0x0000023C",
+      "text": "Switch Chat Mode to Cross-world LS [7]<tab>CMD_CWLINKSHELL_7_ALWAYS"
+    },
+    {
+      "id": "0x0000023D",
+      "text": "Switch Chat Mode to Cross-world LS [8]<tab>CMD_CWLINKSHELL_8_ALWAYS"
+    },
+    {
+      "id": "0x0000024F",
+      "text": "Log Window Zoom<tab>CHATLOG_VIEWERMODE"
+    },
+    {
+      "id": "0x00000250",
+      "text": "Scenario Guide: Main Scenario<tab>MENU_SCENARIO_TREE"
+    },
+    {
+      "id": "0x00000251",
+      "text": "Scenario Guide: Sidequests<tab>MENU_SCENARIO_TREE_SUB"
+    },
+    {
+      "id": "0x00000252",
+      "text": "Toggle Color Filtering Settings<tab>ACCESSIBILITY_COLORBLIND"
+    }
+  ]
+}

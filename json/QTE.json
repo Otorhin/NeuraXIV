@@ -1,0 +1,101 @@
+{
+  "source_file": "exd/QTE_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Eject<tab>Press the button to descend!<tab>SE_Bt_Etc_QTE_Ready<tab>SE_Bt_Etc_QTE_Success<tab>SE_Bt_Etc_QTE_Fail"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Escape<tab>Tap button rapidly to avoid obstacles!<tab>SE_Bt_Etc_QTE_Ready<tab>SE_Bt_Etc_QTE_Success<tab>SE_Bt_Etc_QTE_Fail"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Clash<tab>Tap button rapidly to push back!<tab>SE_Bt_Etc_QTE_Ready<tab>SE_Bt_Etc_QTE_Success<tab>SE_Bt_Etc_QTE_Fail"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Escape<tab>Tap button rapidly to break free!<tab>SE_Bt_Etc_QTE_Ready<tab>SE_Bt_Etc_QTE_Success<tab>SE_Bt_Etc_QTE_Fail"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Escape<tab>Tap button rapidly to break free!<tab>SE_Bt_Etc_QTE_Ready<tab>SE_Bt_Etc_QTE_Success<tab>SE_Bt_Etc_QTE_Fail"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Mount<tab>Tap button rapidly to hold down!<tab>SE_Bt_Etc_QTE_Ready<tab>SE_Bt_Etc_QTE_Success<tab>SE_Bt_Etc_QTE_Fail"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Escape<tab>Tap button rapidly to avoid obstacles!<tab>SE_Bt_Etc_QTE_Ready<tab>SE_Bt_Etc_QTE_Success<tab>SE_Bt_Etc_QTE_Fail"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Storm Cell<tab>Free yourself!<tab>SE_Bt_Etc_QTE_Ready<tab>SE_Bt_Etc_QTE_Success<tab>SE_Bt_Etc_QTE_Fail"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Unleash Light<tab>Draw upon the strength of the Light within you!<tab>SE_Bt_Etc_QTE_Ready<tab>SE_Bt_Etc_QTE_Success<tab>SE_Bt_Etc_QTE_Fail"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Unleash Light<tab>Draw upon the strength of the Light within you!<tab>SE_Bt_Etc_QTE_Ready<tab>SE_Bt_Etc_QTE_Success<tab>SE_Bt_Etc_QTE_Fail"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Clash<tab>Tap button rapidly to push back!<tab>SE_Bt_Etc_QTE_Ready<tab>SE_Bt_Etc_QTE_Success<tab>SE_Bt_Etc_QTE_Fail"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Clash<tab>Tap button rapidly to push back!<tab>SE_Bt_Etc_QTE_Ready<tab>SE_Bt_Etc_QTE_Success<tab>SE_Bt_Etc_QTE_Fail"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Will of Defiance<tab>Fight back with all your strength!<tab>SE_Bt_Etc_QTE_Ready<tab>SE_Bt_Etc_QTE_Success<tab>SE_Bt_Etc_QTE_Fail"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Endure<tab>Tap button rapidly to fight through the poison!<tab>SE_Bt_Etc_QTE_Ready<tab>SE_Bt_Etc_QTE_Success<tab>SE_Bt_Etc_QTE_Fail"
+    },
+    {
+      "id": "0x00000010",
+      "text": "Consciousness<tab>Tap button rapidly to maintain consciousness!<tab>SE_Bt_Etc_QTE_Ready<tab>SE_Bt_Etc_QTE_Success<tab>SE_Bt_Etc_QTE_Fail"
+    },
+    {
+      "id": "0x00000011",
+      "text": "Life or Death<tab>Tap button rapidly to fight back!<tab>SE_Bt_Etc_QTE_Ready<tab>SE_Bt_Etc_QTE_Success<tab>SE_Bt_Etc_QTE_Fail"
+    },
+    {
+      "id": "0x00000012",
+      "text": "Manderville Sidestep<tab>Tap button rapidly to explode into action!<tab>SE_Bt_Etc_QTE_Ready<tab>SE_Bt_Etc_QTE_Success<tab>SE_Bt_Etc_QTE_Fail"
+    },
+    {
+      "id": "0x00000013",
+      "text": "Escape<tab>Tap button rapidly to break free!<tab>SE_Bt_Etc_QTE_Ready<tab>SE_Bt_Etc_QTE_Success<tab>SE_Bt_Etc_QTE_Fail"
+    },
+    {
+      "id": "0x00000014",
+      "text": "Defend<tab>Tap button rapidly to defend Clive!<tab>SE_Bt_Etc_QTE_Ready<tab>SE_Bt_Etc_QTE_Success<tab>SE_Bt_Etc_QTE_Fail"
+    },
+    {
+      "id": "0x00000015",
+      "text": "Resist<tab>Tap button rapidly to repel the attack!<tab>SE_Bt_Etc_QTE_Ready<tab>SE_Bt_Etc_QTE_Success<tab>SE_Bt_Etc_QTE_Fail"
+    },
+    {
+      "id": "0x00000016",
+      "text": "Clash<tab>Tap button rapidly to push back!<tab>SE_Bt_Etc_QTE_Ready<tab>SE_Bt_Etc_QTE_Success<tab>SE_Bt_Etc_QTE_Fail"
+    },
+    {
+      "id": "0x00000017",
+      "text": "Escape<tab>Tap button rapidly to break free and save Kuiyki!<tab>SE_Bt_Etc_QTE_Ready<tab>SE_Bt_Etc_QTE_Success<tab>SE_Bt_Etc_QTE_Fail"
+    },
+    {
+      "id": "0x00000018",
+      "text": "Escape<tab>Tap button rapidly to break free of your chains!<tab>SE_Bt_Etc_QTE_Ready<tab>SE_Bt_Etc_QTE_Success<tab>SE_Bt_Etc_QTE_Fail"
+    },
+    {
+      "id": "0x00000019",
+      "text": "Escape<tab>Tap button rapidly to break free!<tab>SE_Bt_Etc_QTE_Ready<tab>SE_Bt_Etc_QTE_Success<tab>SE_Bt_Etc_QTE_Fail"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "source_file": "exd/EventTutorialPage_0_en.exd",
+  "rows": [
+    {
+      "id": "0x0000000B",
+      "text": "What Transporting Entails<tab>Certain duties require the transporting of items to a designated location.\n\nWhile carrying out such tasks, use of actions will be restricted, and you will be granted the <var 48 F201FA /var><var 49 F201FB /var>Transporting<var 49 01 /var><var 48 01 /var> status effect.\n\nYou must be wary of attacks, as they will sap your strength."
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Losing the Transporting Status<tab>You will lose the Transporting status when the effect duration expires or you change areas. In such cases, you may return to the starting location and begin anew."
+    },
+    {
+      "id": "0x0000000D",
+      "text": "What Transparent Entails<tab>During certain duties, you may gain the <var 48 F201FA /var><var 49 F201FB /var>Transparent<var 49 01 /var><var 48 01 /var> status effect, which restricts available actions but allows you to pass by most enemies undetected. Use this invisible state to reach your destination before the effect expires."
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Losing the Transparent Status<tab>You will lose the Transparent status when the effect duration expires or you change areas, causing nearby enemies to detect you and preventing quest progression.\n\nYou may return to the starting location at any time to refresh the duration of the Transparent status. If it has already expired, it will be granted anew."
+    },
+    {
+      "id": "0x0000000F",
+      "text": "What Escorting Entails<tab>Certain duties require that one or more NPCs accompany you in order to proceed with quest objectives.\n\nYou must keep them at your side and make your way to a designated location."
+    },
+    {
+      "id": "0x00000010",
+      "text": "What Escorting Entails<tab>So long as you remain in the same area, NPCs accompanying you will remain at your side even when using Teleport or the Aethernet.\n\nIt is possible to ride mounts or swim while escorting NPCs. Please note, however, they will not appear at your side until you dismount or leave the water."
+    },
+    {
+      "id": "0x00000011",
+      "text": "What Escorting Entails<tab>You may also speak with NPCs while escorting them. Furthermore, you may encounter “conversation points” along the way which offer additional topics of discussion. These points will also be indicated on your map."
+    },
+    {
+      "id": "0x00000012",
+      "text": "Parting Ways with NPCs<tab>When speaking with NPCs, you will be given the option to part ways. You will also part ways automatically when changing areas.\n\nIf you part ways with an NPC, you may return to the starting point and speak with them to try again."
+    },
+    {
+      "id": "0x00000013",
+      "text": "What Following Entails<tab>Certain duties require you to follow an NPC to a designated location. Should you fall too far behind, the NPC will return to the starting point, and you must speak with them to try again."
+    },
+    {
+      "id": "0x00000014",
+      "text": "What Sneaking Entails<tab>Certain duties require you to follow an NPC and approach without being seen. Should you be detected, you must return to the starting point and try again."
+    },
+    {
+      "id": "0x00000015",
+      "text": "Avoiding Detection<tab>The indicator shown in the image above indicates that you risk being seen should the NPC you're following turn around."
+    },
+    {
+      "id": "0x00000016",
+      "text": "Avoiding Detection<tab>The indicator shown in the image above indicates that you risk being seen should you be standing too close to the NPC."
+    },
+    {
+      "id": "0x00000017",
+      "text": "What Transformation Entails<tab>Certain duties require you to transform into creatures or other people, restricting available actions. These transformations only last a limited time, indicated by the <var 48 F201FA /var><var 49 F201FB /var>Transfiguration<var 49 01 /var><var 48 01 /var> status effect."
+    },
+    {
+      "id": "0x00000018",
+      "text": "Losing the Transfiguration Status<tab>Should the Transfiguration status effect expire, or you stray too far from the objective, you will be returned to your original form.\n\nYou may return to the starting location at any time to refresh the duration of the Transfiguration status. If it has already expired, it will be granted anew."
+    },
+    {
+      "id": "0x00000019",
+      "text": "What Guises Entail<tab>Certain duties require you to don a disguise to complete quest objectives. You may only remain disguised for a limited time, indicated by the <var 48 F201FA /var><var 49 F201FB /var>Guise<var 49 01 /var><var 48 01 /var> status effect."
+    },
+    {
+      "id": "0x0000001A",
+      "text": "Losing the Guise Status<tab>Should the Guise status effect expire, or you stray too far from the objective, you will lose your disguise.\n\nYou may return to the starting location at any time to refresh the duration of the Guise status. If it has already expired, it will be granted anew."
+    },
+    {
+      "id": "0x0000001B",
+      "text": "What Guarding Entails<tab>Certain duties require that you escort an NPC to a designated location while guarding them from enemy attacks. Should you stray too far from the NPC or they are attacked, they will stop moving."
+    },
+    {
+      "id": "0x0000001C",
+      "text": "Failing to Guard an NPC<tab>The escort attempt will fail if the NPC is incapacitated, you stray too far from them, or you change areas. In the event of failure, you may return to the starting point and try again."
+    },
+    {
+      "id": "0x0000001D",
+      "text": "Step One: Accumulate 100 TP<tab>To grasp the fundamentals of working with familiars, first try to complete an instinctual combo with your Cu Sith.\n\nFamiliars accumulate TP via their auto-attacks, and beastmasters accumulate TP by completing weaponskill combos. Once you and your Cu Sith each have 100 TP, you are ready to perform an instinctual combo."
+    },
+    {
+      "id": "0x0000001E",
+      "text": "Step Two: Complete the Instinctual Combo<tab>Order your Cu Sith to perform its <var 48 F201F4 /var><var 49 F201F5 /var>Trick<var 49 01 /var><var 48 01 /var>. Then, <var 48 F201FA /var><var 49 F201FB /var>within seven seconds<var 49 01 /var><var 48 01 /var>, execute the beastmaster action <var 48 F201F4 /var><var 49 F201F5 /var>Avalanche Axe<var 49 01 /var><var 48 01 /var>. This will complete a <var 48 F201FA /var><var 49 F201FB /var>Rampant<var 49 01 /var><var 48 01 /var> instinctual combo!\n\nYou may complete instinctual combos with any familiar, and may trigger different actions depending on the skills used."
+    },
+    {
+      "id": "0x0000001F",
+      "text": "Working in Tandem<tab>By working together, a beastmaster and their familiar can chain <var 48 F201FA /var><var 49 F201FB /var>instinctual skills<var 49 01 /var><var 48 01 /var>, which expend TP, to complete special combos that deal additional damage. Either a beastmaster or their familiar can be first to strike, but the combo must be completed <var 48 F201FA /var><var 49 F201FB /var>within seven seconds<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000020",
+      "text": "That Striking Dummy's Always Looking at Me...<tab>Attacking a striking dummy will pull its attention and engage you in combat. When you have finished practice, target the striking dummy and select <var 48 F201F4 /var><var 49 F201F5 /var>Reset Striking Dummy Enmity<var 49 01 /var><var 48 01 /var> via the subcommand menu to put it to rest."
+    },
+    {
+      "id": "0x00000021",
+      "text": "Step One: Accumulate 100 TP<tab>To extend your knowledge of working with familiars, first try to complete an intentional combo with your Cu Sith.\n\nAs with instinctual combos, beastmasters and their familiars will each need to accumulate 100 TP. Complete beastmaster weaponskill combos and let your Cu Sith auto-attack until you both have 100 TP."
+    },
+    {
+      "id": "0x00000022",
+      "text": "Step Two: Complete the Intentional Combo<tab>Order your Cu Sith to perform its <var 48 F201F4 /var><var 49 F201F5 /var>Trick<var 49 01 /var><var 48 01 /var>. Then, <var 48 F201FA /var><var 49 F201FB /var>within seven seconds<var 49 01 /var><var 48 01 /var>, execute the beastmaster action <var 48 F201F4 /var><var 49 F201F5 /var>Mistral Axe<var 49 01 /var><var 48 01 /var>. This will complete a <var 48 F201FA /var><var 49 F201FB /var>Moonstalker<var 49 01 /var><var 48 01 /var> intentional combo!\n\nYou may complete intentional combos with any familiar, and may trigger a different action depending upon the skills used."
+    },
+    {
+      "id": "0x00000023",
+      "text": "Instinctual Affinities<tab>The four basic instinctual affinities are as follows: <var 48 F201FA /var><var 49 F201FB /var>Volant<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>Rampant<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>Durant<var 49 01 /var><var 48 01 /var>, and <var 48 F201FA /var><var 49 F201FB /var>Eldritch<var 49 01 /var><var 48 01 /var>. Both beastmaster and familiar skills possess these affinities, and understanding the impact they have on one another is crucial to advanced beastmastery. Instinctual affinities can be confirmed in a weaponskill's help text, or may be intuited from the icon.\n\nWhen instinctual affinities are connected in a certain order, they complete the aforementioned <var 48 F201FA /var><var 49 F201FB /var>intentional combos<var 49 01 /var><var 48 01 /var>, which in turn have two additional instinctual affinities: <var 48 F201FA /var><var 49 F201FB /var>Moonstalker<var 49 01 /var><var 48 01 /var> and <var 48 F201FA /var><var 49 F201FB /var>Sunstrider<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000024",
+      "text": "Moonstalker<tab>Gaining the effect of <var 48 F201FA /var><var 49 F201FB /var>Moonstalker<var 49 01 /var><var 48 01 /var> requires chaining the following instinctual affinities:\n　・<var 48 F201FA /var><var 49 F201FB /var>Rampant<var 49 01 /var><var 48 01 /var> → <var 48 F201FA /var><var 49 F201FB /var>Durant<var 49 01 /var><var 48 01 /var>\n　・<var 48 F201FA /var><var 49 F201FB /var>Eldritch<var 49 01 /var><var 48 01 /var> → <var 48 F201FA /var><var 49 F201FB /var>Volant<var 49 01 /var><var 48 01 /var>\nYour Cu Sith's <var 48 F201F4 /var><var 49 F201F5 /var>Trick<var 49 01 /var><var 48 01 /var> has a <var 48 F201FA /var><var 49 F201FB /var>Rampant<var 49 01 /var><var 48 01 /var> affinity, so when completed with <var 48 F201F4 /var><var 49 F201F5 /var>Mistral Axe<var 49 01 /var><var 48 01 /var>, it triggers a <var 48 F201FA /var><var 49 F201FB /var>Moonstalker<var 49 01 /var><var 48 01 /var> intentional combo."
+    },
+    {
+      "id": "0x00000025",
+      "text": "Sunstrider<tab>Gaining the effect of <var 48 F201FA /var><var 49 F201FB /var>Sunstrider<var 49 01 /var><var 48 01 /var> requires chaining the following instinctual affinities:\n　・<var 48 F201FA /var><var 49 F201FB /var>Volant<var 49 01 /var><var 48 01 /var> → <var 48 F201FA /var><var 49 F201FB /var>Rampant<var 49 01 /var><var 48 01 /var>\n　・<var 48 F201FA /var><var 49 F201FB /var>Durant<var 49 01 /var><var 48 01 /var> → <var 48 F201FA /var><var 49 F201FB /var>Eldritch<var 49 01 /var><var 48 01 /var>\nSo long as instinctual affinities are performed in the designated order, it does not matter whether a beastmaster or familiar strikes first. In this case, since your Cu Sith's <var 48 F201F4 /var><var 49 F201F5 /var>Trick<var 49 01 /var><var 48 01 /var> has a <var 48 F201FA /var><var 49 F201FB /var>Rampant<var 49 01 /var><var 48 01 /var> affinity, preceding it with the beastmaster action <var 48 F201F4 /var><var 49 F201F5 /var>Gale Axe<var 49 01 /var><var 48 01 /var> will complete a <var 48 F201FA /var><var 49 F201FB /var>Sunstrider<var 49 01 /var><var 48 01 /var> intentional combo."
+    },
+    {
+      "id": "0x00000026",
+      "text": "Step One: Accumulate Stacks of Mastered Instinct<tab>To perfect your synchronicity with your familiars, first try to complete an infinitive combo with your Cu Sith.\n\nSpending three stacks of <var 48 F201FA /var><var 49 F201FB /var>Mastered Instinct<var 49 01 /var><var 48 01 /var> when executing <var 48 F201F4 /var><var 49 F201F5 /var>Rally<var 49 01 /var><var 48 01 /var> will instantly grant you 250 TP. You will need this later, so first accumulate three stacks of Mastered Instinct by completing instinctual or intentional combos with beastmaster skills. <var 48 F201FA /var><var 49 F201FB /var>Your Cu Sith must attack first to accumulate stacks of Mastered Instinct.<var 49 01 /var><var 48 01 /var>"
+    },
+    {
+      "id": "0x00000027",
+      "text": "Step Two: Complete a <var 48 F201FA /var><var 49 F201FB /var>Moonstalker<var 49 01 /var><var 48 01 /var> Intentional Combo<tab>With three stacks of Mastered Instinct on hand, it's time for an intentional combo.\n\nOrder your Cu Sith to perform its <var 48 F201F4 /var><var 49 F201F5 /var>Trick<var 49 01 /var><var 48 01 /var>, then execute the beastmaster action <var 48 F201F4 /var><var 49 F201F5 /var>Mistral Axe<var 49 01 /var><var 48 01 /var> to complete a <var 48 F201FA /var><var 49 F201FB /var>Moonstalker<var 49 01 /var><var 48 01 /var> intentional combo.\n\n<var 48 F201FA /var><var 49 F201FB /var>From this point, you will have seven seconds to complete the infinitive combo.<var 49 01 /var><var 48 01 /var> Move with haste!"
+    },
+    {
+      "id": "0x00000028",
+      "text": "Step Three: Use Rally to Accumulate 250 TP<tab>Execute <var 48 F201F4 /var><var 49 F201F5 /var>Rally<var 49 01 /var><var 48 01 /var> to spend all three stacks of Mastered Instinct and instantly gain 250 TP. Reaching 250 TP will change your four instinctual skills to those with affinities of <var 48 F201FA /var><var 49 F201FB /var>Sunstrider<var 49 01 /var><var 48 01 /var> or <var 48 F201FA /var><var 49 F201FB /var>Moonstalker<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x00000029",
+      "text": "Step Four: Complete the Infinitive Combo (Universality)<tab>Since you gained the effect of <var 48 F201FA /var><var 49 F201FB /var>Moonstalker<var 49 01 /var><var 48 01 /var> in step two, you must execute either <var 48 F201F4 /var><var 49 F201F5 /var>Brutal Rage<var 49 01 /var><var 48 01 /var> or <var 48 F201F4 /var><var 49 F201F5 /var>Risen Fall<var 49 01 /var><var 48 01 /var>, as both weaponskills have a <var 48 F201FA /var><var 49 F201FB /var>Sunstrider<var 49 01 /var><var 48 01 /var> affinity. <var 48 F201FA /var><var 49 F201FB /var>An applicable action must be executed within seven seconds of completing the previous intentional combo.<var 49 01 /var><var 48 01 /var>\n\nIn other words, chaining the instinctual affinities <var 48 F201FA /var><var 49 F201FB /var>Moonstalker<var 49 01 /var><var 48 01 /var> and <var 48 F201FA /var><var 49 F201FB /var>Sunstrider<var 49 01 /var><var 48 01 /var> (or vice versa) will complete a <var 48 F201FA /var><var 49 F201FB /var>Universality<var 49 01 /var><var 48 01 /var> infinitive combo!"
+    },
+    {
+      "id": "0x0000002A",
+      "text": "To Summarize...<tab>1. Accumulate three stacks of <var 48 F201FA /var><var 49 F201FB /var>Mastered Instinct<var 49 01 /var><var 48 01 /var>.\n2. Complete a <var 48 F201FA /var><var 49 F201FB /var>Moonstalker<var 49 01 /var><var 48 01 /var> intentional combo.\n3. Use <var 48 F201F4 /var><var 49 F201F5 /var>Rally<var 49 01 /var><var 48 01 /var> to gain 250 TP, thereby changing your beastmaster instinctual skills.\n4. Execute an instinctual skill with a <var 48 F201FA /var><var 49 F201FB /var>Sunstrider<var 49 01 /var><var 48 01 /var> affinity.\n\nYou may complete infinitive combos with any familiar and initiate with either <var 48 F201FA /var><var 49 F201FB /var>Moonstalker<var 49 01 /var><var 48 01 /var> or <var 48 F201FA /var><var 49 F201FB /var>Sunstrider<var 49 01 /var><var 48 01 /var> affinities. In other words, illuminating your entire Inner Compass will achieve <var 48 F201FA /var><var 49 F201FB /var>Universality<var 49 01 /var><var 48 01 /var>."
+    },
+    {
+      "id": "0x0000002B",
+      "text": "Mastering Beastmastery<tab>Infinitive combos are considered the pinnacle of cooperation between beastmaster and familiar, as they unleash the potential of both <var 48 F201FA /var><var 49 F201FB /var>Sunstrider<var 49 01 /var><var 48 01 /var> and <var 48 F201FA /var><var 49 F201FB /var>Moonstalker<var 49 01 /var><var 48 01 /var> affinities.\n\nThe infinitive combo <var 48 F201FA /var><var 49 F201FB /var>Universality<var 49 01 /var><var 48 01 /var> is the most potent attack in a beastmaster's arsenal, so advanced practitioners are encouraged to bring this power to bear when facing challenging foes."
+    }
+  ]
+}

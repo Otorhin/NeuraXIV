@@ -1,0 +1,237 @@
+{
+  "source_file": "exd/quest/026/StmBdz015_02649_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_STMBDZ015_02649_SEQ_00<tab>Лининг Энд желает, чтобы его друг был быстрее в беге."
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_STMBDZ015_02649_SEQ_01<tab>"
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_STMBDZ015_02649_SEQ_02<tab>"
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_STMBDZ015_02649_SEQ_03<tab>"
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_STMBDZ015_02649_SEQ_04<tab>"
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_STMBDZ015_02649_SEQ_05<tab>"
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_STMBDZ015_02649_SEQ_06<tab>"
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_STMBDZ015_02649_SEQ_07<tab>"
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_STMBDZ015_02649_SEQ_08<tab>"
+    },
+    {
+      "id": "0x00000009",
+      "text": "TEXT_STMBDZ015_02649_SEQ_09<tab>"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "TEXT_STMBDZ015_02649_SEQ_10<tab>"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "TEXT_STMBDZ015_02649_SEQ_11<tab>"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "TEXT_STMBDZ015_02649_SEQ_12<tab>"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "TEXT_STMBDZ015_02649_SEQ_13<tab>"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "TEXT_STMBDZ015_02649_SEQ_14<tab>"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "TEXT_STMBDZ015_02649_SEQ_15<tab>"
+    },
+    {
+      "id": "0x00000010",
+      "text": "TEXT_STMBDZ015_02649_SEQ_16<tab>"
+    },
+    {
+      "id": "0x00000011",
+      "text": "TEXT_STMBDZ015_02649_SEQ_17<tab>"
+    },
+    {
+      "id": "0x00000012",
+      "text": "TEXT_STMBDZ015_02649_SEQ_18<tab>"
+    },
+    {
+      "id": "0x00000013",
+      "text": "TEXT_STMBDZ015_02649_SEQ_19<tab>"
+    },
+    {
+      "id": "0x00000014",
+      "text": "TEXT_STMBDZ015_02649_SEQ_20<tab>"
+    },
+    {
+      "id": "0x00000015",
+      "text": "TEXT_STMBDZ015_02649_SEQ_21<tab>"
+    },
+    {
+      "id": "0x00000016",
+      "text": "TEXT_STMBDZ015_02649_SEQ_22<tab>"
+    },
+    {
+      "id": "0x00000017",
+      "text": "TEXT_STMBDZ015_02649_SEQ_23<tab>"
+    },
+    {
+      "id": "0x00000018",
+      "text": "TEXT_STMBDZ015_02649_TODO_00<tab>Спасите захваченного человека."
+    },
+    {
+      "id": "0x00000019",
+      "text": "TEXT_STMBDZ015_02649_TODO_01<tab>Сообщите в Leaning Ent."
+    },
+    {
+      "id": "0x0000001A",
+      "text": "TEXT_STMBDZ015_02649_TODO_02<tab>"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "TEXT_STMBDZ015_02649_TODO_03<tab>"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "TEXT_STMBDZ015_02649_TODO_04<tab>"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "TEXT_STMBDZ015_02649_TODO_05<tab>"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "TEXT_STMBDZ015_02649_TODO_06<tab>"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "TEXT_STMBDZ015_02649_TODO_07<tab>"
+    },
+    {
+      "id": "0x00000020",
+      "text": "TEXT_STMBDZ015_02649_TODO_08<tab>"
+    },
+    {
+      "id": "0x00000021",
+      "text": "TEXT_STMBDZ015_02649_TODO_09<tab>"
+    },
+    {
+      "id": "0x00000022",
+      "text": "TEXT_STMBDZ015_02649_TODO_10<tab>"
+    },
+    {
+      "id": "0x00000023",
+      "text": "TEXT_STMBDZ015_02649_TODO_11<tab>"
+    },
+    {
+      "id": "0x00000024",
+      "text": "TEXT_STMBDZ015_02649_TODO_12<tab>"
+    },
+    {
+      "id": "0x00000025",
+      "text": "TEXT_STMBDZ015_02649_TODO_13<tab>"
+    },
+    {
+      "id": "0x00000026",
+      "text": "TEXT_STMBDZ015_02649_TODO_14<tab>"
+    },
+    {
+      "id": "0x00000027",
+      "text": "TEXT_STMBDZ015_02649_TODO_15<tab>"
+    },
+    {
+      "id": "0x00000028",
+      "text": "TEXT_STMBDZ015_02649_TODO_16<tab>"
+    },
+    {
+      "id": "0x00000029",
+      "text": "TEXT_STMBDZ015_02649_TODO_17<tab>"
+    },
+    {
+      "id": "0x0000002A",
+      "text": "TEXT_STMBDZ015_02649_TODO_18<tab>"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "TEXT_STMBDZ015_02649_TODO_19<tab>"
+    },
+    {
+      "id": "0x0000002C",
+      "text": "TEXT_STMBDZ015_02649_TODO_20<tab>"
+    },
+    {
+      "id": "0x0000002D",
+      "text": "TEXT_STMBDZ015_02649_TODO_21<tab>"
+    },
+    {
+      "id": "0x0000002E",
+      "text": "TEXT_STMBDZ015_02649_TODO_22<tab>"
+    },
+    {
+      "id": "0x0000002F",
+      "text": "TEXT_STMBDZ015_02649_TODO_23<tab>"
+    },
+    {
+      "id": "0x00000030",
+      "text": "TEXT_STMBDZ015_02649_LEANINGENT_000_000<tab>Пожалуйста, ты должен помочь моему другу!"
+    },
+    {
+      "id": "0x00000031",
+      "text": "TEXT_STMBDZ015_02649_LEANINGENT_000_001<tab>Мы занимались своими делами, неся немного удобрений, когда на нас напала группа Кикирн. Мне удалось сбежать, но моему другу не повезло."
+    },
+    {
+      "id": "0x00000032",
+      "text": "TEXT_STMBDZ015_02649_LEANINGENT_000_002<tab>Эти подлые крысы, наверняка, связали его на кухне \"Кармин\". Умоляю тебя, спаси его!"
+    },
+    {
+      "id": "0x00000033",
+      "text": "TEXT_STMBDZ015_02649_LEANINGENT_000_010<tab>Эти мерзавцы, безусловно, завели моего друга в Карминскую кухню. Прошу вас, спасите его!"
+    },
+    {
+      "id": "0x00000034",
+      "text": "TEXT_STMBDZ015_02649_FEARVILLAGER02649_000_020<tab>Ох, огромное спасибо!"
+    },
+    {
+      "id": "0x00000035",
+      "text": "TEXT_STMBDZ015_02649_FEARVILLAGER02649_000_021<tab>Я даже не хочу представлять, что бы случилось, если бы ты не пришёл."
+    },
+    {
+      "id": "0x00000036",
+      "text": "TEXT_STMBDZ015_02649_FEARVILLAGER02649_000_022<tab>На самом деле, я не могу больше оставаться здесь. Я собираюсь вернуться в деревню. Еще раз спасибо!"
+    },
+    {
+      "id": "0x00000037",
+      "text": "TEXT_STMBDZ015_02649_LEANINGENT_000_030<tab>Я только что видел своего друга. На нём ни одной царапины!"
+    },
+    {
+      "id": "0x00000038",
+      "text": "TEXT_STMBDZ015_02649_LEANINGENT_000_031<tab>Империя не считает Кикирн бандитами. С ними обращаются так же, как и с любыми другими зверями. Это означает, что когда мы просим помощи в избавлении от грабителей, они говорят нам, что это наша ответственность — иметь дело с вредителями."
+    },
+    {
+      "id": "0x00000039",
+      "text": "TEXT_STMBDZ015_02649_LEANINGENT_000_032<tab>Но на этом достаточно жаловаться. Спасибо, что спас моего друга от поедания этими крысами."
+    }
+  ]
+}

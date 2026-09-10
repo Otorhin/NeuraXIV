@@ -1,0 +1,345 @@
+{
+  "source_file": "exd/PointMenuString_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000003",
+      "text": "Hard-bitten Hoobigo"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Resting Hoobigo"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Sweaty Doppro"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Disconcerted Hoobigo"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Mablu"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Lay of the Brotherhood"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Lay of Repast"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Lay of Reeds"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Lay of Pots"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Lay of Gold"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Lay of Proof"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Lay of Ice"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Blank Pillar"
+    },
+    {
+      "id": "0x00000010",
+      "text": "Wuk Lamat"
+    },
+    {
+      "id": "0x00000011",
+      "text": "Slab of Pink Hexagons"
+    },
+    {
+      "id": "0x00000012",
+      "text": "Liquid-filled Pouch"
+    },
+    {
+      "id": "0x00000013",
+      "text": "Long Rectangular Bar"
+    },
+    {
+      "id": "0x00000014",
+      "text": "Hexagon-patterned Bag"
+    },
+    {
+      "id": "0x00000015",
+      "text": "Black and Yellow Tin"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "Tonawawtan Thief"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "Shetona Collector"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "Tonawawtan Explorer"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "Alxaal"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "Prishe"
+    },
+    {
+      "id": "0x00000020",
+      "text": "Bakool Ja Ja"
+    },
+    {
+      "id": "0x00000021",
+      "text": "Royal Seneschal"
+    },
+    {
+      "id": "0x00000022",
+      "text": "Songbirds Fans"
+    },
+    {
+      "id": "0x00000023",
+      "text": "Quicksand Employee"
+    },
+    {
+      "id": "0x00000024",
+      "text": "Picot"
+    },
+    {
+      "id": "0x00000025",
+      "text": "Vaguely Familiar Cactus"
+    },
+    {
+      "id": "0x00000026",
+      "text": "Bright Blue Bush"
+    },
+    {
+      "id": "0x00000027",
+      "text": "Massive Mushroom Mound"
+    },
+    {
+      "id": "0x00000028",
+      "text": "Tree with Exploding Blooms?"
+    },
+    {
+      "id": "0x00000029",
+      "text": "Spongy Pink Carpet"
+    },
+    {
+      "id": "0x0000002A",
+      "text": "Namingway"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "Wuk Lamat and the Alexandrian Citizen"
+    },
+    {
+      "id": "0x0000002C",
+      "text": "Nexus Arcade"
+    },
+    {
+      "id": "0x0000002D",
+      "text": "Leynode Nine"
+    },
+    {
+      "id": "0x0000002E",
+      "text": "Government Sector"
+    },
+    {
+      "id": "0x0000002F",
+      "text": "0"
+    },
+    {
+      "id": "0x00000030",
+      "text": "1"
+    },
+    {
+      "id": "0x00000031",
+      "text": "2"
+    },
+    {
+      "id": "0x00000032",
+      "text": "3"
+    },
+    {
+      "id": "0x00000033",
+      "text": "4"
+    },
+    {
+      "id": "0x00000034",
+      "text": "5"
+    },
+    {
+      "id": "0x00000035",
+      "text": "6"
+    },
+    {
+      "id": "0x00000036",
+      "text": "7"
+    },
+    {
+      "id": "0x00000037",
+      "text": "8"
+    },
+    {
+      "id": "0x00000038",
+      "text": "9"
+    },
+    {
+      "id": "0x00000039",
+      "text": "View Current Input"
+    },
+    {
+      "id": "0x0000003A",
+      "text": "Clear"
+    },
+    {
+      "id": "0x0000003B",
+      "text": "Confirm "
+    },
+    {
+      "id": "0x0000003C",
+      "text": "Cancel"
+    },
+    {
+      "id": "0x0000003D",
+      "text": "Sapphire"
+    },
+    {
+      "id": "0x0000003E",
+      "text": "Garnet"
+    },
+    {
+      "id": "0x0000003F",
+      "text": "Alexandrite"
+    },
+    {
+      "id": "0x00000040",
+      "text": "Scrawled Phrase"
+    },
+    {
+      "id": "0x00000041",
+      "text": "Cancel"
+    },
+    {
+      "id": "0x00000042",
+      "text": "Spiky Crystalline Tree"
+    },
+    {
+      "id": "0x00000043",
+      "text": "Flowery Shrub"
+    },
+    {
+      "id": "0x00000044",
+      "text": "Tree with Purple Canopy?"
+    },
+    {
+      "id": "0x00000045",
+      "text": "Seemingly Glassblown Bloom"
+    },
+    {
+      "id": "0x00000046",
+      "text": "Iridescent Terrain"
+    },
+    {
+      "id": "0x00000047",
+      "text": "Namingway"
+    },
+    {
+      "id": "0x0000004C",
+      "text": "Carpet"
+    },
+    {
+      "id": "0x0000004D",
+      "text": "Tea Set"
+    },
+    {
+      "id": "0x0000004E",
+      "text": "Fair Maiden"
+    },
+    {
+      "id": "0x0000004F",
+      "text": "Magic Sigil"
+    },
+    {
+      "id": "0x00000050",
+      "text": "Y'nazqha"
+    },
+    {
+      "id": "0x00000051",
+      "text": "Shadefleet"
+    },
+    {
+      "id": "0x00000052",
+      "text": "Ominous Anomaly"
+    },
+    {
+      "id": "0x00000053",
+      "text": "Twisted Tree"
+    },
+    {
+      "id": "0x00000054",
+      "text": "Buoyant Tentacled Lump"
+    },
+    {
+      "id": "0x00000055",
+      "text": "Flowers in Full Bloom"
+    },
+    {
+      "id": "0x00000056",
+      "text": "Glowing Gems"
+    },
+    {
+      "id": "0x00000057",
+      "text": "Floating Fragments"
+    },
+    {
+      "id": "0x00000058",
+      "text": "Namingway"
+    },
+    {
+      "id": "0x00000059",
+      "text": "Building with Triangular Windows"
+    },
+    {
+      "id": "0x0000005A",
+      "text": "Tree with Pink Leaves"
+    },
+    {
+      "id": "0x0000005B",
+      "text": "Tower and Crystal"
+    },
+    {
+      "id": "0x0000005C",
+      "text": "Glossy Silver Clumps"
+    },
+    {
+      "id": "0x0000005D",
+      "text": "Major Roadway"
+    },
+    {
+      "id": "0x0000005E",
+      "text": "Street Sign Structure"
+    },
+    {
+      "id": "0x0000005F",
+      "text": "Namingway"
+    },
+    {
+      "id": "0x00000060",
+      "text": "Nagylvi Bud"
+    }
+  ]
+}

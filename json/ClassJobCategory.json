@@ -1,0 +1,757 @@
+{
+  "source_file": "exd/ClassJobCategory_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "All Classes"
+    },
+    {
+      "id": "0x00000002",
+      "text": "GLA"
+    },
+    {
+      "id": "0x00000003",
+      "text": "PGL"
+    },
+    {
+      "id": "0x00000004",
+      "text": "MRD"
+    },
+    {
+      "id": "0x00000005",
+      "text": "LNC"
+    },
+    {
+      "id": "0x00000006",
+      "text": "ARC"
+    },
+    {
+      "id": "0x00000007",
+      "text": "CNJ"
+    },
+    {
+      "id": "0x00000008",
+      "text": "THM"
+    },
+    {
+      "id": "0x00000009",
+      "text": "CRP"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "BSM"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "ARM"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "GSM"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "LTW"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "WVR"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "ALC"
+    },
+    {
+      "id": "0x00000010",
+      "text": "CUL"
+    },
+    {
+      "id": "0x00000011",
+      "text": "MIN"
+    },
+    {
+      "id": "0x00000012",
+      "text": "BTN"
+    },
+    {
+      "id": "0x00000013",
+      "text": "FSH"
+    },
+    {
+      "id": "0x00000014",
+      "text": "PLD"
+    },
+    {
+      "id": "0x00000015",
+      "text": "MNK"
+    },
+    {
+      "id": "0x00000016",
+      "text": "WAR"
+    },
+    {
+      "id": "0x00000017",
+      "text": "DRG"
+    },
+    {
+      "id": "0x00000018",
+      "text": "BRD"
+    },
+    {
+      "id": "0x00000019",
+      "text": "WHM"
+    },
+    {
+      "id": "0x0000001A",
+      "text": "BLM"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "ACN"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "SMN"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "SCH"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "Disciple of War"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "Disciple of Magic"
+    },
+    {
+      "id": "0x00000020",
+      "text": "Disciple of the Land"
+    },
+    {
+      "id": "0x00000021",
+      "text": "Disciple of the Hand"
+    },
+    {
+      "id": "0x00000022",
+      "text": "Disciples of War or Magic"
+    },
+    {
+      "id": "0x00000023",
+      "text": "Disciples of the Land or Hand"
+    },
+    {
+      "id": "0x00000024",
+      "text": "Any Disciple of War (excluding gladiators)"
+    },
+    {
+      "id": "0x00000025",
+      "text": "GLA PGL MRD LNC ARC ROG CNJ THM ACN PLD WAR DRK"
+    },
+    {
+      "id": "0x00000026",
+      "text": "GLA PLD"
+    },
+    {
+      "id": "0x00000027",
+      "text": "GLA PGL MRD LNC ARC ROG PLD WAR DRK"
+    },
+    {
+      "id": "0x00000028",
+      "text": "GLA PGL MRD LNC ARC ROG CNJ THM ACN MNK WAR DRG BRD NIN"
+    },
+    {
+      "id": "0x00000029",
+      "text": "PGL MNK"
+    },
+    {
+      "id": "0x0000002A",
+      "text": "GLA PGL MRD LNC ARC ROG MNK WAR DRG BRD NIN"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "GLA PGL MRD LNC ARC ROG CNJ THM ACN PLD MNK WAR DRG DRK"
+    },
+    {
+      "id": "0x0000002C",
+      "text": "MRD WAR"
+    },
+    {
+      "id": "0x0000002D",
+      "text": "GLA PGL MRD LNC ARC ROG PLD MNK WAR DRG DRK"
+    },
+    {
+      "id": "0x0000002E",
+      "text": "GLA PGL MRD LNC ARC ROG CNJ THM ACN MNK DRG BRD NIN MCH"
+    },
+    {
+      "id": "0x0000002F",
+      "text": "LNC DRG"
+    },
+    {
+      "id": "0x00000030",
+      "text": "GLA PGL MRD LNC ARC ROG MNK DRG BRD NIN MCH"
+    },
+    {
+      "id": "0x00000031",
+      "text": "GLA PGL MRD LNC ARC ROG CNJ THM ACN BRD BLM SMN MCH"
+    },
+    {
+      "id": "0x00000032",
+      "text": "ARC BRD"
+    },
+    {
+      "id": "0x00000033",
+      "text": "GLA PGL MRD LNC ARC ROG BRD MCH"
+    },
+    {
+      "id": "0x00000034",
+      "text": "GLA PGL MRD LNC ARC ROG CNJ THM ACN PLD WHM SCH AST"
+    },
+    {
+      "id": "0x00000035",
+      "text": "CNJ WHM"
+    },
+    {
+      "id": "0x00000036",
+      "text": "GLA PGL MRD LNC ARC ROG CNJ THM ACN WHM BLM SMN SCH AST"
+    },
+    {
+      "id": "0x00000037",
+      "text": "THM BLM"
+    },
+    {
+      "id": "0x00000038",
+      "text": "GLA CNJ THM PLD WHM BLM BST"
+    },
+    {
+      "id": "0x00000039",
+      "text": "GLA THM PLD BLM BST"
+    },
+    {
+      "id": "0x0000003A",
+      "text": "GLA CNJ PLD WHM BST"
+    },
+    {
+      "id": "0x0000003B",
+      "text": "GLA MRD PLD WAR DRK GNB"
+    },
+    {
+      "id": "0x0000003C",
+      "text": "GLA MRD LNC PLD WAR DRG DRK GNB RPR"
+    },
+    {
+      "id": "0x0000003D",
+      "text": "CNJ THM ACN WHM SCH AST"
+    },
+    {
+      "id": "0x0000003E",
+      "text": "CNJ THM ACN WHM BLM SMN SCH AST"
+    },
+    {
+      "id": "0x0000003F",
+      "text": "THM ACN BLM SMN RDM BLU PCT"
+    },
+    {
+      "id": "0x00000040",
+      "text": "CNJ WHM SCH AST SGE"
+    },
+    {
+      "id": "0x00000041",
+      "text": "PGL MNK SAM BST"
+    },
+    {
+      "id": "0x00000042",
+      "text": "ARC BRD MCH DNC"
+    },
+    {
+      "id": "0x00000043",
+      "text": "GLA PGL MRD LNC ROG MNK DRG NIN"
+    },
+    {
+      "id": "0x00000044",
+      "text": "ACN SMN SCH"
+    },
+    {
+      "id": "0x00000045",
+      "text": "ACN SMN"
+    },
+    {
+      "id": "0x00000046",
+      "text": "Any Disciple of the Hand (excluding culinarians)"
+    },
+    {
+      "id": "0x00000047",
+      "text": "GLA PGL MRD LNC ARC ROG CNJ THM ACN WHM BLM SMN SCH"
+    },
+    {
+      "id": "0x00000048",
+      "text": "CNJ THM ACN WHM BLM SMN SCH"
+    },
+    {
+      "id": "0x00000049",
+      "text": "CNJ WHM SCH AST SGE"
+    },
+    {
+      "id": "0x0000004C",
+      "text": "LNC DRG RPR"
+    },
+    {
+      "id": "0x00000054",
+      "text": "PGL LNC MNK DRG SAM RPR BST"
+    },
+    {
+      "id": "0x00000055",
+      "text": "Jobs of the Disciples of War or Magic"
+    },
+    {
+      "id": "0x00000056",
+      "text": "PLD WAR DRK GNB MNK DRG NIN SAM"
+    },
+    {
+      "id": "0x00000057",
+      "text": "BRD MCH DNC BLM SMN RDM WHM SCH AST"
+    },
+    {
+      "id": "0x00000058",
+      "text": "GLA MRD PGL LNC ARC ROG PLD MNK WAR DRG BRD NIN MCH"
+    },
+    {
+      "id": "0x00000059",
+      "text": "BLM SMN RDM PCT"
+    },
+    {
+      "id": "0x0000005A",
+      "text": "ARC CNJ THM ACN WHM BRD BLM SMN SCH MCH AST"
+    },
+    {
+      "id": "0x0000005B",
+      "text": "ROG"
+    },
+    {
+      "id": "0x0000005C",
+      "text": "NIN"
+    },
+    {
+      "id": "0x0000005D",
+      "text": "ROG NIN"
+    },
+    {
+      "id": "0x0000005E",
+      "text": "GLA PGL MRD LNC ARC ROG NIN"
+    },
+    {
+      "id": "0x0000005F",
+      "text": "GLA PGL MRD LNC ROG NIN"
+    },
+    {
+      "id": "0x00000060",
+      "text": "MCH"
+    },
+    {
+      "id": "0x00000061",
+      "text": "PGL LNC ARC ROG MNK DRG BRD NIN MCH"
+    },
+    {
+      "id": "0x00000062",
+      "text": "DRK"
+    },
+    {
+      "id": "0x00000063",
+      "text": "AST"
+    },
+    {
+      "id": "0x00000064",
+      "text": "ARC ROG BRD NIN MCH"
+    },
+    {
+      "id": "0x00000065",
+      "text": "PGL LNC ROG MNK DRG NIN"
+    },
+    {
+      "id": "0x00000066",
+      "text": "PGL ROG MNK NIN SAM VPR BST"
+    },
+    {
+      "id": "0x00000067",
+      "text": "ROG NIN VPR"
+    },
+    {
+      "id": "0x00000069",
+      "text": "ARC ROG BRD NIN MCH DNC VPR"
+    },
+    {
+      "id": "0x0000006A",
+      "text": "GLA MRD PGL LNC ARC ROG BRD"
+    },
+    {
+      "id": "0x0000006B",
+      "text": "PLD MNK WAR DRG BRD WHM BLM SMN SCH NIN MCH DRK AST"
+    },
+    {
+      "id": "0x0000006C",
+      "text": "Disciples of War or Magic"
+    },
+    {
+      "id": "0x0000006E",
+      "text": "Jobs of the Disciples of War or Magic"
+    },
+    {
+      "id": "0x0000006F",
+      "text": "SAM"
+    },
+    {
+      "id": "0x00000070",
+      "text": "RDM"
+    },
+    {
+      "id": "0x00000071",
+      "text": "GLA MRD PLD WAR DRK GNB"
+    },
+    {
+      "id": "0x00000072",
+      "text": "PGL LNC ROG MNK DRG NIN SAM RPR VPR"
+    },
+    {
+      "id": "0x00000073",
+      "text": "ARC BRD MCH DNC"
+    },
+    {
+      "id": "0x00000074",
+      "text": "THM ACN BLM SMN RDM BLU PCT"
+    },
+    {
+      "id": "0x00000075",
+      "text": "CNJ WHM SCH AST SGE"
+    },
+    {
+      "id": "0x00000076",
+      "text": "PGL LNC ARC ROG MNK DRG BRD NIN MCH SAM DNC RPR VPR"
+    },
+    {
+      "id": "0x00000077",
+      "text": "PGL LNC THM ACN ROG MNK DRG BLM SMN NIN SAM RDM BLU RPR VPR PCT"
+    },
+    {
+      "id": "0x00000078",
+      "text": "CNJ THM ACN WHM BLM SMN SCH AST RDM BLU SGE PCT"
+    },
+    {
+      "id": "0x00000079",
+      "text": "PLD WAR DRK GNB"
+    },
+    {
+      "id": "0x0000007A",
+      "text": "MNK DRG NIN SAM RPR VPR"
+    },
+    {
+      "id": "0x0000007B",
+      "text": "BRD MCH DNC"
+    },
+    {
+      "id": "0x0000007C",
+      "text": "BLM SMN RDM BLU PCT"
+    },
+    {
+      "id": "0x0000007D",
+      "text": "WHM SCH AST SGE"
+    },
+    {
+      "id": "0x0000007E",
+      "text": "MNK DRG BRD NIN MCH SAM DNC RPR VPR"
+    },
+    {
+      "id": "0x0000007F",
+      "text": "MNK DRG BLM SMN NIN SAM RDM BLU RPR VPR PCT"
+    },
+    {
+      "id": "0x00000080",
+      "text": "WHM BLM SMN SCH AST RDM BLU SGE PCT"
+    },
+    {
+      "id": "0x00000081",
+      "text": "BLU"
+    },
+    {
+      "id": "0x00000082",
+      "text": "All classes and jobs (excluding limited jobs)"
+    },
+    {
+      "id": "0x00000083",
+      "text": "MNK DRG BRD BLM SMN NIN MCH SAM RDM DNC RPR VPR PCT"
+    },
+    {
+      "id": "0x00000084",
+      "text": "MNK DRG BRD WHM BLM SMN SCH NIN MCH AST SAM RDM DNC RPR SGE VPR PCT"
+    },
+    {
+      "id": "0x00000085",
+      "text": "WHM SCH AST SGE"
+    },
+    {
+      "id": "0x00000086",
+      "text": "PLD WAR DRK GNB"
+    },
+    {
+      "id": "0x00000087",
+      "text": "PLD MNK WAR DRG BRD BLM SMN NIN MCH DRK SAM RDM GNB DNC RPR VPR PCT"
+    },
+    {
+      "id": "0x00000088",
+      "text": "PLD WAR WHM SCH DRK AST GNB SGE"
+    },
+    {
+      "id": "0x00000089",
+      "text": "PLD MNK WAR DRG BRD WHM BLM SMN SCH NIN MCH DRK AST SAM RDM GNB DNC RPR SGE VPR PCT"
+    },
+    {
+      "id": "0x0000008A",
+      "text": "PLD MNK WAR DRG NIN DRK SAM GNB RPR VPR"
+    },
+    {
+      "id": "0x0000008B",
+      "text": "BRD MCH DNC"
+    },
+    {
+      "id": "0x0000008C",
+      "text": "WHM BLM SMN SCH AST RDM SGE PCT"
+    },
+    {
+      "id": "0x0000008D",
+      "text": "PLD MNK WAR DRG BRD WHM BLM SMN SCH MCH DRK AST SAM RDM GNB DNC RPR SGE VPR PCT"
+    },
+    {
+      "id": "0x0000008E",
+      "text": "Any Disciple of War or Magic (excluding limited jobs)"
+    },
+    {
+      "id": "0x0000008F",
+      "text": "Disciples of War (excluding limited jobs)"
+    },
+    {
+      "id": "0x00000090",
+      "text": "Any Disciple of Magic (excluding limited jobs)"
+    },
+    {
+      "id": "0x00000091",
+      "text": "PLD MNK WAR DRG BRD NIN MCH DRK SAM GNB DNC RPR VPR"
+    },
+    {
+      "id": "0x00000092",
+      "text": "Any job of the Disciples of War or Magic (excluding limited jobs)"
+    },
+    {
+      "id": "0x00000093",
+      "text": "BLM SMN RDM PCT"
+    },
+    {
+      "id": "0x00000094",
+      "text": "MNK DRG NIN SAM RPR VPR"
+    },
+    {
+      "id": "0x00000095",
+      "text": "GNB"
+    },
+    {
+      "id": "0x00000096",
+      "text": "DNC"
+    },
+    {
+      "id": "0x00000097",
+      "text": "BSM, ARM, GSM"
+    },
+    {
+      "id": "0x00000098",
+      "text": "CRP, LTW, WVR"
+    },
+    {
+      "id": "0x00000099",
+      "text": "ALC, CUL"
+    },
+    {
+      "id": "0x0000009A",
+      "text": "MIN, BTN"
+    },
+    {
+      "id": "0x0000009B",
+      "text": "FSH"
+    },
+    {
+      "id": "0x0000009C",
+      "text": "Tank (excluding limited jobs)"
+    },
+    {
+      "id": "0x0000009D",
+      "text": "Healer (excluding limited jobs)"
+    },
+    {
+      "id": "0x0000009E",
+      "text": "Physical DPS (excluding limited jobs)"
+    },
+    {
+      "id": "0x0000009F",
+      "text": "Magical Ranged DPS (excluding limited jobs)"
+    },
+    {
+      "id": "0x000000A0",
+      "text": "ACN SCH"
+    },
+    {
+      "id": "0x000000A1",
+      "text": "GLA PGL MRD LNC ARC PLD MNK WAR DRG BRD ROG NIN MCH DRK SAM GNB DNC RPR VPR"
+    },
+    {
+      "id": "0x000000A2",
+      "text": "PLD MNK WAR DRG BRD WHM BLM SMN SCH NIN MCH DRK AST SAM RDM GNB DNC"
+    },
+    {
+      "id": "0x000000A3",
+      "text": "MNK DRG BRD BLM SMN NIN MCH SAM RDM DNC RPR VPR PCT"
+    },
+    {
+      "id": "0x000000A4",
+      "text": "MNK DRG BRD WHM BLM SMN SCH NIN MCH AST SAM RDM DNC RPR SGE VPR PCT"
+    },
+    {
+      "id": "0x000000A5",
+      "text": "WHM SCH AST SGE"
+    },
+    {
+      "id": "0x000000A6",
+      "text": "PLD WAR DRK GNB"
+    },
+    {
+      "id": "0x000000A7",
+      "text": "PLD MNK WAR DRG BRD BLM SMN NIN MCH DRK SAM RDM GNB DNC RPR VPR PCT"
+    },
+    {
+      "id": "0x000000A8",
+      "text": "PLD WAR WHM SCH DRK AST GNB SGE"
+    },
+    {
+      "id": "0x000000A9",
+      "text": "PLD MNK WAR DRG BRD WHM BLM SMN SCH NIN MCH DRK AST SAM RDM GNB DNC RPR SGE VPR PCT"
+    },
+    {
+      "id": "0x000000AA",
+      "text": "PLD MNK WAR DRG NIN DRK SAM GNB RPR VPR"
+    },
+    {
+      "id": "0x000000AB",
+      "text": "BRD MCH DNC"
+    },
+    {
+      "id": "0x000000AC",
+      "text": "WHM BLM SMN SCH AST RDM SGE PCT"
+    },
+    {
+      "id": "0x000000AD",
+      "text": "PLD MNK WAR DRG BRD WHM BLM SMN SCH MCH DRK AST SAM RDM GNB DNC RPR SGE VPR PCT"
+    },
+    {
+      "id": "0x000000AE",
+      "text": "PLD MNK WAR DRG BRD NIN MCH DRK SAM GNB DNC RPR VPR"
+    },
+    {
+      "id": "0x000000AF",
+      "text": "BLM SMN RDM PCT"
+    },
+    {
+      "id": "0x000000B0",
+      "text": "MNK DRG NIN SAM RPR VPR"
+    },
+    {
+      "id": "0x000000B1",
+      "text": "MNK DRG BRD NIN MCH SAM DNC RPR VPR"
+    },
+    {
+      "id": "0x000000B2",
+      "text": "PLD WAR BLM SMN DRK RDM GNB PCT"
+    },
+    {
+      "id": "0x000000B3",
+      "text": "WHM SMN SCH AST RDM SGE PCT"
+    },
+    {
+      "id": "0x000000B4",
+      "text": "RPR"
+    },
+    {
+      "id": "0x000000B5",
+      "text": "SGE"
+    },
+    {
+      "id": "0x000000BA",
+      "text": "Tank (excluding limited jobs)"
+    },
+    {
+      "id": "0x000000BB",
+      "text": "Healer (excluding limited jobs)"
+    },
+    {
+      "id": "0x000000BC",
+      "text": "Melee DPS (excluding limited jobs)"
+    },
+    {
+      "id": "0x000000BD",
+      "text": "Physical Ranged DPS (excluding limited jobs)"
+    },
+    {
+      "id": "0x000000BE",
+      "text": "Magical Ranged DPS (excluding limited jobs)"
+    },
+    {
+      "id": "0x000000BF",
+      "text": "PLD MNK WAR DRG BRD WHM BLM SMN SCH NIN MCH DRK AST SAM RDM GNB DNC RPR SGE"
+    },
+    {
+      "id": "0x000000C0",
+      "text": "Any Disciple of War or Magic (excluding limited jobs)"
+    },
+    {
+      "id": "0x000000C1",
+      "text": "PGL LNC ARC ROG CNJ THM ACN MNK DRG BRD WHM BLM SMN SCH NIN MCH AST SAM RDM DNC RPR SGE VPR PCT"
+    },
+    {
+      "id": "0x000000C2",
+      "text": "GLA MRD CNJ PLD WAR WHM SCH DRK AST GNB SGE"
+    },
+    {
+      "id": "0x000000C3",
+      "text": "GLA MRD PGL LNC ARC ROG THM ACN PLD MNK WAR DRG BRD BLM SMN NIN MCH DRK SAM RDM GNB DNC RPR VPR PCT"
+    },
+    {
+      "id": "0x000000C4",
+      "text": "VPR"
+    },
+    {
+      "id": "0x000000C5",
+      "text": "PCT"
+    },
+    {
+      "id": "0x000000C6",
+      "text": "THM BLM ACN SMN RDM PCT"
+    },
+    {
+      "id": "0x000000C7",
+      "text": "CNJ THM WHM BLM ACN SMN SCH AST RDM SGE PCT"
+    },
+    {
+      "id": "0x000000C8",
+      "text": "PLD MNK WAR DRG BRD WHM BLM SMN SCH NIN MCH DRK AST SAM RDM GNB DNC RPR SGE VPR PCT"
+    },
+    {
+      "id": "0x000000C9",
+      "text": "PLD MNK WAR DRG BRD WHM BLM SMN SCH NIN MCH DRK AST SAM RDM GNB DNC RPR SGE VPR PCT"
+    },
+    {
+      "id": "0x000000CA",
+      "text": "MIN BTN"
+    },
+    {
+      "id": "0x000000CB",
+      "text": "BST"
+    }
+  ]
+}

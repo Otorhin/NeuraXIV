@@ -1,0 +1,101 @@
+{
+  "source_file": "exd/custom/009/CtsWksMechaEntryTicketCounter_00932_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_EXCHANGE_CONFIRM<tab>Подача заявки на пилотирование обойдётся вам в <var 22 E803 ((,)) /var> <var 31 ((Item)) 04E8020302 /var>. Что выберете?"
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_NOT_ENOUGH_POINT<tab>Извини, но сначала мне понадобится <var 22 E803 ((,)) /var> <var 31 ((Item)) 04E8020302 /var> от тебя, и только потом я смогу выдать тебе анкету пилота. Удачи!"
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_FIRST_TALK<tab>Я отвечаю за мехов и оформляю заявки на пилотов для участников инициативы. Что вам нужно?"
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TICKET_GET<tab>Вот, держи, <var 2C ((<var 29 EB02 /var>)) (( )) 02 /var>. Подай это заявление в начале операции с мехами — если повезёт, тебя выберут для участия!"
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TICKET_GETED<tab>У тебя уже есть заявка пилота, <var 2C ((<var 29 EB02 /var>)) (( )) 02 /var>! Если готов её подать, сделай это через экзопланшет, приступая к директиве мехоперации."
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TICKET_QUESTION<tab>Запросить заявку на должность пилота?"
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TALK_QUESTION<tab>Что ты будешь делать?"
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TALK_CHOICES1<tab>Запросить заявку пилота."
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TALK_CHOICES2<tab>Отправляйтесь в зону наземной поддержки."
+    },
+    {
+      "id": "0x00000009",
+      "text": "TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TALK_CHOICES3<tab>Узнайте о наземной поддержке."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TALK_CHOICES4<tab>Ничего."
+    },
+    {
+      "id": "0x0000000B",
+      "text": "TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TALK_SUPPORTER1<tab>Наземные специалисты поддержки помогают в районах, где задействованы мехи. Вам предстоит использовать специализированное переносное оборудование для решения задач, не по силам громоздкой технике."
+    },
+    {
+      "id": "0x0000000C",
+      "text": "TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TALK_SUPPORTER2<tab>Во время многих операций в зоне наземной поддержки можно обнаружить аналитические устройства, называемые «полевыми сканерами»."
+    },
+    {
+      "id": "0x0000000D",
+      "text": "TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_WARP_TALK1<tab>Это не учебная тревога─операция с мехами уже началась! Если хочешь оказать поддержку с земли, я немедленно тебя отправлю!"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_QUESTION<tab>Отправиться в зону наземной поддержки?"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_WARP_TALK2<tab>Не терпится, да? Как только поступит приказ о следующей мехоперации, с радостью тебя туда отправлю."
+    },
+    {
+      "id": "0x00000010",
+      "text": "TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_BEFORE_QUEST_TALK<tab>Впервые здесь, полагаю? Уже поговорили с Ищущимпутём?"
+    },
+    {
+      "id": "0x00000011",
+      "text": "TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TALK_CHOICES5<tab>Узнайте больше о типах заявок."
+    },
+    {
+      "id": "0x00000012",
+      "text": "TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TICKET_KINDS_TALK1<tab>Прежде чем я оформлю заявку на пилотирование, укажите желаемое место проведения операции."
+    },
+    {
+      "id": "0x00000013",
+      "text": "TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TICKET_KINDS_TALK2<tab>Тебе также нужно будет платить местной валютой, так что обязательно подготовься!"
+    },
+    {
+      "id": "0x00000014",
+      "text": "TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_BEFORE_QUEST_TALK_C1W2<tab>Добро пожаловать в Фаэнну! Вы уже поговорили с Сёрчингвеем?"
+    },
+    {
+      "id": "0x00000015",
+      "text": "TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_BEFORE_QUEST_TALK_C1W3<tab>Добро пожаловать в Ойзис! Рекомендую поговорить с Searchingway, чтобы узнать, чем мы здесь, на звезде, занимаемся."
+    },
+    {
+      "id": "0x00000016",
+      "text": "TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_BEFORE_QUEST_TALK_C1W4<tab>Добро пожаловать в Ауксезию! Поговорите с Сёрчингвеем — он расскажет о текущих работах."
+    },
+    {
+      "id": "0x00000017",
+      "text": "TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TALK_SUPPORTER3<tab>Все собранные материалы следует сдавать этим полевым сканерам. Подойдите к одному из них — остальное он сделает сам."
+    }
+  ]
+}

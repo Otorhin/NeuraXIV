@@ -1,0 +1,533 @@
+{
+  "source_file": "exd/JournalCategory_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "Sephiroth Missions"
+    },
+    {
+      "id": "0x00000001",
+      "text": "Seventh Umbral Era Main Scenario Quests"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Seventh Astral Era Main Scenario Quests"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Heavensward Main Scenario Quests"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Dragonsong Main Scenario Quests"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Post-Dragonsong Main Scenario Quests"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Stormblood Main Scenario Quests"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Post-Stormblood Main Scenario Quests"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Shadowbringers Main Scenario Quests"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Post-Shadowbringers Main Scenario Quests"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Post-Shadowbringers Main Scenario Quests II"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Endwalker Main Scenario Quests"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Post-Endwalker Main Scenario Quests"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Dawntrail Main Scenario Quests"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Post-Dawntrail Main Scenario Quests"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Post-Dawntrail Main Scenario Quests II"
+    },
+    {
+      "id": "0x00000010",
+      "text": "Chronicles of a New Era - Primals"
+    },
+    {
+      "id": "0x00000011",
+      "text": "Chronicles of a New Era - Bahamut"
+    },
+    {
+      "id": "0x00000012",
+      "text": "Chronicles of a New Era - The Crystal Tower"
+    },
+    {
+      "id": "0x00000013",
+      "text": "Chronicles of a New Era - Alexander"
+    },
+    {
+      "id": "0x00000014",
+      "text": "Chronicles of a New Era - The Warring Triad"
+    },
+    {
+      "id": "0x00000015",
+      "text": "Chronicles of a New Era - The Shadow of Mhach"
+    },
+    {
+      "id": "0x00000016",
+      "text": "Chronicles of a New Era - Omega"
+    },
+    {
+      "id": "0x00000017",
+      "text": "Chronicles of a New Era - Return to Ivalice"
+    },
+    {
+      "id": "0x00000018",
+      "text": "Chronicles of a New Era - The Four Lords"
+    },
+    {
+      "id": "0x00000019",
+      "text": "Chronicles of a New Era - Eden"
+    },
+    {
+      "id": "0x0000001A",
+      "text": "YoRHa: Dark Apocalypse"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "Chronicles of a New Era - The Sorrow of Werlyt"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "Chronicles of a New Era - Pandæmonium"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "Chronicles of a New Era - Myths of the Realm"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "Chronicles of a New Era - The Arcadion"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "Chronicles of a New Era - Echoes of Vana'diel"
+    },
+    {
+      "id": "0x00000020",
+      "text": "Yok Huy Quests"
+    },
+    {
+      "id": "0x00000021",
+      "text": "Mamool Ja Quests"
+    },
+    {
+      "id": "0x00000022",
+      "text": "Pelupelu Quests"
+    },
+    {
+      "id": "0x00000023",
+      "text": "Intersocietal Quests"
+    },
+    {
+      "id": "0x00000024",
+      "text": "Amalj'aa Quests"
+    },
+    {
+      "id": "0x00000025",
+      "text": "Sylph Quests"
+    },
+    {
+      "id": "0x00000026",
+      "text": "Kobold Quests"
+    },
+    {
+      "id": "0x00000027",
+      "text": "Sahagin Quests"
+    },
+    {
+      "id": "0x00000028",
+      "text": "Ixal Quests"
+    },
+    {
+      "id": "0x00000029",
+      "text": "Vanu Vanu Quests"
+    },
+    {
+      "id": "0x0000002A",
+      "text": "Vath Quests"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "Moogle Quests"
+    },
+    {
+      "id": "0x0000002C",
+      "text": "Kojin Quests"
+    },
+    {
+      "id": "0x0000002D",
+      "text": "Ananta Quests"
+    },
+    {
+      "id": "0x0000002E",
+      "text": "Namazu Quests"
+    },
+    {
+      "id": "0x0000002F",
+      "text": "Pixie Quests"
+    },
+    {
+      "id": "0x00000030",
+      "text": "Qitari Quests"
+    },
+    {
+      "id": "0x00000031",
+      "text": "Dwarf Quests"
+    },
+    {
+      "id": "0x00000032",
+      "text": "Arkasodara Quests"
+    },
+    {
+      "id": "0x00000033",
+      "text": "Omicron Quests"
+    },
+    {
+      "id": "0x00000034",
+      "text": "Loporrit Quests"
+    },
+    {
+      "id": "0x00000035",
+      "text": "Intersocietal Quests"
+    },
+    {
+      "id": "0x00000036",
+      "text": "Chronicles of Light"
+    },
+    {
+      "id": "0x00000037",
+      "text": "Hildibrand Sidequests"
+    },
+    {
+      "id": "0x00000038",
+      "text": "Weapon Enhancement Sidequests"
+    },
+    {
+      "id": "0x00000039",
+      "text": "Records of Unusual Endeavors"
+    },
+    {
+      "id": "0x0000003A",
+      "text": "Side Story Quests"
+    },
+    {
+      "id": "0x0000003B",
+      "text": "Lominsan Sidequests"
+    },
+    {
+      "id": "0x0000003C",
+      "text": "Gridanian Sidequests"
+    },
+    {
+      "id": "0x0000003D",
+      "text": "Ul'dahn Sidequests"
+    },
+    {
+      "id": "0x0000003E",
+      "text": "Coerthan Sidequests"
+    },
+    {
+      "id": "0x0000003F",
+      "text": "Mor Dhonan Sidequests"
+    },
+    {
+      "id": "0x00000040",
+      "text": "Ishgardian Sidequests"
+    },
+    {
+      "id": "0x00000041",
+      "text": "Abalathian Sidequests"
+    },
+    {
+      "id": "0x00000042",
+      "text": "Dravanian Sidequests"
+    },
+    {
+      "id": "0x00000043",
+      "text": "Azys Lla Sidequests"
+    },
+    {
+      "id": "0x00000044",
+      "text": "Gyr Abanian Sidequests"
+    },
+    {
+      "id": "0x00000045",
+      "text": "Othardian Sidequests"
+    },
+    {
+      "id": "0x00000046",
+      "text": "Hingan Sidequests"
+    },
+    {
+      "id": "0x00000047",
+      "text": "Lakeland Sidequests"
+    },
+    {
+      "id": "0x00000048",
+      "text": "Kholusian Sidequests"
+    },
+    {
+      "id": "0x00000049",
+      "text": "Amh Araeng Sidequests"
+    },
+    {
+      "id": "0x0000004A",
+      "text": "Il Mheg Sidequests"
+    },
+    {
+      "id": "0x0000004B",
+      "text": "Rak'tika Sidequests"
+    },
+    {
+      "id": "0x0000004C",
+      "text": "Tempest Sidequests"
+    },
+    {
+      "id": "0x0000004D",
+      "text": "Sharlayan Sidequests"
+    },
+    {
+      "id": "0x0000004E",
+      "text": "Thavnairian Sidequests"
+    },
+    {
+      "id": "0x0000004F",
+      "text": "Garlean Sidequests"
+    },
+    {
+      "id": "0x00000050",
+      "text": "Mare Lamentorum Sidequests"
+    },
+    {
+      "id": "0x00000051",
+      "text": "Elpis Sidequests"
+    },
+    {
+      "id": "0x00000052",
+      "text": "Ultima Thule Sidequests"
+    },
+    {
+      "id": "0x00000053",
+      "text": "Yok Tural Sidequests"
+    },
+    {
+      "id": "0x00000054",
+      "text": "Xak Tural Sidequests"
+    },
+    {
+      "id": "0x00000055",
+      "text": "Unlost World Sidequests"
+    },
+    {
+      "id": "0x00000056",
+      "text": "Disciple of War Quests"
+    },
+    {
+      "id": "0x00000057",
+      "text": "Disciple of Magic Quests"
+    },
+    {
+      "id": "0x00000058",
+      "text": "Disciple of the Hand Quests"
+    },
+    {
+      "id": "0x00000059",
+      "text": "Disciple of the Land Quests"
+    },
+    {
+      "id": "0x0000005A",
+      "text": "Crystalline Mean Quests"
+    },
+    {
+      "id": "0x0000005B",
+      "text": "Studium Quests"
+    },
+    {
+      "id": "0x0000005C",
+      "text": "Wachumeqimeqi Quests"
+    },
+    {
+      "id": "0x0000005D",
+      "text": "Disciple of War Job Quests"
+    },
+    {
+      "id": "0x0000005E",
+      "text": "Disciple of Magic Job Quests"
+    },
+    {
+      "id": "0x0000005F",
+      "text": "Role Quests"
+    },
+    {
+      "id": "0x00000060",
+      "text": "Grand Company Quests"
+    },
+    {
+      "id": "0x00000061",
+      "text": "Seasonal Events"
+    },
+    {
+      "id": "0x00000062",
+      "text": "Special Quests"
+    },
+    {
+      "id": "0x00000063",
+      "text": "Battlecraft Leves"
+    },
+    {
+      "id": "0x00000064",
+      "text": "Mining Leves"
+    },
+    {
+      "id": "0x00000065",
+      "text": "Botany Leves"
+    },
+    {
+      "id": "0x00000066",
+      "text": "Fishing Leves"
+    },
+    {
+      "id": "0x00000067",
+      "text": "Carpentry Leves"
+    },
+    {
+      "id": "0x00000068",
+      "text": "Blacksmithing Leves"
+    },
+    {
+      "id": "0x00000069",
+      "text": "Armoring Leves"
+    },
+    {
+      "id": "0x0000006A",
+      "text": "Goldsmithing Leves"
+    },
+    {
+      "id": "0x0000006B",
+      "text": "Leatherworking Leves"
+    },
+    {
+      "id": "0x0000006C",
+      "text": "Clothcrafting Leves"
+    },
+    {
+      "id": "0x0000006D",
+      "text": "Alchemy Leves"
+    },
+    {
+      "id": "0x0000006E",
+      "text": "Cooking Leves"
+    },
+    {
+      "id": "0x0000006F",
+      "text": "Ishgardian Battlecraft Leves"
+    },
+    {
+      "id": "0x00000070",
+      "text": "Ishgardian Mining Leves"
+    },
+    {
+      "id": "0x00000071",
+      "text": "Ishgardian Botany Leves"
+    },
+    {
+      "id": "0x00000072",
+      "text": "Ishgardian Fishing Leves"
+    },
+    {
+      "id": "0x00000073",
+      "text": "Ishgardian Carpentry Leves"
+    },
+    {
+      "id": "0x00000074",
+      "text": "Ishgardian Blacksmithing Leves"
+    },
+    {
+      "id": "0x00000075",
+      "text": "Ishgardian Armoring Leves"
+    },
+    {
+      "id": "0x00000076",
+      "text": "Ishgardian Goldsmithing Leves"
+    },
+    {
+      "id": "0x00000077",
+      "text": "Ishgardian Leatherworking Leves"
+    },
+    {
+      "id": "0x00000078",
+      "text": "Ishgardian Clothcrafting Leves"
+    },
+    {
+      "id": "0x00000079",
+      "text": "Ishgardian Alchemy Leves"
+    },
+    {
+      "id": "0x0000007A",
+      "text": "Ishgardian Cooking Leves"
+    },
+    {
+      "id": "0x0000007B",
+      "text": "Faction Leves"
+    },
+    {
+      "id": "0x0000007C",
+      "text": "Company Leves"
+    },
+    {
+      "id": "0x0000007D",
+      "text": "A Realm Reborn Duties"
+    },
+    {
+      "id": "0x0000007E",
+      "text": "Heavensward Duties"
+    },
+    {
+      "id": "0x0000007F",
+      "text": "Stormblood Duties"
+    },
+    {
+      "id": "0x00000080",
+      "text": "Shadowbringers Duties"
+    },
+    {
+      "id": "0x00000081",
+      "text": "Endwalker Duties"
+    },
+    {
+      "id": "0x00000082",
+      "text": "Dawntrail Duties"
+    },
+    {
+      "id": "0x00000083",
+      "text": "Legacy Quests"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "source_file": "exd/custom/002/CmnGscChocoboRaceTraining_00227_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_CMNGSCCHOCOBORACETRAINING_00227_TALK_ACTOR_02<tab>Какую именно тренировку вы задумали для <var 29 EA02 /var>, <var 08 E905 ((госпожи)) ((господина)) /var>?"
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_CMNGSCCHOCOBORACETRAINING_00227_001_DONE<tab>Как и ожидалось, ваш гоночный чокобо прекрасно отреагировал на тренировку! Уверен, результаты вас порадуют."
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_CMNGSCCHOCOBORACETRAINING_00227_TALK_ACTOR<tab>Какую тренировку вы имели в виду, <var 08 E905 ((госпожа)) ((господин)) /var>?"
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_001_01<tab>Погодите─разве не рановато заводить этот разговор? У вас ведь даже нет зарегистрированного гоночного чокобо!"
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_001_02<tab>Гоночных чокобо нельзя тренировать, пока они не будут официально зарегистрированы."
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_002_01<tab>Хм-м, пожалуй, я поспешил с выводами. Боюсь, сейчас вашему скаковому чокобо дальнейшие тренировки не пойдут на пользу."
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_002_02<tab>Дополнительные тренировки станут доступны по мере повышения ранга вашего гоночного чокобо."
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_003_01<tab>...Разве мы кое о чём не забыли? Для полноценной тренировки нужно как следует подкрепиться."
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_003_02<tab>Проводить тренировки без необходимого корма невозможно. Приобрести его можно у торговца снаряжением и кормом у стойки скачек."
+    },
+    {
+      "id": "0x00000009",
+      "text": "TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_004_01<tab>Прошу прощения, <var 08 E905 ((madam)) ((sir)) /var>, но вынужден возразить. По моему профессиональному мнению, вашему скаковому чокобо подобные тренировки не пойдут на пользу."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_004_02<tab>У вашего гоночного чокобо больше нельзя повысить показатель «<var 2F ((<var 28 ((RacingChocoboParam)) E80201 /var>)) /var>»."
+    },
+    {
+      "id": "0x0000000B",
+      "text": "TEXT_CMNGSCCHOCOBORACETRAINING_00227_001_Q1<tab>"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "TEXT_CMNGSCCHOCOBORACETRAINING_00227_001_A1<tab>"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "TEXT_CMNGSCCHOCOBORACETRAINING_00227_001_A2<tab>"
+    }
+  ]
+}

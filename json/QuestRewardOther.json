@@ -1,0 +1,73 @@
+{
+  "source_file": "exd/QuestRewardOther_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "POW!"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Aether Current"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Collectable Action"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Specialist Action"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Aether Compass"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Yo-kai Medallium"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Wondrous Tails"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Spearfishing"
+    },
+    {
+      "id": "0x00000009",
+      "text": "???"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Soul of the Paladin"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Soul of the Monk"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Soul of the Warrior"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Soul of the Dragoon"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Soul of the Bard"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Soul of the White Mage"
+    },
+    {
+      "id": "0x00000010",
+      "text": "Soul of the Black Mage"
+    },
+    {
+      "id": "0x00000011",
+      "text": "???"
+    }
+  ]
+}

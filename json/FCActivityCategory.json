@@ -1,0 +1,45 @@
+{
+  "source_file": "exd/FCActivityCategory_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "All"
+    },
+    {
+      "id": "0x00000001",
+      "text": "Entitlements"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Membership"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Organizational"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Actions"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Housing"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Garden"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Chocobo Raising"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Company Workshop"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Airship/Submersible"
+    }
+  ]
+}

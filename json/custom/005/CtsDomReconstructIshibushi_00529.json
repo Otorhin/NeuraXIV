@@ -1,0 +1,257 @@
+{
+  "source_file": "exd/custom/005/CtsDomReconstructIshibushi_00529_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_ISHIBUSHI_000_000<tab>Не могу дождаться, когда избавлюсь от этого бельма на глазу."
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_ISHIBUSHI_000_010<tab>Должно быть, ты и есть <var 2C ((<var 29 EB02 /var>)) (( )) 02 /var>."
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_ISHIBUSHI_000_011<tab>...Так. Пришёл... осмотреть нашу работу?"
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_HACHISUBA_000_012<tab>Позвольте мне извиниться от имени мастера Ишибуси! Он вовсе не хотел быть грубым — просто по натуре он человек резкий. Уверяю вас, он очень рад видеть вас на нашей стройке."
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_HACHISUBA_000_013<tab>Видите ли, как и все прочие обитатели анклава, мы тоже ощутили на себе плоды вашего великодушия."
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_HACHISUBA_000_014<tab>Если бы не ваши пожертвования, у нас не было бы ни инструментов, ни ресурсов для работы."
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_HACHISUBA_000_015<tab>Поэтому мы обязаны вам благодарностью за возможность улучшить жизнь наших соотечественников-доманов."
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_HACHISUBA_000_016<tab>Ты это хотел сказать?"
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_HACHISUBA_000_017<tab>Мы бы поблагодарили вас раньше, да только здесь было столько дел. Даже работая день и ночь, мы ужасно долго сносили старую башню."
+    },
+    {
+      "id": "0x00000009",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_HACHISUBA_000_018<tab>Одно можно сказать о гарлеанцах — строить они умеют. С теми инструментами, что у нас были, мы никуда не продвинулись, так что пришлось завезти более подходящие для разборки стальных конструкций. И взрывчатку. Много взрывчатки."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_HACHISUBA_000_019<tab>Теперь строительство нашей собственной башни идёт полным ходом. Не так ли, мастер?"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_ISHIBUSHI_000_020<tab>Если бы ты столько же работал, сколько болтаешь, мы бы уже давно закончили."
+    },
+    {
+      "id": "0x0000000C",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_HACHISUBA_000_021<tab>Ах! Моя матушка вечно твердит, что мне следовало стать оратором, а не строителем..."
+    },
+    {
+      "id": "0x0000000D",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_ISHIBUSHI_000_022<tab>Пожалуй, тебе стоит прислушаться к её совету."
+    },
+    {
+      "id": "0x0000000E",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_ISHIBUSHI_000_023<tab>В любом случае, давайте обсудим насущный вопрос — наши планы относительно башни."
+    },
+    {
+      "id": "0x0000000F",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_HACHISUBA_000_024<tab>Да, нам всё ещё нужно решить, как построить самую верхнюю часть."
+    },
+    {
+      "id": "0x00000010",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_HACHISUBA_000_025<tab>Раз уж именно твои пожертвования финансируют это начинание, пожалуй, стоит спросить тебя, <var 2C ((<var 29 EB02 /var>)) (( )) 02 /var>. Как ты думаешь, что следует установить на вершине башни?"
+    },
+    {
+      "id": "0x00000011",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_Q1_000_000<tab>Что ты скажешь?"
+    },
+    {
+      "id": "0x00000012",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_A1_000_001<tab>Почему бы не поставить на нём сигнальный огонь и не превратить его в маяк?"
+    },
+    {
+      "id": "0x00000013",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_A1_000_002<tab>Этому месту явно не хватает огромной статуи владыки Хиэна."
+    },
+    {
+      "id": "0x00000014",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_HACHISUBA_000_026<tab>Блестяще! Почему же я сам до этого не додумался?"
+    },
+    {
+      "id": "0x00000015",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_HACHISUBA_000_027<tab>Он не только станет ориентиром для кораблей, следующих ночью, но и благодаря улучшенной видимости стражникам будет проще следить за анклавом."
+    },
+    {
+      "id": "0x00000016",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_HACHISUBA_000_028<tab>Статуя!? Думаю, это немного не нашего уровня. И сомневаюсь, что господин Хиэн обрадуется чему-то столь вычурному."
+    },
+    {
+      "id": "0x00000017",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_HACHISUBA_000_029<tab>Пожалуй, практичность важнее красоты. Точно! А что, если превратить дозорную башню в маяк? Тогда порт сможет принимать торговые суда даже ночью!"
+    },
+    {
+      "id": "0x00000018",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_HACHISUBA_000_030<tab>Что скажете, мастер?"
+    },
+    {
+      "id": "0x00000019",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_ISHIBUSHI_000_031<tab>Я говорю... да."
+    },
+    {
+      "id": "0x0000001A",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_HACHISUBA_000_032<tab>Отлично! А теперь, с вашего позволения, нам пора за дело!"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_SYSTEM_000_033<tab>Строительство дозорной башни идет полным ходом; планируется также установить на ней сигнальный огонь, чтобы она могла служить маяком."
+    },
+    {
+      "id": "0x0000001C",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_SYSTEM_000_034<tab>Продолжая поддерживать Шазенкай и участвовать в восстановлении, как ещё может развиваться и меняться Доманский анклав?"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_ISHIBUSHI_000_035<tab>Мы построим башню куда лучше той, что возвели гарлеанцы."
+    },
+    {
+      "id": "0x0000001E",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_ISHIBUSHI_000_040<tab>Всё должно быть идеально симметричным. Если возможно — вплоть до последнего кирпичика."
+    },
+    {
+      "id": "0x0000001F",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_ISHIBUSHI_000_044<tab>"
+    },
+    {
+      "id": "0x00000020",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_ISHIBUSHI_000_045<tab>Готово."
+    },
+    {
+      "id": "0x00000021",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_HACHISUBA_000_046<tab>Думаю, он хотел сказать: «Благодаря вашим постоянным пожертвованиям проект завершён, и теперь мы все можем полюбоваться этим великолепным образцом современной доманской архитектуры!»"
+    },
+    {
+      "id": "0x00000022",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_HACHISUBA_000_047<tab>А если отсюда внизу это выглядит впечатляюще, ты бы только видел, какой вид открывается сверху!"
+    },
+    {
+      "id": "0x00000023",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_HACHISUBA_000_048<tab>Отсюда виден весь анклав — от занятий в Риссай-дзюку до пара, поднимающегося над свежими пельменями на Десяти тысячах лавок."
+    },
+    {
+      "id": "0x00000024",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_HACHISUBA_000_049<tab>Мне даже удалось разглядеть поместье, где батраки собирают первый урожай. Отныне я с удовольствием буду наблюдать за сменой времён года с нашей высокой позиции."
+    },
+    {
+      "id": "0x00000025",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_HACHISUBA_000_050<tab>Стража анклава наверняка обрадуется новой сторожевой башне. Я-то точно!"
+    },
+    {
+      "id": "0x00000026",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_ISHIBUSHI_000_051<tab>Стоит, пожалуй, упомянуть, что материалов нам хватило, чтобы построить зал собраний для строителей. Но меня там вы не увидите."
+    },
+    {
+      "id": "0x00000027",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_ISHIBUSHI_000_052<tab>Кто-то из нас предпочитает сосредоточиться на работе, а кто-то — часами обсуждать её, прежде чем приступить."
+    },
+    {
+      "id": "0x00000028",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_HACHISUBA_000_053<tab>Надеюсь, вы не обо мне! Позвольте напомнить: переговоры — неотъемлемая часть любого успешного бизнеса, и мы не исключение!"
+    },
+    {
+      "id": "0x00000029",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_ISHIBUSHI_000_054<tab>Я не хотел вас оскорбить. Вы искусный архитектор и прекрасно разбираетесь в своём деле. И уж говорить о нём вы точно умеете — долго и обстоятельно. Поэтому впредь я хочу, чтобы с нашими клиентами общались вы."
+    },
+    {
+      "id": "0x0000002A",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_HACHISUBA_000_055<tab>Вы правда так думаете? Спасибо, мастер! Я не ошибся с выбором профессии!"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_KOZAKURA_100_055<tab>О боже..."
+    },
+    {
+      "id": "0x0000002C",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_KOZAKURA_110_055<tab>Увидеть это издалека — одно, а вот увидеть с такого близкого расстояния — совсем другое."
+    },
+    {
+      "id": "0x0000002D",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_KOZAKURA_000_058<tab>Вот это гостеприимство! Воистину, оно как нельзя лучше отражает дух Домы."
+    },
+    {
+      "id": "0x0000002E",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_KOZAKURA_000_059<tab>Со временем это наверняка станет символом самого анклава."
+    },
+    {
+      "id": "0x0000002F",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_KOZAKURA_000_060<tab>"
+    },
+    {
+      "id": "0x00000030",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_HACHISUBA_000_061<tab>Столь восторженные похвалы... Я не нахожу слов."
+    },
+    {
+      "id": "0x00000031",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_ISHIBUSHI_000_062<tab>Хм! Вот это перемена. Впрочем, рад, что тебе нравится, Козакура. Но работы у нас впереди ещё много."
+    },
+    {
+      "id": "0x00000032",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_KOZAKURA_000_063<tab>Разве сторожевая башня ещё не достроена?"
+    },
+    {
+      "id": "0x00000033",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_ISHIBUSHI_000_064<tab>Ты меня неправильно понял. Я имею в виду следующий проект."
+    },
+    {
+      "id": "0x00000034",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_KOZAKURA_000_065<tab>Ещё один проект? Ваш энтузиазм достоин всяческих похвал! Разумеется, мы всегда рады выслушать любые предложения относительно будущих разработок."
+    },
+    {
+      "id": "0x00000035",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_ISHIBUSHI_000_066<tab>Хачисуба позже заглянет в Шадзэнкай и представит список необходимых материалов."
+    },
+    {
+      "id": "0x00000036",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_HACHISUBA_000_067<tab>Хо-хо! Злодеям не до отдыха, а?"
+    },
+    {
+      "id": "0x00000037",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_KOZAKURA_000_068<tab>Буду с нетерпением ждать вашего визита."
+    },
+    {
+      "id": "0x00000038",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_KOZAKURA_000_069<tab>Смею предположить, что этому проекту, каков бы он ни был, наверняка потребуются пожертвования. Можем ли мы рассчитывать на вашу поддержку?"
+    },
+    {
+      "id": "0x00000039",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_KOZAKURA_000_070<tab>Чудесно! Хотя не могу придумать, что бы это могло быть..."
+    },
+    {
+      "id": "0x0000003A",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_SYSTEM_000_071<tab>С новой сторожевой башней, возвышающейся над анклавом, подготовка к следующему проекту уже идёт полным ходом."
+    },
+    {
+      "id": "0x0000003B",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_ISHIBUSHI_000_075<tab>Хотите знать, что мы предлагаем? Всему своё время — скоро всё станет ясно."
+    },
+    {
+      "id": "0x0000003C",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_ISHIBUSHI_000_080<tab>Между крупными строительными проектами мы занимаемся мелкими работами в анклаве. Кажется, протекающим крышам и сломанным заборам нет конца."
+    },
+    {
+      "id": "0x0000003D",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_KOZAKURA_000_056<tab>"
+    },
+    {
+      "id": "0x0000003E",
+      "text": "TEXT_CTSDOMRECONSTRUCTISHIBUSHI_00529_KOZAKURA_000_057<tab>"
+    }
+  ]
+}

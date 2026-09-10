@@ -1,0 +1,33 @@
+{
+  "source_file": "exd/MainCommandCategory_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Character"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Duty"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Logs"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Travel"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Party"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Social"
+    },
+    {
+      "id": "0x00000007",
+      "text": "System"
+    }
+  ]
+}

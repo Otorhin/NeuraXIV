@@ -1,0 +1,29 @@
+{
+  "source_file": "exd/WKSItemSubCategory_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Raw Materials (Stellar Missions)"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Seafood (Stellar Missions)"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Crafting Materials (Stellar Missions)"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Handicrafts (Stellar Missions)"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Bait (Stellar Missions)"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Items (Mech Ops)"
+    }
+  ]
+}

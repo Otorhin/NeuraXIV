@@ -1,0 +1,933 @@
+{
+  "source_file": "exd/custom/005/HouFurMerchant_00511_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_HOUFURMERCHANT_00511_CALL_RETAINER_FAILED<tab>Ваш слуга не ответил."
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_HOUFURMERCHANT_00511_CALL_FAILED_NO_CHARGE<tab>Слуга, управлявший этим манекеном, освобождён от службы. Чтобы получить доступ к манекену, разместите его заново и назначьте нового слугу."
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_HOUFURMERCHANT_00511_CHANGE_STATUS_DISABLE<tab>Вы должны снять всё снаряжение с манекена, прежде чем изменять его настройки."
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_HOUFURMERCHANT_00511_SELL_DISABLE<tab>Прежде чем выставлять предметы на продажу, необходимо снять с манекена всё снаряжение."
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_HOUFURMERCHANT_00511_DISPLAY_DISABLE<tab>Прежде чем выставлять предметы на показ, необходимо снять с манекена всё снаряжение."
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_HOUFURMERCHANT_00511_Q1_000_001<tab>Выберите вариант."
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_HOUFURMERCHANT_00511_A1_000_001<tab>Выберите снаряжение для продажи."
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_HOUFURMERCHANT_00511_A1_000_008<tab>Выберите экипировку для отображения."
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_HOUFURMERCHANT_00511_A1_000_002<tab>Просмотреть историю продаж."
+    },
+    {
+      "id": "0x00000009",
+      "text": "TEXT_HOUFURMERCHANT_00511_A1_000_004<tab>Назначить класс манекену. (Текущая настройка: <var 2D ((<var 28 ((ClassJob)) E80201 /var>)) /var>)"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "TEXT_HOUFURMERCHANT_00511_A1_000_005<tab>Выберите расу и пол. (Текущие настройки: <var 08 E4E80301 ((Male)) ((Female)) /var> <var 28 ((Race)) E80201 /var>)"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "TEXT_HOUFURMERCHANT_00511_A1_000_006<tab>Выберите позу. (Текущая настройка: <var 28 ((HousingMerchantPose)) E80202 /var>)"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "TEXT_HOUFURMERCHANT_00511_A1_000_007<tab>Выйти."
+    },
+    {
+      "id": "0x0000000D",
+      "text": "TEXT_HOUFURMERCHANT_00511_Q2_000_001<tab>Выберите класс."
+    },
+    {
+      "id": "0x0000000E",
+      "text": "TEXT_HOUFURMERCHANT_00511_A2_000_001<tab>Танк."
+    },
+    {
+      "id": "0x0000000F",
+      "text": "TEXT_HOUFURMERCHANT_00511_A2_000_002<tab>Целитель."
+    },
+    {
+      "id": "0x00000010",
+      "text": "TEXT_HOUFURMERCHANT_00511_A2_000_003<tab>ДД."
+    },
+    {
+      "id": "0x00000011",
+      "text": "TEXT_HOUFURMERCHANT_00511_A2_000_004<tab>Ремесленник."
+    },
+    {
+      "id": "0x00000012",
+      "text": "TEXT_HOUFURMERCHANT_00511_A2_000_005<tab>Ученик земли."
+    },
+    {
+      "id": "0x00000013",
+      "text": "TEXT_HOUFURMERCHANT_00511_A2_000_006<tab>Выйти."
+    },
+    {
+      "id": "0x00000014",
+      "text": "TEXT_HOUFURMERCHANT_00511_A3_000_001<tab><var 2D ((<var 28 ((ClassJob)) E80201 /var>)) /var>."
+    },
+    {
+      "id": "0x00000015",
+      "text": "TEXT_HOUFURMERCHANT_00511_A3_000_002<tab>Выйти."
+    },
+    {
+      "id": "0x00000016",
+      "text": "TEXT_HOUFURMERCHANT_00511_Q4_000_001<tab>Класс вашей манекен-мишени будет изменён на <var 28 ((ClassJob)) E80201 /var>. Продолжить?"
+    },
+    {
+      "id": "0x00000017",
+      "text": "TEXT_HOUFURMERCHANT_00511_Q32_000_001<tab>Выберите расу."
+    },
+    {
+      "id": "0x00000018",
+      "text": "TEXT_HOUFURMERCHANT_00511_A32_000_001<tab><var 28 ((Race)) E80201 /var>."
+    },
+    {
+      "id": "0x00000019",
+      "text": "TEXT_HOUFURMERCHANT_00511_A32_000_002<tab>Выйти."
+    },
+    {
+      "id": "0x0000001A",
+      "text": "TEXT_HOUFURMERCHANT_00511_Q33_001_001<tab>Выберите пол."
+    },
+    {
+      "id": "0x0000001B",
+      "text": "TEXT_HOUFURMERCHANT_00511_A33_001_001<tab>Мужчина."
+    },
+    {
+      "id": "0x0000001C",
+      "text": "TEXT_HOUFURMERCHANT_00511_A33_001_002<tab>Женский."
+    },
+    {
+      "id": "0x0000001D",
+      "text": "TEXT_HOUFURMERCHANT_00511_A33_001_003<tab>Выйти."
+    },
+    {
+      "id": "0x0000001E",
+      "text": "TEXT_HOUFURMERCHANT_00511_Q34_002_001<tab>Ваш манекен будет изменён на <var 08 E4E80301 ((мужской)) ((женский)) /var> <var 28 ((раса)) E80201 /var>. Продолжить?"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "TEXT_HOUFURMERCHANT_00511_Q5_000_001<tab>Выберите расу и пол."
+    },
+    {
+      "id": "0x00000020",
+      "text": "TEXT_HOUFURMERCHANT_00511_A5_000_001<tab>Мужчина-микотэ."
+    },
+    {
+      "id": "0x00000021",
+      "text": "TEXT_HOUFURMERCHANT_00511_A5_000_002<tab>Ми'котэ женского пола."
+    },
+    {
+      "id": "0x00000022",
+      "text": "TEXT_HOUFURMERCHANT_00511_A5_000_003<tab>Выйти."
+    },
+    {
+      "id": "0x00000023",
+      "text": "TEXT_HOUFURMERCHANT_00511_Q6_000_001<tab>Ваш манекен будет изменён на <var 08 E1E80202 ((female Miqo'te)) ((male Miqo'te)) /var>. Продолжить?"
+    },
+    {
+      "id": "0x00000024",
+      "text": "TEXT_HOUFURMERCHANT_00511_Q7_000_001<tab>Выберите позу."
+    },
+    {
+      "id": "0x00000025",
+      "text": "TEXT_HOUFURMERCHANT_00511_A7_000_000<tab><var 28 ((HousingMerchantPose)) E80202 /var>."
+    },
+    {
+      "id": "0x00000026",
+      "text": "TEXT_HOUFURMERCHANT_00511_A7_000_001<tab>Выйти."
+    },
+    {
+      "id": "0x00000027",
+      "text": "TEXT_HOUFURMERCHANT_00511_Q8_000_001<tab>Поза вашего манекена будет изменена на <var 28 ((HousingMerchantPose)) E80202 /var>. Продолжить?"
+    },
+    {
+      "id": "0x00000028",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_HYURAN_MALE_TYPE1<tab>Я пришёл, <var 08 E905 ((госпожа)) ((господин)) /var>."
+    },
+    {
+      "id": "0x00000029",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_HYURAN_MALE_TYPE2<tab>Тебе не о чем беспокоиться."
+    },
+    {
+      "id": "0x0000002A",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_HYURAN_MALE_TYPE3<tab>Вызывали?"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_HYURAN_MALE_TYPE4<tab>Да? <sigh> Надеюсь, это не займёт много времени..."
+    },
+    {
+      "id": "0x0000002C",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_HYURAN_MALE_TYPE5<tab>Желаешь увидеть, как мастер управляется с базаром?"
+    },
+    {
+      "id": "0x0000002D",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_HYURAN_MALE_TYPE6<tab>Привет-привет! Вы меня звали?"
+    },
+    {
+      "id": "0x0000002E",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_HYURAN_FEMALE_TYPE1<tab>К вашим услугам, <var 08 E905 ((госпожа)) ((господин)) /var>."
+    },
+    {
+      "id": "0x0000002F",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_HYURAN_FEMALE_TYPE2<tab>Что вам подать на этот раз, дорогуша?"
+    },
+    {
+      "id": "0x00000030",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_HYURAN_FEMALE_TYPE3<tab>Что бы ты спросил?"
+    },
+    {
+      "id": "0x00000031",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_HYURAN_FEMALE_TYPE4<tab>Простите, что заставляю вас ждать, <var 08 E905 ((госпожа)) ((господин)) /var>. Мне очень, очень жаль."
+    },
+    {
+      "id": "0x00000032",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_HYURAN_FEMALE_TYPE5<tab>Побыстрее, у меня ещё дела."
+    },
+    {
+      "id": "0x00000033",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_HYURAN_FEMALE_TYPE6<tab>Ну надо же, мой самый любимый клиент! Всегда рад<var 08 E905 ((а)) ((ы)) /var> тебя видеть, <var 08 E905 ((мадам)) ((сэр)) /var>!"
+    },
+    {
+      "id": "0x00000034",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_ELEZEN_MALE_TYPE1<tab>Да, <var 08 E905 ((госпожа)) ((сударь)) /var>? Что вы прикажете?"
+    },
+    {
+      "id": "0x00000035",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_ELEZEN_MALE_TYPE2<tab>Что в планах, босс? Ободрать лопухов до последнего кровно заработанного гила?"
+    },
+    {
+      "id": "0x00000036",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_ELEZEN_MALE_TYPE3<tab>Я прибыл. Можете приступать."
+    },
+    {
+      "id": "0x00000037",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_ELEZEN_MALE_TYPE4<tab>О, здравствуйте. Чем обязан такой чести?"
+    },
+    {
+      "id": "0x00000038",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_ELEZEN_MALE_TYPE5<tab>Я пришёл вести дела — и только дела."
+    },
+    {
+      "id": "0x00000039",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_ELEZEN_MALE_TYPE6<tab>Вы, похоже, в добром здравии, <var 08 E905 ((мадам)) ((сэр)) /var>. Чем могу помочь вам этим прекрасным <var 08 E3E90C0D ((<var 08 E3E90C05 ((вечером)) ((утром)) /var>)) ((<var 08 E3E90C12 ((днём)) ((вечером)) /var>)) /var>?"
+    },
+    {
+      "id": "0x0000003A",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_ELEZEN_FEMALE_TYPE1<tab>Что вы желаете, чтобы я сделал, <var 08 E905 ((миледи)) ((милорд)) /var>?"
+    },
+    {
+      "id": "0x0000003B",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_ELEZEN_FEMALE_TYPE2<tab>Обычно призываю я, а ждут другие."
+    },
+    {
+      "id": "0x0000003C",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_ELEZEN_FEMALE_TYPE3<tab>Могу я чем-нибудь вам помочь?"
+    },
+    {
+      "id": "0x0000003D",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_ELEZEN_FEMALE_TYPE4<tab>Ох, зачем вы призвали меня именно сейчас?.."
+    },
+    {
+      "id": "0x0000003E",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_ELEZEN_FEMALE_TYPE5<tab>Уверен, для этого призыва наверняка есть вполне разумное объяснение."
+    },
+    {
+      "id": "0x0000003F",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_ELEZEN_FEMALE_TYPE6<tab>Знаете, мне показалось, что вы пришли позвать меня. Будьте уверены: я готов и горю желанием служить."
+    },
+    {
+      "id": "0x00000040",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_LALAFELL_MALE_TYPE1<tab>Приветствую вас, <var 08 E905 ((госпожа)) ((сэр)) /var>. Ваш покорный слуга явился по вашему зову."
+    },
+    {
+      "id": "0x00000041",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_LALAFELL_MALE_TYPE2<tab>Приветствую, <var 08 E905 ((миледи)) ((милорд)) /var>. Извольте поведать о своих желаниях — я уж постараюсь изо всех сил их исполнить."
+    },
+    {
+      "id": "0x00000042",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_LALAFELL_MALE_TYPE3<tab>Я уж гадал, когда ты наконец со мной свяжешься."
+    },
+    {
+      "id": "0x00000043",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_LALAFELL_MALE_TYPE4<tab>Не против, если мы покороче? Меня ждёт одна хорошенькая штучка."
+    },
+    {
+      "id": "0x00000044",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_LALAFELL_MALE_TYPE5<tab>Что?"
+    },
+    {
+      "id": "0x00000045",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_LALAFELL_MALE_TYPE6<tab>Я здесь, я здесь!"
+    },
+    {
+      "id": "0x00000046",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_LALAFELL_FEMALE_TYPE1<tab>Я здесь, <var 08 E905 ((госпожа)) ((господин)) /var>, как вы и просили."
+    },
+    {
+      "id": "0x00000047",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_LALAFELL_FEMALE_TYPE2<tab>Здорово, душечка. Что у нас на повестке?"
+    },
+    {
+      "id": "0x00000048",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_LALAFELL_FEMALE_TYPE3<tab>Я никогда не упускаю возможности набить карманы."
+    },
+    {
+      "id": "0x00000049",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_LALAFELL_FEMALE_TYPE4<tab>Вот это неожиданность! Чего желаете?"
+    },
+    {
+      "id": "0x0000004A",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_LALAFELL_FEMALE_TYPE5<tab>Что на этот раз?"
+    },
+    {
+      "id": "0x0000004B",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_LALAFELL_FEMALE_TYPE6<tab>Вот и яяяяя!"
+    },
+    {
+      "id": "0x0000004C",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_MIQOTE_MALE_TYPE1<tab>Чем могу вам услууужить, <var 08 E905 ((мадам)) ((сэр)) /var>?"
+    },
+    {
+      "id": "0x0000004D",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_MIQOTE_MALE_TYPE2<tab>Там настоящая война, <var 08 E905 ((miss)) ((sir)) /var>. Вы понятия не имеете."
+    },
+    {
+      "id": "0x0000004E",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_MIQOTE_MALE_TYPE3<tab>..."
+    },
+    {
+      "id": "0x0000004F",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_MIQOTE_MALE_TYPE4<tab>По делу или ради удовольствия?"
+    },
+    {
+      "id": "0x00000050",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_MIQOTE_MALE_TYPE5<tab>Полагаю, вы призвали меня не только ради удовольствия от моего общества."
+    },
+    {
+      "id": "0x00000051",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_MIQOTE_MALE_TYPE6<tab>Именно <var 08 E905 ((прекрасная дева)) ((статный юноша)) /var>, которого я надеялась увидеть! Расскажи, чего желает твоё сердце."
+    },
+    {
+      "id": "0x00000052",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_MIQOTE_FEMALE_TYPE1<tab>Надеюсь, ты мяукаешь не в знак неодобрения."
+    },
+    {
+      "id": "0x00000053",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_MIQOTE_FEMALE_TYPE2<tab>Вы звали, <var 08 E905 ((миледи)) ((милорд)) /var>?"
+    },
+    {
+      "id": "0x00000054",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_MIQOTE_FEMALE_TYPE3<tab>Кошачьи уши мало что упускают — и уж призыв тем более."
+    },
+    {
+      "id": "0x00000055",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_MIQOTE_FEMALE_TYPE4<tab>Любопытство позвало кошку. Что же ты приготовил для меня сегодня?"
+    },
+    {
+      "id": "0x00000056",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_MIQOTE_FEMALE_TYPE5<tab>Я готов, как только ты скажешь."
+    },
+    {
+      "id": "0x00000057",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_MIQOTE_FEMALE_TYPE6<tab>Я как раз о тебе думал!"
+    },
+    {
+      "id": "0x00000058",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_ROEGADYN_MALE_TYPE1<tab>Что вам сегодня от меня нужно, <var 08 E905 ((госпожа)) ((господин)) /var>?"
+    },
+    {
+      "id": "0x00000059",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_ROEGADYN_MALE_TYPE2<tab>Бвахаха! Есть делишки, которые надо провернуть? Только укажи, куда, чёрт возьми, идти."
+    },
+    {
+      "id": "0x0000005A",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_ROEGADYN_MALE_TYPE3<tab>Я здесь. Что такое?"
+    },
+    {
+      "id": "0x0000005B",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_ROEGADYN_MALE_TYPE4<tab>Эй, ик, <var 08 E905 ((missy)) ((mate)) /var>! Не составишь мне компанию за кружечкой?"
+    },
+    {
+      "id": "0x0000005C",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_ROEGADYN_MALE_TYPE5<tab>Быстрее уже некуда. Где работа?"
+    },
+    {
+      "id": "0x0000005D",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_ROEGADYN_MALE_TYPE6<tab>Я примчался, едва услышал звон колокола! Чего надобно, шеф?"
+    },
+    {
+      "id": "0x0000005E",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_ROEGADYN_FEMALE_TYPE1<tab>Я к вашим услугам, <var 08 E905 ((госпожа)) ((милорд)) /var>."
+    },
+    {
+      "id": "0x0000005F",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_ROEGADYN_FEMALE_TYPE2<tab>Есть для меня что-нибудь, кап’тан?"
+    },
+    {
+      "id": "0x00000060",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_ROEGADYN_FEMALE_TYPE3<tab>Продолжайте, <var 08 E905 ((госпожа)) ((сэр)) /var>."
+    },
+    {
+      "id": "0x00000061",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_ROEGADYN_FEMALE_TYPE4<tab>Давайте кратко и по существу, хорошо?"
+    },
+    {
+      "id": "0x00000062",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_ROEGADYN_FEMALE_TYPE5<tab>Этого не пришлось бы делать, если бы вы доверили мне свои финансовые дела."
+    },
+    {
+      "id": "0x00000063",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_ROEGADYN_FEMALE_TYPE6<tab>Ну что — продавать, покупать, пить, шлюх снимать? Чем сегодня займёмся?"
+    },
+    {
+      "id": "0x00000064",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_AURA_MALE_TYPE1<tab>Приветствую, <var 08 E905 ((госпожа)) ((сударь)) /var>. Чем могу вам помочь?"
+    },
+    {
+      "id": "0x00000065",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_AURA_MALE_TYPE2<tab>Чего желаете, <var 08 E905 ((сударыня)) ((сударь)) /var>?"
+    },
+    {
+      "id": "0x00000066",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_AURA_MALE_TYPE3<tab>Излагай."
+    },
+    {
+      "id": "0x00000067",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_AURA_MALE_TYPE4<tab>И как ты поживаешь в этот чудесный <var 08 E3E90C0D ((<var 08 E3E90C05 ((evening)) ((day)) /var>)) ((<var 08 E3E90C12 ((day)) ((evening)) /var>)) /var>?"
+    },
+    {
+      "id": "0x00000068",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_AURA_MALE_TYPE5<tab>Что ж... вот и я, <var 08 E905 ((госпожа)) ((господин)) /var>."
+    },
+    {
+      "id": "0x00000069",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_AURA_MALE_TYPE6<tab>Мы торгуем в рыночных рядах,♪\nИ наряды наши хороши;♪\nМы трезвы, честны и верны,♪\nИ к обязанностям внимательны!♪"
+    },
+    {
+      "id": "0x0000006A",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_AURA_FEMALE_TYPE1<tab><var 08 E905 ((госпожа)) ((господин)) /var>. Что вы от меня хотите?"
+    },
+    {
+      "id": "0x0000006B",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_AURA_FEMALE_TYPE2<tab>Ну что, приступаем?"
+    },
+    {
+      "id": "0x0000006C",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_AURA_FEMALE_TYPE3<tab>Да?"
+    },
+    {
+      "id": "0x0000006D",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_AURA_FEMALE_TYPE4<tab>Эй, это... это ты! Привет ещё раз!"
+    },
+    {
+      "id": "0x0000006E",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_AURA_FEMALE_TYPE5<tab>Я-я не то чтобы хочу продавать твои вещи или что-то в этом роде."
+    },
+    {
+      "id": "0x0000006F",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_AURA_FEMALE_TYPE6<tab>Ну, что у тебя для меня? Давай, давай! Не стесняйся!"
+    },
+    {
+      "id": "0x00000070",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_HROTHGAR_MALE_TYPE1<tab>Вы звали, <var 08 E905 ((milady)) ((milord)) /var>?"
+    },
+    {
+      "id": "0x00000071",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_HROTHGAR_MALE_TYPE2<tab>Надеюсь, оно того стоит."
+    },
+    {
+      "id": "0x00000072",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_HROTHGAR_MALE_TYPE3<tab><var 1A 02 /var>Что<var 1A 01 /var>?"
+    },
+    {
+      "id": "0x00000073",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_HROTHGAR_MALE_TYPE4<tab>Что бы тебе ни понадобилось — я всё устрою! У меня свои методы."
+    },
+    {
+      "id": "0x00000074",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_HROTHGAR_MALE_TYPE5<tab>Ха-ха-ха! А вот и моя любимая <var 08 E905 ((госпожа)) ((господин)) /var>!"
+    },
+    {
+      "id": "0x00000075",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_HROTHGAR_MALE_TYPE6<tab>Это я — ваш самый верный и умелый слуга!"
+    },
+    {
+      "id": "0x00000076",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_VIERA_FEMALE_TYPE1<tab>Чего желаете, дорогуша?"
+    },
+    {
+      "id": "0x00000077",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_VIERA_FEMALE_TYPE2<tab>Ваши приказы! Я желаю услышать их немедленно!"
+    },
+    {
+      "id": "0x00000078",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_VIERA_FEMALE_TYPE3<tab>Если хочешь о чём-то меня попросить — так и попроси."
+    },
+    {
+      "id": "0x00000079",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_VIERA_FEMALE_TYPE4<tab>Да?.. Вам что-то─<yawn>─нужно?"
+    },
+    {
+      "id": "0x0000007A",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_VIERA_FEMALE_TYPE5<tab>Задание для меня? Надеюсь, что-нибудь интересное!"
+    },
+    {
+      "id": "0x0000007B",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_VIERA_FEMALE_TYPE6<tab>Я здесь, чтобы исполнить любое ваше желание, <var 08 E905 ((Mistress)) ((Master)) /var>! Прикажите что угодно!"
+    },
+    {
+      "id": "0x0000007C",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_VIERA_MALE_TYPE1<tab>Вашего зова я и ждал, <var 08 E905 ((madam)) ((sir)) /var>. Чем могу послужить вам в этот прекрасный <var 08 E3E90C0D ((<var 08 E3E90C05 ((evening)) ((morning)) /var>)) ((<var 08 E3E90C12 ((day)) ((evening)) /var>)) /var>?"
+    },
+    {
+      "id": "0x0000007D",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_VIERA_MALE_TYPE2<tab>Чем могу услужить, <var 08 E905 ((ladyship)) ((lordship)) /var>?"
+    },
+    {
+      "id": "0x0000007E",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_VIERA_MALE_TYPE3<tab>Вы звали, <var 08 E905 ((госпожа)) ((сэр)) /var>?.."
+    },
+    {
+      "id": "0x0000007F",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_VIERA_MALE_TYPE4<tab>Ты─ик─звал?"
+    },
+    {
+      "id": "0x00000080",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_VIERA_MALE_TYPE5<tab>Тебе нужна моя помощь, да? Тогда давай побыстрее с этим покончим."
+    },
+    {
+      "id": "0x00000081",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_VIERA_MALE_TYPE6<tab>Я весь внимание, <var 08 E905 ((миледи)) ((милорд)) /var>. Вернее, оба уха!"
+    },
+    {
+      "id": "0x00000082",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_HROTHGAR_FEMALE_TYPE1<tab>Вы звали меня, <var 08 E905 ((мадам)) ((сэр)) /var>?"
+    },
+    {
+      "id": "0x00000083",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_HROTHGAR_FEMALE_TYPE2<tab>По первому вашему зову — я тут как тут!"
+    },
+    {
+      "id": "0x00000084",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_HROTHGAR_FEMALE_TYPE3<tab>Ты звал — и я явился."
+    },
+    {
+      "id": "0x00000085",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_HROTHGAR_FEMALE_TYPE4<tab>Наконец-то — я уж думал, что ты <var 1A 02 /var>никогда<var 1A 01 /var> не позвонишь. Что <var 08 E905 ((milady)) ((milord)) /var> нужно от меня?"
+    },
+    {
+      "id": "0x00000086",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_HROTHGAR_FEMALE_TYPE5<tab>Неужели?.. Сам знаменитый <var 2C ((<var 29 EB02 /var>)) (( )) 02 /var> пожаловал ко <var 1A 02 /var>мне<var 1A 01 /var>? <chuckle>"
+    },
+    {
+      "id": "0x00000087",
+      "text": "TEXT_HOUFURMERCHANT_00511_ENTER_HROTHGAR_FEMALE_TYPE6<tab>Да-да, я здесь! Готов в любой момент!"
+    },
+    {
+      "id": "0x00000088",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_HYURAN_MALE_TYPE1<tab>Если это всё, я тогда откланяюсь, <var 08 E905 ((госпожа)) ((господин)) /var>."
+    },
+    {
+      "id": "0x00000089",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_HYURAN_MALE_TYPE2<tab>Береги себя, слышишь?"
+    },
+    {
+      "id": "0x0000008A",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_HYURAN_MALE_TYPE3<tab>До следующей встречи."
+    },
+    {
+      "id": "0x0000008B",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_HYURAN_MALE_TYPE4<tab>Ну, давно пора. Прощай."
+    },
+    {
+      "id": "0x0000008C",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_HYURAN_MALE_TYPE5<tab>Полагаю, слова благодарности здесь уместны."
+    },
+    {
+      "id": "0x0000008D",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_HYURAN_MALE_TYPE6<tab>Тогда я пошёл!"
+    },
+    {
+      "id": "0x0000008E",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_HYURAN_FEMALE_TYPE1<tab>С вашего позволения, мой <var 08 E905 ((леди)) ((лорд)) /var>."
+    },
+    {
+      "id": "0x0000008F",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_HYURAN_FEMALE_TYPE2<tab>Не переживай ни о чём. Я всё беру на себя."
+    },
+    {
+      "id": "0x00000090",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_HYURAN_FEMALE_TYPE3<tab>Прощай тогда."
+    },
+    {
+      "id": "0x00000091",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_HYURAN_FEMALE_TYPE4<tab>Если больше ничего, <var 08 E905 ((госпожа)) ((сэр)) /var>, я, пожалуй, пойду."
+    },
+    {
+      "id": "0x00000092",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_HYURAN_FEMALE_TYPE5<tab>И это всё? Что ж, до следующей встречи."
+    },
+    {
+      "id": "0x00000093",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_HYURAN_FEMALE_TYPE6<tab>О, это всё на сегодня? Что ж, хорошо, но пообещай, что скоро вернёшься!"
+    },
+    {
+      "id": "0x00000094",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_ELEZEN_MALE_TYPE1<tab>Как всегда, <var 08 E905 ((госпожа)) ((господин)) /var>, для меня это было честью и привилегией."
+    },
+    {
+      "id": "0x00000095",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_ELEZEN_MALE_TYPE2<tab>Можешь на меня рассчитывать, шеф─я знаю, как всё устроить."
+    },
+    {
+      "id": "0x00000096",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_ELEZEN_MALE_TYPE3<tab>Не пропадай."
+    },
+    {
+      "id": "0x00000097",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_ELEZEN_MALE_TYPE4<tab>Клянусь, всё будет сделано. Рано или поздно."
+    },
+    {
+      "id": "0x00000098",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_ELEZEN_MALE_TYPE5<tab>Как пожелаешь."
+    },
+    {
+      "id": "0x00000099",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_ELEZEN_MALE_TYPE6<tab>Превосходно! Я немедленно исполню ваши распоряжения."
+    },
+    {
+      "id": "0x0000009A",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_ELEZEN_FEMALE_TYPE1<tab>Смиренно ожидаю вашего следующего зова, <var 08 E905 ((миледи)) ((милорд)) /var>."
+    },
+    {
+      "id": "0x0000009B",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_ELEZEN_FEMALE_TYPE2<tab>Не оставляй меня надолго, слышишь?"
+    },
+    {
+      "id": "0x0000009C",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_ELEZEN_FEMALE_TYPE3<tab>Всегда рад помочь."
+    },
+    {
+      "id": "0x0000009D",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_ELEZEN_FEMALE_TYPE4<tab>На этом всё, не так ли? Тогда, с вашего позволения…"
+    },
+    {
+      "id": "0x0000009E",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_ELEZEN_FEMALE_TYPE5<tab>Думаю, на этом наши дела пока завершены."
+    },
+    {
+      "id": "0x0000009F",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_ELEZEN_FEMALE_TYPE6<tab>Вы уверены, что больше ничего не желаете? Совсем ничего? Что ж, тогда я откланяюсь."
+    },
+    {
+      "id": "0x000000A0",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_LALAFELL_MALE_TYPE1<tab>Любая ваша прихоть будет незамедлительно исполнена со всей должной заботой и вниманием."
+    },
+    {
+      "id": "0x000000A1",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_LALAFELL_MALE_TYPE2<tab><var 08 E905 ((миледи)) ((милорд)) /var>, это не займёт много времени."
+    },
+    {
+      "id": "0x000000A2",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_LALAFELL_MALE_TYPE3<tab>Тогда я пойду."
+    },
+    {
+      "id": "0x000000A3",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_LALAFELL_MALE_TYPE4<tab>Слава богам, наконец-то закончили. У меня планы засунуть руки туда, где я ещё никогда не бывал… если понимаешь, о чём я."
+    },
+    {
+      "id": "0x000000A4",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_LALAFELL_MALE_TYPE5<tab>Будь здоров."
+    },
+    {
+      "id": "0x000000A5",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_LALAFELL_MALE_TYPE6<tab>Я ухожу, ухожу!"
+    },
+    {
+      "id": "0x000000A6",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_LALAFELL_FEMALE_TYPE1<tab>До новой встречи!"
+    },
+    {
+      "id": "0x000000A7",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_LALAFELL_FEMALE_TYPE2<tab>Благословений Двенадцати тебе."
+    },
+    {
+      "id": "0x000000A8",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_LALAFELL_FEMALE_TYPE3<tab>Да наполнит Налд'тал наши кошели!"
+    },
+    {
+      "id": "0x000000A9",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_LALAFELL_FEMALE_TYPE4<tab>Очень хорошо, <var 08 E905 ((госпожа)) ((господин)) /var>! Ваше желание — закон, и прочее."
+    },
+    {
+      "id": "0x000000AA",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_LALAFELL_FEMALE_TYPE5<tab>Ты знаешь, как меня найти."
+    },
+    {
+      "id": "0x000000AB",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_LALAFELL_FEMALE_TYPE6<tab>Неужели уже пора прощаться? Я буду по тебе скучать…"
+    },
+    {
+      "id": "0x000000AC",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_MIQOTE_MALE_TYPE1<tab>Да свершится воля Твоя."
+    },
+    {
+      "id": "0x000000AD",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_MIQOTE_MALE_TYPE2<tab>Рынки — пусть и проклятое поле боя, но я, чтоб меня боги побрали, солдат. Можете на меня положиться, <var 08 E905 ((madam)) ((sir)) /var>."
+    },
+    {
+      "id": "0x000000AE",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_MIQOTE_MALE_TYPE3<tab>..."
+    },
+    {
+      "id": "0x000000AF",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_MIQOTE_MALE_TYPE4<tab>Чего ты такой серьррёзный? <sigh> Так уж вышло."
+    },
+    {
+      "id": "0x000000B0",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_MIQOTE_MALE_TYPE5<tab>Не думаю, что ради этого стоило являться лично, но что сделано, то сделано."
+    },
+    {
+      "id": "0x000000B1",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_MIQOTE_MALE_TYPE6<tab>Значит, я исполнил все ваши желания? Превосходно! Я получаю истинное удовольствие, обслуживая своих клиентов."
+    },
+    {
+      "id": "0x000000B2",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_MIQOTE_FEMALE_TYPE1<tab>До свидания, <var 08 E905 ((мадам)) ((сэррр)) /var>."
+    },
+    {
+      "id": "0x000000B3",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_MIQOTE_FEMALE_TYPE2<tab>Ну что ж, приступим!"
+    },
+    {
+      "id": "0x000000B4",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_MIQOTE_FEMALE_TYPE3<tab>Нет причин для тревоооги."
+    },
+    {
+      "id": "0x000000B5",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_MIQOTE_FEMALE_TYPE4<tab>Когда хозяина нет, коту раздолье."
+    },
+    {
+      "id": "0x000000B6",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_MIQOTE_FEMALE_TYPE5<tab>Боги, ну и утомительно же..."
+    },
+    {
+      "id": "0x000000B7",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_MIQOTE_FEMALE_TYPE6<tab>Ты больше не хочешь быть со мной? <sniffle>"
+    },
+    {
+      "id": "0x000000B8",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_ROEGADYN_MALE_TYPE1<tab>Я исполню ваши пожелания, как велено, <var 08 E905 ((госпожа)) ((господин)) /var>."
+    },
+    {
+      "id": "0x000000B9",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_ROEGADYN_MALE_TYPE2<tab>Бвахаха! Я в твоём базаре, распродаю твой товар!"
+    },
+    {
+      "id": "0x000000BA",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_ROEGADYN_MALE_TYPE3<tab>Я сейчас уйду."
+    },
+    {
+      "id": "0x000000BB",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_ROEGADYN_MALE_TYPE4<tab>Эх, чёрт. Пожалуй, пора приниматься за работу..."
+    },
+    {
+      "id": "0x000000BC",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_ROEGADYN_MALE_TYPE5<tab>Я не люблю прощаться."
+    },
+    {
+      "id": "0x000000BD",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_ROEGADYN_MALE_TYPE6<tab>Иди-ка поспи, босс. Выглядишь ужасно!"
+    },
+    {
+      "id": "0x000000BE",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_ROEGADYN_FEMALE_TYPE1<tab>Это всё на сегодня, <var 08 E905 ((госпожа)) ((господин)) /var>? Понимаю."
+    },
+    {
+      "id": "0x000000BF",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_ROEGADYN_FEMALE_TYPE2<tab>Так точно, капитан!"
+    },
+    {
+      "id": "0x000000C0",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_ROEGADYN_FEMALE_TYPE3<tab>Принято к сведению."
+    },
+    {
+      "id": "0x000000C1",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_ROEGADYN_FEMALE_TYPE4<tab>Не совсем так я надеялся провести этот день, но, полагаю, ничего не поделать."
+    },
+    {
+      "id": "0x000000C2",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_ROEGADYN_FEMALE_TYPE5<tab>Не нам судить о причинах. Наш удел — действовать и умирать."
+    },
+    {
+      "id": "0x000000C3",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_ROEGADYN_FEMALE_TYPE6<tab>Вижу, ты, как всегда, истинный профессионал. Что ж, в другой раз."
+    },
+    {
+      "id": "0x000000C4",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_AURA_MALE_TYPE1<tab>Если больше ничего, тогда я, пожалуй, откланяюсь."
+    },
+    {
+      "id": "0x000000C5",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_AURA_MALE_TYPE2<tab>И это всё? Что ж, тогда я, пожалуй, пойду."
+    },
+    {
+      "id": "0x000000C6",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_AURA_MALE_TYPE3<tab>Есть ещё какие-нибудь просьбы напоследок? Что ж, хорошо. Хе-хе-хе... Кхм."
+    },
+    {
+      "id": "0x000000C7",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_AURA_MALE_TYPE4<tab>Ах да, конечно. Долг зовёт!"
+    },
+    {
+      "id": "0x000000C8",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_AURA_MALE_TYPE5<tab>Значит, со мной покончено?"
+    },
+    {
+      "id": "0x000000C9",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_AURA_MALE_TYPE6<tab>Сегодня здесь, а завтра уж нет;♪\nДа, я знаю─♪\nВот именно!♪"
+    },
+    {
+      "id": "0x000000CA",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_AURA_FEMALE_TYPE1<tab>Если когда-нибудь понадоблюсь — просто позвони."
+    },
+    {
+      "id": "0x000000CB",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_AURA_FEMALE_TYPE2<tab>Всегда рад(а) вас видеть, <var 08 E905 ((госпожа)) ((господин)) /var>."
+    },
+    {
+      "id": "0x000000CC",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_AURA_FEMALE_TYPE3<tab>Что ж, тогда."
+    },
+    {
+      "id": "0x000000CD",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_AURA_FEMALE_TYPE4<tab>Уже закончили? Ну, значит, на этом всё."
+    },
+    {
+      "id": "0x000000CE",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_AURA_FEMALE_TYPE5<tab>Ты уже уходишь? Ну и ладно! Я-я вовсе не хотела, чтобы ты остался или что-то в этом роде."
+    },
+    {
+      "id": "0x000000CF",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_AURA_FEMALE_TYPE6<tab>Очень хорошо, <var 08 E905 ((госпожа)) ((сэр)) /var>! Действительно очень хорошо!"
+    },
+    {
+      "id": "0x000000D0",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_HROTHGAR_MALE_TYPE1<tab>Всегда рад служить, <var 08 E905 ((миледи)) ((милорду)) /var>."
+    },
+    {
+      "id": "0x000000D1",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_HROTHGAR_MALE_TYPE2<tab>Хмф. Надеюсь, в следующий раз у тебя найдётся для меня более стоящее задание."
+    },
+    {
+      "id": "0x000000D2",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_HROTHGAR_MALE_TYPE3<tab><var 1A 02 /var>До свидания<var 1A 01 /var>."
+    },
+    {
+      "id": "0x000000D3",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_HROTHGAR_MALE_TYPE4<tab>На этом я, пожалуй, откланяюсь. Столько мест нужно посетить, столько людей повидать."
+    },
+    {
+      "id": "0x000000D4",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_HROTHGAR_MALE_TYPE5<tab>Бвахаха! До следующей встречи, мой друг!"
+    },
+    {
+      "id": "0x000000D5",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_HROTHGAR_MALE_TYPE6<tab>Звони мне, когда пожелаешь! Ты ведь знаешь: я никогда тебя не подведу!"
+    },
+    {
+      "id": "0x000000D6",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_VIERA_FEMALE_TYPE1<tab>Разве нам действительно нужно так скоро расставаться?"
+    },
+    {
+      "id": "0x000000D7",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_VIERA_FEMALE_TYPE2<tab>А я в путь!"
+    },
+    {
+      "id": "0x000000D8",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_VIERA_FEMALE_TYPE3<tab>Зови меня, когда пожелаешь. Если мне будет угодно, я отвечу."
+    },
+    {
+      "id": "0x000000D9",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_VIERA_FEMALE_TYPE4<tab>Полагаю, это всё?.. <yawn> Что ж..."
+    },
+    {
+      "id": "0x000000DA",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_VIERA_FEMALE_TYPE5<tab>И это всё? А я-то надеялся, что будет что-нибудь ещё..."
+    },
+    {
+      "id": "0x000000DB",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_VIERA_FEMALE_TYPE6<tab>Неужели это всё, что вам от меня нужно? Ведь я ещё могу послужить вам столькими способами!"
+    },
+    {
+      "id": "0x000000DC",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_VIERA_MALE_TYPE1<tab>Не сомневайся и вновь обращайся ко мне. Удачи тебе в твоих начинаниях, <var 08 E905 ((госпожа)) ((господин)) /var>."
+    },
+    {
+      "id": "0x000000DD",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_VIERA_MALE_TYPE2<tab>Только скажите слово, <var 08 E905 ((ladyship)) ((lordship)) /var>, и я тут как тут."
+    },
+    {
+      "id": "0x000000DE",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_VIERA_MALE_TYPE3<tab>Если вы больше не нуждаетесь в моих услугах..."
+    },
+    {
+      "id": "0x000000DF",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_VIERA_MALE_TYPE4<tab>Тогда я пойду за ещё одним бокалом. Ты знаешь, где меня найти!"
+    },
+    {
+      "id": "0x000000E0",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_VIERA_MALE_TYPE5<tab>Что─и всё? Ты <var 1A 02 /var>уверен<var 1A 01 /var>, что тебе нужен слуга?"
+    },
+    {
+      "id": "0x000000E1",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_VIERA_MALE_TYPE6<tab>Больше ничего? Тогда я поскачу дальше."
+    },
+    {
+      "id": "0x000000E2",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_HROTHGAR_FEMALE_TYPE1<tab>Рад был помочь. Только не переутомляйтесь, <var 08 E905 ((госпожа)) ((сэр)) /var>."
+    },
+    {
+      "id": "0x000000E3",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_HROTHGAR_FEMALE_TYPE2<tab>Надоел я тебе, а? Что ж, ладно! Дай знать, если ещё что-нибудь понадобится!"
+    },
+    {
+      "id": "0x000000E4",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_HROTHGAR_FEMALE_TYPE3<tab>Мы закончили? Тогда я откланяюсь."
+    },
+    {
+      "id": "0x000000E5",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_HROTHGAR_FEMALE_TYPE4<tab>Больше вам ничего не требуется, <var 08 E905 ((milady)) ((milord)) /var>? Тогда я пойду точить когти и ждать вашего следующего призыва."
+    },
+    {
+      "id": "0x000000E6",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_HROTHGAR_FEMALE_TYPE5<tab>Больше ничего? Что ж... Я пойду!"
+    },
+    {
+      "id": "0x000000E7",
+      "text": "TEXT_HOUFURMERCHANT_00511_LEAVE_HROTHGAR_FEMALE_TYPE6<tab>Всё необходимое у тебя есть? Тогда я немного вздремну."
+    }
+  ]
+}

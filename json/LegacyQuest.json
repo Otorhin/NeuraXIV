@@ -1,0 +1,1185 @@
+{
+  "source_file": "exd/LegacyQuest_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Shapeless Melody<tab>"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Treasures of the Main<tab>"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Legends Adrift<tab>"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Never the Twain Shall Meet<tab>"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Sundered Skies<tab>"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Souls Gone Wild<tab>"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Whispers in the Wood<tab>"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Beckon of the Elementals<tab>"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Flowers for All<tab>"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Court in the Sands<tab>"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Golden Sacrifices<tab>"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Calamity Cometh<tab>"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Fade to White<tab>"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Together We Stand<tab>"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Toll of the Warden<tab>"
+    },
+    {
+      "id": "0x00000010",
+      "text": "Forever Taken<tab>"
+    },
+    {
+      "id": "0x00000011",
+      "text": "Lord Errant<tab>"
+    },
+    {
+      "id": "0x00000012",
+      "text": "Of Men They Sing<tab>"
+    },
+    {
+      "id": "0x00000013",
+      "text": "Futures Perfect<tab>"
+    },
+    {
+      "id": "0x00000014",
+      "text": "The House Always Wins<tab>"
+    },
+    {
+      "id": "0x00000015",
+      "text": "Here There Be Pirates<tab>"
+    },
+    {
+      "id": "0x00000016",
+      "text": "Two Sides to Every Chip<tab>"
+    },
+    {
+      "id": "0x00000017",
+      "text": "All Bark and No Bite<tab>"
+    },
+    {
+      "id": "0x00000018",
+      "text": "Unalienable Rights<tab>"
+    },
+    {
+      "id": "0x00000019",
+      "text": "Thrill of the Fight<tab>"
+    },
+    {
+      "id": "0x0000001A",
+      "text": "Bloody Baptism<tab>"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "Two-man Crew<tab>"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "Captain's Orders<tab>"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "Getting Started<tab>"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "Getting Started<tab>"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "Getting Started<tab>"
+    },
+    {
+      "id": "0x00000020",
+      "text": "Selecting a Different Path Companion<tab>"
+    },
+    {
+      "id": "0x00000021",
+      "text": "Filling the Quiver<tab>"
+    },
+    {
+      "id": "0x00000022",
+      "text": "The Foreboding Forest<tab>"
+    },
+    {
+      "id": "0x00000023",
+      "text": "There Can Be Only One<tab>"
+    },
+    {
+      "id": "0x00000024",
+      "text": "A Wailing Welcome<tab>"
+    },
+    {
+      "id": "0x00000025",
+      "text": "Culture Shock<tab>"
+    },
+    {
+      "id": "0x00000026",
+      "text": "Necessary Evils<tab>"
+    },
+    {
+      "id": "0x00000027",
+      "text": "The Big Payback<tab>"
+    },
+    {
+      "id": "0x00000028",
+      "text": "Revelry in Rivalry<tab>"
+    },
+    {
+      "id": "0x00000029",
+      "text": "Law and the Order<tab>"
+    },
+    {
+      "id": "0x0000002A",
+      "text": "Dendrological Duties<tab>"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "Good Knight, Sweet Dreams<tab>"
+    },
+    {
+      "id": "0x0000002C",
+      "text": "The Call of Nature<tab>"
+    },
+    {
+      "id": "0x0000002D",
+      "text": "The Mouths of Babes<tab>"
+    },
+    {
+      "id": "0x0000002E",
+      "text": "Hide and Seek Shenanigans<tab>"
+    },
+    {
+      "id": "0x0000002F",
+      "text": "Spanning the Spectrum<tab>"
+    },
+    {
+      "id": "0x00000030",
+      "text": "An Ear for Quality<tab>"
+    },
+    {
+      "id": "0x00000031",
+      "text": "Song of the Sirens<tab>"
+    },
+    {
+      "id": "0x00000032",
+      "text": "The Sound of Silence<tab>"
+    },
+    {
+      "id": "0x00000033",
+      "text": "She Walks in Beauty<tab>"
+    },
+    {
+      "id": "0x00000034",
+      "text": "F'lhaminn's Flower<tab>"
+    },
+    {
+      "id": "0x00000035",
+      "text": "Struck Through the Heart<tab>"
+    },
+    {
+      "id": "0x00000036",
+      "text": "The Silent Partners<tab>"
+    },
+    {
+      "id": "0x00000037",
+      "text": "Designer Imposters<tab>"
+    },
+    {
+      "id": "0x00000038",
+      "text": "Head of the Class<tab>"
+    },
+    {
+      "id": "0x00000039",
+      "text": "Hoodwinked<tab>"
+    },
+    {
+      "id": "0x0000003A",
+      "text": "Dance the Night Away<tab>"
+    },
+    {
+      "id": "0x0000003B",
+      "text": "A Fruitful Murder<tab>"
+    },
+    {
+      "id": "0x0000003C",
+      "text": "Sleep, Cousin of Death<tab>"
+    },
+    {
+      "id": "0x0000003D",
+      "text": "The Boy and the Dragon Gay<tab>"
+    },
+    {
+      "id": "0x0000003E",
+      "text": "Dream On, Dream Away<tab>"
+    },
+    {
+      "id": "0x0000003F",
+      "text": "Showdown<tab>"
+    },
+    {
+      "id": "0x00000040",
+      "text": "Mystery of the Gastronome Gone Home<tab>"
+    },
+    {
+      "id": "0x00000041",
+      "text": "Something in the Soup<tab>"
+    },
+    {
+      "id": "0x00000042",
+      "text": "A Piece of History<tab>"
+    },
+    {
+      "id": "0x00000043",
+      "text": "Little Saboteurs<tab>"
+    },
+    {
+      "id": "0x00000044",
+      "text": "Runaway Little Girl<tab>"
+    },
+    {
+      "id": "0x00000045",
+      "text": "Gridanian Roots<tab>"
+    },
+    {
+      "id": "0x00000046",
+      "text": "The Grass is Always Greener<tab>"
+    },
+    {
+      "id": "0x00000047",
+      "text": "A Moogle Bouquet<tab>"
+    },
+    {
+      "id": "0x00000048",
+      "text": "To Fight a Fishback<tab>"
+    },
+    {
+      "id": "0x00000049",
+      "text": "The Beast of the Barrel<tab>"
+    },
+    {
+      "id": "0x0000004A",
+      "text": "Polishing the Mast<tab>"
+    },
+    {
+      "id": "0x0000004B",
+      "text": "Ifrit Bleeds, We Can Kill It<tab>"
+    },
+    {
+      "id": "0x0000004C",
+      "text": "Assessing the Damage<tab>"
+    },
+    {
+      "id": "0x0000004D",
+      "text": "Bridging the Gap<tab>"
+    },
+    {
+      "id": "0x0000004E",
+      "text": "Revenge on the Reavers<tab>"
+    },
+    {
+      "id": "0x0000004F",
+      "text": "Till Death Do Us Part<tab>"
+    },
+    {
+      "id": "0x00000050",
+      "text": "Beryl Overboard<tab>"
+    },
+    {
+      "id": "0x00000051",
+      "text": "Have You Seen My Son<tab>"
+    },
+    {
+      "id": "0x00000052",
+      "text": "Food for Thought<tab>"
+    },
+    {
+      "id": "0x00000053",
+      "text": "Seashells by the Seashore<tab>"
+    },
+    {
+      "id": "0x00000054",
+      "text": "Fishing for Answers<tab>"
+    },
+    {
+      "id": "0x00000055",
+      "text": "Moonstruck<tab>"
+    },
+    {
+      "id": "0x00000056",
+      "text": "A Misty Past<tab>"
+    },
+    {
+      "id": "0x00000057",
+      "text": "Carving a Name<tab>"
+    },
+    {
+      "id": "0x00000058",
+      "text": "The Tug of the Whorl<tab>"
+    },
+    {
+      "id": "0x00000059",
+      "text": "Proceed with Caution<tab>"
+    },
+    {
+      "id": "0x0000005A",
+      "text": "Playing with Fire<tab>"
+    },
+    {
+      "id": "0x0000005B",
+      "text": "A Well-Balanced Diet<tab>"
+    },
+    {
+      "id": "0x0000005C",
+      "text": "The Penultimate Prank<tab>"
+    },
+    {
+      "id": "0x0000005D",
+      "text": "The Search for Sicksa<tab>"
+    },
+    {
+      "id": "0x0000005E",
+      "text": "The Ultimate Prank<tab>"
+    },
+    {
+      "id": "0x0000005F",
+      "text": "Say It with Wolf Tails<tab>"
+    },
+    {
+      "id": "0x00000060",
+      "text": "Embarrassing Excerpts<tab>"
+    },
+    {
+      "id": "0x00000061",
+      "text": "A Forbidden Love<tab>"
+    },
+    {
+      "id": "0x00000062",
+      "text": "Last Respects<tab>"
+    },
+    {
+      "id": "0x00000063",
+      "text": "Stone Deaf<tab>"
+    },
+    {
+      "id": "0x00000064",
+      "text": "Hunting the Hunters<tab>"
+    },
+    {
+      "id": "0x00000065",
+      "text": "To Deskunk a Beer<tab>"
+    },
+    {
+      "id": "0x00000066",
+      "text": "Losing One's Thread<tab>"
+    },
+    {
+      "id": "0x00000067",
+      "text": "Seeing the Seers<tab>"
+    },
+    {
+      "id": "0x00000068",
+      "text": "A Knock in the Night<tab>"
+    },
+    {
+      "id": "0x00000069",
+      "text": "Sleepless in Eorzea<tab>"
+    },
+    {
+      "id": "0x0000006A",
+      "text": "Dressed to Be Killed<tab>"
+    },
+    {
+      "id": "0x0000006B",
+      "text": "The Customer Comes First<tab>"
+    },
+    {
+      "id": "0x0000006C",
+      "text": "An Inconvenient Dodo<tab>"
+    },
+    {
+      "id": "0x0000006D",
+      "text": "Besmitten and Besmirched<tab>"
+    },
+    {
+      "id": "0x0000006E",
+      "text": "Clasping to Hope<tab>"
+    },
+    {
+      "id": "0x0000006F",
+      "text": "Traumaturgy<tab>"
+    },
+    {
+      "id": "0x00000070",
+      "text": "Best Flower Ever<tab>"
+    },
+    {
+      "id": "0x00000071",
+      "text": "The Unheard Horizon<tab>"
+    },
+    {
+      "id": "0x00000072",
+      "text": "Freedom Isn't Free<tab>"
+    },
+    {
+      "id": "0x00000073",
+      "text": "Ore for an Ore<tab>"
+    },
+    {
+      "id": "0x00000074",
+      "text": "No Other Dodo Will Do<tab>"
+    },
+    {
+      "id": "0x00000075",
+      "text": "A Call to Arms<tab>"
+    },
+    {
+      "id": "0x00000076",
+      "text": "Counting Sheep<tab>"
+    },
+    {
+      "id": "0x00000077",
+      "text": "A Hypocritical Oath<tab>"
+    },
+    {
+      "id": "0x00000078",
+      "text": "Blood Price<tab>"
+    },
+    {
+      "id": "0x00000079",
+      "text": "Quid Pro Quo<tab>"
+    },
+    {
+      "id": "0x0000007A",
+      "text": "There Might Be Blood<tab>"
+    },
+    {
+      "id": "0x0000007B",
+      "text": "Cutthroat Prices<tab>"
+    },
+    {
+      "id": "0x0000007C",
+      "text": "Monster of Maw Most Massive<tab>"
+    },
+    {
+      "id": "0x0000007D",
+      "text": "Scrubbing the Soul<tab>"
+    },
+    {
+      "id": "0x0000007E",
+      "text": "Disorganized Crime<tab>"
+    },
+    {
+      "id": "0x0000007F",
+      "text": "A Slippery Stone<tab>"
+    },
+    {
+      "id": "0x00000080",
+      "text": "Winds of Change<tab>"
+    },
+    {
+      "id": "0x00000081",
+      "text": "Shot Through the Heart<tab>"
+    },
+    {
+      "id": "0x00000082",
+      "text": "What a Pirate Wants<tab>"
+    },
+    {
+      "id": "0x00000083",
+      "text": "Of Archons and Muses<tab>"
+    },
+    {
+      "id": "0x00000084",
+      "text": "Sanguine Studies<tab>"
+    },
+    {
+      "id": "0x00000085",
+      "text": "Secrets Unearthed<tab>"
+    },
+    {
+      "id": "0x00000086",
+      "text": "Rustproof<tab>"
+    },
+    {
+      "id": "0x00000087",
+      "text": "In the Name of Science<tab>"
+    },
+    {
+      "id": "0x00000088",
+      "text": "Hearing Confession<tab>"
+    },
+    {
+      "id": "0x00000089",
+      "text": "A Bitter Oil to Swallow<tab>"
+    },
+    {
+      "id": "0x0000008A",
+      "text": "Spores on the Brain<tab>"
+    },
+    {
+      "id": "0x0000008B",
+      "text": "Trading Tongueflaps<tab>"
+    },
+    {
+      "id": "0x0000008C",
+      "text": "Letting Out Orion's Belt<tab>"
+    },
+    {
+      "id": "0x0000008D",
+      "text": "Sour Grapes<tab>"
+    },
+    {
+      "id": "0x0000008E",
+      "text": "Sniffing Out a Profit<tab>"
+    },
+    {
+      "id": "0x0000008F",
+      "text": "The Dreamer's Gospel (Ul'dah)<tab>"
+    },
+    {
+      "id": "0x00000090",
+      "text": "The Dreamer's Dilemma (Ul'dah)<tab>"
+    },
+    {
+      "id": "0x00000091",
+      "text": "The Dreamer's Gospel (Gridania)<tab>"
+    },
+    {
+      "id": "0x00000092",
+      "text": "The Dreamer's Dilemma (Gridania)<tab>"
+    },
+    {
+      "id": "0x00000093",
+      "text": "The Heat Is On<tab>"
+    },
+    {
+      "id": "0x00000094",
+      "text": "Impish Impositions<tab>"
+    },
+    {
+      "id": "0x00000095",
+      "text": "Winter Is Not Coming<tab>"
+    },
+    {
+      "id": "0x00000096",
+      "text": "Gone with the Snow<tab>"
+    },
+    {
+      "id": "0x00000097",
+      "text": "The Dreamer's Gospel (Limsa Lominsa)<tab>"
+    },
+    {
+      "id": "0x00000098",
+      "text": "The Dreamer's Dilemma (Limsa Lominsa)<tab>"
+    },
+    {
+      "id": "0x00000099",
+      "text": "Guild Tasks<tab>"
+    },
+    {
+      "id": "0x0000009A",
+      "text": "Call of Booty<tab>"
+    },
+    {
+      "id": "0x0000009B",
+      "text": "Risky Business<tab>"
+    },
+    {
+      "id": "0x0000009C",
+      "text": "Forging the Spirit<tab>"
+    },
+    {
+      "id": "0x0000009D",
+      "text": "Joining the Spirit<tab>"
+    },
+    {
+      "id": "0x0000009E",
+      "text": "Waking the Spirit<tab>"
+    },
+    {
+      "id": "0x0000009F",
+      "text": "A Feast of Fools<tab>"
+    },
+    {
+      "id": "0x000000A0",
+      "text": "Provisioning & Supply Missions<tab>"
+    },
+    {
+      "id": "0x000000A1",
+      "text": "A Light in the Dark<tab>"
+    },
+    {
+      "id": "0x000000A2",
+      "text": "What Glitters Always Isn't Gold<tab>"
+    },
+    {
+      "id": "0x000000A3",
+      "text": "the Thousand Maws of Toto--Rak<tab>"
+    },
+    {
+      "id": "0x000000A4",
+      "text": "Dzemael Darkhold<tab>"
+    },
+    {
+      "id": "0x000000A5",
+      "text": "Aurum Vale<tab>"
+    },
+    {
+      "id": "0x000000A6",
+      "text": "Cutter's Cry<tab>"
+    },
+    {
+      "id": "0x000000A7",
+      "text": "Waste Not Want Not<tab>"
+    },
+    {
+      "id": "0x000000A8",
+      "text": "In Plain Sight<tab>"
+    },
+    {
+      "id": "0x000000A9",
+      "text": "The Ink Thief<tab>"
+    },
+    {
+      "id": "0x000000AA",
+      "text": "Private Eyes<tab>"
+    },
+    {
+      "id": "0x000000AB",
+      "text": "Mysteries of the Red Moon<tab>"
+    },
+    {
+      "id": "0x000000AC",
+      "text": "Prophecy Inspection<tab>"
+    },
+    {
+      "id": "0x000000AD",
+      "text": "Ring of Deceit<tab>"
+    },
+    {
+      "id": "0x000000AE",
+      "text": "The Usual Suspect<tab>"
+    },
+    {
+      "id": "0x000000AF",
+      "text": "Seasonal Event<tab>"
+    },
+    {
+      "id": "0x000000B0",
+      "text": "Scrambled Eggs<tab>"
+    },
+    {
+      "id": "0x000000B1",
+      "text": "Bombard Backlash<tab>"
+    },
+    {
+      "id": "0x000000B2",
+      "text": "Seasonal Event (All City-states)<tab>"
+    },
+    {
+      "id": "0x000000B3",
+      "text": "Hamlet Defense<tab>"
+    },
+    {
+      "id": "0x000000B4",
+      "text": "Class is in Session<tab>"
+    },
+    {
+      "id": "0x000000B5",
+      "text": "Taming the Tempest<tab>"
+    },
+    {
+      "id": "0x000000B6",
+      "text": "A Relic Reborn<tab>"
+    },
+    {
+      "id": "0x000000B7",
+      "text": "Living on a Prayer<tab>"
+    },
+    {
+      "id": "0x000000B8",
+      "text": "The Raven, Nevermore<tab>"
+    },
+    {
+      "id": "0x000000B9",
+      "text": "Pride and Duty (Will Take You from the Mountain)<tab>"
+    },
+    {
+      "id": "0x000000BA",
+      "text": "Embracing the Beast<tab>"
+    },
+    {
+      "id": "0x000000BB",
+      "text": "Curious Gorge Goes to the Bazaar<tab>"
+    },
+    {
+      "id": "0x000000BC",
+      "text": "Looking the Part<tab>"
+    },
+    {
+      "id": "0x000000BD",
+      "text": "Proof is in the Pudding<tab>"
+    },
+    {
+      "id": "0x000000BE",
+      "text": "How to Quit You<tab>"
+    },
+    {
+      "id": "0x000000BF",
+      "text": "Brother from Another Mother<tab>"
+    },
+    {
+      "id": "0x000000C0",
+      "text": "Insulted Intelligence<tab>"
+    },
+    {
+      "id": "0x000000C1",
+      "text": "The Pursuit of Power<tab>"
+    },
+    {
+      "id": "0x000000C2",
+      "text": "Good Vibrations<tab>"
+    },
+    {
+      "id": "0x000000C3",
+      "text": "Five Easy Pieces<tab>"
+    },
+    {
+      "id": "0x000000C4",
+      "text": "Return of the King...of Ruin<tab>"
+    },
+    {
+      "id": "0x000000C5",
+      "text": "Seeds of Initiative<tab>"
+    },
+    {
+      "id": "0x000000C6",
+      "text": "When Sheep Attack<tab>"
+    },
+    {
+      "id": "0x000000C7",
+      "text": "Lost in Rage<tab>"
+    },
+    {
+      "id": "0x000000C8",
+      "text": "The Wheel of Disaster<tab>"
+    },
+    {
+      "id": "0x000000C9",
+      "text": "In Search of Succor<tab>"
+    },
+    {
+      "id": "0x000000CA",
+      "text": "The Chorus of Cataclysm<tab>"
+    },
+    {
+      "id": "0x000000CB",
+      "text": "Hearing Voices<tab>"
+    },
+    {
+      "id": "0x000000CC",
+      "text": "A Time to Kill<tab>"
+    },
+    {
+      "id": "0x000000CD",
+      "text": "International Relations<tab>"
+    },
+    {
+      "id": "0x000000CE",
+      "text": "The Voidgate Breathes Gloomy<tab>"
+    },
+    {
+      "id": "0x000000CF",
+      "text": "Gearing Up<tab>"
+    },
+    {
+      "id": "0x000000D0",
+      "text": "Always Bet on Black<tab>"
+    },
+    {
+      "id": "0x000000D1",
+      "text": "Paladin's Pledge<tab>"
+    },
+    {
+      "id": "0x000000D2",
+      "text": "Honor Lost<tab>"
+    },
+    {
+      "id": "0x000000D3",
+      "text": "Power Struggles<tab>"
+    },
+    {
+      "id": "0x000000D4",
+      "text": "Poisoned Hearts<tab>"
+    },
+    {
+      "id": "0x000000D5",
+      "text": "Parley on High Ground<tab>"
+    },
+    {
+      "id": "0x000000D6",
+      "text": "Keeping the Oath<tab>"
+    },
+    {
+      "id": "0x000000D7",
+      "text": "A Song of Bards and Bowmen<tab>"
+    },
+    {
+      "id": "0x000000D8",
+      "text": "The Archer's Anthem<tab>"
+    },
+    {
+      "id": "0x000000D9",
+      "text": "Bard's-Eye View<tab>"
+    },
+    {
+      "id": "0x000000DA",
+      "text": "Doing It the Bard Way<tab>"
+    },
+    {
+      "id": "0x000000DB",
+      "text": "Pieces of the Past<tab>"
+    },
+    {
+      "id": "0x000000DC",
+      "text": "Requiem for the Fallen<tab>"
+    },
+    {
+      "id": "0x000000DD",
+      "text": "Eye of the Dragon<tab>"
+    },
+    {
+      "id": "0x000000DE",
+      "text": "Lance of Fury<tab>"
+    },
+    {
+      "id": "0x000000DF",
+      "text": "Unfading Scars<tab>"
+    },
+    {
+      "id": "0x000000E0",
+      "text": "Double Dragoon<tab>"
+    },
+    {
+      "id": "0x000000E1",
+      "text": "Fatal Seduction<tab>"
+    },
+    {
+      "id": "0x000000E2",
+      "text": "Into the Dragon's Maw<tab>"
+    },
+    {
+      "id": "0x000000E3",
+      "text": "The Price of Integrity<tab>"
+    },
+    {
+      "id": "0x000000E4",
+      "text": "Testing the Waters<tab>"
+    },
+    {
+      "id": "0x000000E5",
+      "text": "Seals for the Whorl<tab>"
+    },
+    {
+      "id": "0x000000E6",
+      "text": "Engineering Victory<tab>"
+    },
+    {
+      "id": "0x000000E7",
+      "text": "An Officer and a Wise Man<tab>"
+    },
+    {
+      "id": "0x000000E8",
+      "text": "Ceruleum Shock<tab>"
+    },
+    {
+      "id": "0x000000E9",
+      "text": "Till Sea Swallows All<tab>"
+    },
+    {
+      "id": "0x000000EA",
+      "text": "Imperial Devices (Limsa Lominsa)<tab>"
+    },
+    {
+      "id": "0x000000EB",
+      "text": "Into the Dark (Limsa Lominsa)<tab>"
+    },
+    {
+      "id": "0x000000EC",
+      "text": "It Kills with Fire (Limsa Lominsa)<tab>"
+    },
+    {
+      "id": "0x000000ED",
+      "text": "The Cove<tab>"
+    },
+    {
+      "id": "0x000000EE",
+      "text": "Saving the Stead Instead<tab>"
+    },
+    {
+      "id": "0x000000EF",
+      "text": "It's a Piece of Cake to Bake a Poison Cake<tab>"
+    },
+    {
+      "id": "0x000000F0",
+      "text": "Kobold and the Beautiful<tab>"
+    },
+    {
+      "id": "0x000000F1",
+      "text": "Oil Crisis<tab>"
+    },
+    {
+      "id": "0x000000F2",
+      "text": "Alive<tab>"
+    },
+    {
+      "id": "0x000000F3",
+      "text": "The Weakest Link<tab>"
+    },
+    {
+      "id": "0x000000F4",
+      "text": "Deus ex Machina<tab>"
+    },
+    {
+      "id": "0x000000F5",
+      "text": "In for Garuda Wakening (Limsa Lominsa)<tab>"
+    },
+    {
+      "id": "0x000000F6",
+      "text": "Don't Hate the Messenger (Limsa Lominsa)<tab>"
+    },
+    {
+      "id": "0x000000F7",
+      "text": "United We Stand (Limsa Lominsa)<tab>"
+    },
+    {
+      "id": "0x000000F8",
+      "text": "To Kill a Raven (Limsa Lominsa)<tab>"
+    },
+    {
+      "id": "0x000000F9",
+      "text": "Patrol, Interrupted<tab>"
+    },
+    {
+      "id": "0x000000FA",
+      "text": "Breaking the Seals<tab>"
+    },
+    {
+      "id": "0x000000FB",
+      "text": "Why Did It Have to Be Snakes<tab>"
+    },
+    {
+      "id": "0x000000FC",
+      "text": "Adders' Nest Egg<tab>"
+    },
+    {
+      "id": "0x000000FD",
+      "text": "The Mail Must Get Through<tab>"
+    },
+    {
+      "id": "0x000000FE",
+      "text": "Their Finest Hour<tab>"
+    },
+    {
+      "id": "0x000000FF",
+      "text": "Appetite for Destruction<tab>"
+    },
+    {
+      "id": "0x00000100",
+      "text": "Serenity, Purity, Sanctity<tab>"
+    },
+    {
+      "id": "0x00000101",
+      "text": "Imperial Devices (Gridania)<tab>"
+    },
+    {
+      "id": "0x00000102",
+      "text": "Into the Dark (Gridania)<tab>"
+    },
+    {
+      "id": "0x00000103",
+      "text": "It Kills with Fire (Gridania)<tab>"
+    },
+    {
+      "id": "0x00000104",
+      "text": "Eternal Recurrence<tab>"
+    },
+    {
+      "id": "0x00000105",
+      "text": "The Pen Is Mightier than the Spear<tab>"
+    },
+    {
+      "id": "0x00000106",
+      "text": "Woes of the Botanist<tab>"
+    },
+    {
+      "id": "0x00000107",
+      "text": "Gone with the Wind<tab>"
+    },
+    {
+      "id": "0x00000108",
+      "text": "A Taste for Death<tab>"
+    },
+    {
+      "id": "0x00000109",
+      "text": "Two Vans are Better than One<tab>"
+    },
+    {
+      "id": "0x0000010A",
+      "text": "You Don't Have the Rite<tab>"
+    },
+    {
+      "id": "0x0000010B",
+      "text": "Shadow of the Raven<tab>"
+    },
+    {
+      "id": "0x0000010C",
+      "text": "In for Garuda Wakening (Gridania)<tab>"
+    },
+    {
+      "id": "0x0000010D",
+      "text": "Don't Hate the Messenger (Gridania)<tab>"
+    },
+    {
+      "id": "0x0000010E",
+      "text": "United We Stand (Gridania)<tab>"
+    },
+    {
+      "id": "0x0000010F",
+      "text": "To Kill a Raven (Gridania)<tab>"
+    },
+    {
+      "id": "0x00000110",
+      "text": "Cure for the Common Pox<tab>"
+    },
+    {
+      "id": "0x00000111",
+      "text": "Career Opportunities<tab>"
+    },
+    {
+      "id": "0x00000112",
+      "text": "Kindling a Flame<tab>"
+    },
+    {
+      "id": "0x00000113",
+      "text": "Burning a Hole in One's Pocket<tab>"
+    },
+    {
+      "id": "0x00000114",
+      "text": "Arms Race<tab>"
+    },
+    {
+      "id": "0x00000115",
+      "text": "Burning Man<tab>"
+    },
+    {
+      "id": "0x00000116",
+      "text": "Know Your Enemy<tab>"
+    },
+    {
+      "id": "0x00000117",
+      "text": "By Fire Reborn<tab>"
+    },
+    {
+      "id": "0x00000118",
+      "text": "Imperial Devices (Ul'dah)<tab>"
+    },
+    {
+      "id": "0x00000119",
+      "text": "Into the Dark (Ul'dah)<tab>"
+    },
+    {
+      "id": "0x0000011A",
+      "text": "It Kills with Fire (Ul'dah)<tab>"
+    },
+    {
+      "id": "0x0000011B",
+      "text": "Prying Eyes<tab>"
+    },
+    {
+      "id": "0x0000011C",
+      "text": "Different Strokes<tab>"
+    },
+    {
+      "id": "0x0000011D",
+      "text": "A Weaver and a Mummer<tab>"
+    },
+    {
+      "id": "0x0000011E",
+      "text": "When Alchemists Cry<tab>"
+    },
+    {
+      "id": "0x0000011F",
+      "text": "Challenge Accepted<tab>"
+    },
+    {
+      "id": "0x00000120",
+      "text": "Like Father, Like Son<tab>"
+    },
+    {
+      "id": "0x00000121",
+      "text": "Gore a Lizard, Hurry<tab>"
+    },
+    {
+      "id": "0x00000122",
+      "text": "Careless Whispers<tab>"
+    },
+    {
+      "id": "0x00000123",
+      "text": "In for Garuda Wakening (Ul'dah)<tab>"
+    },
+    {
+      "id": "0x00000124",
+      "text": "Don't Hate the Messenger (Ul'dah)<tab>"
+    },
+    {
+      "id": "0x00000125",
+      "text": "United We Stand (Ul'dah)<tab>"
+    },
+    {
+      "id": "0x00000126",
+      "text": "To Kill a Raven (Ul'dah)<tab>"
+    },
+    {
+      "id": "0x00000127",
+      "text": "Mess with the Goat, Get the Horns<tab>"
+    }
+  ]
+}

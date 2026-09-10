@@ -1,0 +1,129 @@
+{
+  "source_file": "exd/custom/002/CmnDefRelicWeapon060MagiciteShop_00251_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_000<tab>Ну-ну, пришёл за моими товарами, да? Я так и думал, так и думал. Что ж, выкладывай плату — и я с радостью предоставлю махатму для любого Зодиакального оружия, какого пожелаешь."
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_MENU_TITLE<tab>Выберите зодиакальное оружие, чтобы получить махатму."
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_MENU_CHOICES<tab><var 08 E4E802F22513 ((<var 28 ((Item)) F225130A /var> и <var 28 ((Item)) F2251C0A /var>)) ((<var 28 ((Item)) E8020A /var>)) /var> (<var 20 E803 /var> осталось)."
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_MENU_CANCEL<tab>Ничего."
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_100<tab>(★Неиспользуемый / Предполагается удаление★)"
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_110<tab>(★Неиспользуемый / Предполагается удаление★)"
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_YESNO_MESSAGE<tab>Обменять <var 22 E804 ((,)) /var> <var 31 ((Item)) 04E8030302 /var> на <var 28 ((Relic6Magicite)) E80201 /var> (<var 08 E4E805F22513 ((<var 31 ((Item)) 04F225130202 /var> и <var 31 ((Item)) 04F2251C0202 /var>)) ((<var 2B ((<var 31 ((Item)) 04E8050202 /var>)) /var>)) /var>)?"
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_YESNO_YES<tab>Да"
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_YESNO_NO<tab>Нет"
+    },
+    {
+      "id": "0x00000009",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_120<tab>Итак, по рукам. Вот твой <var 28 ((Relic6Magicite)) E80201 /var> — кристалл, который, как говорят, пробуждает в душах чувство <var 28 ((Relic6Magicite)) E80202 /var>."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_121<tab>Я позволил себе прикрепить его к твоей руке. А теперь ступай и орудуй им!"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_SYSTEM_000_130<tab><var 28 ((Relic6Magicite)) E80201 /var> прикреплён к твоему оружию Зодиака. Теперь выполнение определённых действий с экипированным оружием будет повышать резонанс души."
+    },
+    {
+      "id": "0x0000000C",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_SYSTEM_000_131<tab>По мере повышения уровня резонанса души сознание оружия начнёт пробуждаться. С помощью Зодиакального стекла можно проверить свой прогресс по каждому виду махатмы."
+    },
+    {
+      "id": "0x0000000D",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_SYSTEM_000_132<tab>Достигнув полного резонанса души со всеми двенадцатью видами махатм и пробудив своё оружие Зодиака в достаточной мере, возвращайтесь к Джалзану."
+    },
+    {
+      "id": "0x0000000E",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_300<tab>Боюсь, ты исчерпал мой запас махатм для этого оружия — и, признаться, я под большим впечатлением!"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_SYSTEM_000_310<tab>Больше нет разновидностей махатм, которые можно прикрепить к вашему оружию. Достигнув полного душевного резонанса с последней махатмой, возвращайтесь к Джалзану в Хёрстмилль."
+    },
+    {
+      "id": "0x00000010",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_030<tab>Экскалибур и щит Эгида — неразлучная пара. Боюсь, мы не сможем заключить сделку, пока оба не будут передо мной."
+    },
+    {
+      "id": "0x00000011",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_SYSTEM_000_040<tab>Чтобы приобрести махатму, поговорите с Ремоном, имея Экскалибур и Щит Эгиды — экипированными, в оружейном сундуке или в инвентаре."
+    },
+    {
+      "id": "0x00000012",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_040<tab>(★Неиспользуемый / Предполагается удаление★)"
+    },
+    {
+      "id": "0x00000013",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_SYSTEM_000_050<tab>(★Неиспользуемый / Предполагается удаление★)"
+    },
+    {
+      "id": "0x00000014",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_050<tab>У тебя далеко не достаточно <var 31 ((Item)) 04E8020302 /var>. Ты что, пытаешься меня обмануть!?"
+    },
+    {
+      "id": "0x00000015",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_060<tab>Похоже, <var 28 ((Relic6Magicite)) E80201 /var> ещё не пробудил в твоём оружии чувство <var 28 ((Relic6Magicite)) E80202 /var>. Пока ты не достигнешь полного резонанса душ, я просто не могу установить следующую деталь."
+    },
+    {
+      "id": "0x00000016",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_SYSTEM_000_070<tab>Вы не можете прикрепить новую махатму к зодиакальному оружию, пока не достигнете полного резонанса души с уже прикреплённой махатмой."
+    },
+    {
+      "id": "0x00000017",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_SYSTEM_000_071<tab>С помощью Зодиакального стекла можно визуально отслеживать прогресс по каждой махатме."
+    },
+    {
+      "id": "0x00000018",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_SYSTEM_000_072<tab>Если вы потеряли Зодиакальное стекло, обратитесь к Дрейку в Хёрстмилле, чтобы получить новое."
+    },
+    {
+      "id": "0x00000019",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_MAGICITE_MENU_TITLE<tab>Выберите махатму, которую хотите получить."
+    },
+    {
+      "id": "0x0000001A",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_MAGICITE_DONE<tab><var 28 ((Relic6Magicite)) E80201 /var>. (Выполнено)"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_MAGICITE_NEXT<tab><var 28 ((Relic6Magicite)) E80201 /var>. (Доступно)"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_MAGICITE_FUTURE<tab><var 28 ((Relic6Magicite)) E80201 /var>"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_070<tab>Неужели ты забыл, что я уже отдала тебе <var 28 ((Relic6Magicite)) E80201 /var>?"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_071<tab>Думаю, для этого ещё рановато. Ты должен использовать махатмы в правильном порядке, иначе их действие ослабеет, а разум в твоём оружии так и не пробудится."
+    }
+  ]
+}

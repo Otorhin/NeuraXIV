@@ -1,0 +1,37 @@
+{
+  "source_file": "exd/custom/001/CmnDefChocoboRename_00134_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_CMNDEFCHOCOBORENAME_00134_MY_CHOCOBO_RENAME_UNQUALIFIED<tab>Вы не можете выполнить это действие, пока рядом находится ваш спутник."
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_CMNDEFCHOCOBORENAME_00134_PROMPT_MY_CHOCOBO_RENAME_TITLE<tab>Пожалуйста, переименуйте своего личного чокобо."
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_CMNDEFCHOCOBORENAME_00134_PROMPT_MY_CHOCOBO_RENAME_CAPTION<tab>Имя чокобо:"
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_CMNDEFCHOCOBORENAME_00134_PROMPT_MY_CHOCOBO_RENAME_MES0<tab>Имена должны содержать от 2 до 20 букв; допускаются апострофы, но не дефисы."
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_CMNDEFCHOCOBORENAME_00134_PROMPT_MY_CHOCOBO_RENAME_MES1<tab>"
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_CMNDEFCHOCOBORENAME_00134_PROMPT_MY_CHOCOBO_RENAME_MES2<tab>"
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_CMNDEFCHOCOBORENAME_00134_PROMPT_MY_CHOCOBO_RENAME_SUCCESS<tab>Вашему чокобо присвоено новое имя: <var 29 EA02 /var>."
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_CMNDEFCHOCOBORENAME_00134_MY_CHOCOBO_RENAME_STABLE<tab>Вы не можете выполнить это действие, пока ваш чокобо находится в стойле."
+    }
+  ]
+}

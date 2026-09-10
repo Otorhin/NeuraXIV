@@ -1,0 +1,101 @@
+{
+  "source_file": "exd/MKDSupportJob_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "Phantom Freelancer<tab>Ph. Freelancer<tab><tab>Reminiscences of journeys just begun and those long ended embody the freelancer's myriad supportive techniques.<tab>Phantom Freelancer"
+    },
+    {
+      "id": "0x00000001",
+      "text": "Phantom Knight<tab>Ph. Knight<tab><tab>Emulate these ancient memories of a loyal, honorable knight and defend your comrades from harm.<tab>Phantom Knight"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Phantom Berserker<tab>Ph. Berserker<tab><tab>Savagery and unfailing courage characterize the recollections of this former berserker. These techniques entail great risk and even greater reward.<tab>Phantom Berserker"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Phantom Monk<tab>Ph. Monk<tab><tab>These memories of a monk's unflinching discipline and quiet meditation offer a path to unparalleled combat mastery.<tab>Phantom Monk"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Phantom Ranger<tab>Ph. Ranger<tab><tab>Channel these memories of a proud, passionate ranger and learn to call forth the forces of nature in battle.<tab>Phantom Ranger"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Phantom Samurai<tab>Ph. Samurai<tab><tab>Rigorous training and a strict code of chivalry personify these recollections of an ancient samurai. Access them to fell foes in a single deadly strike.<tab>Phantom Samurai"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Phantom Bard<tab>Ph. Bard<tab><tab>These memories echo with the vivid imagery of a bard's lilting song. Utilize them to employ the very same ballads in battle.<tab>Phantom Bard"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Phantom Geomancer<tab>Ph. Geomancer<tab><tab>This geomancer's recollections brim with boundless understanding of nature's laws. Access them to employ weather-dependent techniques.<tab>Phantom Geomancer"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Phantom Time Mage<tab>Ph. Time Mage<tab><tab>The memories of this former time mage reveal much about the laws of time and how to manipulate them to your advantage.<tab>Phantom Time Mage"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Phantom Cannoneer<tab>Ph. Cannoneer<tab><tab>A mastery of ballistics both scholarly and practical infuse this cannoneer's recollections. Emulate them to bombard foes with powerful projectiles.<tab>Phantom Cannoneer"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Phantom Chemist<tab>Ph. Chemist<tab><tab>This chemist's memories offer knowledge of ancient medicinal theory, including restorative techniques sure to turn the tide of battle in your favor.<tab>Phantom Chemist"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Phantom Oracle<tab>Ph. Oracle<tab><tab>Endowed with an oracle's supernatural senses and prophetic insights, these memories promise mastery over a wealth of supportive skills.<tab>Phantom Oracle"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Phantom Thief<tab>Ph. Thief<tab><tab>These recollections of a dextrous, principled thief grant access to survival techniques that will doubtless prove useful upon the isle.<tab>Phantom Thief"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Phantom Mystic Knight<tab>Ph. Mystic Knight<tab><tab>Suffused with a mystic knight's diligence and arcane prowess, these memories are key to imbuing your weaponry with potent magicks.<tab>Phantom Mystic Knight"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Phantom Gladiator<tab>Ph. Gladiator<tab><tab>This fierce, indomitable gladiator's recollections promise the mastery of myriad offensive and defensive skills.<tab>Phantom Gladiator"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Phantom Dancer<tab>Ph. Dancer<tab><tab>Absorb the memories of an exalted, expressive dancer to replicate their deft footwork and bequeath yourself a range of boons.<tab>Phantom Dancer"
+    },
+    {
+      "id": "0x00000010",
+      "text": "Phantom Ninja<tab>Ph. Ninja<tab><tab>These recollections of a ninja's stealth and stillness will prove useful in a great many precarious situations.<tab>Phantom Ninja"
+    },
+    {
+      "id": "0x00000011",
+      "text": "Phantom White Mage<tab>Ph. White Mage<tab><tab>Attain mastery of restorative techniques with the soothing memories of a devoted white mage.<tab>Phantom White Mage"
+    },
+    {
+      "id": "0x00000012",
+      "text": "Phantom Black Mage<tab>Ph. Black Mage<tab><tab>Imbued with a black mage's dedicated research and experimentation, these recollections shall bestow unto you the arcane art of destruction.<tab>Phantom Black Mage"
+    },
+    {
+      "id": "0x00000013",
+      "text": "Phantom Dragoon<tab>Ph. Dragoon<tab><tab>The memories of a trained dragoon's travels shall teach you to lunge and impale with impunity.<tab>Phantom Dragoon"
+    },
+    {
+      "id": "0x00000014",
+      "text": "Phantom Summoner<tab>Ph. Summoner<tab><tab>Channel the reminiscences of an educated, practiced summoner and learn to call forth powerful creatures adept at both offense and defense.<tab>Phantom Summoner"
+    },
+    {
+      "id": "0x00000015",
+      "text": "Phantom Blue Mage<tab>Ph. Blue Mage<tab><tab>The memories of this world-weary sorcerer are tinged with deep paranoia. Access them to gain monstrous power in arcane form.<tab>Phantom Blue Mage"
+    },
+    {
+      "id": "0x00000016",
+      "text": "Phantom Red Mage<tab>Ph. Red Mage<tab><tab>These recollections of a witty wandering red mage will allow you to wield black and white magicks in perfect balance.<tab>Phantom Red Mage"
+    },
+    {
+      "id": "0x00000017",
+      "text": "Phantom Necromancer<tab>Ph. Necromancer<tab><tab>Tainted with the tenacity of a desecrated necromancer, these memories promise the power to fight beyond death.<tab>Phantom Necromancer"
+    }
+  ]
+}

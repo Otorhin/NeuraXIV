@@ -1,0 +1,149 @@
+{
+  "source_file": "exd/ContentType_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Duty Roulette"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Dungeons"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Guildhests"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Trials"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Raids"
+    },
+    {
+      "id": "0x00000006",
+      "text": "PvP"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Quest Battles"
+    },
+    {
+      "id": "0x00000008",
+      "text": "FATEs"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Treasure Hunt"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Levequests"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Grand Company"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Companions"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Society Quests"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Overall Completion"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Player Commendation"
+    },
+    {
+      "id": "0x00000010",
+      "text": "Disciples of the Land"
+    },
+    {
+      "id": "0x00000011",
+      "text": "Disciples of the Hand"
+    },
+    {
+      "id": "0x00000012",
+      "text": "Retainer Ventures"
+    },
+    {
+      "id": "0x00000013",
+      "text": "Gold Saucer"
+    },
+    {
+      "id": "0x00000015",
+      "text": "Deep Dungeons"
+    },
+    {
+      "id": "0x00000018",
+      "text": "Wondrous Tails"
+    },
+    {
+      "id": "0x00000019",
+      "text": "Custom Deliveries"
+    },
+    {
+      "id": "0x0000001A",
+      "text": "Eureka"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "The Masked Carnivale"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "Ultimate Raids"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "Save the Queen"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "V&C Dungeon Finder"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "Ocean Fishing"
+    },
+    {
+      "id": "0x00000020",
+      "text": "Triple Triad"
+    },
+    {
+      "id": "0x00000021",
+      "text": "The Hunt"
+    },
+    {
+      "id": "0x00000022",
+      "text": "Fishing"
+    },
+    {
+      "id": "0x00000023",
+      "text": "GATE"
+    },
+    {
+      "id": "0x00000024",
+      "text": "Island Sanctuary"
+    },
+    {
+      "id": "0x00000025",
+      "text": "Chaotic Alliance Raid"
+    },
+    {
+      "id": "0x00000026",
+      "text": "Occult Crescent"
+    },
+    {
+      "id": "0x00000028",
+      "text": "●XBM"
+    }
+  ]
+}

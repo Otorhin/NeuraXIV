@@ -1,0 +1,45 @@
+{
+  "source_file": "exd/AchievementKind_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Battle"
+    },
+    {
+      "id": "0x00000002",
+      "text": "PvP"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Character"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Items"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Crafting & Gathering"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Gathering"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Quests"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Exploration"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Grand Company"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Legacy"
+    }
+  ]
+}

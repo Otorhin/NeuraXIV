@@ -1,0 +1,69 @@
+{
+  "source_file": "exd/Tribe_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Midlander<tab>Midlander"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Highlander<tab>Highlander"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Wildwood<tab>Wildwood"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Duskwight<tab>Duskwight"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Plainsfolk<tab>Plainsfolk"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Dunesfolk<tab>Dunesfolk"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Seeker of the Sun<tab>Seeker of the Sun"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Keeper of the Moon<tab>Keeper of the Moon"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Sea Wolf<tab>Sea Wolf"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Hellsguard<tab>Hellsguard"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Raen<tab>Raen"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Xaela<tab>Xaela"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Helions<tab>Helions"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "The Lost<tab>The Lost"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Rava<tab>Rava"
+    },
+    {
+      "id": "0x00000010",
+      "text": "Veena<tab>Veena"
+    }
+  ]
+}

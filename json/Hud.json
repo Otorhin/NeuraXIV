@@ -1,0 +1,429 @@
+{
+  "source_file": "exd/Hud_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "Hotbar 1<tab>Hotbar1<tab>hot1"
+    },
+    {
+      "id": "0x00000001",
+      "text": "Hotbar 2<tab>Hotbar2<tab>hot2"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Hotbar 3<tab>Hotbar3<tab>hot3"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Hotbar 4<tab>Hotbar4<tab>hot4"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Hotbar 5<tab>Hotbar5<tab>hot5"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Hotbar 6<tab>Hotbar6<tab>hot6"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Hotbar 7<tab>Hotbar7<tab>hot7"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Hotbar 8<tab>Hotbar8<tab>hot8"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Hotbar 9<tab>Hotbar9<tab>hot9"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Hotbar 10<tab>Hotbar10<tab>hot10"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Pet Hotbar<tab>PetHotbar<tab>phot"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Cross Hotbar<tab>CrossHotbar<tab>chot"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Progress Bar<tab>ProgressBar<tab>pbar"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Target Bar<tab>TargetBar<tab>tbar"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Focus Target Bar<tab>FocusTarget<tab>ftarget"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Party List<tab>PartyList<tab>plist"
+    },
+    {
+      "id": "0x00000010",
+      "text": "Enmity List<tab>EnmityList<tab>elist"
+    },
+    {
+      "id": "0x00000011",
+      "text": "Parameter Bar<tab>ParamBar<tab>param"
+    },
+    {
+      "id": "0x00000012",
+      "text": "Notices<tab>Notices<tab>notice"
+    },
+    {
+      "id": "0x00000013",
+      "text": "Minimap<tab>Minimap<tab>mmap"
+    },
+    {
+      "id": "0x00000014",
+      "text": "Main Menu<tab>MainMenu<tab>mmenu"
+    },
+    {
+      "id": "0x00000015",
+      "text": "Server Info<tab>ServerInfo<tab>server"
+    },
+    {
+      "id": "0x00000016",
+      "text": "Gil<tab>Gil<tab>gil"
+    },
+    {
+      "id": "0x00000017",
+      "text": "Inventory Grid<tab>InventoryGrid<tab>igrid"
+    },
+    {
+      "id": "0x00000018",
+      "text": "Duty List<tab>DutyList<tab>dlist"
+    },
+    {
+      "id": "0x00000019",
+      "text": "Item Help<tab>ItemHelp<tab>ihelp"
+    },
+    {
+      "id": "0x0000001A",
+      "text": "Action Help<tab>ActionHelp<tab>ahelp"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "Limit Gauge<tab>LimitGauge<tab>lgauge"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "Experience Bar<tab>ExpBar<tab>ebar"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "Status Effects<tab>StatusEffects<tab>sfx"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "Alliance List 1<tab>AllianceList1<tab>alist1"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "Alliance List 2<tab>AllianceList2<tab>alist2"
+    },
+    {
+      "id": "0x00000020",
+      "text": "Duty List<tab>DutyList<tab>dlist"
+    },
+    {
+      "id": "0x00000021",
+      "text": "Timers<tab>Timers<tab>timers"
+    },
+    {
+      "id": "0x00000026",
+      "text": "Left W Cross Hotbar<tab>LeftWXHB<tab>lwchot"
+    },
+    {
+      "id": "0x00000027",
+      "text": "Right W Cross Hotbar<tab>RightWXHB<tab>rchot"
+    },
+    {
+      "id": "0x00000028",
+      "text": "Oath Gauge<tab>OathGauge<tab>oathg"
+    },
+    {
+      "id": "0x00000029",
+      "text": "Lightning Gauge<tab>LightningGauge<tab>lightg"
+    },
+    {
+      "id": "0x0000002A",
+      "text": "Beast Gauge<tab>BeastGauge<tab>beastg"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "Dragon Gauge<tab>DragonGauge<tab>dragong"
+    },
+    {
+      "id": "0x0000002C",
+      "text": "Song Gauge<tab>SongGauge<tab>songg"
+    },
+    {
+      "id": "0x0000002D",
+      "text": "Healing Gauge<tab>HealingGauge<tab>healg"
+    },
+    {
+      "id": "0x0000002E",
+      "text": "Elemental Gauge<tab>ElementalGauge<tab>elemeng"
+    },
+    {
+      "id": "0x0000002F",
+      "text": "Aetherflow Gauge<tab>AetherflowGauge<tab>aetherg"
+    },
+    {
+      "id": "0x00000030",
+      "text": "Aetherflow Gauge<tab>AetherflowGauge<tab>aetherg"
+    },
+    {
+      "id": "0x00000031",
+      "text": "Trance Gauge<tab>TranceGauge<tab>tranceg"
+    },
+    {
+      "id": "0x00000032",
+      "text": "Faerie Gauge<tab>FaerieGauge<tab>faerieg"
+    },
+    {
+      "id": "0x00000033",
+      "text": "Ninki Gauge<tab>NinkiGauge<tab>ninkig"
+    },
+    {
+      "id": "0x00000034",
+      "text": "Heat Gauge<tab>HeatGauge<tab>heatg"
+    },
+    {
+      "id": "0x00000036",
+      "text": "Blood Gauge<tab>BloodGauge<tab>bloodg"
+    },
+    {
+      "id": "0x00000037",
+      "text": "Arcana Gauge<tab>ArcanaGauge<tab>arcanag"
+    },
+    {
+      "id": "0x00000038",
+      "text": "Kenki Gauge<tab>KenkiGauge<tab>kenkig"
+    },
+    {
+      "id": "0x00000039",
+      "text": "Sen Gauge<tab>SenGauge<tab>seng"
+    },
+    {
+      "id": "0x0000003A",
+      "text": "Balance Gauge<tab>BalanceGauge<tab>balg"
+    },
+    {
+      "id": "0x0000003B",
+      "text": "Duty Gauge<tab>DutyGauge<tab>dutyg"
+    },
+    {
+      "id": "0x0000003C",
+      "text": "Duty Action<tab>DutyAction<tab>dutyact"
+    },
+    {
+      "id": "0x0000003D",
+      "text": "Chakra Gauge<tab>ChakraGauge<tab>chakrag"
+    },
+    {
+      "id": "0x0000003E",
+      "text": "Kazematoi<tab>Kazematoi<tab>kaze"
+    },
+    {
+      "id": "0x0000003F",
+      "text": "Scenario Guide<tab>ScenarioGuide<tab>sguide"
+    },
+    {
+      "id": "0x00000040",
+      "text": "Rival Wings Gauges<tab>RWGauge<tab>rwg"
+    },
+    {
+      "id": "0x00000041",
+      "text": "Rival Wings Alliance List<tab>RWAlliance<tab>rwa"
+    },
+    {
+      "id": "0x00000042",
+      "text": "Rival Wings Team Info<tab>RWTeam<tab>rwt"
+    },
+    {
+      "id": "0x00000043",
+      "text": "Status Info (Enhancements)<tab>SInfoEnhancements<tab>sienh"
+    },
+    {
+      "id": "0x00000044",
+      "text": "Status Info (Enfeeblements)<tab>SInfoEnfeeblements<tab>sienf"
+    },
+    {
+      "id": "0x00000045",
+      "text": "Status Info (Other)<tab>SInfoOther<tab>siother"
+    },
+    {
+      "id": "0x00000046",
+      "text": "Target Info (Status)<tab>TInfoStatus<tab>tistat"
+    },
+    {
+      "id": "0x00000047",
+      "text": "Target Info (Progress Bar)<tab>TInfoProgress<tab>tiprog"
+    },
+    {
+      "id": "0x00000048",
+      "text": "Target Info (HP)<tab>TInfoHP<tab>tihp"
+    },
+    {
+      "id": "0x00000049",
+      "text": "The Feast Score<tab>FeastScore<tab>fscore"
+    },
+    {
+      "id": "0x0000004A",
+      "text": "The Feast Ally Info<tab>FeastAlly<tab>fally"
+    },
+    {
+      "id": "0x0000004B",
+      "text": "The Feast Enemy Info<tab>FeastEnemy<tab>fenemy"
+    },
+    {
+      "id": "0x0000004C",
+      "text": "Rival Wings Station Info<tab>RWStation<tab>rwst"
+    },
+    {
+      "id": "0x0000004D",
+      "text": "Rival Wings Mercenary Info<tab>RWMerc<tab>rwmrc"
+    },
+    {
+      "id": "0x0000004E",
+      "text": "Darkside Gauge<tab>DarksideGauge<tab>darkg"
+    },
+    {
+      "id": "0x0000004F",
+      "text": "Powder Gauge<tab>PowderGauge<tab>powdg"
+    },
+    {
+      "id": "0x00000050",
+      "text": "Step Gauge<tab>StepGauge<tab>stepg"
+    },
+    {
+      "id": "0x00000051",
+      "text": "Fourfold Feathers<tab>FourfoldFeathers<tab>ffeath"
+    },
+    {
+      "id": "0x00000052",
+      "text": "Battle High Gauge<tab>BattleHighGauge<tab>"
+    },
+    {
+      "id": "0x00000053",
+      "text": "New Game+ Guide<tab>NewGame+<tab>"
+    },
+    {
+      "id": "0x00000054",
+      "text": "Compressed Aether<tab>CompressedAether<tab>caether"
+    },
+    {
+      "id": "0x00000055",
+      "text": "Ocean Fishing: Voyage Missions<tab>VoyageMissions<tab>"
+    },
+    {
+      "id": "0x00000056",
+      "text": "Status Info (Conditional Enhancements)<tab>SInfoConditionalEnhancements<tab>sicenh"
+    },
+    {
+      "id": "0x00000057",
+      "text": "Soul Gauge<tab>SoulGauge<tab>soulg"
+    },
+    {
+      "id": "0x00000058",
+      "text": "Death Gauge<tab>DeathGauge<tab>deathg"
+    },
+    {
+      "id": "0x00000059",
+      "text": "Eukrasia<tab>Eukrasia<tab>eukrasia"
+    },
+    {
+      "id": "0x0000005A",
+      "text": "Addersgall Gauge<tab>AddersgallGauge<tab>adderg"
+    },
+    {
+      "id": "0x0000005B",
+      "text": "Beast Chakra Gauge<tab>BeastChakraGauge<tab>beastcg"
+    },
+    {
+      "id": "0x0000005C",
+      "text": "Crystalline Conflict Progress Gauge<tab>CConflictProgress<tab>ccprog"
+    },
+    {
+      "id": "0x0000005D",
+      "text": "Crystalline Conflict Ally Info<tab>CConflictAlly<tab>ccally"
+    },
+    {
+      "id": "0x0000005F",
+      "text": "Crystalline Conflict Enemy Info<tab>CConflictEnemy<tab>ccenemy"
+    },
+    {
+      "id": "0x00000060",
+      "text": "PvP Battle Log<tab>PvPLog<tab>cclog"
+    },
+    {
+      "id": "0x00000061",
+      "text": "Crystalline Conflict Map<tab>CConflictMap<tab>ccmap"
+    },
+    {
+      "id": "0x00000062",
+      "text": "Frontline Score Info<tab>FrontlineScore<tab>flscore"
+    },
+    {
+      "id": "0x00000063",
+      "text": "Blunderville Objective<tab>BlunderObjective<tab>bvgoal"
+    },
+    {
+      "id": "0x00000064",
+      "text": "Blunderville Score<tab>BlunderScore<tab>bvscore"
+    },
+    {
+      "id": "0x00000065",
+      "text": "Blunderville Status<tab>BlunderStatus<tab>bvstatus"
+    },
+    {
+      "id": "0x00000066",
+      "text": "Blunderville Show Log<tab>BlunderShowLog<tab>bvlog"
+    },
+    {
+      "id": "0x00000067",
+      "text": "Astral Gauge<tab>AstralGauge<tab>astralg"
+    },
+    {
+      "id": "0x00000068",
+      "text": "Vipersight<tab><tab>"
+    },
+    {
+      "id": "0x00000069",
+      "text": "Serpent Offerings Gauge<tab><tab>"
+    },
+    {
+      "id": "0x0000006A",
+      "text": "Canvases<tab><tab>"
+    },
+    {
+      "id": "0x0000006B",
+      "text": "Palette Gauge<tab><tab>"
+    },
+    {
+      "id": "0x0000006C",
+      "text": "Frontline Campaign Info<tab>FrontlineCampaignInfo<tab>flcamp"
+    },
+    {
+      "id": "0x0000006D",
+      "text": "Cosmic Exploration Info<tab>CosmicExplorationInfo<tab>csmex"
+    },
+    {
+      "id": "0x0000006E",
+      "text": "TP Gauge<tab>TPGauge<tab>tpg"
+    },
+    {
+      "id": "0x0000006F",
+      "text": "Inner Compass<tab>InnerCompass<tab>innerc"
+    }
+  ]
+}

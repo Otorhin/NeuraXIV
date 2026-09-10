@@ -1,0 +1,29 @@
+{
+  "source_file": "exd/custom/006/CtsMycTranspoint_00682_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_CTSMYCTRANSPOINT_00682_MENUTITLE<tab>Выберите пункт назначения."
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_CTSMYCTRANSPOINT_00682_DESTINATION<tab><var 28 ((PlaceName)) E80201 /var>."
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_CTSMYCTRANSPOINT_00682_MENUCANCEL<tab>Отмена."
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_CTSMYCTRANSPOINT_00682_OPEN_000_000<tab>Вы настроились на осколок эфирита и теперь можете пользоваться эфиритовой сетью этого региона."
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_CTSMYCTRANSPOINT_00682_OPEN_000_001<tab>Дополнительные осколки эфирита можно найти в разных уголках региона. Настройтесь на них, чтобы быстрее перемещаться по этой местности."
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_CTSMYCTRANSPOINT_00682_PROG_TEST_1<tab>"
+    }
+  ]
+}

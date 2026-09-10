@@ -1,0 +1,33 @@
+{
+  "source_file": "exd/TofuBg_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "None"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Checkered"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Checkered (Circular Field)"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Checkered (Square Field)"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Grey"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Grey (Circular Field)"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Grey (Square Field)"
+    }
+  ]
+}

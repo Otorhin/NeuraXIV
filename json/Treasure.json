@@ -1,0 +1,1617 @@
+{
+  "source_file": "exd/Treasure_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "treasure coffer<tab>treasure coffers"
+    },
+    {
+      "id": "0x000000FE",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000000FF",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x00000100",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x00000101",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x00000102",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x00000103",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x00000104",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x00000105",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x00000106",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x00000107",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x00000108",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x00000109",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x0000013F",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x00000140",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x00000141",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x00000142",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x00000143",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x00000144",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x00000145",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x00000146",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x00000147",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x00000148",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x00000149",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x0000014A",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x00000177",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x00000178",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x00000179",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x0000017A",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x0000017B",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x0000017C",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x0000017D",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x0000017E",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x0000017F",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x00000180",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x00000181",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x00000182",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x000001F6",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000001F7",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000001F8",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000001F9",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000001FA",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000001FB",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000001FC",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000001FD",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000001FE",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x000001FF",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x00000200",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x00000201",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x000002F0",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000002F1",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000002F2",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000002F3",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000002F4",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000002F5",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000002F6",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000002F7",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000002F8",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x000002F9",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x000002FA",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x000002FB",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x00000317",
+      "text": "leather sack<tab>leather sacks"
+    },
+    {
+      "id": "0x00000353",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x00000354",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x00000355",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x00000356",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x00000357",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x00000358",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x00000359",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x0000035A",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x0000035B",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x0000035C",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x0000035D",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x0000035E",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x00000367",
+      "text": "mission reward<tab>mission rewards"
+    },
+    {
+      "id": "0x00000368",
+      "text": "mission reward<tab>mission rewards"
+    },
+    {
+      "id": "0x00000369",
+      "text": "mission reward<tab>mission rewards"
+    },
+    {
+      "id": "0x0000037B",
+      "text": "mission reward<tab>mission rewards"
+    },
+    {
+      "id": "0x000003D1",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000003D2",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000003D3",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000003D4",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000003D5",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000003D6",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000003D7",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000003D8",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000003D9",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x000003DA",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x000003DB",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x000003DC",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x000003DD",
+      "text": "treasure coffer<tab>treasure coffers"
+    },
+    {
+      "id": "0x0000041A",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x0000041B",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x0000041C",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x0000041D",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x0000041E",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x0000041F",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x00000420",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x00000421",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x00000422",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x00000423",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x00000424",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x00000425",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x00000426",
+      "text": "treasure coffer<tab>treasure coffers"
+    },
+    {
+      "id": "0x00000454",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x00000455",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x00000456",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x00000457",
+      "text": "treasure coffer<tab>treasure coffers"
+    },
+    {
+      "id": "0x00000458",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x00000459",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x0000045A",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x0000045C",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x0000045D",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x0000045E",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x0000045F",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x00000460",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x00000461",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x000004C8",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000004C9",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000004CA",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x000004CB",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000004CC",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000004CD",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x000004CE",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000004CF",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000004D0",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x000004D1",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000004D2",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000004D3",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x000004D4",
+      "text": "treasure coffer<tab>treasure coffers"
+    },
+    {
+      "id": "0x000004D5",
+      "text": "treasure coffer<tab>treasure coffers"
+    },
+    {
+      "id": "0x000004F2",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000004F3",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000004F4",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x000004F5",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000004F6",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000004F7",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x000004F8",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000004F9",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000004FA",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x000004FB",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000004FC",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000004FD",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x000004FE",
+      "text": "treasure coffer<tab>treasure coffers"
+    },
+    {
+      "id": "0x00000507",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000508",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000509",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000050A",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000050B",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000050C",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000050D",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000050E",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000050F",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000518",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000519",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000051A",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000051B",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000051C",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000051D",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000051E",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000051F",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000520",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000521",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000522",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000523",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000524",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000525",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000526",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000527",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000053C",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000053D",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000053E",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x0000053F",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x00000540",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x00000541",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x00000542",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x00000543",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x00000544",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x00000545",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x00000546",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x00000547",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x00000548",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x00000549",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x0000054A",
+      "text": "treasure coffer<tab>treasure coffers"
+    },
+    {
+      "id": "0x00000553",
+      "text": "personal spoils<tab>"
+    },
+    {
+      "id": "0x00000554",
+      "text": "personal spoils<tab>"
+    },
+    {
+      "id": "0x00000555",
+      "text": "personal spoils<tab>"
+    },
+    {
+      "id": "0x00000556",
+      "text": "personal spoils<tab>"
+    },
+    {
+      "id": "0x00000557",
+      "text": "personal spoils<tab>"
+    },
+    {
+      "id": "0x00000558",
+      "text": "personal spoils<tab>"
+    },
+    {
+      "id": "0x000005AD",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000005AE",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000005AF",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x000005B0",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000005B1",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000005B2",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x000005B3",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000005B4",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000005B5",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x000005B6",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000005B7",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000005B8",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x000005B9",
+      "text": "treasure coffer<tab>treasure coffers"
+    },
+    {
+      "id": "0x000005C2",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000005C3",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000005C4",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000005C5",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000005C6",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000005C7",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000005C8",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000005C9",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000005CA",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000005CB",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000005CC",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000005CD",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000005CE",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000005CF",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000005D0",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000005D1",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000005D2",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000005D3",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000005D4",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000005D5",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000005D6",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000005EF",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000005F0",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000005F1",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x000005F2",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000005F3",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000005F4",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x000005F5",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000005F6",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000005F7",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x000005F8",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000005F9",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000005FA",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x000005FB",
+      "text": "treasure coffer<tab>treasure coffers"
+    },
+    {
+      "id": "0x0000061B",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000061C",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000061D",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000061E",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000061F",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000620",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000621",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000622",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000623",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000624",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000625",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000626",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000627",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000628",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000629",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000062A",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000062B",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000062C",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000062D",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000062E",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000062F",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000644",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x00000645",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x00000646",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x00000647",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x00000648",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x00000649",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x0000064A",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x0000064B",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x0000064C",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x0000064D",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x0000064E",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x0000064F",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x00000650",
+      "text": "treasure coffer<tab>treasure coffers"
+    },
+    {
+      "id": "0x00000651",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000652",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000653",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000654",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000655",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000656",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000657",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000658",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000659",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000065A",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000065B",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000065C",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000065D",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000065E",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000065F",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000660",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000661",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000662",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000663",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000664",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000665",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000006C4",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000006C5",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000006C6",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x000006C7",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000006C8",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000006C9",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x000006CA",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000006CB",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000006CC",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x000006CD",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000006CE",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000006CF",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x000006D0",
+      "text": "treasure coffer<tab>treasure coffers"
+    },
+    {
+      "id": "0x000006D1",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000006D2",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000006D3",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x000006D4",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000006D5",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000006D6",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000006D7",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000006D8",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000006D9",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000006DA",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000006DB",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000006DC",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000006DD",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000006DE",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000006DF",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000006E0",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000741",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000742",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x00000743",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x00000744",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x00000745",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x00000746",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x00000747",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x00000748",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x00000749",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x0000074A",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x0000074B",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x0000074C",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x0000074D",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x0000074E",
+      "text": "treasure coffer<tab>treasure coffers"
+    },
+    {
+      "id": "0x0000078A",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000078B",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000078C",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000078D",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000078E",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000078F",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000790",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000791",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000792",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000793",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000794",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000795",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000796",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000797",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000798",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x00000799",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000079A",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000079B",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000079C",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000079D",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000079E",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x0000079F",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000007A0",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000007A1",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000007A2",
+      "text": "treasure coffer<tab>treasure coffers"
+    },
+    {
+      "id": "0x000007A3",
+      "text": "treasure coffer<tab>treasure coffers"
+    },
+    {
+      "id": "0x000007A4",
+      "text": "treasure coffer<tab>treasure coffers"
+    },
+    {
+      "id": "0x000007A5",
+      "text": "treasure coffer<tab>treasure coffers"
+    },
+    {
+      "id": "0x000007A6",
+      "text": "treasure coffer<tab>treasure coffers"
+    },
+    {
+      "id": "0x000007A7",
+      "text": "treasure coffer<tab>treasure coffers"
+    },
+    {
+      "id": "0x000007A8",
+      "text": "treasure coffer<tab>treasure coffers"
+    },
+    {
+      "id": "0x000007A9",
+      "text": "treasure coffer<tab>treasure coffers"
+    },
+    {
+      "id": "0x000007AA",
+      "text": "treasure coffer<tab>treasure coffers"
+    },
+    {
+      "id": "0x000007B2",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000007B3",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000007B4",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x000007B5",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000007B6",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000007B7",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x000007B8",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000007B9",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000007BA",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x000007BB",
+      "text": "treasure coffer A<tab>treasure coffers A"
+    },
+    {
+      "id": "0x000007BC",
+      "text": "treasure coffer B<tab>treasure coffers B"
+    },
+    {
+      "id": "0x000007BD",
+      "text": "treasure coffer C<tab>treasure coffers C"
+    },
+    {
+      "id": "0x000007BE",
+      "text": "treasure coffer<tab>treasure coffers"
+    },
+    {
+      "id": "0x000007BF",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000007C0",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000007C1",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000007C2",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000007C3",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000007C4",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000007C5",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000007C6",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000007C7",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000007C8",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000007C9",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000007CA",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000007CB",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000007CC",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000007CD",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000007CE",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000007CF",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000007D0",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000007D1",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000007D2",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000007D3",
+      "text": "personal spoils<tab>personal spoils"
+    },
+    {
+      "id": "0x000007D4",
+      "text": "personal spoils<tab>personal spoils"
+    }
+  ]
+}

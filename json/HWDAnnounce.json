@@ -1,0 +1,437 @@
+{
+  "source_file": "exd/HWDAnnounce_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000002",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x00000003",
+      "text": "In the upcomin' session, we're plannin' to complete the first stage of works. If you haven't already, check the skybuilders' board for details."
+    },
+    {
+      "id": "0x00000004",
+      "text": "First stage works are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x00000006",
+      "text": "In the upcomin' session, we're plannin' to complete the second stage of works. If you haven't already, check the skybuilders' board for details."
+    },
+    {
+      "id": "0x00000007",
+      "text": "Second stage works are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x00000009",
+      "text": "In the upcomin' session, we're plannin' to complete the third stage of works. If you haven't already, check the skybuilders' board for details."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "With that, all works in the Mendicant's Court are complete! You can rightly be proud of yourselves, all of you!"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x0000000D",
+      "text": "First stage works for the Mattock are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Second stage works for the Mattock are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?"
+    },
+    {
+      "id": "0x00000010",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x00000011",
+      "text": "In the upcomin' session, we're plannin' to complete the third stage of works for the Mattock. If you haven't already, check the skybuilders' board for details."
+    },
+    {
+      "id": "0x00000012",
+      "text": "Third stage works for the Mattock are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?"
+    },
+    {
+      "id": "0x00000013",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x00000014",
+      "text": "In the upcomin' session, we're plannin' to complete the fourth stage of works for the Mattock. If you haven't already, check the skybuilders' board for details."
+    },
+    {
+      "id": "0x00000015",
+      "text": "We've done it, everyone! The Mattock stretches out towards a brighter tomorrow! Let's not rest on our laurels, though, eh? We're gettin' started on Saint Roelle's Dais next, and for that we'll need more supplies!"
+    },
+    {
+      "id": "0x00000016",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x00000017",
+      "text": "First stage works for Saint Roelle's Dais are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?"
+    },
+    {
+      "id": "0x00000018",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x00000019",
+      "text": "Second stage works for Saint Roelle's Dais are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?"
+    },
+    {
+      "id": "0x0000001A",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x0000001B",
+      "text": "In the upcomin' session, we're plannin' to complete the third stage of works for Saint Roelle's Dais. If you haven't already, check the skybuilders' board for details."
+    },
+    {
+      "id": "0x0000001C",
+      "text": "Third stage works for Saint Roelle's Dais are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x0000001E",
+      "text": "We've done it, everyone! Saint Roelle's Dais beckons folk to come together! Let's not rest on our laurels, though, eh? We're gettin' started on the New Nest next, and for that we'll need more supplies!"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x00000020",
+      "text": "First stage works for the New Nest are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?"
+    },
+    {
+      "id": "0x00000021",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x00000022",
+      "text": "Second stage works for the New Nest are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?"
+    },
+    {
+      "id": "0x00000023",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x00000024",
+      "text": "Third stage works for the New Nest are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?"
+    },
+    {
+      "id": "0x00000025",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x00000026",
+      "text": "In the upcomin' session, we're plannin' to complete the fourth stage of works for the New Nest. If you haven't already, check the skybuilders' board for details."
+    },
+    {
+      "id": "0x00000027",
+      "text": "Fourth stage works for the New Nest are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?"
+    },
+    {
+      "id": "0x00000028",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x00000029",
+      "text": "In the upcomin' session, we're plannin' to complete the fifth stage of works for the New Nest. If you haven't already, check the skybuilders' board for details."
+    },
+    {
+      "id": "0x0000002A",
+      "text": "Fifth stage works for the New Nest are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x0000002C",
+      "text": "In the upcomin' session, we're plannin' to complete the sixth stage of works for the New Nest. If you haven't already, check the skybuilders' board for details."
+    },
+    {
+      "id": "0x0000002D",
+      "text": "Sixth stage works for the New Nest are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?"
+    },
+    {
+      "id": "0x0000002E",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x0000002F",
+      "text": "In the upcomin' session, we're plannin' to complete the seventh stage of works for the New Nest. If you haven't already, check the skybuilders' board for details."
+    },
+    {
+      "id": "0x00000030",
+      "text": "We've done it, everyone! The New Nest stands completed and ready to welcome Ishgardian citizens home! The nation is in your debt!"
+    },
+    {
+      "id": "0x00000032",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x00000033",
+      "text": "First stage works for Featherfall are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?"
+    },
+    {
+      "id": "0x00000034",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x00000035",
+      "text": "Second stage works for Featherfall are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?"
+    },
+    {
+      "id": "0x00000036",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x00000037",
+      "text": "Third stage works for Featherfall are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?"
+    },
+    {
+      "id": "0x00000038",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x00000039",
+      "text": "In the upcomin' session, we're plannin' to complete the fourth stage of works for Featherfall. If you haven't already, check the skybuilders' board for details."
+    },
+    {
+      "id": "0x0000003A",
+      "text": "Fourth stage works for Featherfall are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?"
+    },
+    {
+      "id": "0x0000003B",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x0000003C",
+      "text": "In the upcomin' session, we're plannin' to complete the fifth stage of works for Featherfall. If you haven't already, check the skybuilders' board for details."
+    },
+    {
+      "id": "0x0000003D",
+      "text": "Fifth stage works for Featherfall are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?"
+    },
+    {
+      "id": "0x0000003E",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x0000003F",
+      "text": "In the upcomin' session, we're plannin' to complete the sixth stage of works for Featherfall. If you haven't already, check the skybuilders' board for details."
+    },
+    {
+      "id": "0x00000040",
+      "text": "Sixth stage works for Featherfall are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?"
+    },
+    {
+      "id": "0x00000041",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x00000042",
+      "text": "In the upcomin' session, we're plannin' to complete the seventh stage of works for Featherfall. If you haven't already, check the skybuilders' board for details."
+    },
+    {
+      "id": "0x00000043",
+      "text": "An' there it is! Featherfall's ready to assume its role as the livin', breathin' heart of the Firmament. But no rest for the weary─aye, there's still work to be done on the Abacus."
+    },
+    {
+      "id": "0x00000044",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x00000045",
+      "text": "First stage works for the Abacus are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?"
+    },
+    {
+      "id": "0x00000046",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x00000047",
+      "text": "In the upcomin' session, we're plannin' to complete the second stage of works for the Abacus. If you haven't already, check the skybuilders' board for details."
+    },
+    {
+      "id": "0x00000048",
+      "text": "Second stage works for the Abacus are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?"
+    },
+    {
+      "id": "0x00000049",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x0000004A",
+      "text": "We've done it! The Abacus stretches out toward a more prosperous future for the Firmament! Let's not rest on our laurels, though, eh? We're gettin' started on Hoarfrost Hall next, and for that we'll need more supplies!"
+    },
+    {
+      "id": "0x0000004B",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x0000004C",
+      "text": "First stage works for Hoarfrost Hall are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?"
+    },
+    {
+      "id": "0x0000004D",
+      "text": "Second stage works for Hoarfrost Hall are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?"
+    },
+    {
+      "id": "0x0000004E",
+      "text": "In the upcomin' session, we're plannin' to complete the final stage of works for Hoarfrost Hall. If you haven't already, check the skybuilders' board for details."
+    },
+    {
+      "id": "0x0000004F",
+      "text": "We've done it! Hoarfrost Hall is ready to welcome adventurers from the realm over to their new home! Hold your heads high, skybuilders─you've done a great service to Ishgard today!"
+    },
+    {
+      "id": "0x00000051",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x00000052",
+      "text": "First stage works for the western Risensong Quarter are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?"
+    },
+    {
+      "id": "0x00000053",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x00000054",
+      "text": "In the upcomin' session, we're plannin' to complete the second stage of works for the western Risensong Quarter. If you haven't already, check the skybuilders' board for details."
+    },
+    {
+      "id": "0x00000055",
+      "text": "Second stage works for the western Risensong Quarter are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?"
+    },
+    {
+      "id": "0x00000056",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x00000057",
+      "text": "In the upcomin' session, we're plannin' to complete the third stage of works for the western Risensong Quarter. If you haven't already, check the skybuilders' board for details."
+    },
+    {
+      "id": "0x00000058",
+      "text": "Third stage works for the western Risensong Quarter are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?"
+    },
+    {
+      "id": "0x00000059",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x0000005A",
+      "text": "In the upcomin' session, we're plannin' to complete the fourth stage of works for the western Risensong Quarter. If you haven't already, check the skybuilders' board for details."
+    },
+    {
+      "id": "0x0000005B",
+      "text": "Fourth stage works for the western Risensong Quarter are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?"
+    },
+    {
+      "id": "0x0000005C",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x0000005D",
+      "text": "In the upcomin' session, we're plannin' to complete the fifth stage of works for the western Risensong Quarter. If you haven't already, check the skybuilders' board for details."
+    },
+    {
+      "id": "0x0000005E",
+      "text": "Fifth stage works for the western Risensong Quarter are complete─well done, everyone! Let's not rest on our laurels, though, eh? We're gettin' started on Bright Ballad's Passage next, and for that we'll need more supplies!"
+    },
+    {
+      "id": "0x0000005F",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x00000060",
+      "text": "In the upcomin' session, we're plannin' to complete works for Bright Ballad's Passage. If you haven't already, check the skybuilders' board for details."
+    },
+    {
+      "id": "0x00000061",
+      "text": "We've done it! Bright Ballad's Passage beckons us to a resoundingly glorious future. Next, we'll be startin' in on the first stage of works for the eastern Risensong Quarter, so keep those supplies comin'!"
+    },
+    {
+      "id": "0x00000062",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x00000063",
+      "text": "First stage works for the eastern Risensong Quarter are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?"
+    },
+    {
+      "id": "0x00000064",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x00000065",
+      "text": "In the upcomin' session, we're plannin' to complete the second stage of works for the eastern Risensong Quarter. If you haven't already, check the skybuilders' board for details."
+    },
+    {
+      "id": "0x00000066",
+      "text": "Second stage works for the eastern Risensong Quarter are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?"
+    },
+    {
+      "id": "0x00000067",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x00000068",
+      "text": "In the upcomin' session, we're plannin' to complete the third stage of works for the eastern Risensong Quarter. If you haven't already, check the skybuilders' board for details."
+    },
+    {
+      "id": "0x00000069",
+      "text": "Third stage works for the eastern Risensong Quarter are complete─well done, everyone! Now it's time to prepare for the next, so let's keep the supplies comin', eh?"
+    },
+    {
+      "id": "0x0000006A",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x0000006B",
+      "text": "In the upcomin' session, we're plannin' to complete the fourth stage of works for the eastern Risensong Quarter. If you haven't already, check the skybuilders' board for details."
+    },
+    {
+      "id": "0x0000006C",
+      "text": "Fourth stage works for the eastern Risensong Quarter are complete─well done, everyone! We're gettin' started on Snowsoak Springs next, and for that we'll need more supplies!"
+    },
+    {
+      "id": "0x0000006D",
+      "text": "Be kindly informed that sufficient supplies have been stockpiled, and thus we will be proceeding with the concerted works. Please refer to the skybuilders' board for the schedule."
+    },
+    {
+      "id": "0x0000006E",
+      "text": "In the upcomin' session, we're plannin' to complete works for Snowsoak Springs. If you haven't already, check the skybuilders' board for details."
+    },
+    {
+      "id": "0x0000006F",
+      "text": "An' that'll complete works for Snowsoak Springs! As our final task, we'll be raisin' a monument o' sorts. Be sure to check the skybuilders' board for details."
+    },
+    {
+      "id": "0x00000070",
+      "text": "And with that, the reconstruction of the Firmament is complete at last! Stand tall, skybuilders─you've done all of Ishgard proud today!"
+    }
+  ]
+}

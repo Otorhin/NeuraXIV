@@ -1,0 +1,33 @@
+{
+  "source_file": "exd/custom/002/CmnDefRelicWeapon060MagiciteCheck_00252_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITECHECK_00252_TALK_ACTOR<tab>(★Неиспользуемый / Предполагается удаление★)"
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITECHECK_00252_TALK_ACTOR_000_100<tab>(★Неиспользуемый / Предполагается удаление★)"
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITECHECK_00252_MENU_TITLE<tab>(★Неиспользуемый / Предполагается удаление★)"
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITECHECK_00252_MENU_CHOICES<tab>(★Неиспользуемый / Предполагается удаление★)"
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITECHECK_00252_MENU_CANCEL<tab>(★Неиспользуемый / Предполагается удаление★)"
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITECHECK_00252_TALK_ACTOR_000_020<tab>(★Неиспользуемый / Предполагается удаление★)"
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_CMNDEFRELICWEAPON060MAGICITECHECK_00252_ACTOR_000_040<tab>(★Неиспользуемый / Предполагается удаление★)"
+    }
+  ]
+}

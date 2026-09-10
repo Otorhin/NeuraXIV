@@ -1,0 +1,141 @@
+{
+  "source_file": "exd/custom/005/RegNor4TheInnatJourneysHead_00596_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_REGNOR4THEINNATJOURNEYSHEAD_00596_CASSANA_000_000<tab>Сюда никто не приходит без очень веской причины, и я не стану допытываться, какова ваша. Но постараюсь сделать ваше пребывание здесь... как можно менее болезненным."
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_REGNOR4THEINNATJOURNEYSHEAD_00596_CASSANA_000_001<tab>Пациенты реагируют на <var 1A 02 /var>что-то<var 1A 01 /var>. Только я не знаю, на что именно..."
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_REGNOR4THEINNATJOURNEYSHEAD_00596_CASSANA_000_002<tab>......"
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_REGNOR4THEINNATJOURNEYSHEAD_00596_CASSANA_100_002<tab>О, Теслин... Ты думала лишь о других...и вот какова была твоя награда."
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_REGNOR4THEINNATJOURNEYSHEAD_00596_CASSANA_000_003<tab>Конечно, можно говорить об исцелении от недуга пожирателей... но ложная надежда может быть опасной."
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_REGNOR4THEINNATJOURNEYSHEAD_00596_CASSANA_000_010<tab>Гибель Тесли́н стала для всех нас потрясением, но есть и те, кому по-прежнему нужна наша помощь. Мы не должны позволить горю отвлечь нас от исполнения своих обязанностей."
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_REGNOR4THEINNATJOURNEYSHEAD_00596_CASSANA_000_020<tab>Похоже, пациенты лучше спят в тёмное время суток. Не стану делать вид, что понимаю причины этих внезапных перемен, но, безусловно, рад им."
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_REGNOR4THEINNATJOURNEYSHEAD_00596_CASSANA_000_030<tab>Теперь, когда Свет снова не дает нам ни минуты передышки, пациенты опять стали беспокойными — пожалуй, даже сильнее, чем прежде."
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_REGNOR4THEINNATJOURNEYSHEAD_00596_CASSANA_000_040<tab>Остаётся лишь молиться, чтобы на сей раз ночь вернулась навсегда, хотя сколько она продлится — одному богу известно."
+    },
+    {
+      "id": "0x00000009",
+      "text": "TEXT_REGNOR4THEINNATJOURNEYSHEAD_00596_CASSANA_000_050<tab>Перемены, которые мы наблюдаем в наших пациентах, не что иное, как чудо, хотя до полного выздоровления им ещё далеко."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "TEXT_REGNOR4THEINNATJOURNEYSHEAD_00596_Q1_000_000<tab>Что ты спросишь?"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "TEXT_REGNOR4THEINNATJOURNEYSHEAD_00596_A1_000_001<tab>Что ты здесь делаешь?"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "TEXT_REGNOR4THEINNATJOURNEYSHEAD_00596_A1_000_002<tab>Что это за место?"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "TEXT_REGNOR4THEINNATJOURNEYSHEAD_00596_A1_000_003<tab>Ничего."
+    },
+    {
+      "id": "0x0000000E",
+      "text": "TEXT_REGNOR4THEINNATJOURNEYSHEAD_00596_CASSANA_000_100<tab>Я забочусь о тех, кто больше не может позаботиться о себе. Хотя, если честно, когда мы с братом впервые сюда прибыли, оставаться здесь в мои планы вовсе не входило."
+    },
+    {
+      "id": "0x0000000F",
+      "text": "TEXT_REGNOR4THEINNATJOURNEYSHEAD_00596_CASSANA_000_101<tab>Он, понимаете, был здешним пациентом. Сначала я просто помогал по хозяйству, а сам не заметил, как стал ухаживать за больными. А когда пришёл черёд моего брата, я решил продолжить."
+    },
+    {
+      "id": "0x00000010",
+      "text": "TEXT_REGNOR4THEINNATJOURNEYSHEAD_00596_CASSANA_000_200<tab>Название «Постоялый двор „У начала пути“» довольно точно отражает то, что здесь происходит. Как и в любом другом постоялом дворе, сюда приходят просто отдохнуть, прежде чем отправиться в следующий этап своего путешествия, если вы понимаете, о чём я."
+    },
+    {
+      "id": "0x00000011",
+      "text": "TEXT_REGNOR4THEINNATJOURNEYSHEAD_00596_CASSANA_000_201<tab>Изначально это был скорее лазарет — место, где больные должны были выздоравливать. Но с годами стало ясно: если человека коснулся пожиратель грехов, исцелить его уже невозможно. Наша задача — подготовить их к путешествию в... что бы ни ждало за порогом этой жизни."
+    },
+    {
+      "id": "0x00000012",
+      "text": "TEXT_REGNOR4THEINNATJOURNEYSHEAD_00596_CASSANA_000_210<tab>Здесь, в постоялом дворе «Начало пути», те, кого осквернил Свет, готовятся отправиться навстречу великому неведомому."
+    },
+    {
+      "id": "0x00000013",
+      "text": "TEXT_REGNOR4THEINNATJOURNEYSHEAD_00596_CASSANA_000_211<tab>Хотя некогда мы считали их состояние неизлечимым, возвращение ночного неба вселяет надежду, что однажды они смогут выздороветь. Лишь время покажет."
+    },
+    {
+      "id": "0x00000014",
+      "text": "TEXT_REGNOR4THEINNATJOURNEYSHEAD_00596_CASSANA_000_220<tab>Многие годы постоялый двор «Начало пути» был местом, где поражённые пожирателями греха могли провести свои последние дни в относительном покое. А когда приходил их час, они освобождались от своих страданий."
+    },
+    {
+      "id": "0x00000015",
+      "text": "TEXT_REGNOR4THEINNATJOURNEYSHEAD_00596_CASSANA_000_221<tab>Но теперь, когда появилась надежда на исцеление, мы сделаем всё, что в наших силах, чтобы помочь им вернуться к прежнему состоянию."
+    },
+    {
+      "id": "0x00000016",
+      "text": "TEXT_REGNOR4THEINNATJOURNEYSHEAD_00596_TALK_ACTOR<tab>"
+    },
+    {
+      "id": "0x00000017",
+      "text": "TEXT_REGNOR4THEINNATJOURNEYSHEAD_00596_TCASSANA_000_000<tab>"
+    },
+    {
+      "id": "0x00000018",
+      "text": "TEXT_REGNOR4THEINNATJOURNEYSHEAD_00596_TCASSANA_000_010<tab>"
+    },
+    {
+      "id": "0x00000019",
+      "text": "TEXT_REGNOR4THEINNATJOURNEYSHEAD_00596_TCASSANA_000_020<tab>"
+    },
+    {
+      "id": "0x0000001A",
+      "text": "TEXT_REGNOR4THEINNATJOURNEYSHEAD_00596_TCASSANA_000_030<tab>"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "TEXT_REGNOR4THEINNATJOURNEYSHEAD_00596_TCASSANA_000_040<tab>"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "TEXT_REGNOR4THEINNATJOURNEYSHEAD_00596_TCASSANA_000_100<tab>"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "TEXT_REGNOR4THEINNATJOURNEYSHEAD_00596_TCASSANA_000_101<tab>"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "TEXT_REGNOR4THEINNATJOURNEYSHEAD_00596_TCASSANA_000_200<tab>"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "TEXT_REGNOR4THEINNATJOURNEYSHEAD_00596_TCASSANA_000_201<tab>"
+    },
+    {
+      "id": "0x00000020",
+      "text": "TEXT_REGNOR4THEINNATJOURNEYSHEAD_00596_TCASSANA_000_210<tab>"
+    },
+    {
+      "id": "0x00000021",
+      "text": "TEXT_REGNOR4THEINNATJOURNEYSHEAD_00596_TCASSANA_000_211<tab>"
+    }
+  ]
+}

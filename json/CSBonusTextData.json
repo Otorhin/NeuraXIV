@@ -1,0 +1,45 @@
+{
+  "source_file": "exd/CSBonusTextData_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Moogle Treasure Trove"
+    },
+    {
+      "id": "0x00000002",
+      "text": "The First Hunt for Genesis"
+    },
+    {
+      "id": "0x00000003",
+      "text": "The Second Hunt for Genesis"
+    },
+    {
+      "id": "0x00000004",
+      "text": "The Hunt for Goetia"
+    },
+    {
+      "id": "0x00000005",
+      "text": "The Hunt for Phantasmagoria"
+    },
+    {
+      "id": "0x00000006",
+      "text": "The Hunt for Allegory"
+    },
+    {
+      "id": "0x00000007",
+      "text": "The Hunt for Revelation"
+    },
+    {
+      "id": "0x00000008",
+      "text": "The Hunt for Aphorism"
+    },
+    {
+      "id": "0x00000009",
+      "text": "The First Hunt for Astronomy"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "The Second Hunt for Astronomy"
+    }
+  ]
+}

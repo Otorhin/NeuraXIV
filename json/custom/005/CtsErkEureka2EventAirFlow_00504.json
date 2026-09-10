@@ -1,0 +1,17 @@
+{
+  "source_file": "exd/custom/005/CtsErkEureka2EventAirFlow_00504_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_CTSERKEUREKA2EVENTAIRFLOW_00504_SYSTEM_000_410<tab>Похоже, из-под земли бьёт неиссякаемый источник эфира."
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_CTSERKEUREKA2EVENTAIRFLOW_00504_SYSTEM_000_411<tab>Колонна вздымается высоко в небо, выше предела видимости..."
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_CTSERKEUREKA2EVENTAIRFLOW_00504_TALK_ACTOR<tab>"
+    }
+  ]
+}

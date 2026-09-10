@@ -1,0 +1,25 @@
+{
+  "source_file": "exd/RacingChocoboParam_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "Maximum Speed"
+    },
+    {
+      "id": "0x00000001",
+      "text": "Acceleration"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Endurance"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Stamina"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Cunning"
+    }
+  ]
+}

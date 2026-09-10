@@ -1,0 +1,121 @@
+{
+  "source_file": "exd/GroupPoseStampCategory_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "None"
+    },
+    {
+      "id": "0x00000001",
+      "text": "Minions"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Speech Bubbles"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Emotes"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Triple Triad"
+    },
+    {
+      "id": "0x00000005",
+      "text": "General"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Flags"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Punctuation Marks"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Meals"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Decorations"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Duty"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Quest"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "FATE"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Gold Saucer"
+    },
+    {
+      "id": "0x00000010",
+      "text": "Logos"
+    },
+    {
+      "id": "0x00000011",
+      "text": "Manga"
+    },
+    {
+      "id": "0x00000012",
+      "text": "Medicine"
+    },
+    {
+      "id": "0x00000013",
+      "text": "Quest Icons"
+    },
+    {
+      "id": "0x00000014",
+      "text": "Doodles"
+    },
+    {
+      "id": "0x00000015",
+      "text": "<var 12 71 /var> Fan Festival 2026"
+    },
+    {
+      "id": "0x00000016",
+      "text": "<var 12 71 /var> Fan Festival 2026"
+    },
+    {
+      "id": "0x00000017",
+      "text": "Washi Tape"
+    },
+    {
+      "id": "0x00000018",
+      "text": "Classes/Jobs"
+    },
+    {
+      "id": "0x00000019",
+      "text": "Doman Mahjong"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "Duty"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "Birthday"
+    },
+    {
+      "id": "0x0000001D",
+      "text": "Monster Hunter Wilds"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "Cosmic Exploration"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "Soul Crystal"
+    }
+  ]
+}

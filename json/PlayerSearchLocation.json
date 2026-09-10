@@ -1,0 +1,53 @@
+{
+  "source_file": "exd/PlayerSearchLocation_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "未設定"
+    },
+    {
+      "id": "0x00000001",
+      "text": "La Noscea"
+    },
+    {
+      "id": "0x00000002",
+      "text": "The Black Shroud"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Thanalan"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Ishgard Vicinity"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Gyr Abania"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Far East"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Ilsabard"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Norvrandt"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Elsewhere"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Tural"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "The Northern Empty"
+    }
+  ]
+}

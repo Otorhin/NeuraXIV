@@ -1,0 +1,229 @@
+{
+  "source_file": "exd/Ornament_0_en.exd",
+  "rows": [
+    {
+      "id": "0x00000001",
+      "text": "Parasol<tab>Parasols"
+    },
+    {
+      "id": "0x00000002",
+      "text": "Sky Blue Parasol<tab>Sky Blue Parasols"
+    },
+    {
+      "id": "0x00000003",
+      "text": "Vermilion Paper Parasol<tab>Vermilion Paper Parasols"
+    },
+    {
+      "id": "0x00000004",
+      "text": "Plum Paper Parasol<tab>Plum Paper Parasols"
+    },
+    {
+      "id": "0x00000005",
+      "text": "Gold Paper Parasol<tab>Gold Paper Parasols"
+    },
+    {
+      "id": "0x00000006",
+      "text": "Calming Checkered Parasol<tab>Calming Checkered Parasols"
+    },
+    {
+      "id": "0x00000007",
+      "text": "Cheerful Checkered Parasol<tab>Cheerful Checkered Parasols"
+    },
+    {
+      "id": "0x00000008",
+      "text": "Classy Checkered Parasol<tab>Classy Checkered Parasols"
+    },
+    {
+      "id": "0x00000009",
+      "text": "Angel Wings<tab>Angel Wings"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "Gold Parasaucer<tab>Gold Parasaucers"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "Pleasant Dot Parasol<tab>Pleasant Dot Parasols"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "Prim Dot Parasol<tab>Prim Dot Parasols"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "Pastoral Dot Parasol<tab>Pastoral Dot Parasols"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "Fat Cat Parasol<tab>Fat Cat Parasols"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "Great Paraserpent<tab>Great Paraserpents"
+    },
+    {
+      "id": "0x00000010",
+      "text": "Red Moon Parasol<tab>Red Moon Parasols"
+    },
+    {
+      "id": "0x00000011",
+      "text": "Fallen Angel Wings<tab>Fallen Angel Wings"
+    },
+    {
+      "id": "0x00000012",
+      "text": "Archangel Wings<tab>Archangel Wings"
+    },
+    {
+      "id": "0x00000013",
+      "text": "Diabolos Wings<tab>Diabolos Wings"
+    },
+    {
+      "id": "0x00000014",
+      "text": "Pixie Wings<tab>Pixie Wings"
+    },
+    {
+      "id": "0x00000016",
+      "text": "False Spectacles<tab>False Spectacles"
+    },
+    {
+      "id": "0x00000017",
+      "text": "White Lace Parasol<tab>White Lace Parasols"
+    },
+    {
+      "id": "0x00000018",
+      "text": "Blue Blossom Parasol<tab>Blue Blossom Parasols"
+    },
+    {
+      "id": "0x00000019",
+      "text": "False Shaded Spectacles<tab>False Shaded Spectacles"
+    },
+    {
+      "id": "0x0000001A",
+      "text": "False Classic Spectacles<tab>False Classic Spectacles"
+    },
+    {
+      "id": "0x0000001B",
+      "text": "Sabotender Parasol<tab>Sabotender Parasols"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "Bluepowder Pixie Wings<tab>Bluepowder Pixie Wings"
+    },
+    {
+      "id": "0x0000001E",
+      "text": "Felicitous Furball Umbrella<tab>Felicitous Furball Umbrellas"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "Raindrop Defense System<tab>Raindrop Defense Systems"
+    },
+    {
+      "id": "0x00000020",
+      "text": "Rose-colored Spectacles<tab>Rose-colored Spectacles"
+    },
+    {
+      "id": "0x00000021",
+      "text": "Tsukumogami Parasol<tab>Tsukumogami Parasols"
+    },
+    {
+      "id": "0x00000022",
+      "text": "Tactful Taskmaster Umbrella<tab>Tactful Taskmaster Umbrellas"
+    },
+    {
+      "id": "0x00000023",
+      "text": "Knapsack<tab>Knapsacks"
+    },
+    {
+      "id": "0x00000024",
+      "text": "Statice's Wings<tab>Statice's Wings"
+    },
+    {
+      "id": "0x00000025",
+      "text": "Giant Leaf Parasol<tab>Giant Leaf Parasols"
+    },
+    {
+      "id": "0x00000026",
+      "text": "Colorful Carrotsol<tab>Colorful Carrotsols"
+    },
+    {
+      "id": "0x00000027",
+      "text": "Neon Parasol<tab>Neon Parasols"
+    },
+    {
+      "id": "0x00000028",
+      "text": "Ribboned Parasol<tab>Ribboned Parasols"
+    },
+    {
+      "id": "0x00000029",
+      "text": "Bomb Parasol<tab>Bomb Parasols"
+    },
+    {
+      "id": "0x0000002A",
+      "text": "Mandragora Parasol<tab>Mandragora Parasols"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "Archon Egg Parasol<tab>Archon Egg Parasols"
+    },
+    {
+      "id": "0x0000002C",
+      "text": "Pelupack<tab>Pelupacks"
+    },
+    {
+      "id": "0x0000002D",
+      "text": "Black Embroidered Parasol<tab>Black Embroidered Parasols"
+    },
+    {
+      "id": "0x0000002E",
+      "text": "White Embroidered Parasol<tab>White Embroidered Parasols"
+    },
+    {
+      "id": "0x0000002F",
+      "text": "Loparasol<tab>Loparasols"
+    },
+    {
+      "id": "0x00000030",
+      "text": "Torch<tab>Torches"
+    },
+    {
+      "id": "0x00000031",
+      "text": "Mizutsune Parasol<tab>Mizutsune Parasols"
+    },
+    {
+      "id": "0x00000032",
+      "text": "Pixie Parasol<tab>Pixie Parasols"
+    },
+    {
+      "id": "0x00000033",
+      "text": "Blue Pixie Parasol<tab>Blue Pixie Parasols"
+    },
+    {
+      "id": "0x00000034",
+      "text": "Senor Otter Pack<tab>Senor Otter Pack"
+    },
+    {
+      "id": "0x00000035",
+      "text": "Corvosi Parasol<tab>Corvosi Parasol"
+    },
+    {
+      "id": "0x00000036",
+      "text": "Spriggan Parasol<tab>Spriggan Parasols"
+    },
+    {
+      "id": "0x00000037",
+      "text": "Avalanche Gatling Gun<tab>Avalanche Gatling Guns"
+    },
+    {
+      "id": "0x00000038",
+      "text": "Pitchfork<tab>Pitchforks"
+    },
+    {
+      "id": "0x00000039",
+      "text": "Shovel<tab>"
+    },
+    {
+      "id": "0x0000003A",
+      "text": "Antique Lantern<tab>Antique Lanterns"
+    }
+  ]
+}
