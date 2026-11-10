@@ -99,7 +99,7 @@
     },
     {
       "id": "0x00000018",
-      "text": "TEXT_JOBDRK500_02058_TODO_00<tab>В режиме чата <var 48 F201F4 /var><var 49 F201F5 /var>Say<var 49 01 /var><var 48 01 /var> введи «Фрэй!», чтобы позвать своего товарища."
+      "text": "TEXT_JOBDRK500_02058_TODO_00<tab>В режиме чата <var 48 F201F4 /var><var 49 F201F5 /var>Say<var 49 01 /var><var 48 01 /var> введи «Fray!», чтобы позвать своего товарища."
     },
     {
       "id": "0x00000019",
@@ -223,7 +223,7 @@
     },
     {
       "id": "0x00000037",
-      "text": "TEXT_JOBDRK500_02058_SAY_000_000<tab>Фрэй"
+      "text": "TEXT_JOBDRK500_02058_SAY_000_000<tab>Fray"
     },
     {
       "id": "0x00000038",

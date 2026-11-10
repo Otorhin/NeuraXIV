@@ -3,159 +3,159 @@
   "rows": [
     {
       "id": "0x00000003",
-      "text": "Hard-bitten Hoobigo"
+      "text": "Закалённый хубиго"
     },
     {
       "id": "0x00000004",
-      "text": "Resting Hoobigo"
+      "text": "Отдыхающий хубиго"
     },
     {
       "id": "0x00000005",
-      "text": "Sweaty Doppro"
+      "text": "Потный Доппро"
     },
     {
       "id": "0x00000006",
-      "text": "Disconcerted Hoobigo"
+      "text": "Озадаченный хуубиго"
     },
     {
       "id": "0x00000007",
-      "text": "Mablu"
+      "text": "Маблу"
     },
     {
       "id": "0x00000008",
-      "text": "Lay of the Brotherhood"
+      "text": "Баллада о братстве"
     },
     {
       "id": "0x00000009",
-      "text": "Lay of Repast"
+      "text": "Песнь о трапезе"
     },
     {
       "id": "0x0000000A",
-      "text": "Lay of Reeds"
+      "text": "Песнь тростников"
     },
     {
       "id": "0x0000000B",
-      "text": "Lay of Pots"
+      "text": "Песнь горшков"
     },
     {
       "id": "0x0000000C",
-      "text": "Lay of Gold"
+      "text": "Золотая песнь"
     },
     {
       "id": "0x0000000D",
-      "text": "Lay of Proof"
+      "text": "Песнь доказательства"
     },
     {
       "id": "0x0000000E",
-      "text": "Lay of Ice"
+      "text": "Ледяная песнь"
     },
     {
       "id": "0x0000000F",
-      "text": "Blank Pillar"
+      "text": "Пустая колонна"
     },
     {
       "id": "0x00000010",
-      "text": "Wuk Lamat"
+      "text": "Вук Ламат"
     },
     {
       "id": "0x00000011",
-      "text": "Slab of Pink Hexagons"
+      "text": "Плита с розовыми шестиугольниками"
     },
     {
       "id": "0x00000012",
-      "text": "Liquid-filled Pouch"
+      "text": "Мешочек с жидкостью"
     },
     {
       "id": "0x00000013",
-      "text": "Long Rectangular Bar"
+      "text": "Длинный прямоугольный брусок"
     },
     {
       "id": "0x00000014",
-      "text": "Hexagon-patterned Bag"
+      "text": "Сумка с шестиугольным узором"
     },
     {
       "id": "0x00000015",
-      "text": "Black and Yellow Tin"
+      "text": "Чёрно-жёлтая жестянка"
     },
     {
       "id": "0x0000001B",
-      "text": "Tonawawtan Thief"
+      "text": "Вор из Тонаваты"
     },
     {
       "id": "0x0000001C",
-      "text": "Shetona Collector"
+      "text": "Собиратель Шетоны"
     },
     {
       "id": "0x0000001D",
-      "text": "Tonawawtan Explorer"
+      "text": "Исследователь Тонавватана"
     },
     {
       "id": "0x0000001E",
-      "text": "Alxaal"
+      "text": "Алксаал"
     },
     {
       "id": "0x0000001F",
-      "text": "Prishe"
+      "text": "Присше"
     },
     {
       "id": "0x00000020",
-      "text": "Bakool Ja Ja"
+      "text": "Бакул Джа Джа"
     },
     {
       "id": "0x00000021",
-      "text": "Royal Seneschal"
+      "text": "Королевский сенешаль"
     },
     {
       "id": "0x00000022",
-      "text": "Songbirds Fans"
+      "text": "Фанаты «Певчих птиц»"
     },
     {
       "id": "0x00000023",
-      "text": "Quicksand Employee"
+      "text": "Служащий «Зыбучих песков»"
     },
     {
       "id": "0x00000024",
-      "text": "Picot"
+      "text": "Пико"
     },
     {
       "id": "0x00000025",
-      "text": "Vaguely Familiar Cactus"
+      "text": "Смутно знакомый кактус"
     },
     {
       "id": "0x00000026",
-      "text": "Bright Blue Bush"
+      "text": "Ярко-синий куст"
     },
     {
       "id": "0x00000027",
-      "text": "Massive Mushroom Mound"
+      "text": "Огромный грибной холм"
     },
     {
       "id": "0x00000028",
-      "text": "Tree with Exploding Blooms?"
+      "text": "Дерево со взрывающимися цветами?"
     },
     {
       "id": "0x00000029",
-      "text": "Spongy Pink Carpet"
+      "text": "Упругий розовый ковёр"
     },
     {
       "id": "0x0000002A",
-      "text": "Namingway"
+      "text": "Неймингвей"
     },
     {
       "id": "0x0000002B",
-      "text": "Wuk Lamat and the Alexandrian Citizen"
+      "text": "Вук Ламат и гражданин Александрии"
     },
     {
       "id": "0x0000002C",
-      "text": "Nexus Arcade"
+      "text": "Аркада «Нексус»"
     },
     {
       "id": "0x0000002D",
-      "text": "Leynode Nine"
+      "text": "Лейнод Девять"
     },
     {
       "id": "0x0000002E",
-      "text": "Government Sector"
+      "text": "Государственный сектор"
     },
     {
       "id": "0x0000002F",
@@ -199,147 +199,147 @@
     },
     {
       "id": "0x00000039",
-      "text": "View Current Input"
+      "text": "Просмотреть текущий ввод"
     },
     {
       "id": "0x0000003A",
-      "text": "Clear"
+      "text": "Очистить"
     },
     {
       "id": "0x0000003B",
-      "text": "Confirm "
+      "text": "Подтвердить"
     },
     {
       "id": "0x0000003C",
-      "text": "Cancel"
+      "text": "Отмена"
     },
     {
       "id": "0x0000003D",
-      "text": "Sapphire"
+      "text": "Сапфир"
     },
     {
       "id": "0x0000003E",
-      "text": "Garnet"
+      "text": "Гранат"
     },
     {
       "id": "0x0000003F",
-      "text": "Alexandrite"
+      "text": "Александрит"
     },
     {
       "id": "0x00000040",
-      "text": "Scrawled Phrase"
+      "text": "Нацарапанная фраза"
     },
     {
       "id": "0x00000041",
-      "text": "Cancel"
+      "text": "Отмена"
     },
     {
       "id": "0x00000042",
-      "text": "Spiky Crystalline Tree"
+      "text": "Колючее кристаллическое дерево"
     },
     {
       "id": "0x00000043",
-      "text": "Flowery Shrub"
+      "text": "Цветущий кустарник"
     },
     {
       "id": "0x00000044",
-      "text": "Tree with Purple Canopy?"
+      "text": "Дерево с фиолетовой кроной?"
     },
     {
       "id": "0x00000045",
-      "text": "Seemingly Glassblown Bloom"
+      "text": "Цветок, словно выдутый из стекла"
     },
     {
       "id": "0x00000046",
-      "text": "Iridescent Terrain"
+      "text": "Переливающийся ландшафт"
     },
     {
       "id": "0x00000047",
-      "text": "Namingway"
+      "text": "Неймингвей"
     },
     {
       "id": "0x0000004C",
-      "text": "Carpet"
+      "text": "Ковёр"
     },
     {
       "id": "0x0000004D",
-      "text": "Tea Set"
+      "text": "Чайный сервиз"
     },
     {
       "id": "0x0000004E",
-      "text": "Fair Maiden"
+      "text": "Прекрасная дева"
     },
     {
       "id": "0x0000004F",
-      "text": "Magic Sigil"
+      "text": "Магическая печать"
     },
     {
       "id": "0x00000050",
-      "text": "Y'nazqha"
+      "text": "Й'назкха"
     },
     {
       "id": "0x00000051",
-      "text": "Shadefleet"
+      "text": "Теневой флот"
     },
     {
       "id": "0x00000052",
-      "text": "Ominous Anomaly"
+      "text": "Зловещая аномалия"
     },
     {
       "id": "0x00000053",
-      "text": "Twisted Tree"
+      "text": "Искривлённое дерево"
     },
     {
       "id": "0x00000054",
-      "text": "Buoyant Tentacled Lump"
+      "text": "Плавучий щупальчатый комок"
     },
     {
       "id": "0x00000055",
-      "text": "Flowers in Full Bloom"
+      "text": "Цветы в полном расцвете"
     },
     {
       "id": "0x00000056",
-      "text": "Glowing Gems"
+      "text": "Сияющие самоцветы"
     },
     {
       "id": "0x00000057",
-      "text": "Floating Fragments"
+      "text": "Парящие фрагменты"
     },
     {
       "id": "0x00000058",
-      "text": "Namingway"
+      "text": "Неймингвей"
     },
     {
       "id": "0x00000059",
-      "text": "Building with Triangular Windows"
+      "text": "Строительство с треугольными окнами"
     },
     {
       "id": "0x0000005A",
-      "text": "Tree with Pink Leaves"
+      "text": "Дерево с розовыми листьями"
     },
     {
       "id": "0x0000005B",
-      "text": "Tower and Crystal"
+      "text": "Башня и кристалл"
     },
     {
       "id": "0x0000005C",
-      "text": "Glossy Silver Clumps"
+      "text": "Блестящие серебряные комки"
     },
     {
       "id": "0x0000005D",
-      "text": "Major Roadway"
+      "text": "Главная магистраль"
     },
     {
       "id": "0x0000005E",
-      "text": "Street Sign Structure"
+      "text": "Конструкция уличного указателя"
     },
     {
       "id": "0x0000005F",
-      "text": "Namingway"
+      "text": "Неймингвей"
     },
     {
       "id": "0x00000060",
-      "text": "Nagylvi Bud"
+      "text": "Нагилви Буд"
     }
   ]
 }

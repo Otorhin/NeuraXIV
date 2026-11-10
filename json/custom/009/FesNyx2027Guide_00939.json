@@ -1,4 +1,65 @@
 {
   "source_file": "exd/custom/009/FesNyx2027Guide_00939_0_en.exd",
-  "rows": []
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_FESNYX2027GUIDE_00939_SHEEPSERVER_000_000<tab><var 08 E3E90C0D ((<var 08 E3E90C05 ((Good evening)) ((Good morrow)) /var>)) ((<var 08 E3E90C12 ((Good day)) ((Good evening)) /var>)) /var> to you, my <var 08 E905 ((lady)) ((lord)) /var>. I am the hitsuji doshin, a member of a Far Eastern delegation come to share our traditions of Heavensturn with the good people of Eorzea. If there is aught you would know of this year's celebration, you need only ask."
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_FESNYX2027GUIDE_00939_Q1_000_1<tab>Что ты спросишь?"
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_FESNYX2027GUIDE_00939_A1_000_1<tab>Что ты здесь делаешь?"
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_FESNYX2027GUIDE_00939_A1_000_2<tab>Что такое «Поворот небес»?"
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_FESNYX2027GUIDE_00939_A1_000_3<tab>Ничего."
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_FESNYX2027GUIDE_00939_SHEEPSERVER_000_003<tab>На рубеже года небольшая делегация нашего народа отправится в Эорзею, чтобы отпраздновать наступление Небесного поворота и тем самым укрепить узы дружбы между Эорзеей и Дальним Востоком."
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_FESNYX2027GUIDE_00939_SHEEPSERVER_000_004<tab>Under the guidance of our leader, the hitsuji bugyo, we wish to celebrate the year of the sheep by blessing the people of Limsa Lominsa with pleasant dreams."
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_FESNYX2027GUIDE_00939_SHEEPSERVER_000_005<tab>We are most grateful for your continued assistance with this year's festivities."
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_FESNYX2027GUIDE_00939_SHEEPSERVER_000_006<tab>Если пожелаете вытянуть омикудзи, гадатель будет предлагать свои услуги до конца празднования."
+    },
+    {
+      "id": "0x00000009",
+      "text": "TEXT_FESNYX2027GUIDE_00939_SHEEPSERVER_000_007<tab>На рубеже года небольшая делегация нашего народа отправится в Эорзею, чтобы отпраздновать наступление Небесного поворота и тем самым укрепить узы дружбы между Эорзеей и Дальним Востоком."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "TEXT_FESNYX2027GUIDE_00939_SHEEPSERVER_000_008<tab>Under the guidance of our leader, the hitsuji bugyo, we wish to celebrate the year of the sheep by blessing the people with pleasant dreams. Please do visit Limsa Lominsa should you wish to learn more."
+    },
+    {
+      "id": "0x0000000B",
+      "text": "TEXT_FESNYX2027GUIDE_00939_SHEEPSERVER_000_009<tab>Вы не знакомы с этим праздником? Традиция насчитывает богатую историю, уходящую корнями в глубь веков, но не хочу вас утомлять, так что постараюсь изложить всё вкратце."
+    },
+    {
+      "id": "0x0000000C",
+      "text": "TEXT_FESNYX2027GUIDE_00939_SHEEPSERVER_000_010<tab>Heavensturn is a celebration that marks the start of a new year, though the way in which it is observed differs from region to region. Here in Eorzea, it is said that the Twelve select one among them to keep vigil over the realm until the next passing of the twelve moons. I believe this year it is Menphina, the goddess of love, who has been charged with this duty."
+    },
+    {
+      "id": "0x0000000D",
+      "text": "TEXT_FESNYX2027GUIDE_00939_SHEEPSERVER_000_011<tab>In the Far East, however, the changing of the year is heralded by one of twelve totem animals. As you have no doubt discerned from my helm, this year we pay homage to the magnificent hitsuji."
+    },
+    {
+      "id": "0x0000000E",
+      "text": "TEXT_FESNYX2027GUIDE_00939_SHEEPSERVER_000_012<tab>I speak of the creature you know as a “sheep,” which we likewise consider to be a symbol of sound sleep."
+    }
+  ]
 }

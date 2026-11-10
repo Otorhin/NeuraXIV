@@ -103,7 +103,7 @@
     },
     {
       "id": "0x00000019",
-      "text": "TEXT_KINGZB108_05048_TODO_01<tab>С режимом чата в <var 48 F201F4 /var><var 49 F201F5 /var>Скажи<var 49 01 /var><var 48 01 /var>, введи любую фразу с “Горрл Карриор”, чтобы позвать нервного солевар."
+      "text": "TEXT_KINGZB108_05048_TODO_01<tab>С режимом чата в <var 48 F201F4 /var><var 49 F201F5 /var>Скажи<var 49 01 /var><var 48 01 /var>, введи любую фразу с “Gorrl Karryor”, чтобы позвать нервного солевар."
     },
     {
       "id": "0x0000001A",
@@ -303,7 +303,7 @@
     },
     {
       "id": "0x0000004B",
-      "text": "TEXT_KINGZB108_05048_SAYTODO_000_100<tab>Горрл Каррёр"
+      "text": "TEXT_KINGZB108_05048_SAYTODO_000_100<tab>Gorrl Karryor"
     },
     {
       "id": "0x0000004C",

@@ -32,6 +32,18 @@
     {
       "id": "0x00000007",
       "text": "TEXT_CTSETCVOYAGERMOOGLE_00566_MOGGUIDEBOOK_00003<tab>И когда тяжесть ваших томестонов станет невыносима, принесите их мне — я дам вам всевозможные редкие и замечательные предметы!"
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_CTSETCVOYAGERMOOGLE_00566_VOYAGERMOOGLE_000_001<tab>Oh, and it seems there were some minor errors in the Mogpendium. I've gone ahead and marked <var 08 E4E80202 ((minimog challenges)) ((<var 08 E4E80203 ((weekly objectives)) ((<var 08 E4E80204 ((minimog challenges and weekly objectives)) (()) /var>)) /var>)) /var> from week six of the first hunt for astronomy as complete for you. Just don't tell my boss, kupo!"
+    },
+    {
+      "id": "0x00000009",
+      "text": "TEXT_CTSETCVOYAGERMOOGLE_00566_SYSTEM_000_002<tab>The completion period for certain duties in the Mogpendium was listed incorrectly and differed from the event end date."
+    },
+    {
+      "id": "0x0000000A",
+      "text": "TEXT_CTSETCVOYAGERMOOGLE_00566_SYSTEM_000_003<tab>As compensation to those who were unable to attempt these duties within the allotted time, the itinerant moogle is providing a helping paw to complete these goals."
     }
   ]
 }

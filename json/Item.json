@@ -180294,6 +180294,10 @@
       "text": "wind-up Feo Ul<tab>wind-up Feo Uls<tab>As your lovely branch, it will lend you its strength!\n\nUse item to acquire the wind-up Feo Ul minion.<tab>Wind-up Feo Ul"
     },
     {
+      "id": "0x0000B6C2",
+      "text": "dreambringer<tab>dreambringers<tab>A tapir in sheep's clothing─which is to say it is perfectly harmless.\n\nUse item to acquire the dreambringer minion.<tab>Dreambringer"
+    },
+    {
       "id": "0x0000B6C3",
       "text": "pixie parasol<tab>pixie parasols<tab>Protects the bearer from rain and sun, but not from pixie mischief. Use to acquire a pixie parasol.<tab>Pixie Parasol"
     },
@@ -198034,6 +198038,10 @@
       "text": "Everkeep partition<tab>Everkeep partitions<tab>A simple partition with slits that allow people on either side to peer at each other playfully.<tab>Everkeep Partition"
     },
     {
+      "id": "0x0000C844",
+      "text": "wrapped gift<tab>wrapped gifts<tab>A special present from a special someone.\n\nCannot be opened in instanced areas such as dungeons, PvP areas, or raids.<tab>Wrapped Gift"
+    },
+    {
       "id": "0x0000C845",
       "text": "string of garden mood lighting<tab>strings of garden mood lighting<tab>Perfect for setting a festive mood far past the point when everyone should have gone home.<tab>Garden Mood Lighting"
     },
@@ -203516,6 +203524,10 @@
     {
       "id": "0x0000CDB4",
       "text": "Zero's luminary attire<tab>Zero's luminary attires<tab><tab>Zero's Luminary Attire"
+    },
+    {
+      "id": "0x0000CDB5",
+      "text": "copy of <var 1A 02 /var>Tales of Adventure: Winter's Prelude<var 1A 01 /var><tab>copies of <var 1A 02 /var>Tales of Adventure: Winter's Prelude<var 1A 01 /var><tab>A detailed record of one hero's journey to the far reaches of Eorzea and beyond─so detailed, in fact, that all who read it come to swear they experienced the events firsthand.\n\nUse to instantly complete all main scenario quests from “Newfound Adventure” up through “Into the Mist.” Required level: 90 or above. Can be used after completing the main scenario quest “Endwalker.” Cannot be used outside large settlements. Can be used for any Disciple of War or Magic, excluding limited jobs. Automatic logout will commence upon usage.<tab>Tales of Adventure: Winter's Prelude"
     },
     {
       "id": "0x0000CDE8",

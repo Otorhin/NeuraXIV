@@ -37991,7 +37991,7 @@
     },
     {
       "id": "0x00002DCF",
-      "text": "PvP teams are adventurers who, rather than have their companions\nchosen at random, join together to take on Crystalline Conflict and other PvP duties in custom-made parties of their own creation.\n\nTo create a PvP team, the following conditions must be met:\n・Only a party leader can create a team\n・Members cannot be part of another PvP team\n・Parties must have 4-6 members (cross-world allowed)\n・All members must have unlocked PvP\n・Players on free trial accounts are not allowed\n・All members must have Home Worlds in the current data center"
+      "text": "PvP teams are adventurers who, rather than have their companions\nchosen at random, join together to take on Crystalline Conflict and other PvP duties in custom-made parties of their own creation.\n\nTo create a PvP team, the following conditions must be met:\n・Only a party leader can create a team\n・Members cannot be part of another PvP team\n・Parties must have 4-6 members (cross-world allowed)\n・All members must have unlocked PvP\n・Players on free trial accounts are not allowed\n・All members must have Home Worlds in the current physical data center"
     },
     {
       "id": "0x00002DD0",
@@ -56042,6 +56042,14 @@
       "text": "Duty registrations are currently pending. Are you sure you wish to cancel registration and close the game client?"
     },
     {
+      "id": "0x00004482",
+      "text": ""
+    },
+    {
+      "id": "0x00004483",
+      "text": "(<var 20 E802 /var>)"
+    },
+    {
       "id": "0x00004484",
       "text": "スタート地点です。"
     },
@@ -56103,7 +56111,7 @@
     },
     {
       "id": "0x0000449A",
-      "text": "Patch 7.58 Release"
+      "text": "Early December"
     },
     {
       "id": "0x0000449B",
@@ -56863,7 +56871,7 @@
     },
     {
       "id": "0x0000457B",
-      "text": "<var 08 E802 ((<var 48 F201FA /var><var 49 F201FB /var>※Your current team is smaller than the maximum allowance.<var 49 01 /var><var 48 01 /var>\n)) (()) /var><var 08 E803 ((<var 48 F201FA /var><var 49 F201FB /var>※One or more of your familiars is at least 3 beast ranks lower than is recommended.<var 49 01 /var><var 48 01 /var>\n)) (()) /var><var 08 E804 ((<var 48 F201FA /var><var 49 F201FB /var>※The scoring period for Crucible Rankings will end in less than 10 minutes.<var 49 01 /var><var 48 01 /var>\n)) (()) /var>Proceed to challenge this board?"
+      "text": "<var 08 E802 ((<var 48 F201FA /var><var 49 F201FB /var>※Your current team is smaller than the maximum allowance.<var 49 01 /var><var 48 01 /var>\n)) (()) /var><var 08 E803 ((<var 48 F201FA /var><var 49 F201FB /var>※One or more of your familiars has a lower beast rank than is recommended.<var 49 01 /var><var 48 01 /var>\n)) (()) /var><var 08 E804 ((<var 48 F201FA /var><var 49 F201FB /var>※The scoring period for Crucible Rankings will end in less than 10 minutes.<var 49 01 /var><var 48 01 /var>\n)) (()) /var>Proceed to challenge this board?"
     },
     {
       "id": "0x0000457C",
@@ -57255,7 +57263,7 @@
     },
     {
       "id": "0x000045F8",
-      "text": "Level: <var 20 E802 /var> (Sync to <var 20 E802 /var>)\n<var 08 E803 ((Item Level Sync: <var 20 E803 /var>\n)) (()) /var>Recommended Beast Rank: <var 20 E804 /var> (Sync from <var 20 E805 /var>)"
+      "text": "Level: <var 20 E802 /var> (Sync to <var 20 E802 /var>)\nAvg. Item Level: <var 20 E806 /var>\n<var 08 E803 ((Item Level Sync: <var 20 E803 /var>\n)) (()) /var>Recommended Beast Rank: <var 20 E804 /var> (Sync from <var 20 E805 /var>)"
     },
     {
       "id": "0x000045F9",

@@ -1154,6 +1154,10 @@
       "text": "<var 2B ((<var 08 E4EB02EB03 ((ты)) ((<var 08 E908 ((<var 31 ((ObjStr)) 03E9080202 /var>)) EB03 /var>)) /var>)) /var> <var 08 E4EB02EB03 ((исполняешь)) ((исполняет)) /var> танец солнечной капли."
     },
     {
+      "id": "0x0000012B",
+      "text": "You can now accept the next job quest."
+    },
+    {
       "id": "0x0000012C",
       "text": "Не удалось обработать команду добавления в чёрный список."
     },
@@ -20494,6 +20498,14 @@
       "text": "Вы примеряете <var 31 ((Glasses)) 03E8020202 /var>."
     },
     {
+      "id": "0x0000169C",
+      "text": "Unable to complete transaction. You have already acquired, or have the means to acquire, the <var 28 ((Mount)) E80201 /var> mount."
+    },
+    {
+      "id": "0x0000169D",
+      "text": "Unable to complete transaction. You only need to acquire <var 20 E803 /var> <var 08 E4E80302 ((<var 31 ((Item)) 04E8020202 /var>)) ((<var 31 ((Item)) 04E8020302 /var>)) /var>."
+    },
+    {
       "id": "0x0000169E",
       "text": "Настройки сохранены."
     },
@@ -21328,6 +21340,18 @@
     {
       "id": "0x000017E5",
       "text": "Изменения интерьера поместья сохранены."
+    },
+    {
+      "id": "0x000017E6",
+      "text": "Room #<var 20 E802 /var> has been demolished. All possessions can be retrieved from a resident caretaker."
+    },
+    {
+      "id": "0x000017E7",
+      "text": "Unable to demolish room while you are still inside."
+    },
+    {
+      "id": "0x000017E8",
+      "text": "Teleported outside. Changes have been made to the estate."
     },
     {
       "id": "0x000017E9",
@@ -25948,6 +25972,14 @@
     {
       "id": "0x000023A5",
       "text": "Не удалось загрузить общие данные из-за недопустимого содержимого. Измените введённый комментарий и повторите попытку."
+    },
+    {
+      "id": "0x000023BE",
+      "text": "In order to use this copy of <var 1A 02 /var>Tales of Adventure<var 1A 01 /var>, you must have at least one class or job at level 90 or above."
+    },
+    {
+      "id": "0x000023BF",
+      "text": "In order to use this item, you must first complete the main scenario quest “<var 28 ((Quest)) F601117001 /var>.”"
     },
     {
       "id": "0x000023EF",

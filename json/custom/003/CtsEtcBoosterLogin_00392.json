@@ -112,6 +112,54 @@
     {
       "id": "0x0000001B",
       "text": "TEXT_CTSETCBOOSTERLOGIN_00392_A1MAIN_000_003<tab>(★Неиспользуемый / Предполагается удаление★)"
+    },
+    {
+      "id": "0x0000001C",
+      "text": "TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_758_003<tab>However, you must first reach level 100 as a Disciple of War or Magic."
+    },
+    {
+      "id": "0x0000001D",
+      "text": "TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_758_004<tab>Activities such as leveling dungeons, variant dungeons, and deep dungeons are a great way to earn experience and gain levels."
+    },
+    {
+      "id": "0x0000001E",
+      "text": "TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_758_005<tab>Прежде чем отправиться навстречу новым приключениям, возможно, ты захочешь заглянуть в <var 1A 02 /var>«Бесконечное путешествие»<var 1A 01 /var> в одной из комнат гостиницы главного города и вспомнить о былых странствиях."
+    },
+    {
+      "id": "0x0000001F",
+      "text": "TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_758_006<tab>Alternatively, you can replay completed quests at any time in New Game+ mode."
+    },
+    {
+      "id": "0x00000020",
+      "text": "TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_758_007<tab>Knowing what has come to pass will allow you to more fully understand─and enjoy─your next adventure."
+    },
+    {
+      "id": "0x00000021",
+      "text": "TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_758_008<tab>The delivery moogle's gifts will help you on your way, so be sure to make use of them as you brave the challenges ahead."
+    },
+    {
+      "id": "0x00000022",
+      "text": "TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_758_009<tab>May you walk in the light of the Crystal!"
+    },
+    {
+      "id": "0x00000023",
+      "text": "TEXT_CTSETCBOOSTERLOGIN_00392_Q1MAIN_000_001<tab>(★Неиспользуемый / Предполагается удаление★)"
+    },
+    {
+      "id": "0x00000024",
+      "text": "TEXT_CTSETCBOOSTERLOGIN_00392_A1MAIN_000_002<tab>(★Неиспользуемый / Предполагается удаление★)"
+    },
+    {
+      "id": "0x00000025",
+      "text": "TEXT_CTSETCBOOSTERLOGIN_00392_A1MAIN_000_003<tab>(★Неиспользуемый / Предполагается удаление★)"
+    },
+    {
+      "id": "0x00000026",
+      "text": "TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_740_001<tab>(★Неиспользуемый / Предполагается удаление★)"
+    },
+    {
+      "id": "0x00000027",
+      "text": "TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_100_004<tab>(★Неиспользуемый / Предполагается удаление★)"
     }
   ]
 }

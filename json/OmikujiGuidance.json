@@ -110,6 +110,14 @@
       "text": "<tab>За повторением кроется истина. Не пренебрегай своим обучением."
     },
     {
+      "id": "0x00000195",
+      "text": "<tab>Fortune awaiteth in the fray. Sally forth with thy comrades."
+    },
+    {
+      "id": "0x00000196",
+      "text": "<tab>In wondrous writings lieth coveted rewards."
+    },
+    {
       "id": "0x000001F4",
       "text": "Благосклонность:<tab>Будь яростен, подобно Фурии, и победа будет тебе обеспечена."
     },
@@ -232,6 +240,14 @@
     {
       "id": "0x0000057C",
       "text": "<tab>Твоё оружие тебе к лицу. Продолжай в том же духе с уверенностью."
+    },
+    {
+      "id": "0x0000057D",
+      "text": "<tab>Seek out lands phantasmal and cloud-shrouded. Untold strength awaits thee."
+    },
+    {
+      "id": "0x0000057E",
+      "text": "<tab>Rally thine allies. Victory is promised in battles braved together."
     },
     {
       "id": "0x000005DC",
@@ -358,6 +374,14 @@
       "text": "<tab>Силы тебе не занимать. Тебе лишь надобно дышать единым духом со своими союзниками."
     },
     {
+      "id": "0x00000965",
+      "text": "<tab>Hone thy craft. In potential fulfilled is fortune found."
+    },
+    {
+      "id": "0x00000966",
+      "text": "<tab>In the deepest dungeons lieth the greatest renown."
+    },
+    {
       "id": "0x000009C4",
       "text": "Благосклонность:<tab>Будь непоколебим, подобно Хранителю, и не собьёшься с пути."
     },
@@ -480,6 +504,14 @@
     {
       "id": "0x00000D4C",
       "text": "<tab>Продолжай оттачивать мастерство вместе со своими союзниками."
+    },
+    {
+      "id": "0x00000D4D",
+      "text": "<tab>Thy journey teems with peril. Foster strength in those that would share it with thee."
+    },
+    {
+      "id": "0x00000D4E",
+      "text": "<tab>Though cunning artifice may frustrate thine efforts, thou shalt divine a solution."
     },
     {
       "id": "0x00000DAC",
@@ -606,6 +638,14 @@
       "text": "<tab>Даже в победе желанное твоему сердцу ускользнёт от тебя. Упорство — ключ ко всему."
     },
     {
+      "id": "0x00001135",
+      "text": "<tab>The journey is arduous to arms ascendent. Steel thy resolve."
+    },
+    {
+      "id": "0x00001136",
+      "text": "<tab>Stray not from the path of discipline, lest conceit dull thy potential."
+    },
+    {
       "id": "0x00001194",
       "text": "Благосклонность:<tab>Подобно молнии Разрушителя, несчастье может обрушиться без предупреждения. Всегда будь готов."
     },
@@ -728,6 +768,14 @@
     {
       "id": "0x0000151C",
       "text": "<tab>Тупой клинок легко ломается. Как следует оттачивай себя."
+    },
+    {
+      "id": "0x0000151D",
+      "text": "<tab>Faced with tasks insurmountable, neglect not rest and respite."
+    },
+    {
+      "id": "0x0000151E",
+      "text": "<tab>Shouldst thy strength falter, dwell not in despondency."
     },
     {
       "id": "0x0000157C",

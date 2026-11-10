@@ -99,7 +99,7 @@
     },
     {
       "id": "0x00000018",
-      "text": "TEXT_BANIXA302_01515_TODO_00<tab>С режимом чата в <var 48 F201F4 /var><var 49 F201F5 /var>Say<var 49 01 /var><var 48 01 /var>, введите \"Теперь Падение\", чтобы дать понять носителю Ehcatl Nine, что вы не враг."
+      "text": "TEXT_BANIXA302_01515_TODO_00<tab>С режимом чата в <var 48 F201F4 /var><var 49 F201F5 /var>Say<var 49 01 /var><var 48 01 /var>, введите \"Now Fall\", чтобы дать понять носителю Ehcatl Nine, что вы не враг."
     },
     {
       "id": "0x00000019",
@@ -239,7 +239,7 @@
     },
     {
       "id": "0x0000003B",
-      "text": "TEXT_BANIXA302_01515_SYSTEM_100_062<tab>Падай же."
+      "text": "TEXT_BANIXA302_01515_SYSTEM_100_062<tab>Now Fall"
     },
     {
       "id": "0x0000003C",

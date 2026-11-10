@@ -1,4 +1,593 @@
 {
   "source_file": "exd/quest/053/FesNyx301_05377_0_en.exd",
-  "rows": []
+  "rows": [
+    {
+      "id": "0x00000000",
+      "text": "TEXT_FESNYX301_05377_SEQ_00<tab>The hitsuji bugyo seeks an adventurer's intervention.\n※This quest is available for a limited time only."
+    },
+    {
+      "id": "0x00000001",
+      "text": "TEXT_FESNYX301_05377_SEQ_01<tab>With the turning of the heavens, a delegation has arrived from Hingashi to celebrate the year of the sheep and share the custom of hatsuyume─or “first dream”─with the city's residents. Speaking with the head delegate, the hitsuji bugyo, you discover that her associate Mugen appears to be having difficulty providing pleasant dreams to one and all. She entreats your aid as an adventurer, and so you make for the Drowning Wench to find the man.\n\n※Please note that you will be unable to complete this quest after the seasonal event has ended. For details, please check the Lodestone."
+    },
+    {
+      "id": "0x00000002",
+      "text": "TEXT_FESNYX301_05377_SEQ_02<tab>Upon locating Mugen, the dream expert explains how he and his tapir companion purvey positive dreams─and indeed intervene should any dreams take a dark turn. It appears that three of his clients had such unpleasant experiences that they immediately fled from their sleeping quarters. Dismayed at the thought of his clients interpreting their hatsuyume as a dreadful omen for the year ahead, Mugen asks you to explain that their dreams can be remedied. You set out to find the individuals in likely locations across Limsa Lominsa."
+    },
+    {
+      "id": "0x00000003",
+      "text": "TEXT_FESNYX301_05377_SEQ_03<tab>The three traumatized clients describe their dreams in vivid detail, and are relieved to hear that their hatsuyume might be improved. They each decide to rendezvous with Mugen at the Drowned Wench, where the dream expert will no doubt wish to speak with you again."
+    },
+    {
+      "id": "0x00000004",
+      "text": "TEXT_FESNYX301_05377_SEQ_04<tab>With the clients returned and resting, Mugen is determined to make a success of their hatsuyume. Having asked your advice regarding who should receive which motifs, he invites you to come and watch the dreambringer work in the sleeping quarters. Upon waking, the clients delight in what they reveal to have been thoroughly agreeable dreams, leaving full of hope for the future. Satisfied, and grateful of your aid, Mugen bids you report back to the hitsuji bugyo at the Aftcastle."
+    },
+    {
+      "id": "0x00000005",
+      "text": "TEXT_FESNYX301_05377_SEQ_05<tab>After reconvening with Mugen and the hitsuji bugyo, the former bequeaths you his adorable, dream-hungry companion, describing how he had a vision of the very same arrangement before arriving in Eorzea. With the dreambringer to keep you company─and consume any pesky nightmares─you are ready to face the year ahead."
+    },
+    {
+      "id": "0x00000006",
+      "text": "TEXT_FESNYX301_05377_SEQ_06<tab>"
+    },
+    {
+      "id": "0x00000007",
+      "text": "TEXT_FESNYX301_05377_SEQ_07<tab>"
+    },
+    {
+      "id": "0x00000008",
+      "text": "TEXT_FESNYX301_05377_SEQ_08<tab>"
+    },
+    {
+      "id": "0x00000009",
+      "text": "TEXT_FESNYX301_05377_SEQ_09<tab>"
+    },
+    {
+      "id": "0x0000000A",
+      "text": "TEXT_FESNYX301_05377_SEQ_10<tab>"
+    },
+    {
+      "id": "0x0000000B",
+      "text": "TEXT_FESNYX301_05377_SEQ_11<tab>"
+    },
+    {
+      "id": "0x0000000C",
+      "text": "TEXT_FESNYX301_05377_SEQ_12<tab>"
+    },
+    {
+      "id": "0x0000000D",
+      "text": "TEXT_FESNYX301_05377_SEQ_13<tab>"
+    },
+    {
+      "id": "0x0000000E",
+      "text": "TEXT_FESNYX301_05377_SEQ_14<tab>"
+    },
+    {
+      "id": "0x0000000F",
+      "text": "TEXT_FESNYX301_05377_SEQ_15<tab>"
+    },
+    {
+      "id": "0x00000010",
+      "text": "TEXT_FESNYX301_05377_SEQ_16<tab>"
+    },
+    {
+      "id": "0x00000011",
+      "text": "TEXT_FESNYX301_05377_SEQ_17<tab>"
+    },
+    {
+      "id": "0x00000012",
+      "text": "TEXT_FESNYX301_05377_SEQ_18<tab>"
+    },
+    {
+      "id": "0x00000013",
+      "text": "TEXT_FESNYX301_05377_SEQ_19<tab>"
+    },
+    {
+      "id": "0x00000014",
+      "text": "TEXT_FESNYX301_05377_SEQ_20<tab>"
+    },
+    {
+      "id": "0x00000015",
+      "text": "TEXT_FESNYX301_05377_SEQ_21<tab>"
+    },
+    {
+      "id": "0x00000016",
+      "text": "TEXT_FESNYX301_05377_SEQ_22<tab>"
+    },
+    {
+      "id": "0x00000017",
+      "text": "TEXT_FESNYX301_05377_SEQ_23<tab>"
+    },
+    {
+      "id": "0x00000018",
+      "text": "TEXT_FESNYX301_05377_TODO_00<tab>Speak with Mugen."
+    },
+    {
+      "id": "0x00000019",
+      "text": "TEXT_FESNYX301_05377_TODO_01<tab>Speak with the chef."
+    },
+    {
+      "id": "0x0000001A",
+      "text": "TEXT_FESNYX301_05377_TODO_02<tab>Speak with the fisher."
+    },
+    {
+      "id": "0x0000001B",
+      "text": "TEXT_FESNYX301_05377_TODO_03<tab>Поговорите с торговцем."
+    },
+    {
+      "id": "0x0000001C",
+      "text": "TEXT_FESNYX301_05377_TODO_04<tab>Speak with Mugen at the Drowning Wench."
+    },
+    {
+      "id": "0x0000001D",
+      "text": "TEXT_FESNYX301_05377_TODO_05<tab>Поговорите с хицудзи-бугё."
+    },
+    {
+      "id": "0x0000001E",
+      "text": "TEXT_FESNYX301_05377_TODO_06<tab>"
+    },
+    {
+      "id": "0x0000001F",
+      "text": "TEXT_FESNYX301_05377_TODO_07<tab>"
+    },
+    {
+      "id": "0x00000020",
+      "text": "TEXT_FESNYX301_05377_TODO_08<tab>"
+    },
+    {
+      "id": "0x00000021",
+      "text": "TEXT_FESNYX301_05377_TODO_09<tab>"
+    },
+    {
+      "id": "0x00000022",
+      "text": "TEXT_FESNYX301_05377_TODO_10<tab>"
+    },
+    {
+      "id": "0x00000023",
+      "text": "TEXT_FESNYX301_05377_TODO_11<tab>"
+    },
+    {
+      "id": "0x00000024",
+      "text": "TEXT_FESNYX301_05377_TODO_12<tab>"
+    },
+    {
+      "id": "0x00000025",
+      "text": "TEXT_FESNYX301_05377_TODO_13<tab>"
+    },
+    {
+      "id": "0x00000026",
+      "text": "TEXT_FESNYX301_05377_TODO_14<tab>"
+    },
+    {
+      "id": "0x00000027",
+      "text": "TEXT_FESNYX301_05377_TODO_15<tab>"
+    },
+    {
+      "id": "0x00000028",
+      "text": "TEXT_FESNYX301_05377_TODO_16<tab>"
+    },
+    {
+      "id": "0x00000029",
+      "text": "TEXT_FESNYX301_05377_TODO_17<tab>"
+    },
+    {
+      "id": "0x0000002A",
+      "text": "TEXT_FESNYX301_05377_TODO_18<tab>"
+    },
+    {
+      "id": "0x0000002B",
+      "text": "TEXT_FESNYX301_05377_TODO_19<tab>"
+    },
+    {
+      "id": "0x0000002C",
+      "text": "TEXT_FESNYX301_05377_TODO_20<tab>"
+    },
+    {
+      "id": "0x0000002D",
+      "text": "TEXT_FESNYX301_05377_TODO_21<tab>"
+    },
+    {
+      "id": "0x0000002E",
+      "text": "TEXT_FESNYX301_05377_TODO_22<tab>"
+    },
+    {
+      "id": "0x0000002F",
+      "text": "TEXT_FESNYX301_05377_TODO_23<tab>"
+    },
+    {
+      "id": "0x00000030",
+      "text": "TEXT_FESNYX301_05377_SHEEPMISSIONARY_000_000<tab>Forgive me for being so forthright, <var 08 E905 ((my lady)) ((my lord)) /var>, but am I right to surmise you are an adventurer?"
+    },
+    {
+      "id": "0x00000031",
+      "text": "TEXT_FESNYX301_05377_SHEEPMISSIONARY_000_001<tab>I represent a delegation hailing from distant Hingashi, here to celebrate Heavensturn with our Eorzean friends."
+    },
+    {
+      "id": "0x00000032",
+      "text": "TEXT_FESNYX301_05377_SHEEPMISSIONARY_000_002<tab>I understand that in this realm, the gods elect one of their number to serve as a herald of fortune. In the Far East, however, we choose not from among deities but noble beasts."
+    },
+    {
+      "id": "0x00000033",
+      "text": "TEXT_FESNYX301_05377_SHEEPMISSIONARY_000_003<tab>This year, 'tis the illustrious hitsuji that presides almighty. Sheep─as you might know them─are seen as fluffy usherers of sound sleep and pleasant dreams."
+    },
+    {
+      "id": "0x00000034",
+      "text": "TEXT_FESNYX301_05377_SHEEPMISSIONARY_000_004<tab>And of all the dreams one might have within the year, 'tis the first upon which we place utmost importance. We call it hatsuyume, and it is a promising herald of things to come."
+    },
+    {
+      "id": "0x00000035",
+      "text": "TEXT_FESNYX301_05377_SHEEPMISSIONARY_000_005<tab>Now, to help steer the fine people of this city toward a heartening hatsuyume, we have prepared sumptuous quarters that they might slumber in peace."
+    },
+    {
+      "id": "0x00000036",
+      "text": "TEXT_FESNYX301_05377_SHEEPMISSIONARY_000_006<tab>Sleepers are supervised by my esteemed colleague and Far Eastern dream expert, Mugen. Although, I regret to report he seems to be facing some difficulties..."
+    },
+    {
+      "id": "0x00000037",
+      "text": "TEXT_FESNYX301_05377_SHEEPMISSIONARY_000_007<tab>Aiding others is an adventurer's calling, is it not? Would you be so kind as to lend Mugen yours?"
+    },
+    {
+      "id": "0x00000038",
+      "text": "TEXT_FESNYX301_05377_SHEEPMISSIONARY_000_008<tab>You have my heartfelt thanks. As for Mugen, he will likely be tending to his clients at the Drowning Wench. Pray speak with him at your earliest convenience."
+    },
+    {
+      "id": "0x00000039",
+      "text": "TEXT_FESNYX301_05377_SHEEPMISSIONARY_000_009<tab>You shall find Mugen dealing with his clients at the Drowning Wench. Please head over as soon as you are able."
+    },
+    {
+      "id": "0x0000003A",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_010<tab>By the kami... Could it be?"
+    },
+    {
+      "id": "0x0000003B",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_011<tab>Ah, forget I said anything... Here for a sweet dream to ring in the new year?"
+    },
+    {
+      "id": "0x0000003C",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_012<tab>The bugyo sent you? Well, your timing is certainly impeccable. I'm at wit's end!"
+    },
+    {
+      "id": "0x0000003D",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_013<tab>Oh dear, where are my manners? The name's Mugen, and I'm here from the Far East to purvey pleasant dreams to the people of Eorzea─with the help of my dreambringer companion, I hasten to add."
+    },
+    {
+      "id": "0x0000003E",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_014<tab>If you couldn't tell, that's a tapir beneath the seasonal garb. Tapirs are known for their ravenous appetite for dreams, you see."
+    },
+    {
+      "id": "0x0000003F",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_015<tab>However, this little one not only eats dreams, but can transfer a dream's essence to a different dreamer."
+    },
+    {
+      "id": "0x00000040",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_016<tab>As the heavens turn, people seek auspicious signs within their dreams as a promise of good fortune in the coming year. But what if that all-important first sleep is sullied in some way?"
+    },
+    {
+      "id": "0x00000041",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_017<tab>In totters the dreambringer to help sleepers expunge unpleasant omens and replace them with something ideal."
+    },
+    {
+      "id": "0x00000042",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_018<tab>That said, the creature cannot generate pleasant dreams itself. Willing participants must first offer up their dreams for consumption."
+    },
+    {
+      "id": "0x00000043",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_019<tab>I imagine you're wondering who in their right mind would agree to such a donation. But we regularly receive petitions to consume ominous dreams at the start of the new year."
+    },
+    {
+      "id": "0x00000044",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_020<tab>It's important to remember that one man's fear may well be another man's delight. My dreambringer can thus facilitate an exchange of certain symbology, ensuring everyone is treated to a dream that suits them."
+    },
+    {
+      "id": "0x00000045",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_021<tab>What might have been a nightmare is no more, and another sleeper benefits from the portents it leaves behind. So have we brightened many a morning, my little partner and I."
+    },
+    {
+      "id": "0x00000046",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_022<tab>When the delegation asked me to assist with their Heavensturn celebrations, I was more than happy to oblige. In turn, they provided dedicated sleeping quarters that we might readily intervene should our sleepers encounter distress."
+    },
+    {
+      "id": "0x00000047",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_023<tab>Our efforts have met with near-universal success... Alas, three of my clients sped off after waking from what I must assume were rather unpleasant dreams. I didn't even have time to assuage their fears."
+    },
+    {
+      "id": "0x00000048",
+      "text": "TEXT_FESNYX301_05377_YUMEMAWASHI_000_024<tab>Mrrrm..."
+    },
+    {
+      "id": "0x00000049",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_025<tab>The poor thing has taken it all to heart. And I imagine my clients are convinced they're destined for a year of woeful luck."
+    },
+    {
+      "id": "0x0000004A",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_026<tab>I'm desperate to explain that my companion and I can offer them a second chance at their hatsuyume─but I have no sense of this city and cannot leave my post unattended..."
+    },
+    {
+      "id": "0x0000004B",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_027<tab>Would you be willing to seek out my clients and bid them return to me?"
+    },
+    {
+      "id": "0x0000004C",
+      "text": "TEXT_FESNYX301_05377_YUMEMAWASHI_000_028<tab>Mrrrm, mrm!"
+    },
+    {
+      "id": "0x0000004D",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_029<tab>If memory serves, the three clients were a fisher, a cook, and a merchant. Without knowing where they rushed off to, I'm afraid you'll have to scour the likely locations."
+    },
+    {
+      "id": "0x0000004E",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_030<tab>It hasn't been long since they fled, so I'd wager they're still in the city. Good luck with the search!"
+    },
+    {
+      "id": "0x0000004F",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_031<tab>As I mentioned, you're looking for a fisher, a cook, and a merchant. Try searching places they're likely to frequent."
+    },
+    {
+      "id": "0x00000050",
+      "text": "TEXT_FESNYX301_05377_YUMEMAWASHI_000_032<tab>Mrrrm, mrm!"
+    },
+    {
+      "id": "0x00000051",
+      "text": "TEXT_FESNYX301_05377_CITIZENA05377_000_040<tab>Aye, I took part in the Heavensturn happenin's. Figured I'd try and have meself a decent hastayoomie─or whatever it is, but what I saw was a load o' bollocks..."
+    },
+    {
+      "id": "0x00000052",
+      "text": "TEXT_FESNYX301_05377_CITIZENA05377_000_041<tab>There I was, reelin' in what I thought for sure was a big 'un, right? Turns out it was a bleedin' bottle of wine on me hook... Me dream-mates took the piss somethin' fierce, I tell ye! What kind o' vision is that for an aspirin' young angler!?"
+    },
+    {
+      "id": "0x00000053",
+      "text": "TEXT_FESNYX301_05377_CITIZENA05377_000_042<tab>Wait, you're sayin' I can have another crack at the hastayoomie? That's music to me ears! I was even startin' to doubt me future in the fishin' business. Reckon I'll go an' see that dream feller again!"
+    },
+    {
+      "id": "0x00000054",
+      "text": "TEXT_FESNYX301_05377_CITIZENB05377_000_045<tab>You'll have to excuse me─I had an awful nightmare at the Heavensturn event, and I've been out of sorts ever since..."
+    },
+    {
+      "id": "0x00000055",
+      "text": "TEXT_FESNYX301_05377_CITIZENB05377_000_046<tab>In the dream, I was preparing to dress a dodo, but when I looked down at my chopping block, it was the Nepto Dragon staring back! Forget fowl─I was about to be on the menu, and no mistake!"
+    },
+    {
+      "id": "0x00000056",
+      "text": "TEXT_FESNYX301_05377_CITIZENB05377_000_047<tab>A chance to fix my hatsuyume? Well, at this point I'd do anything to get the sight of that leviathan out of my mind..."
+    },
+    {
+      "id": "0x00000057",
+      "text": "TEXT_FESNYX301_05377_CITIZENC05377_000_050<tab>I did indeed─and what a hatsuyume it turned out to be! A wealthy client had asked me to source some particularly fine wines, and so I attended the festivities seeking a good omen for the task ahead."
+    },
+    {
+      "id": "0x00000058",
+      "text": "TEXT_FESNYX301_05377_CITIZENC05377_000_051<tab>I dreamed that I'd found a most suitable vintage for my customer, but I opened the crate to find it stuffed with squawking dodos... The startled creatures chased me hither and thither, nipping at my heels with their beaks!"
+    },
+    {
+      "id": "0x00000059",
+      "text": "TEXT_FESNYX301_05377_CITIZENC05377_000_052<tab>My dream can be exchanged? If the hatsuyume is indeed a portent of one's luck to come, then I would be glad of the opportunity. I shall inquire with the dream expert posthaste!"
+    },
+    {
+      "id": "0x0000005A",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_055<tab>Welcome back, adventurer, and thank you for your help. All three clients have returned and are resting at the inn."
+    },
+    {
+      "id": "0x0000005B",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_056<tab>I received a full account of their dreams, as I understand you did. Fine wines, ocean behemoths, and flightless cloudkin... Quite the menagerie of symbolism."
+    },
+    {
+      "id": "0x0000005C",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_057<tab>I think we've enough to work with to ensure they each have their desired hatsuyume. Though we'll need to proceed with caution..."
+    },
+    {
+      "id": "0x0000005D",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_058<tab>Care to ponder the problem with me? I'm determined to see my clients start the year on a positive note!"
+    },
+    {
+      "id": "0x0000005E",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_059<tab>Let's consider our fisher first. Which motif from these dreams should we transfer to him?"
+    },
+    {
+      "id": "0x0000005F",
+      "text": "TEXT_FESNYX301_05377_Q1_000_000<tab>Что вы порекомендуете?"
+    },
+    {
+      "id": "0x00000060",
+      "text": "TEXT_FESNYX301_05377_A1_000_000<tab>The dodo."
+    },
+    {
+      "id": "0x00000061",
+      "text": "TEXT_FESNYX301_05377_A1_000_001<tab>The Nepto Dragon."
+    },
+    {
+      "id": "0x00000062",
+      "text": "TEXT_FESNYX301_05377_A1_000_002<tab>Я не уверен."
+    },
+    {
+      "id": "0x00000063",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_060<tab>An excellent suggestion! Apparently, the Nepto Dragon is the undisputed lord of these waters. Catching the beast in one's dreams would delight any aspiring fisher, of that I'm sure."
+    },
+    {
+      "id": "0x00000064",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_061<tab>Dodos are native to these shores, aren't they? While I'm sure our fisher wouldn't begrudge a familiar bird appearing in his dream, something tells me we can do better..."
+    },
+    {
+      "id": "0x00000065",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_062<tab>From what I've gleaned, our fisher is new to the profession─eager to prove himself. Perhaps dreaming of a truly awe-inspiring catch will satisfy the fellow?"
+    },
+    {
+      "id": "0x00000066",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_063<tab>As for the remaining combinations, I'd say the dodo is destined for our cook, and the wine ought to end up with the merchant."
+    },
+    {
+      "id": "0x00000067",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_064<tab>Right, it's time we got to work! Perhaps you'd like to join us? It'd be my pleasure to show you how we sweeten dreams."
+    },
+    {
+      "id": "0x00000068",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_065<tab>Wonderful! Let us make for the sleeping quarters."
+    },
+    {
+      "id": "0x00000069",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_070<tab>All set, little one? Remember, the imagery must be distributed exactly as I explained."
+    },
+    {
+      "id": "0x0000006A",
+      "text": "TEXT_FESNYX301_05377_YUMEMAWASHI_000_071<tab>Mrum!"
+    },
+    {
+      "id": "0x0000006B",
+      "text": "TEXT_FESNYX301_05377_YUMEMAWASHI_000_072<tab>Mrrrm, mrrruuum!"
+    },
+    {
+      "id": "0x0000006C",
+      "text": "TEXT_FESNYX301_05377_CITIZENA05377_000_073<tab>The legendary Nepto Dragon, hauled up from the deep by me own two hands! Cor, if that wasn't a sure sign I'm cut out for the fishin' business, I don't know what is!"
+    },
+    {
+      "id": "0x0000006D",
+      "text": "TEXT_FESNYX301_05377_CITIZENB05377_000_074<tab>Roast dodo has always been the bane of my culinary career, but I pulled off the dish with aplomb just now. If I can delight diners in my sleep, I'm sure I can do the same in my waking hours!"
+    },
+    {
+      "id": "0x0000006E",
+      "text": "TEXT_FESNYX301_05377_CITIZENC05377_000_075<tab>I sense my luck might be turning... I dreamed I'd procured a vintage that's nigh impossible to find. Just you wait, I'll soon source the real thing at the markets!"
+    },
+    {
+      "id": "0x0000006F",
+      "text": "TEXT_FESNYX301_05377_CITIZENB05377_000_076<tab>Thank you. I'm sure I speak for all of us when I say I'm ready to face the new year with my head held high!"
+    },
+    {
+      "id": "0x00000070",
+      "text": "TEXT_FESNYX301_05377_YUMEMAWASHI_000_077<tab>Mruuum, mrrruuum!"
+    },
+    {
+      "id": "0x00000071",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_078<tab>Dreams are fleeting, ephemeral things, but the joys they provide linger long past the morning. Hold fast to those feelings as you venture forth, and you are certain to prosper."
+    },
+    {
+      "id": "0x00000072",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_079<tab>I wish you all the very best."
+    },
+    {
+      "id": "0x00000073",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_080<tab>Well, I think it's safe to chalk that up as a thorough success!"
+    },
+    {
+      "id": "0x00000074",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_081<tab>I don't think we'd have fared so well without your aid. Praise the kami for seeing fit to introduce us!"
+    },
+    {
+      "id": "0x00000075",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_082<tab>Ah, speaking of introductions... I best thank the bugyo for sending you my way. Do join us when you have a moment."
+    },
+    {
+      "id": "0x00000076",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_083<tab>...There's another matter I wish to discuss, you see."
+    },
+    {
+      "id": "0x00000077",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_084<tab>Come along, little one!"
+    },
+    {
+      "id": "0x00000078",
+      "text": "TEXT_FESNYX301_05377_YUMEMAWASHI_000_085<tab>Mrrrm!"
+    },
+    {
+      "id": "0x00000079",
+      "text": "TEXT_FESNYX301_05377_YUMEMAWASHI_000_087<tab>Mrum, mrum!"
+    },
+    {
+      "id": "0x0000007A",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_088<tab>There you are. I was just informing the bugyo of our endeavors."
+    },
+    {
+      "id": "0x0000007B",
+      "text": "TEXT_FESNYX301_05377_SHEEPMISSIONARY_000_089<tab>Mugen tells me his clients each had a wonderful hatsuyume. As the head of this delegation, nothing could make me happier."
+    },
+    {
+      "id": "0x0000007C",
+      "text": "TEXT_FESNYX301_05377_YUMEMAWASHI_000_090<tab>Mrrrum, mrum!"
+    },
+    {
+      "id": "0x0000007D",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_091<tab>As for the matter I mentioned earlier... How would you feel about taking the dreambringer with you on your travels?"
+    },
+    {
+      "id": "0x0000007E",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_092<tab>Before arriving in Limsa Lominsa, I dreamed this little one embarked on an adventure with a capable-looking <var 08 E905 ((lady)) ((fellow)) /var>."
+    },
+    {
+      "id": "0x0000007F",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_093<tab>And that capable-looking <var 08 E905 ((lady)) ((fellow)) /var> was the spitting image of your good self. I was rather startled when I first laid eyes on you, in fact."
+    },
+    {
+      "id": "0x00000080",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_094<tab>The dreambringer is a naturally curious creature, and has enjoyed a varied diet of dreams thanks to our work together. Curiously, the local fare seems to agree with this one especially!"
+    },
+    {
+      "id": "0x00000081",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_095<tab>Even though we'd only just met, you helped me without a second thought. I know I can trust you with their care."
+    },
+    {
+      "id": "0x00000082",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_096<tab>How does that sound to you?"
+    },
+    {
+      "id": "0x00000083",
+      "text": "TEXT_FESNYX301_05377_YUMEMAWASHI_000_097<tab>Mrm, mrrrm!"
+    },
+    {
+      "id": "0x00000084",
+      "text": "TEXT_FESNYX301_05377_Q2_000_000<tab>Что ты скажешь?"
+    },
+    {
+      "id": "0x00000085",
+      "text": "TEXT_FESNYX301_05377_A2_000_000<tab>Without the dreambringer, what will become of the festivities?"
+    },
+    {
+      "id": "0x00000086",
+      "text": "TEXT_FESNYX301_05377_A2_000_001<tab>Will you be all right without your precious companion?"
+    },
+    {
+      "id": "0x00000087",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_098<tab>Ah, I must have neglected to mention."
+    },
+    {
+      "id": "0x00000088",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_099<tab>I see you're finished with the other clients. Well done, little ones!"
+    },
+    {
+      "id": "0x00000089",
+      "text": "TEXT_FESNYX301_05377_YUMEMAWASHIBRO_000_100<tab>(-Dreambringers-)Mrrruuummm!"
+    },
+    {
+      "id": "0x0000008A",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_101<tab>There's no need to worry on our behalf─together we shall continue changing dreams for the better. So, how about it?"
+    },
+    {
+      "id": "0x0000008B",
+      "text": "TEXT_FESNYX301_05377_MUGEN_100_101<tab>Splendid. You really are as kind and generous as the adventurer in my dream."
+    },
+    {
+      "id": "0x0000008C",
+      "text": "TEXT_FESNYX301_05377_MUGEN_000_102<tab>Take care of yourself, little one. May the year ahead be filled with new journeys, and plenty of dreams to boot!"
+    },
+    {
+      "id": "0x0000008D",
+      "text": "TEXT_FESNYX301_05377_SHEEPMISSIONARY_000_103<tab>...A rather abrupt farewell for such a dear companion. Perhaps by dealing with dreams on a daily basis, one grows accustomed to a degree of transience."
+    },
+    {
+      "id": "0x0000008E",
+      "text": "TEXT_FESNYX301_05377_SHEEPMISSIONARY_000_104<tab>Rest assured, I know Mugen to be a sensitive and caring individual. I am sure he would be delighted to see you and the dreambringer again, whensoever you may meet."
+    },
+    {
+      "id": "0x0000008F",
+      "text": "TEXT_FESNYX301_05377_SHEEPMISSIONARY_000_105<tab>As for the delegation and I, we shall redouble our efforts to offer sound sleep and sweet dreams to all comers."
+    },
+    {
+      "id": "0x00000090",
+      "text": "TEXT_FESNYX301_05377_SHEEPMISSIONARY_000_106<tab>I wish you a wonderful year ahead, adventurer. Take care."
+    },
+    {
+      "id": "0x00000091",
+      "text": "TEXT_FESNYX301_05377_SYSTEM_000_110<tab>Если вы захотите потянуть омикудзи, омикудзиши вновь пришёл, чтобы предложить свои услуги на оставшееся время празднования. Найдите его, чтобы узнать свою судьбу на Хэвенстёрн!"
+    },
+    {
+      "id": "0x00000092",
+      "text": "TEXT_FESNYX301_05377_SYSTEM_000_111<tab>Furthermore, twelve extra fortunes have been divined this year. Keep a watchful eye on the “Conflict” section of your omikuji, and discover what new journeys might lie in wait for you."
+    }
+  ]
 }

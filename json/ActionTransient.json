@@ -13359,7 +13359,7 @@
     },
     {
       "id": "0x0000B69F",
-      "text": "Orders your familiar to use <var 48 F201F4 /var><var 49 F201F5 /var>Threaten<var 49 01 /var><var 48 01 /var>, placing it at the top of a target's enmity list and increasing its enmity generation.\n<var 48 F201F8 /var><var 49 F201F9 /var>Additional Effect:<var 49 01 /var><var 48 01 /var> Takes all damage intended for the beastmaster\n<var 48 F201F8 /var><var 49 F201F9 /var>Duration:<var 49 01 /var><var 48 01 /var> 45s "
+      "text": "Orders your familiar to use <var 48 F201F4 /var><var 49 F201F5 /var>Threaten<var 49 01 /var><var 48 01 /var>, placing it at the top of a target's enmity list and increasing its enmity generation.\n<var 48 F201F8 /var><var 49 F201F9 /var>Duration:<var 49 01 /var><var 48 01 /var> 15s\n<var 48 F201F8 /var><var 49 F201F9 /var>Additional Effect:<var 49 01 /var><var 48 01 /var> Takes all damage intended for the beastmaster\n<var 48 F201F8 /var><var 49 F201F9 /var>Duration:<var 49 01 /var><var 48 01 /var> 45s\n<var 48 F201F8 /var><var 49 F201F9 /var>Additional Effect:<var 49 01 /var><var 48 01 /var> Removes <var 48 F201FA /var><var 49 F201FB /var>Enmity Up<var 49 01 /var><var 48 01 /var>"
     },
     {
       "id": "0x0000B6AA",

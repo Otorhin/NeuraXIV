@@ -8567,7 +8567,7 @@
     },
     {
       "id": "0x0000085F",
-      "text": "Не сдавайся!"
+      "text": "Don't give up!"
     },
     {
       "id": "0x00000860",
@@ -10603,7 +10603,7 @@
     },
     {
       "id": "0x00000A5F",
-      "text": "Рад встрече!"
+      "text": "Well met!"
     },
     {
       "id": "0x00000A60",
@@ -36204,6 +36204,22 @@
     {
       "id": "0x000023AA",
       "text": "Так вот она, вершина гриданской изысканности…!"
+    },
+    {
+      "id": "0x000023AB",
+      "text": "One day I'll reel in the <var 1A 02 /var>real<var 1A 01 /var> Nepto Dragon..."
+    },
+    {
+      "id": "0x000023AC",
+      "text": "Then I'll turn it into a veritable delicacy!"
+    },
+    {
+      "id": "0x000023AD",
+      "text": "And I shall pair it with a worthy wine!"
+    },
+    {
+      "id": "0x000023AE",
+      "text": "Heavensturn, baby!"
     },
     {
       "id": "0x000023AF",

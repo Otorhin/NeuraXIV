@@ -103,7 +103,7 @@
     },
     {
       "id": "0x00000019",
-      "text": "TEXT_LUCKLA302_03234_TODO_01<tab>С режимом чата в <var 48 F201F4 /var><var 49 F201F5 /var>Say<var 49 01 /var><var 48 01 /var> введите любую фразу, содержащую «всё будет хорошо», чтобы поддержать Скипа."
+      "text": "TEXT_LUCKLA302_03234_TODO_01<tab>С режимом чата в <var 48 F201F4 /var><var 49 F201F5 /var>Say<var 49 01 /var><var 48 01 /var> введите любую фразу, содержащую «everything will be fine» (всё будет хорошо), чтобы поддержать Скипа."
     },
     {
       "id": "0x0000001A",
@@ -255,7 +255,7 @@
     },
     {
       "id": "0x0000003F",
-      "text": "TEXT_LUCKLA302_03234_SAYTODO_000_013<tab>Всё будет хорошо."
+      "text": "TEXT_LUCKLA302_03234_SAYTODO_000_013<tab>everything will be fine"
     },
     {
       "id": "0x00000040",
@@ -263,7 +263,7 @@
     },
     {
       "id": "0x00000041",
-      "text": "TEXT_LUCKLA302_03234_SYSTEM_000_015<tab>С режимом чата в <var 48 F201F4 /var><var 49 F201F5 /var>Say<var 49 01 /var><var 48 01 /var> введите на клавиатуре или на экранной клавиатуре «все будет хорошо» и успокойте амаро."
+      "text": "TEXT_LUCKLA302_03234_SYSTEM_000_015<tab>С режимом чата в <var 48 F201F4 /var><var 49 F201F5 /var>Say<var 49 01 /var><var 48 01 /var> введите на клавиатуре или на экранной клавиатуре «everything will be fine» (всё будет хорошо) и успокойте амаро."
     },
     {
       "id": "0x00000042",

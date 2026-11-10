@@ -3,651 +3,651 @@
   "rows": [
     {
       "id": "0x00000001",
-      "text": "Oath Gauge"
+      "text": "Шкала клятвы"
     },
     {
       "id": "0x00000002",
-      "text": "This symbol indicates the defensive stance <var 48 F201FA /var><var 49 F201FB /var>Iron Will<var 49 01 /var><var 48 01 /var> is in effect, which increases enmity."
+      "text": "Этот символ означает, что активна защитная стойка <var 48 F201FA /var><var 49 F201FB /var>«Железная воля»<var 49 01 /var><var 48 01 /var>, повышающая уровень враждебности."
     },
     {
       "id": "0x00000003",
-      "text": "You can view the job gauge description at any time from the Actions & Traits menu."
+      "text": "Описание шкалы класса можно в любое время просмотреть в меню «Умения и свойства»."
     },
     {
       "id": "0x00000004",
-      "text": "Oath Gauge"
+      "text": "Шкала клятвы"
     },
     {
       "id": "0x00000005",
-      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Oath Gauge<var 49 01 /var><var 48 01 /var> displays the current strength of a paladin's oath, which increases as auto-attacks are performed. A strong oath is required to execute several select actions such as <var 48 F201F4 /var><var 49 F201F5 /var>Sheltron<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Cover<var 49 01 /var><var 48 01 /var> (acquired at level 45), and <var 48 F201F4 /var><var 49 F201F5 /var>Intervention<var 49 01 /var><var 48 01 /var> (acquired at level 62), and will grow weaker upon using them.\nUsing certain actions will increase the <var 48 F201F4 /var><var 49 F201F5 /var>Oath Gauge<var 49 01 /var><var 48 01 /var>."
+      "text": "Шкала <var 48 F201F4 /var><var 49 F201F5 /var>клятвы<var 49 01 /var><var 48 01 /var> показывает текущую силу клятвы паладина, которая увеличивается при выполнении автоатак. Высокий уровень клятвы необходим для применения некоторых действий, таких как <var 48 F201F4 /var><var 49 F201F5 /var>Щит веры<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Покровительство<var 49 01 /var><var 48 01 /var> (доступно с 45-го уровня) и <var 48 F201F4 /var><var 49 F201F5 /var>Вмешательство<var 49 01 /var><var 48 01 /var> (доступно с 62-го уровня), и снижается при их использовании.\nИспользование определённых действий повышает показатель <var 48 F201F4 /var><var 49 F201F5 /var>шкалы клятвы<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x00000006",
-      "text": "Beast Gauge"
+      "text": "Шкала зверя"
     },
     {
       "id": "0x00000007",
-      "text": "This symbol indicates the defensive stance <var 48 F201FA /var><var 49 F201FB /var>Defiance<var 49 01 /var><var 48 01 /var> is in effect, which increases enmity."
+      "text": "Этот символ указывает, что действует защитная стойка <var 48 F201FA /var><var 49 F201FB /var>Непреклонность<var 49 01 /var><var 48 01 /var>, повышающая враждебность."
     },
     {
       "id": "0x00000008",
-      "text": "Beast Gauge"
+      "text": "Шкала зверя"
     },
     {
       "id": "0x00000009",
-      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Beast Gauge<var 49 01 /var><var 48 01 /var> displays the current strength of a warrior's wrath. This animalistic rage is required to execute several select actions such as <var 48 F201F4 /var><var 49 F201F5 /var>Inner Beast<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Steel Cyclone<var 49 01 /var><var 48 01 /var> (acquired at level 45) and will grow weaker upon using them.\nUsing certain actions will increase the <var 48 F201F4 /var><var 49 F201F5 /var>Beast Gauge<var 49 01 /var><var 48 01 /var>."
+      "text": "Шкала <var 48 F201F4 /var><var 49 F201F5 /var>звериной ярости<var 49 01 /var><var 48 01 /var> отображает текущий уровень ярости воина. Эта звериная ярость необходима для выполнения некоторых особых действий, таких как <var 48 F201F4 /var><var 49 F201F5 /var>Внутренний зверь<var 49 01 /var><var 48 01 /var> и <var 48 F201F4 /var><var 49 F201F5 /var>Стальной циклон<var 49 01 /var><var 48 01 /var> (доступен с 45-го уровня), и ослабевает после их применения.\nНекоторые действия повышают уровень шкалы <var 48 F201F4 /var><var 49 F201F5 /var>звериной ярости<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x0000000A",
-      "text": "Blood Gauge"
+      "text": "Шкала крови"
     },
     {
       "id": "0x0000000B",
-      "text": "This symbol indicates the defensive stance <var 48 F201FA /var><var 49 F201FB /var>Grit<var 49 01 /var><var 48 01 /var> is in effect, which increases enmity."
+      "text": "Этот символ означает, что действует защитная стойка <var 48 F201FA /var><var 49 F201FB /var>Стойкость<var 49 01 /var><var 48 01 /var>, повышающая уровень враждебности."
     },
     {
       "id": "0x0000000C",
-      "text": "Darkside Gauge"
+      "text": "Шкала Тёмной стороны"
     },
     {
       "id": "0x0000000D",
-      "text": "This timer indicates the duration of <var 48 F201FA /var><var 49 F201FB /var>Darkside<var 49 01 /var><var 48 01 /var>, which increases damage dealt. Using <var 48 F201F4 /var><var 49 F201F5 /var>Flood of Darkness<var 49 01 /var><var 48 01 /var> or <var 48 F201F4 /var><var 49 F201F5 /var>Edge of Darkness<var 49 01 /var><var 48 01 /var> (acquired at level 40) grants <var 48 F201FA /var><var 49 F201FB /var>Darkside<var 49 01 /var><var 48 01 /var>."
+      "text": "Этот таймер показывает длительность <var 48 F201FA /var><var 49 F201FB /var>Тёмной стороны<var 49 01 /var><var 48 01 /var>, повышающей наносимый урон. Использование <var 48 F201F4 /var><var 49 F201F5 /var>Потока тьмы<var 49 01 /var><var 48 01 /var> или <var 48 F201F4 /var><var 49 F201F5 /var>Грани тьмы<var 49 01 /var><var 48 01 /var> (доступной с 40-го уровня) активирует <var 48 F201FA /var><var 49 F201FB /var>Тёмную сторону<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x0000000E",
-      "text": "Blood Gauge"
+      "text": "Шкала крови"
     },
     {
       "id": "0x0000000F",
-      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Blood Gauge<var 49 01 /var><var 48 01 /var> displays the amount of <var 48 F201FA /var><var 49 F201FB /var>Blackblood<var 49 01 /var><var 48 01 /var> a dark knight has accumulated. <var 48 F201FA /var><var 49 F201FB /var>Blackblood<var 49 01 /var><var 48 01 /var> can be consumed to execute actions such as <var 48 F201F4 /var><var 49 F201F5 /var>Bloodspiller<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Quietus<var 49 01 /var><var 48 01 /var> (acquired at level 64).\nUsing certain actions will increase the <var 48 F201F4 /var><var 49 F201F5 /var>Blood Gauge<var 49 01 /var><var 48 01 /var>."
+      "text": "Шкала <var 48 F201F4 /var><var 49 F201F5 /var>крови<var 49 01 /var><var 48 01 /var> отображает количество <var 48 F201FA /var><var 49 F201FB /var>чёрной крови<var 49 01 /var><var 48 01 /var>, накопленной тёмным рыцарем. <var 48 F201FA /var><var 49 F201FB /var>Чёрную кровь<var 49 01 /var><var 48 01 /var> можно расходовать на такие действия, как <var 48 F201F4 /var><var 49 F201F5 /var>Кровопролитие<var 49 01 /var><var 48 01 /var> и <var 48 F201F4 /var><var 49 F201F5 /var>Упокоение<var 49 01 /var><var 48 01 /var> (доступно с 64-го уровня).  \nНекоторые действия увеличивают значение <var 48 F201F4 /var><var 49 F201F5 /var>шкалы крови<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x00000010",
-      "text": "Darkside Gauge"
+      "text": "Шкала Тёмной стороны"
     },
     {
       "id": "0x00000011",
-      "text": "This symbol indicates that the <var 48 F201FA /var><var 49 F201FB /var>Dark Arts<var 49 01 /var><var 48 01 /var> effect has been granted. This occurs when the barrier applied by the action <var 48 F201F4 /var><var 49 F201F5 /var>The Blackest Night<var 49 01 /var><var 48 01 /var> has absorbed the full amount of damage.\n<var 48 F201F4 /var><var 49 F201F5 /var>Flood of Darkness<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Edge of Darkness<var 49 01 /var><var 48 01 /var> can be performed by consuming <var 48 F201FA /var><var 49 F201FB /var>Dark Arts<var 49 01 /var><var 48 01 /var> instead of MP while the effect is active."
+      "text": "Этот значок означает, что на вас наложен эффект <var 48 F201FA /var><var 49 F201FB /var>Тёмные искусства<var 49 01 /var><var 48 01 /var>. Это происходит, когда барьер, наложенный действием <var 48 F201F4 /var><var 49 F201F5 /var>Самая чёрная ночь<var 49 01 /var><var 48 01 /var>, поглощает весь урон.  \nПока действует этот эффект, <var 48 F201F4 /var><var 49 F201F5 /var>Поток тьмы<var 49 01 /var><var 48 01 /var> и <var 48 F201F4 /var><var 49 F201F5 /var>Грань тьмы<var 49 01 /var><var 48 01 /var> можно применять, расходуя <var 48 F201FA /var><var 49 F201FB /var>Тёмные искусства<var 49 01 /var><var 48 01 /var> вместо МП."
     },
     {
       "id": "0x00000012",
-      "text": "Darkside Gauge"
+      "text": "Шкала Тёмной стороны"
     },
     {
       "id": "0x00000013",
-      "text": "When executing <var 48 F201F4 /var><var 49 F201F5 /var>Living Shadow<var 49 01 /var><var 48 01 /var>, a second timer indicating its duration will appear."
+      "text": "При применении умения <var 48 F201F4 /var><var 49 F201F5 /var>Живая тень<var 49 01 /var><var 48 01 /var> появится второй таймер, показывающий его длительность."
     },
     {
       "id": "0x00000014",
-      "text": "Healing Gauge"
+      "text": "Шкала лечения"
     },
     {
       "id": "0x00000015",
-      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Healing Gauge<var 49 01 /var><var 48 01 /var> displays the current number of <var 48 F201FA /var><var 49 F201FB /var>Lilies<var 49 01 /var><var 48 01 /var> a white mage has accumulated. <var 48 F201FA /var><var 49 F201FB /var>Lilies<var 49 01 /var><var 48 01 /var> are accumulated as time passes while engaged in combat.\n<var 48 F201FA /var><var 49 F201FB /var>Lilies<var 49 01 /var><var 48 01 /var> are consumed by using the actions <var 48 F201F4 /var><var 49 F201F5 /var>Afflatus Solace<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Afflatus Rapture<var 49 01 /var><var 48 01 /var> (acquired at level 76)."
+      "text": "Шкала <var 48 F201F4 /var><var 49 F201F5 /var>исцеления<var 49 01 /var><var 48 01 /var> показывает текущее количество <var 48 F201FA /var><var 49 F201FB /var>лилий<var 49 01 /var><var 48 01 /var>, накопленных белым магом. <var 48 F201FA /var><var 49 F201FB /var>Лилии<var 49 01 /var><var 48 01 /var> накапливаются со временем во время боя.\n<var 48 F201FA /var><var 49 F201FB /var>Лилии<var 49 01 /var><var 48 01 /var> расходуются при использовании действий <var 48 F201F4 /var><var 49 F201F5 /var>Утешение аффлатуса<var 49 01 /var><var 48 01 /var> и <var 48 F201F4 /var><var 49 F201F5 /var>Восторг аффлатуса<var 49 01 /var><var 48 01 /var> (получаемого на 76-м уровне)."
     },
     {
       "id": "0x00000016",
-      "text": "Healing Gauge"
+      "text": "Шкала лечения"
     },
     {
       "id": "0x00000017",
-      "text": "Performing actions that consume <var 48 F201FA /var><var 49 F201FB /var>Lilies<var 49 01 /var><var 48 01 /var> will also nourish the <var 48 F201FA /var><var 49 F201FB /var>Blood Lily<var 49 01 /var><var 48 01 /var>. The <var 48 F201FA /var><var 49 F201FB /var>Blood Lily<var 49 01 /var><var 48 01 /var> will bloom after consuming three <var 48 F201FA /var><var 49 F201FB /var>Lilies<var 49 01 /var><var 48 01 /var>, allowing the execution of <var 48 F201F4 /var><var 49 F201F5 /var>Afflatus Misery<var 49 01 /var><var 48 01 /var>."
+      "text": "Использование действий, расходующих <var 48 F201FA /var><var 49 F201FB /var>Лилии<var 49 01 /var><var 48 01 /var>, также питает <var 48 F201FA /var><var 49 F201FB /var>Кровавую лилию<var 49 01 /var><var 48 01 /var>. <var 48 F201FA /var><var 49 F201FB /var>Кровавая лилия<var 49 01 /var><var 48 01 /var> расцветает после расходования трёх <var 48 F201FA /var><var 49 F201FB /var>Лилий<var 49 01 /var><var 48 01 /var>, позволяя применить <var 48 F201F4 /var><var 49 F201F5 /var>Бедствие аффлатуса<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x00000018",
-      "text": "Aetherflow Gauge"
+      "text": "Шкала эфиропотока"
     },
     {
       "id": "0x00000019",
-      "text": "Using the action <var 48 F201F4 /var><var 49 F201F5 /var>Aetherflow<var 49 01 /var><var 48 01 /var> fills the <var 48 F201F4 /var><var 49 F201F5 /var>Aetherflow Gauge<var 49 01 /var><var 48 01 /var>, which is required to use certain actions."
+      "text": "Использование действия <var 48 F201F4 /var><var 49 F201F5 /var>Aetherflow<var 49 01 /var><var 48 01 /var> заполняет <var 48 F201F4 /var><var 49 F201F5 /var>Aetherflow Gauge<var 49 01 /var><var 48 01 /var>, необходимую для применения некоторых действий."
     },
     {
       "id": "0x0000001A",
-      "text": "Faerie Gauge"
+      "text": "Шкала фей"
     },
     {
       "id": "0x0000001B",
-      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Faerie Gauge<var 49 01 /var><var 48 01 /var> displays the current amount of fae aether accumulated within a faerie. Fae aether is accumulated by using actions such as <var 48 F201F4 /var><var 49 F201F5 /var>Lustrate<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Excogitation<var 49 01 /var><var 48 01 /var> in combat, depleting the <var 48 F201F4 /var><var 49 F201F5 /var>Aetherflow Gauge<var 49 01 /var><var 48 01 /var>. Maintaining an <var 48 F201F4 /var><var 49 F201F5 /var>Aetherpact<var 49 01 /var><var 48 01 /var> consumes fae aether."
+      "text": "Шкала <var 48 F201F4 /var><var 49 F201F5 /var>эфира феи<var 49 01 /var><var 48 01 /var> показывает текущее количество эфира, накопленного феей. Эфир феи накапливается в бою при использовании таких действий, как <var 48 F201F4 /var><var 49 F201F5 /var>Лустрация<var 49 01 /var><var 48 01 /var> и <var 48 F201F4 /var><var 49 F201F5 /var>Экскогитация<var 49 01 /var><var 48 01 /var>, расходующих <var 48 F201F4 /var><var 49 F201F5 /var>шкалу потока эфира<var 49 01 /var><var 48 01 /var>. Поддержание <var 48 F201F4 /var><var 49 F201F5 /var>Эфирного союза<var 49 01 /var><var 48 01 /var> расходует эфир феи."
     },
     {
       "id": "0x0000001C",
-      "text": "Faerie Gauge"
+      "text": "Шкала фей"
     },
     {
       "id": "0x0000001D",
-      "text": "Using the action <var 48 F201F4 /var><var 49 F201F5 /var>Summon Seraph<var 49 01 /var><var 48 01 /var> replaces Eos with Seraph. The <var 48 F201F4 /var><var 49 F201F5 /var>Faerie Gauge<var 49 01 /var><var 48 01 /var> will indicate how much time remains before she must return."
+      "text": "Использование действия <var 48 F201F4 /var><var 49 F201F5 /var>Призыв Серафима<var 49 01 /var><var 48 01 /var> заменяет Эос Серафимом. <var 48 F201F4 /var><var 49 F201F5 /var>Шкала феи<var 49 01 /var><var 48 01 /var> показывает, сколько времени осталось до её возвращения."
     },
     {
       "id": "0x0000001E",
-      "text": "Arcana Gauge"
+      "text": "Шкала арканов"
     },
     {
       "id": "0x0000001F",
-      "text": "Using the actions <var 48 F201F4 /var><var 49 F201F5 /var>Astral Draw<var 49 01 /var><var 48 01 /var> or <var 48 F201F4 /var><var 49 F201F5 /var>Umbral Draw<var 49 01 /var><var 48 01 /var> will replace <var 48 F201F4 /var><var 49 F201F5 /var>Play I<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Play II<var 49 01 /var><var 48 01 /var>, and <var 48 F201F4 /var><var 49 F201F5 /var>Play III<var 49 01 /var><var 48 01 /var> with their respective arcanum, which will be represented in the <var 48 F201F4 /var><var 49 F201F5 /var>Arcana Gauge<var 49 01 /var><var 48 01 /var>."
+      "text": "Использование действий <var 48 F201F4 /var><var 49 F201F5 /var>Астральное вытягивание<var 49 01 /var><var 48 01 /var> или <var 48 F201F4 /var><var 49 F201F5 /var>Умбральное вытягивание<var 49 01 /var><var 48 01 /var> заменит действия <var 48 F201F4 /var><var 49 F201F5 /var>Разыграть I<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Разыграть II<var 49 01 /var><var 48 01 /var> и <var 48 F201F4 /var><var 49 F201F5 /var>Разыграть III<var 49 01 /var><var 48 01 /var> соответствующими арканами, которые будут отображаться на <var 48 F201F4 /var><var 49 F201F5 /var>Шкале арканов<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x00000020",
-      "text": "Divination and Arcana Gauges"
+      "text": "Шкалы гадания и арканов"
     },
     {
       "id": "0x00000021",
-      "text": "Using the action <var 48 F201F4 /var><var 49 F201F5 /var>Astral Draw<var 49 01 /var><var 48 01 /var> will replace <var 48 F201F4 /var><var 49 F201F5 /var>Minor Arcana<var 49 01 /var><var 48 01 /var> with <var 48 F201F4 /var><var 49 F201F5 /var>Lord of Crowns<var 49 01 /var><var 48 01 /var>, while <var 48 F201F4 /var><var 49 F201F5 /var>Umbral Draw<var 49 01 /var><var 48 01 /var> will replace it with <var 48 F201F4 /var><var 49 F201F5 /var>Lady of Crowns<var 49 01 /var><var 48 01 /var>."
+      "text": "Использование действия <var 48 F201F4 /var><var 49 F201F5 /var>Астральное вытягивание<var 49 01 /var><var 48 01 /var> заменит <var 48 F201F4 /var><var 49 F201F5 /var>Младший аркан<var 49 01 /var><var 48 01 /var> на <var 48 F201F4 /var><var 49 F201F5 /var>Владыку корон<var 49 01 /var><var 48 01 /var>, а <var 48 F201F4 /var><var 49 F201F5 /var>Теневое вытягивание<var 49 01 /var><var 48 01 /var> заменит его на <var 48 F201F4 /var><var 49 F201F5 /var>Владычицу корон<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x00000022",
-      "text": "Chakra Gauge"
+      "text": "Шкала чакры"
     },
     {
       "id": "0x00000023",
-      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Chakra Gauge<var 49 01 /var><var 48 01 /var> indicates the number of chakra a monk currently has opened. Chakra are opened using actions such as <var 48 F201F4 /var><var 49 F201F5 /var>Steeled Meditation<var 49 01 /var><var 48 01 /var>, or by using certain weaponskills. Opening five allows for the execution of <var 48 F201F4 /var><var 49 F201F5 /var>Steel Peak<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Howling Fist<var 49 01 /var><var 48 01 /var> (acquired at level 40)."
+      "text": "<var 48 F201F4 /var><var 49 F201F5 /var>Шкала чакр<var 49 01 /var><var 48 01 /var> показывает количество открытых чакр монаха. Чакры открываются с помощью таких действий, как <var 48 F201F4 /var><var 49 F201F5 /var>Стальная медитация<var 49 01 /var><var 48 01 /var>, или некоторых оружейных навыков. Открытие пяти чакр позволяет применять <var 48 F201F4 /var><var 49 F201F5 /var>Стальной пик<var 49 01 /var><var 48 01 /var> и <var 48 F201F4 /var><var 49 F201F5 /var>Воющий кулак<var 49 01 /var><var 48 01 /var> (изучается на 40-м уровне)."
     },
     {
       "id": "0x00000024",
-      "text": "Beast Chakra Gauge"
+      "text": "Шкала чакр зверя"
     },
     {
       "id": "0x00000025",
-      "text": "Executing certain weaponskills will open <var 48 F201FA /var><var 49 F201FB /var>Beast Chakra<var 49 01 /var><var 48 01 /var>─<var 48 F201FA /var><var 49 F201FB /var>Opo-opo Chakra<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>Coeurl Chakra<var 49 01 /var><var 48 01 /var>, or <var 48 F201FA /var><var 49 F201FB /var>Raptor Chakra<var 49 01 /var><var 48 01 /var>─in accordance with the form normally required to execute them. After opening three, you will be able to execute one of several powerful actions. Three distinct <var 48 F201FA /var><var 49 F201FB /var>Beast Chakra<var 49 01 /var><var 48 01 /var> allow the execution of <var 48 F201F4 /var><var 49 F201F5 /var>Flint Strike<var 49 01 /var><var 48 01 /var>, three of the same allow the execution of <var 48 F201F4 /var><var 49 F201F5 /var>Elixir Field<var 49 01 /var><var 48 01 /var>, and two distinct chakra with a third repeating one allow the execution of <var 48 F201F4 /var><var 49 F201F5 /var>Celestial Revolution<var 49 01 /var><var 48 01 /var>.\n\nIt is also possible to open the <var 48 F201FA /var><var 49 F201FB /var>Lunar Nadi<var 49 01 /var><var 48 01 /var> and <var 48 F201FA /var><var 49 F201FB /var>Solar Nadi<var 49 01 /var><var 48 01 /var> by executing <var 48 F201F4 /var><var 49 F201F5 /var>Elixir Field<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Flint Strike<var 49 01 /var><var 48 01 /var> respectively. Opening three <var 48 F201FA /var><var 49 F201FB /var>Beast Chakra<var 49 01 /var><var 48 01 /var> and both nadi allows the execution of <var 48 F201F4 /var><var 49 F201F5 /var>Tornado Kick<var 49 01 /var><var 48 01 /var>."
+      "text": "Использование определённых боевых приёмов открывает <var 48 F201FA /var><var 49 F201FB /var>чакру зверя<var 49 01 /var><var 48 01 /var>─<var 48 F201FA /var><var 49 F201FB /var>чакру опо-опо<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>чакру коэрла<var 49 01 /var><var 48 01 /var> или <var 48 F201FA /var><var 49 F201FB /var>чакру раптора<var 49 01 /var><var 48 01 /var>─в зависимости от формы, необходимой для их выполнения. Открыв три чакры, вы сможете применить одно из нескольких мощных действий. Три разные <var 48 F201FA /var><var 49 F201FB /var>чакры зверя<var 49 01 /var><var 48 01 /var> позволяют применить <var 48 F201F4 /var><var 49 F201F5 /var>Кремнёвый удар<var 49 01 /var><var 48 01 /var>, три одинаковые — <var 48 F201F4 /var><var 49 F201F5 /var>Эликсировое поле<var 49 01 /var><var 48 01 /var>, а две разные чакры и третья, повторяющая одну из них, — <var 48 F201F4 /var><var 49 F201F5 /var>Небесную революцию<var 49 01 /var><var 48 01 /var>.\n\nТакже можно открыть <var 48 F201FA /var><var 49 F201FB /var>лунное нади<var 49 01 /var><var 48 01 /var> и <var 48 F201FA /var><var 49 F201FB /var>солнечное нади<var 49 01 /var><var 48 01 /var>, применив соответственно <var 48 F201F4 /var><var 49 F201F5 /var>Эликсировое поле<var 49 01 /var><var 48 01 /var> и <var 48 F201F4 /var><var 49 F201F5 /var>Кремнёвый удар<var 49 01 /var><var 48 01 /var>. Открыв три <var 48 F201FA /var><var 49 F201FB /var>чакры зверя<var 49 01 /var><var 48 01 /var> и оба нади, вы сможете применить <var 48 F201F4 /var><var 49 F201F5 /var>Удар торнадо<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x00000026",
-      "text": "Lightning Gauge"
+      "text": "Шкала молнии"
     },
     {
       "id": "0x00000027",
-      "text": "The action <var 48 F201F4 /var><var 49 F201F5 /var>Brotherhood<var 49 01 /var><var 48 01 /var> grants the effect <var 48 F201FA /var><var 49 F201FB /var>Meditative Brotherhood<var 49 01 /var><var 48 01 /var> to you and nearby party members, increasing the frequency with which you open chakra. Moreover, you can open up to ten chakra so long as you are under this effect."
+      "text": "Действие <var 48 F201F4 /var><var 49 F201F5 /var>«Братство»<var 49 01 /var><var 48 01 /var> накладывает на вас и ближайших членов группы эффект <var 48 F201FA /var><var 49 F201FB /var>«Медитативное братство»<var 49 01 /var><var 48 01 /var>, повышающий частоту открытия чакр. Кроме того, пока действует этот эффект, вы можете открыть до десяти чакр."
     },
     {
       "id": "0x00000028",
-      "text": "Dragon Gauge"
+      "text": "Шкала дракона"
     },
     {
       "id": "0x00000029",
-      "text": "This timer indicates the duration of <var 48 F201FA /var><var 49 F201FB /var>Blood of the Dragon<var 49 01 /var><var 48 01 /var>, which increases damage dealt. Using <var 48 F201F4 /var><var 49 F201F5 /var>Geirskogul<var 49 01 /var><var 48 01 /var> grants <var 48 F201FA /var><var 49 F201FB /var>Blood of the Dragon<var 49 01 /var><var 48 01 /var>."
+      "text": "Этот таймер показывает длительность действия <var 48 F201FA /var><var 49 F201FB /var>Кровь дракона<var 49 01 /var><var 48 01 /var>, повышающего наносимый урон. Использование <var 48 F201F4 /var><var 49 F201F5 /var>Гейрскогуль<var 49 01 /var><var 48 01 /var> накладывает эффект <var 48 F201FA /var><var 49 F201FB /var>Кровь дракона<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x0000002A",
-      "text": "Dragon Gauge"
+      "text": "Шкала дракона"
     },
     {
       "id": "0x0000002B",
-      "text": "Upon learning the trait <var 48 F201FA /var><var 49 F201FB /var>Lance Mastery IV<var 49 01 /var><var 48 01 /var>, the actions <var 48 F201F4 /var><var 49 F201F5 /var>Raiden Thrust<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Draconian Fury<var 49 01 /var><var 48 01 /var> can be executed to sharpen the <var 48 F201FA /var><var 49 F201FB /var>Firstminds' Focus<var 49 01 /var><var 48 01 /var>, up to a maximum of 2 units. Once their focus is fully sharpened, you can execute <var 48 F201F4 /var><var 49 F201F5 /var>Wyrmwind Thrust<var 49 01 /var><var 48 01 /var>."
+      "text": "При изучении свойства <var 48 F201FA /var><var 49 F201FB /var>Мастерство копья IV<var 49 01 /var><var 48 01 /var> действия <var 48 F201F4 /var><var 49 F201F5 /var>Пронзающий удар Райдэна<var 49 01 /var><var 48 01 /var> и <var 48 F201F4 /var><var 49 F201F5 /var>Драконья ярость<var 49 01 /var><var 48 01 /var> можно применять для усиления <var 48 F201FA /var><var 49 F201FB /var>сосредоточения первотворцев<var 49 01 /var><var 48 01 /var> — максимум до 2 единиц. Когда сосредоточение полностью усилено, становится доступно действие <var 48 F201F4 /var><var 49 F201F5 /var>Удар драконьего ветра<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x0000002D",
-      "text": "Kazematoi"
+      "text": "Кадзэматои"
     },
     {
       "id": "0x0000002E",
-      "text": "Using the action <var 48 F201F4 /var><var 49 F201F5 /var>Armor Crush<var 49 01 /var><var 48 01 /var> as part of a combo grants stacks of <var 48 F201FA /var><var 49 F201FB /var>Kazematoi<var 49 01 /var><var 48 01 /var>, represented by this gauge. Up to five stacks can be stored, and are used to increase the potency of <var 48 F201F4 /var><var 49 F201F5 /var>Aeolian Edge<var 49 01 /var><var 48 01 /var>."
+      "text": "Использование действия <var 48 F201F4 /var><var 49 F201F5 /var>Разрушение брони<var 49 01 /var><var 48 01 /var> в составе комбо даёт заряды эффекта <var 48 F201FA /var><var 49 F201FB /var>Кадзэматои<var 49 01 /var><var 48 01 /var>, отображаемые на этой шкале. Можно накопить до пяти зарядов, которые повышают силу действия <var 48 F201F4 /var><var 49 F201F5 /var>Аэолова грань<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x0000002F",
-      "text": "Ninki Gauge"
+      "text": "Шкала нинки"
     },
     {
       "id": "0x00000030",
-      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Ninki Gauge<var 49 01 /var><var 48 01 /var> displays the current amount of <var 48 F201FA /var><var 49 F201FB /var>Ninki<var 49 01 /var><var 48 01 /var> a ninja has accumulated. <var 48 F201FA /var><var 49 F201FB /var>Ninki<var 49 01 /var><var 48 01 /var> slowly builds inside a ninja's body when certain weaponskills are performed and can be used to execute special ninjutsu such as <var 48 F201F4 /var><var 49 F201F5 /var>Hellfrog Medium<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Bhavacakra<var 49 01 /var><var 48 01 /var> (acquired at level 68)."
+      "text": "Индикатор <var 48 F201F4 /var><var 49 F201F5 /var>Нинки<var 49 01 /var><var 48 01 /var> отображает текущее количество <var 48 F201FA /var><var 49 F201FB /var>нинки<var 49 01 /var><var 48 01 /var>, накопленное ниндзя. <var 48 F201FA /var><var 49 F201FB /var>Нинки<var 49 01 /var><var 48 01 /var> постепенно накапливается в теле ниндзя при выполнении определённых боевых приёмов и позволяет применять особые ниндзюцу, такие как <var 48 F201F4 /var><var 49 F201F5 /var>Адская жаба<var 49 01 /var><var 48 01 /var> и <var 48 F201F4 /var><var 49 F201F5 /var>Бхавачакра<var 49 01 /var><var 48 01 /var> (доступна с 68-го уровня)."
     },
     {
       "id": "0x00000031",
-      "text": "Sen Gauge"
+      "text": "Шкала сэн"
     },
     {
       "id": "0x00000032",
-      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Sen Gauge<var 49 01 /var><var 48 01 /var> displays which of the 3 <var 48 F201FA /var><var 49 F201FB /var>Sen<var 49 01 /var><var 48 01 /var> effects─<var 48 F201FA /var><var 49 F201FB /var>Setsu<var 49 01 /var><var 48 01 /var> (top), <var 48 F201FA /var><var 49 F201FB /var>Getsu<var 49 01 /var><var 48 01 /var> (left), and <var 48 F201FA /var><var 49 F201FB /var>Ka<var 49 01 /var><var 48 01 /var> (right)─are currently accumulated. <var 48 F201FA /var><var 49 F201FB /var>Sen<var 49 01 /var><var 48 01 /var> is required to perform <var 48 F201F4 /var><var 49 F201F5 /var>Iaijutsu<var 49 01 /var><var 48 01 /var>, the number of <var 48 F201FA /var><var 49 F201FB /var>Sen<var 49 01 /var><var 48 01 /var> accumulated determining which weaponskill will be executed─1 for <var 48 F201F4 /var><var 49 F201F5 /var>Higanbana<var 49 01 /var><var 48 01 /var>, 2 for <var 48 F201F4 /var><var 49 F201F5 /var>Tenka Goken<var 49 01 /var><var 48 01 /var>, and 3 for <var 48 F201F4 /var><var 49 F201F5 /var>Midare Setsugekka<var 49 01 /var><var 48 01 /var>."
+      "text": "Шкала <var 48 F201F4 /var><var 49 F201F5 /var>Сэн<var 49 01 /var><var 48 01 /var> показывает, какие из трёх эффектов <var 48 F201FA /var><var 49 F201FB /var>Сэн<var 49 01 /var><var 48 01 /var>─<var 48 F201FA /var><var 49 F201FB /var>Сэцу<var 49 01 /var><var 48 01 /var> (сверху), <var 48 F201FA /var><var 49 F201FB /var>Гэцу<var 49 01 /var><var 48 01 /var> (слева) и <var 48 F201FA /var><var 49 F201FB /var>Ка<var 49 01 /var><var 48 01 /var> (справа)─накоплены в данный момент. Эффект <var 48 F201FA /var><var 49 F201FB /var>Сэн<var 49 01 /var><var 48 01 /var> необходим для использования <var 48 F201F4 /var><var 49 F201F5 /var>Иайдзюцу<var 49 01 /var><var 48 01 /var>, а количество накопленных эффектов <var 48 F201FA /var><var 49 F201FB /var>Сэн<var 49 01 /var><var 48 01 /var> определяет, какое оружейное умение будет применено: 1 — <var 48 F201F4 /var><var 49 F201F5 /var>Хиганбана<var 49 01 /var><var 48 01 /var>, 2 — <var 48 F201F4 /var><var 49 F201F5 /var>Тэнка Гокэн<var 49 01 /var><var 48 01 /var> и 3 — <var 48 F201F4 /var><var 49 F201F5 /var>Мидарэ Сэцугэкка<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x00000033",
-      "text": "Kenki Gauge"
+      "text": "Шкала кэнки"
     },
     {
       "id": "0x00000034",
-      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Kenki Gauge<var 49 01 /var><var 48 01 /var> displays the current amount of <var 48 F201FA /var><var 49 F201FB /var>Kenki<var 49 01 /var><var 48 01 /var> a samurai has accumulated. <var 48 F201FA /var><var 49 F201FB /var>Kenki<var 49 01 /var><var 48 01 /var> slowly builds in a samurai's blade through the successful execution of weaponskills or <var 48 F201F4 /var><var 49 F201F5 /var>Third Eye<var 49 01 /var><var 48 01 /var>. <var 48 F201FA /var><var 49 F201FB /var>Kenki<var 49 01 /var><var 48 01 /var> is required to execute special devastating attacks such as <var 48 F201F4 /var><var 49 F201F5 /var>Hissatsu: Shinten<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Hissatsu: Gyoten<var 49 01 /var><var 48 01 /var> (acquired at level 54), <var 48 F201F4 /var><var 49 F201F5 /var>Hissatsu: Guren<var 49 01 /var><var 48 01 /var> (acquired at level 70), and more."
+      "text": "Шкала <var 48 F201F4 /var><var 49 F201F5 /var>Кэнки<var 49 01 /var><var 48 01 /var> показывает текущее количество <var 48 F201FA /var><var 49 F201FB /var>кэнки<var 49 01 /var><var 48 01 /var>, накопленное самураем. <var 48 F201FA /var><var 49 F201FB /var>Кэнки<var 49 01 /var><var 48 01 /var> постепенно накапливается в клинке самурая при успешном применении оружейных навыков или <var 48 F201F4 /var><var 49 F201F5 /var>Третьего глаза<var 49 01 /var><var 48 01 /var>. <var 48 F201FA /var><var 49 F201FB /var>Кэнки<var 49 01 /var><var 48 01 /var> необходима для выполнения особых сокрушительных атак, таких как <var 48 F201F4 /var><var 49 F201F5 /var>Хиссацу: Сётэн<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Хиссацу: Гётэн<var 49 01 /var><var 48 01 /var> (изучается на 54-м уровне), <var 48 F201F4 /var><var 49 F201F5 /var>Хиссацу: Гурэн<var 49 01 /var><var 48 01 /var> (изучается на 70-м уровне) и других."
     },
     {
       "id": "0x00000035",
-      "text": "Song Gauge"
+      "text": "Шкала песен"
     },
     {
       "id": "0x00000036",
-      "text": "Singing <var 48 F201F4 /var><var 49 F201F5 /var>Mage's Ballad<var 49 01 /var><var 48 01 /var> will display the action's corresponding <var 48 F201F4 /var><var 49 F201F5 /var>Song Gauge<var 49 01 /var><var 48 01 /var>, indicating the effect's time remaining.\nIf the <var 48 F201FA /var><var 49 F201FB /var>Repertoire<var 49 01 /var><var 48 01 /var> effect is triggered while <var 48 F201F4 /var><var 49 F201F5 /var>Mage's Ballad<var 49 01 /var><var 48 01 /var> is being sung, the recast times for <var 48 F201F4 /var><var 49 F201F5 /var>Bloodletter<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Rain of Death<var 49 01 /var><var 48 01 /var> (learned at level 45) are reduced."
+      "text": "Исполнение <var 48 F201F4 /var><var 49 F201F5 /var>Баллады менестреля<var 49 01 /var><var 48 01 /var> отображает соответствующую действию <var 48 F201F4 /var><var 49 F201F5 /var>Шкалу песен<var 49 01 /var><var 48 01 /var>, показывая оставшееся время действия эффекта.  \nЕсли во время исполнения <var 48 F201F4 /var><var 49 F201F5 /var>Баллады менестреля<var 49 01 /var><var 48 01 /var> срабатывает эффект <var 48 F201FA /var><var 49 F201FB /var>Репертуар<var 49 01 /var><var 48 01 /var>, время восстановления <var 48 F201F4 /var><var 49 F201F5 /var>Кровопускателя<var 49 01 /var><var 48 01 /var> и <var 48 F201F4 /var><var 49 F201F5 /var>Ливня стрел<var 49 01 /var><var 48 01 /var> (изучаемого на 45-м уровне) сокращается."
     },
     {
       "id": "0x00000037",
-      "text": "<var 48 F201F4 /var><var 49 F201F5 /var>“詩心”<var 49 01 /var><var 48 01 /var>は<var 48 F201F4 /var><var 49 F201F5 /var>「ベノムバイト/コースティックバイト」<var 49 01 /var><var 48 01 /var>、<var 48 F201F4 /var><var 49 F201F5 /var>「ウィンドバイト/ストームバイト」<var 49 01 /var><var 48 01 /var>による継続ダメージの命中時に一定確率で発動します。戦歌を使い、詩心を付与させていくことで吟遊詩人の攻撃力を高めることができます。"
+      "text": "<var 48 F201F4 /var><var 49 F201F5 /var>«Репертуар»<var 49 01 /var><var 48 01 /var> с определённой вероятностью активируется при нанесении периодического урона от <var 48 F201F4 /var><var 49 F201F5 /var>«Ядовитой стрелы/Жгучей стрелы»<var 49 01 /var><var 48 01 /var> и <var 48 F201F4 /var><var 49 F201F5 /var>«Стрелы ветра/Стрелы бури»<var 49 01 /var><var 48 01 /var>. Используя боевые песни и накапливая репертуар, бард может повысить силу своих атак."
     },
     {
       "id": "0x00000038",
-      "text": "Singing <var 48 F201F4 /var><var 49 F201F5 /var>Army's Paeon<var 49 01 /var><var 48 01 /var> will display the action's corresponding <var 48 F201F4 /var><var 49 F201F5 /var>Song Gauge<var 49 01 /var><var 48 01 /var>, indicating the effect's time remaining.\nIf the <var 48 F201FA /var><var 49 F201FB /var>Repertoire<var 49 01 /var><var 48 01 /var> effect is triggered while <var 48 F201F4 /var><var 49 F201F5 /var>Army's Paeon<var 49 01 /var><var 48 01 /var> is being sung, the bard is granted reduced weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay according to the number of stacks accumulated."
+      "text": "Исполнение <var 48 F201F4 /var><var 49 F201F5 /var>Пеана армии<var 49 01 /var><var 48 01 /var> отображает соответствующую действию <var 48 F201F4 /var><var 49 F201F5 /var>шкалу песен<var 49 01 /var><var 48 01 /var>, показывая оставшееся время действия эффекта.\nЕсли во время исполнения <var 48 F201F4 /var><var 49 F201F5 /var>Пеана армии<var 49 01 /var><var 48 01 /var> срабатывает эффект <var 48 F201FA /var><var 49 F201FB /var>Репертуара<var 49 01 /var><var 48 01 /var>, бард получает уменьшенное время применения и восстановления боевых приёмов и заклинаний, а также задержку автоатак — в зависимости от количества накопленных зарядов."
     },
     {
       "id": "0x00000039",
-      "text": "Singing the <var 48 F201F4 /var><var 49 F201F5 /var>Wanderer's Minuet<var 49 01 /var><var 48 01 /var> will display the action's corresponding <var 48 F201F4 /var><var 49 F201F5 /var>Song Gauge<var 49 01 /var><var 48 01 /var>, indicating the effect's time remaining.\nIf the <var 48 F201FA /var><var 49 F201FB /var>Repertoire<var 49 01 /var><var 48 01 /var> effect is triggered while the <var 48 F201F4 /var><var 49 F201F5 /var>Wanderer's Minuet<var 49 01 /var><var 48 01 /var> is being sung, the action <var 48 F201F4 /var><var 49 F201F5 /var>Pitch Perfect<var 49 01 /var><var 48 01 /var> will become available. The potency of <var 48 F201F4 /var><var 49 F201F5 /var>Pitch Perfect<var 49 01 /var><var 48 01 /var> increases according to the number of <var 48 F201FA /var><var 49 F201FB /var>Repertoire<var 49 01 /var><var 48 01 /var> stacks."
+      "text": "Исполнение <var 48 F201F4 /var><var 49 F201F5 /var>«Менуэта странника»<var 49 01 /var><var 48 01 /var> отобразит соответствующую этому действию <var 48 F201F4 /var><var 49 F201F5 /var>шкалу песен<var 49 01 /var><var 48 01 /var>, показывающую оставшееся время действия эффекта.\nЕсли во время исполнения <var 48 F201F4 /var><var 49 F201F5 /var>«Менуэта странника»<var 49 01 /var><var 48 01 /var> срабатывает эффект <var 48 F201FA /var><var 49 F201FB /var>«Репертуар»<var 49 01 /var><var 48 01 /var>, становится доступно действие <var 48 F201F4 /var><var 49 F201F5 /var>«Идеальный слух»<var 49 01 /var><var 48 01 /var>. Сила <var 48 F201F4 /var><var 49 F201F5 /var>«Идеального слуха»<var 49 01 /var><var 48 01 /var> увеличивается в зависимости от количества эффектов <var 48 F201FA /var><var 49 F201FB /var>«Репертуар»<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x0000003A",
-      "text": "Soul Voice Gauge"
+      "text": "Шкала голоса души"
     },
     {
       "id": "0x0000003B",
-      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Soul Voice Gauge<var 49 01 /var><var 48 01 /var> increases in tandem with <var 48 F201FA /var><var 49 F201FB /var>Repertoire<var 49 01 /var><var 48 01 /var>, and is depleted when using the action <var 48 F201F4 /var><var 49 F201F5 /var>Apex Arrow<var 49 01 /var><var 48 01 /var>."
+      "text": "Шкала <var 48 F201F4 /var><var 49 F201F5 /var>голоса души<var 49 01 /var><var 48 01 /var> увеличивается вместе с <var 48 F201FA /var><var 49 F201FB /var>репертуаром<var 49 01 /var><var 48 01 /var> и истощается при использовании действия <var 48 F201F4 /var><var 49 F201F5 /var>стрела апекса<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x0000003C",
-      "text": "Heat Gauge"
+      "text": "Шкала жара"
     },
     {
       "id": "0x0000003D",
-      "text": "Performing certain weaponskills will increase the <var 48 F201F4 /var><var 49 F201F5 /var>Heat Gauge<var 49 01 /var><var 48 01 /var>, and once it is high enough, the action <var 48 F201F4 /var><var 49 F201F5 /var>Hypercharge<var 49 01 /var><var 48 01 /var> will become available. Using <var 48 F201F4 /var><var 49 F201F5 /var>Hypercharge<var 49 01 /var><var 48 01 /var> overheats your weapon and allows the use of <var 48 F201F4 /var><var 49 F201F5 /var>Heat Blast<var 49 01 /var><var 48 01 /var> (acquired at level 35) and <var 48 F201F4 /var><var 49 F201F5 /var>Auto Crossbow<var 49 01 /var><var 48 01 /var> (acquired at level 52)."
+      "text": "Выполнение определённых оружейных навыков повышает значение <var 48 F201F4 /var><var 49 F201F5 /var>шкалы жара<var 49 01 /var><var 48 01 /var>, и как только оно станет достаточно высоким, станет доступно действие <var 48 F201F4 /var><var 49 F201F5 /var>Перегрев<var 49 01 /var><var 48 01 /var>. Использование действия <var 48 F201F4 /var><var 49 F201F5 /var>Перегрев<var 49 01 /var><var 48 01 /var> перегревает оружие и позволяет применять <var 48 F201F4 /var><var 49 F201F5 /var>Тепловой взрыв<var 49 01 /var><var 48 01 /var> (осваивается на 35-м уровне) и <var 48 F201F4 /var><var 49 F201F5 /var>Автоматический арбалет<var 49 01 /var><var 48 01 /var> (осваивается на 52-м уровне)."
     },
     {
       "id": "0x0000003E",
-      "text": "Heat Gauge and Battery Gauge"
+      "text": "Шкала жара и шкала батареи"
     },
     {
       "id": "0x0000003F",
-      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Battery Gauge<var 49 01 /var><var 48 01 /var> accumulates when certain actions are performed and allows the placement of a <var 48 F201F4 /var><var 49 F201F5 /var>Rook Autoturret<var 49 01 /var><var 48 01 /var>, which will attack your target. It also allows the deployment of an <var 48 F201F4 /var><var 49 F201F5 /var>Automaton Queen<var 49 01 /var><var 48 01 /var> (acquired at level 80) to fight alongside you."
+      "text": "Шкала <var 48 F201F4 /var><var 49 F201F5 /var>батареи<var 49 01 /var><var 48 01 /var> накапливается при выполнении определённых действий и позволяет установить <var 48 F201F4 /var><var 49 F201F5 /var>автотурель «Ладья»<var 49 01 /var><var 48 01 /var>, которая будет атаковать вашу цель. Она также позволяет развернуть <var 48 F201F4 /var><var 49 F201F5 /var>автоматона-королеву<var 49 01 /var><var 48 01 /var> (доступную с 80-го уровня), чтобы она сражалась рядом с вами."
     },
     {
       "id": "0x00000040",
-      "text": "Elemental Gauge"
+      "text": "Шкала стихий"
     },
     {
       "id": "0x00000041",
-      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Elemental Gauge<var 49 01 /var><var 48 01 /var> indicates whether you are under the influence of <var 48 F201FA /var><var 49 F201FB /var>Astral Fire<var 49 01 /var><var 48 01 /var> (after casting a <var 48 F201F4 /var><var 49 F201F5 /var>Fire<var 49 01 /var><var 48 01 /var> spell) or <var 48 F201FA /var><var 49 F201FB /var>Umbral Ice<var 49 01 /var><var 48 01 /var> (after casting a <var 48 F201F4 /var><var 49 F201F5 /var>Blizzard<var 49 01 /var><var 48 01 /var> spell). While under the influence of <var 48 F201FA /var><var 49 F201FB /var>Astral Fire<var 49 01 /var><var 48 01 /var>, all <var 48 F201F4 /var><var 49 F201F5 /var>Fire<var 49 01 /var><var 48 01 /var> spells will have increased potency, but require more MP to cast. While under the influence of <var 48 F201FA /var><var 49 F201FB /var>Umbral Ice<var 49 01 /var><var 48 01 /var>, all <var 48 F201F4 /var><var 49 F201F5 /var>Blizzard<var 49 01 /var><var 48 01 /var> spells will have no cost, and will recover MP upon striking a target. Furthermore, when maintaining stacks of <var 48 F201FA /var><var 49 F201FB /var>Astral Fire<var 49 01 /var><var 48 01 /var> or <var 48 F201FA /var><var 49 F201FB /var>Umbral Ice<var 49 01 /var><var 48 01 /var>, a spell of the opposite element can be cast at no cost but will deal reduced damage."
+      "text": "Шкала стихий показывает, находитесь ли вы под воздействием <var 48 F201FA /var><var 49 F201FB /var>Астрального огня<var 49 01 /var><var 48 01 /var> (после применения заклинания <var 48 F201F4 /var><var 49 F201F5 /var>Огня<var 49 01 /var><var 48 01 /var>) или <var 48 F201FA /var><var 49 F201FB /var>Умбрального льда<var 49 01 /var><var 48 01 /var> (после применения заклинания <var 48 F201F4 /var><var 49 F201F5 /var>Льда<var 49 01 /var><var 48 01 /var>). Под воздействием <var 48 F201FA /var><var 49 F201FB /var>Астрального огня<var 49 01 /var><var 48 01 /var> все заклинания <var 48 F201F4 /var><var 49 F201F5 /var>Огня<var 49 01 /var><var 48 01 /var> наносят больше урона, но требуют больше MP для применения. Под воздействием <var 48 F201FA /var><var 49 F201FB /var>Умбрального льда<var 49 01 /var><var 48 01 /var> все заклинания <var 48 F201F4 /var><var 49 F201F5 /var>Льда<var 49 01 /var><var 48 01 /var> не требуют затрат MP и восстанавливают MP при попадании по цели. Кроме того, пока на вас действуют уровни <var 48 F201FA /var><var 49 F201FB /var>Астрального огня<var 49 01 /var><var 48 01 /var> или <var 48 F201FA /var><var 49 F201FB /var>Умбрального льда<var 49 01 /var><var 48 01 /var>, заклинание противоположной стихии можно применить бесплатно, но оно нанесёт меньше урона."
     },
     {
       "id": "0x00000042",
-      "text": "Coming under the influence of <var 48 F201FA /var><var 49 F201FB /var>Astral Fire<var 49 01 /var><var 48 01 /var> or <var 48 F201FA /var><var 49 F201FB /var>Umbral Ice<var 49 01 /var><var 48 01 /var> will grant <var 48 F201FA /var><var 49 F201FB /var>Enochian<var 49 01 /var><var 48 01 /var>, and set the lower-right corner of the gauge aglow, indicating its effect is active. <var 48 F201FA /var><var 49 F201FB /var>Enochian<var 49 01 /var><var 48 01 /var> increases the potency of magic attacks, as well as unlocks powerful spells such as <var 48 F201F4 /var><var 49 F201F5 /var>Blizzard IV<var 49 01 /var><var 48 01 /var>. <var 48 F201FA /var><var 49 F201FB /var>Enochian<var 49 01 /var><var 48 01 /var> fades when <var 48 F201FA /var><var 49 F201FB /var>Astral Fire<var 49 01 /var><var 48 01 /var> or <var 48 F201FA /var><var 49 F201FB /var>Umbral Ice<var 49 01 /var><var 48 01 /var> expires."
+      "text": "Переход под действие <var 48 F201FA /var><var 49 F201FB /var>Астрального огня<var 49 01 /var><var 48 01 /var> или <var 48 F201FA /var><var 49 F201FB /var>Умбрального льда<var 49 01 /var><var 48 01 /var> дарует <var 48 F201FA /var><var 49 F201FB /var>Энохиан<var 49 01 /var><var 48 01 /var> и подсвечивает нижний правый угол шкалы, показывая, что эффект активен. <var 48 F201FA /var><var 49 F201FB /var>Энохиан<var 49 01 /var><var 48 01 /var> повышает силу магических атак, а также открывает доступ к мощным заклинаниям, таким как <var 48 F201F4 /var><var 49 F201F5 /var>Ледяная буря IV<var 49 01 /var><var 48 01 /var>. Действие <var 48 F201FA /var><var 49 F201FB /var>Энохиан<var 49 01 /var><var 48 01 /var> заканчивается одновременно с действием <var 48 F201FA /var><var 49 F201FB /var>Астрального огня<var 49 01 /var><var 48 01 /var> или <var 48 F201FA /var><var 49 F201FB /var>Умбрального льда<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x00000043",
-      "text": "Casting <var 48 F201F4 /var><var 49 F201F5 /var>Freeze<var 49 01 /var><var 48 01 /var> or <var 48 F201F4 /var><var 49 F201F5 /var>Blizzard IV<var 49 01 /var><var 48 01 /var> grants 3 <var 48 F201FA /var><var 49 F201FB /var>Umbral Hearts<var 49 01 /var><var 48 01 /var> which are represented by the arrows in the gauge's lower-left corner. An <var 48 F201FA /var><var 49 F201FB /var>Umbral Heart<var 49 01 /var><var 48 01 /var> is consumed each time a <var 48 F201F4 /var><var 49 F201F5 /var>Fire<var 49 01 /var><var 48 01 /var> spell is cast, nullifying the MP cost increase applied by the <var 48 F201FA /var><var 49 F201FB /var>Astral Fire<var 49 01 /var><var 48 01 /var> status."
+      "text": "Применение <var 48 F201F4 /var><var 49 F201F5 /var>Заморозки<var 49 01 /var><var 48 01 /var> или <var 48 F201F4 /var><var 49 F201F5 /var>Бурана IV<var 49 01 /var><var 48 01 /var> дарует 3 <var 48 F201FA /var><var 49 F201FB /var>ледяных сердца<var 49 01 /var><var 48 01 /var>, отображаемых в виде стрелок в левом нижнем углу шкалы. Одно <var 48 F201FA /var><var 49 F201FB /var>ледяное сердце<var 49 01 /var><var 48 01 /var> расходуется при каждом применении заклинания <var 48 F201F4 /var><var 49 F201F5 /var>Огонь<var 49 01 /var><var 48 01 /var>, отменяя увеличение затрат МП, накладываемое эффектом <var 48 F201FA /var><var 49 F201FB /var>Астральный огонь<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x00000044",
-      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Enochian<var 49 01 /var><var 48 01 /var> bar will fill every 30 seconds the status is maintained. When the crystal at the bottom of the <var 48 F201F4 /var><var 49 F201F5 /var>Elemental Gauge<var 49 01 /var><var 48 01 /var> glows pink, you will be under effect of <var 48 F201FA /var><var 49 F201FB /var>Polyglot<var 49 01 /var><var 48 01 /var>, which allows the spells <var 48 F201F4 /var><var 49 F201F5 /var>Foul<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Xenoglossy<var 49 01 /var><var 48 01 /var> (acquired at level 80) to be cast, consuming a crystal."
+      "text": "Шкала <var 48 F201F4 /var><var 49 F201F5 /var>Энохиана<var 49 01 /var><var 48 01 /var> будет заполняться каждые 30 секунд, пока действует этот эффект. Когда кристалл в нижней части <var 48 F201F4 /var><var 49 F201F5 /var>шкалы стихий<var 49 01 /var><var 48 01 /var> засветится розовым, вы получите эффект <var 48 F201FA /var><var 49 F201FB /var>Полиглота<var 49 01 /var><var 48 01 /var>, позволяющий применять заклинания <var 48 F201F4 /var><var 49 F201F5 /var>Скверна<var 49 01 /var><var 48 01 /var> и <var 48 F201F4 /var><var 49 F201F5 /var>Ксеноглоссия<var 49 01 /var><var 48 01 /var> (изучаемое на 80-м уровне), расходуя кристалл."
     },
     {
       "id": "0x00000045",
-      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Enochian<var 49 01 /var><var 48 01 /var> bar will fill every 30 seconds the status is maintained. When one or more crystals at the bottom of the <var 48 F201F4 /var><var 49 F201F5 /var>Elemental Gauge<var 49 01 /var><var 48 01 /var> glow pink, you will be under effect of <var 48 F201FA /var><var 49 F201FB /var>Polyglot<var 49 01 /var><var 48 01 /var>, which allows the spells <var 48 F201F4 /var><var 49 F201F5 /var>Foul<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Xenoglossy<var 49 01 /var><var 48 01 /var> (acquired at level 80) to be cast, consuming a crystal."
+      "text": "Шкала <var 48 F201F4 /var><var 49 F201F5 /var>Энохиана<var 49 01 /var><var 48 01 /var> заполняется каждые 30 секунд, пока действует этот эффект. Когда один или несколько кристаллов в нижней части <var 48 F201F4 /var><var 49 F201F5 /var>стихийной шкалы<var 49 01 /var><var 48 01 /var> начинают светиться розовым, на вас действует эффект <var 48 F201FA /var><var 49 F201FB /var>«Полиглот»<var 49 01 /var><var 48 01 /var>, позволяющий применять заклинания <var 48 F201F4 /var><var 49 F201F5 /var>«Осквернение»<var 49 01 /var><var 48 01 /var> и <var 48 F201F4 /var><var 49 F201F5 /var>«Ксеноглоссия»<var 49 01 /var><var 48 01 /var> (доступно с 80-го уровня), расходуя кристалл."
     },
     {
       "id": "0x00000046",
-      "text": "Aetherflow Gauge"
+      "text": "Шкала эфиропотока"
     },
     {
       "id": "0x00000047",
-      "text": "Using the action <var 48 F201F4 /var><var 49 F201F5 /var>Energy Drain<var 49 01 /var><var 48 01 /var> fills the <var 48 F201F4 /var><var 49 F201F5 /var>Aetherflow Gauge<var 49 01 /var><var 48 01 /var>, which is required to perform certain actions."
+      "text": "Применение действия <var 48 F201F4 /var><var 49 F201F5 /var>Поглощение энергии<var 49 01 /var><var 48 01 /var> заполняет <var 48 F201F4 /var><var 49 F201F5 /var>шкалу эфира<var 49 01 /var><var 48 01 /var>, необходимую для выполнения определённых действий."
     },
     {
       "id": "0x00000048",
-      "text": "Trance Gauge"
+      "text": "Шкала транса"
     },
     {
       "id": "0x00000049",
-      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Trance Gauge<var 49 01 /var><var 48 01 /var> indicates the time remaining for the effects of <var 48 F201F4 /var><var 49 F201F5 /var>Aethercharge<var 49 01 /var><var 48 01 /var>. Executing this action also grants <var 48 F201FA /var><var 49 F201FB /var>Ruby Arcanum<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>Topaz Arcanum<var 49 01 /var><var 48 01 /var>, and <var 48 F201FA /var><var 49 F201FB /var>Emerald Arcanum<var 49 01 /var><var 48 01 /var>, which are used to summon <var 48 F201FA /var><var 49 F201FB /var>Ifrit-Egi<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>Topaz Carbuncle<var 49 01 /var><var 48 01 /var>, and <var 48 F201FA /var><var 49 F201FB /var>Emerald Carbuncle<var 49 01 /var><var 48 01 /var> respectively."
+      "text": "Шкала <var 48 F201F4 /var><var 49 F201F5 /var>транса<var 49 01 /var><var 48 01 /var> показывает оставшееся время действия эффекта <var 48 F201F4 /var><var 49 F201F5 /var>«Эфирный заряд»<var 49 01 /var><var 48 01 /var>. Применение этого действия также дарует <var 48 F201FA /var><var 49 F201FB /var>Рубиновый аркан<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>Топазовый аркан<var 49 01 /var><var 48 01 /var> и <var 48 F201FA /var><var 49 F201FB /var>Изумрудный аркан<var 49 01 /var><var 48 01 /var>, которые используются для призыва соответственно <var 48 F201FA /var><var 49 F201FB /var>Ифрита-эги<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>топазового карбункула<var 49 01 /var><var 48 01 /var> и <var 48 F201FA /var><var 49 F201FB /var>изумрудного карбункула<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x0000004A",
-      "text": "Each summon, when called forth, will tap into its respective <var 48 F201FA /var><var 49 F201FB /var>Arcanum<var 49 01 /var><var 48 01 /var>, granting you stacks of an elemental attunement, indicated on the <var 48 F201F4 /var><var 49 F201F5 /var>Trance Gauge<var 49 01 /var><var 48 01 /var>. These elemental attunements will augment <var 48 F201F4 /var><var 49 F201F5 /var>Gemshine<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Precious Brilliance<var 49 01 /var><var 48 01 /var> (acquired at level 26)."
+      "text": "Каждый призыв черпает силу из соответствующего <var 48 F201FA /var><var 49 F201FB /var>Арканума<var 49 01 /var><var 48 01 /var>, даруя вам уровни настройки на стихию, отображаемые на <var 48 F201F4 /var><var 49 F201F5 /var>шкале транса<var 49 01 /var><var 48 01 /var>. Эта настройка на стихию усиливает <var 48 F201F4 /var><var 49 F201F5 /var>Самоцветное сияние<var 49 01 /var><var 48 01 /var> и <var 48 F201F4 /var><var 49 F201F5 /var>Драгоценное сияние<var 49 01 /var><var 48 01 /var> (доступно с 26-го уровня)."
     },
     {
       "id": "0x0000004B",
-      "text": "Upon learning the trait <var 48 F201FA /var><var 49 F201FB /var>Aethercharge Mastery<var 49 01 /var><var 48 01 /var>, the <var 48 F201F4 /var><var 49 F201F5 /var>Trance Gauge<var 49 01 /var><var 48 01 /var> will indicate the remaining time for the effects of <var 48 F201F4 /var><var 49 F201F5 /var>Dreadwyrm Trance<var 49 01 /var><var 48 01 /var>. While under its effects, <var 48 F201F4 /var><var 49 F201F5 /var>Ruin III<var 49 01 /var><var 48 01 /var> is upgraded to <var 48 F201F4 /var><var 49 F201F5 /var>Astral Impulse<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Outburst<var 49 01 /var><var 48 01 /var> is upgraded to <var 48 F201F4 /var><var 49 F201F5 /var>Astral Flare<var 49 01 /var><var 48 01 /var>. <var 48 F201F4 /var><var 49 F201F5 /var>Dreadwyrm Trance<var 49 01 /var><var 48 01 /var> also grants <var 48 F201FA /var><var 49 F201FB /var>Ruby Arcanum<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>Topaz Arcanum<var 49 01 /var><var 48 01 /var>, and <var 48 F201FA /var><var 49 F201FB /var>Emerald Arcanum<var 49 01 /var><var 48 01 /var>."
+      "text": "После изучения свойства <var 48 F201FA /var><var 49 F201FB /var>Мастерство эфирного заряда<var 49 01 /var><var 48 01 /var> на <var 48 F201F4 /var><var 49 F201F5 /var>шкале транса<var 49 01 /var><var 48 01 /var> будет отображаться время, оставшееся до окончания действия <var 48 F201F4 /var><var 49 F201F5 /var>транса Древнего дракона<var 49 01 /var><var 48 01 /var>. Под его действием <var 48 F201F4 /var><var 49 F201F5 /var>Разложение III<var 49 01 /var><var 48 01 /var> улучшается до <var 48 F201F4 /var><var 49 F201F5 /var>Астрального импульса<var 49 01 /var><var 48 01 /var>, а <var 48 F201F4 /var><var 49 F201F5 /var>Вспышка<var 49 01 /var><var 48 01 /var> — до <var 48 F201F4 /var><var 49 F201F5 /var>Астральной вспышки<var 49 01 /var><var 48 01 /var>. <var 48 F201F4 /var><var 49 F201F5 /var>Транс Древнего дракона<var 49 01 /var><var 48 01 /var> также дарует <var 48 F201FA /var><var 49 F201FB /var>Рубиновый арканум<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>Топазовый арканум<var 49 01 /var><var 48 01 /var> и <var 48 F201FA /var><var 49 F201FB /var>Изумрудный арканум<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x0000004C",
-      "text": "Each summon, when called forth, will tap into its respective <var 48 F201FA /var><var 49 F201FB /var>Arcanum<var 49 01 /var><var 48 01 /var>, granting you stacks of an elemental attunement, indicated on the <var 48 F201F4 /var><var 49 F201F5 /var>Trance Gauge<var 49 01 /var><var 48 01 /var>. These elemental attunements will augment <var 48 F201F4 /var><var 49 F201F5 /var>Gemshine<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Precious Brilliance<var 49 01 /var><var 48 01 /var>."
+      "text": "Каждый призыв при вызове задействует соответствующую ему <var 48 F201FA /var><var 49 F201FB /var>Аркану<var 49 01 /var><var 48 01 /var>, наделяя вас зарядами стихийной гармонии, отображаемыми на <var 48 F201F4 /var><var 49 F201F5 /var>шкале транса<var 49 01 /var><var 48 01 /var>. Эта стихийная гармония усилит <var 48 F201F4 /var><var 49 F201F5 /var>Самоцветное сияние<var 49 01 /var><var 48 01 /var> и <var 48 F201F4 /var><var 49 F201F5 /var>Драгоценное сияние<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x0000004D",
-      "text": "Dreadwyrm Aether"
+      "text": "Эфир грозного дракона"
     },
     {
       "id": "0x0000004E",
-      "text": "Step Gauge"
+      "text": "Шкала шагов"
     },
     {
       "id": "0x0000004F",
-      "text": "Performing a <var 48 F201F4 /var><var 49 F201F5 /var>Standard Step<var 49 01 /var><var 48 01 /var> changes the appearance of the <var 48 F201F4 /var><var 49 F201F5 /var>Step Gauge<var 49 01 /var><var 48 01 /var> and causes you to start dancing. Following the displayed icons to execute steps in the correct order and ending with <var 48 F201F4 /var><var 49 F201F5 /var>Standard Finish<var 49 01 /var><var 48 01 /var> will increase your damage dealt and that of the party member designated as your <var 48 F201FA /var><var 49 F201FB /var>Dance Partner<var 49 01 /var><var 48 01 /var>. The remaining duration of these effects is displayed beneath the <var 48 F201F4 /var><var 49 F201F5 /var>Step Gauge<var 49 01 /var><var 48 01 /var>."
+      "text": "Выполнение <var 48 F201F4 /var><var 49 F201F5 /var>стандартного шага<var 49 01 /var><var 48 01 /var> изменяет вид <var 48 F201F4 /var><var 49 F201F5 /var>шкалы шагов<var 49 01 /var><var 48 01 /var> и заставляет вас начать танцевать. Выполняйте шаги в правильном порядке согласно отображаемым значкам и завершите танец <var 48 F201F4 /var><var 49 F201F5 /var>стандартным финалом<var 49 01 /var><var 48 01 /var>, чтобы увеличить наносимый вами урон и урон участника группы, назначенного вашим <var 48 F201FA /var><var 49 F201FB /var>партнёром по танцу<var 49 01 /var><var 48 01 /var>. Оставшееся время действия этих эффектов отображается под <var 48 F201F4 /var><var 49 F201F5 /var>шкалой шагов<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x00000050",
-      "text": "Fourfold Feathers"
+      "text": "Четверные перья"
     },
     {
       "id": "0x00000051",
-      "text": "Actions such as <var 48 F201F4 /var><var 49 F201F5 /var>Reverse Cascade<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Rising Windmill<var 49 01 /var><var 48 01 /var> have a chance to grant <var 48 F201FA /var><var 49 F201FB /var>Fourfold Feathers<var 49 01 /var><var 48 01 /var>, which are consumed by <var 48 F201F4 /var><var 49 F201F5 /var>Fan Dance<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Fan Dance II<var 49 01 /var><var 48 01 /var> (acquired at level 50)."
+      "text": "Такие действия, как <var 48 F201F4 /var><var 49 F201F5 /var>Обратный каскад<var 49 01 /var><var 48 01 /var> и <var 48 F201F4 /var><var 49 F201F5 /var>Восходящая мельница<var 49 01 /var><var 48 01 /var>, могут даровать <var 48 F201FA /var><var 49 F201FB /var>четверные перья<var 49 01 /var><var 48 01 /var>, которые расходуются на <var 48 F201F4 /var><var 49 F201F5 /var>Танец вееров<var 49 01 /var><var 48 01 /var> и <var 48 F201F4 /var><var 49 F201F5 /var>Танец вееров II<var 49 01 /var><var 48 01 /var> (доступен с 50-го уровня)."
     },
     {
       "id": "0x00000052",
-      "text": "Step Gauge"
+      "text": "Шкала шагов"
     },
     {
       "id": "0x00000053",
-      "text": "Performing a <var 48 F201F4 /var><var 49 F201F5 /var>Technical Step<var 49 01 /var><var 48 01 /var> will display four icons on the <var 48 F201F4 /var><var 49 F201F5 /var>Step Gauge<var 49 01 /var><var 48 01 /var>. Executing the corresponding actions in the correct order followed by <var 48 F201F4 /var><var 49 F201F5 /var>Technical Finish<var 49 01 /var><var 48 01 /var> increases the damage dealt by you and nearby party members."
+      "text": "Использование <var 48 F201F4 /var><var 49 F201F5 /var>технического шага<var 49 01 /var><var 48 01 /var> отображает четыре значка на <var 48 F201F4 /var><var 49 F201F5 /var>шкале шагов<var 49 01 /var><var 48 01 /var>. Выполнение соответствующих действий в правильном порядке с последующим применением <var 48 F201F4 /var><var 49 F201F5 /var>технического финала<var 49 01 /var><var 48 01 /var> повышает урон, наносимый вами и ближайшими членами группы."
     },
     {
       "id": "0x00000054",
-      "text": "Fourfold Feathers and Esprit Gauge"
+      "text": "Четыре пера и шкала воодушевления"
     },
     {
       "id": "0x00000055",
-      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Esprit Gauge<var 49 01 /var><var 48 01 /var> accumulates when you or party members under the effect of <var 48 F201FA /var><var 49 F201FB /var>Esprit<var 49 01 /var><var 48 01 /var>─granted by <var 48 F201F4 /var><var 49 F201F5 /var>Standard Finish<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Technical Finish<var 49 01 /var><var 48 01 /var>─execute weaponskills or cast spells. It is consumed by the action <var 48 F201F4 /var><var 49 F201F5 /var>Saber Dance<var 49 01 /var><var 48 01 /var>."
+      "text": "Шкала <var 48 F201F4 /var><var 49 F201F5 /var>Воодушевления<var 49 01 /var><var 48 01 /var> заполняется, когда вы или члены группы под действием эффекта <var 48 F201FA /var><var 49 F201FB /var>Воодушевление<var 49 01 /var><var 48 01 /var>—получаемого от действий <var 48 F201F4 /var><var 49 F201F5 /var>Стандартный финал<var 49 01 /var><var 48 01 /var> и <var 48 F201F4 /var><var 49 F201F5 /var>Технический финал<var 49 01 /var><var 48 01 /var>—используют оружейные навыки или применяют заклинания. Она расходуется при использовании действия <var 48 F201F4 /var><var 49 F201F5 /var>Танец сабель<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x00000056",
-      "text": "Balance Gauge"
+      "text": "Шкала баланса"
     },
     {
       "id": "0x00000057",
-      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Balance Gauge<var 49 01 /var><var 48 01 /var> displays the current amount of <var 48 F201FA /var><var 49 F201FB /var>Black Mana<var 49 01 /var><var 48 01 /var> and <var 48 F201FA /var><var 49 F201FB /var>White Mana<var 49 01 /var><var 48 01 /var> a red mage has accumulated. <var 48 F201FA /var><var 49 F201FB /var>Black Mana<var 49 01 /var><var 48 01 /var> is accumulated by casting spells commonly associated with black magic (such as <var 48 F201F4 /var><var 49 F201F5 /var>Fire<var 49 01 /var><var 48 01 /var> or <var 48 F201F4 /var><var 49 F201F5 /var>Thunder<var 49 01 /var><var 48 01 /var>), and <var 48 F201FA /var><var 49 F201FB /var>White Mana<var 49 01 /var><var 48 01 /var> by casting spells associated with white magic (such as <var 48 F201F4 /var><var 49 F201F5 /var>Aero<var 49 01 /var><var 48 01 /var>). There are also some spells and actions that affect both."
+      "text": "<var 48 F201F4 /var><var 49 F201F5 /var>Шкала равновесия<var 49 01 /var><var 48 01 /var> отображает текущее количество накопленной красным магом <var 48 F201FA /var><var 49 F201FB /var>чёрной маны<var 49 01 /var><var 48 01 /var> и <var 48 F201FA /var><var 49 F201FB /var>белой маны<var 49 01 /var><var 48 01 /var>. <var 48 F201FA /var><var 49 F201FB /var>Чёрная мана<var 49 01 /var><var 48 01 /var> накапливается при чтении заклинаний, обычно связанных с чёрной магией (например, <var 48 F201F4 /var><var 49 F201F5 /var>Огня<var 49 01 /var><var 48 01 /var> или <var 48 F201F4 /var><var 49 F201F5 /var>Грома<var 49 01 /var><var 48 01 /var>), а <var 48 F201FA /var><var 49 F201FB /var>белая мана<var 49 01 /var><var 48 01 /var> — при чтении заклинаний, связанных с белой магией (например, <var 48 F201F4 /var><var 49 F201F5 /var>Ветра<var 49 01 /var><var 48 01 /var>). Некоторые заклинания и действия также влияют на оба показателя."
     },
     {
       "id": "0x00000058",
-      "text": "When both <var 48 F201FA /var><var 49 F201FB /var>Black Mana<var 49 01 /var><var 48 01 /var> and <var 48 F201FA /var><var 49 F201FB /var>White Mana<var 49 01 /var><var 48 01 /var> reach a certain amount, weaponskills such as <var 48 F201F4 /var><var 49 F201F5 /var>Riposte<var 49 01 /var><var 48 01 /var> become enchanted and will deal additional damage. If the gap between <var 48 F201FA /var><var 49 F201FB /var>Black Mana<var 49 01 /var><var 48 01 /var> and <var 48 F201FA /var><var 49 F201FB /var>White Mana<var 49 01 /var><var 48 01 /var> accumulation grows too large, the crystal at the top of the gauge will change color, and it will become more difficult to accumulate the lesser of the two."
+      "text": "Когда и <var 48 F201FA /var><var 49 F201FB /var>чёрная мана<var 49 01 /var><var 48 01 /var>, и <var 48 F201FA /var><var 49 F201FB /var>белая мана<var 49 01 /var><var 48 01 /var> достигают определённого значения, такие боевые приёмы, как <var 48 F201F4 /var><var 49 F201F5 /var>«Рипост»<var 49 01 /var><var 48 01 /var>, становятся зачарованными и наносят дополнительный урон. Если разрыв между накопленными значениями <var 48 F201FA /var><var 49 F201FB /var>чёрной маны<var 49 01 /var><var 48 01 /var> и <var 48 F201FA /var><var 49 F201FB /var>белой маны<var 49 01 /var><var 48 01 /var> становится слишком велик, цвет кристалла в верхней части шкалы изменится, и накопление меньшего из двух ресурсов станет сложнее."
     },
     {
       "id": "0x00000059",
-      "text": "Powder Gauge"
+      "text": "Шкала пороха"
     },
     {
       "id": "0x0000005A",
-      "text": "This symbol indicates the defensive stance <var 48 F201FA /var><var 49 F201FB /var>Royal Guard<var 49 01 /var><var 48 01 /var> is in effect, which increases enmity."
+      "text": "Этот символ указывает, что действует защитная стойка <var 48 F201FA /var><var 49 F201FB /var>Королевская стража<var 49 01 /var><var 48 01 /var>, повышающая уровень враждебности."
     },
     {
       "id": "0x0000005B",
-      "text": "Powder Gauge"
+      "text": "Шкала пороха"
     },
     {
       "id": "0x0000005C",
-      "text": "Performing a combo ending in <var 48 F201F4 /var><var 49 F201F5 /var>Solid Barrel<var 49 01 /var><var 48 01 /var> or <var 48 F201F4 /var><var 49 F201F5 /var>Demon Slaughter<var 49 01 /var><var 48 01 /var> (acquired at level 40) adds cartridges to the <var 48 F201F4 /var><var 49 F201F5 /var>Powder Gauge<var 49 01 /var><var 48 01 /var>, which are expended by <var 48 F201F4 /var><var 49 F201F5 /var>Burst Strike<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Gnashing Fang<var 49 01 /var><var 48 01 /var> (acquired at level 60)."
+      "text": "Выполнение комбинации, завершающейся приёмом <var 48 F201F4 /var><var 49 F201F5 /var>Твёрдый ствол<var 49 01 /var><var 48 01 /var> или <var 48 F201F4 /var><var 49 F201F5 /var>Демоническая резня<var 49 01 /var><var 48 01 /var> (изучается на 40-м уровне), добавляет патроны на <var 48 F201F4 /var><var 49 F201F5 /var>шкалу пороха<var 49 01 /var><var 48 01 /var>. Они расходуются при использовании приёмов <var 48 F201F4 /var><var 49 F201F5 /var>Разрывной удар<var 49 01 /var><var 48 01 /var> и <var 48 F201F4 /var><var 49 F201F5 /var>Клыкастый выпад<var 49 01 /var><var 48 01 /var> (изучается на 60-м уровне)."
     },
     {
       "id": "0x0000005D",
-      "text": "Upon learning the trait <var 48 F201FA /var><var 49 F201FB /var>Enhanced Dreadwyrm Trance<var 49 01 /var><var 48 01 /var>, it is possible to summon <var 48 F201FA /var><var 49 F201FB /var>Demi-Bahamut<var 49 01 /var><var 48 01 /var> to fight at your side. Summoning <var 48 F201FA /var><var 49 F201FB /var>Demi-Bahamut<var 49 01 /var><var 48 01 /var> also grants you <var 48 F201FA /var><var 49 F201FB /var>Ruby Arcanum<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>Topaz Arcanum<var 49 01 /var><var 48 01 /var>, and <var 48 F201FA /var><var 49 F201FB /var>Emerald Arcanum<var 49 01 /var><var 48 01 /var>. The <var 48 F201F4 /var><var 49 F201F5 /var>Trance Gauge<var 49 01 /var><var 48 01 /var> will indicate <var 48 F201FA /var><var 49 F201FB /var>Demi-Bahamut<var 49 01 /var><var 48 01 /var>'s time remaining on the battlefield, during which <var 48 F201F4 /var><var 49 F201F5 /var>Ruin III<var 49 01 /var><var 48 01 /var> will be upgraded to <var 48 F201F4 /var><var 49 F201F5 /var>Astral Impulse<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Outburst<var 49 01 /var><var 48 01 /var> to <var 48 F201F4 /var><var 49 F201F5 /var>Astral Flare<var 49 01 /var><var 48 01 /var>, and <var 48 F201F4 /var><var 49 F201F5 /var>Astral Flow<var 49 01 /var><var 48 01 /var> to <var 48 F201F4 /var><var 49 F201F5 /var>Deathflare<var 49 01 /var><var 48 01 /var>."
+      "text": "После изучения свойства <var 48 F201FA /var><var 49 F201FB /var>Усиленный транс Древнего дракона<var 49 01 /var><var 48 01 /var> вы сможете призывать <var 48 F201FA /var><var 49 F201FB /var>Деми-Бахамута<var 49 01 /var><var 48 01 /var> сражаться на вашей стороне. Призыв <var 48 F201FA /var><var 49 F201FB /var>Деми-Бахамута<var 49 01 /var><var 48 01 /var> также наделяет вас <var 48 F201FA /var><var 49 F201FB /var>Рубиновым арканом<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>Топазовым арканом<var 49 01 /var><var 48 01 /var> и <var 48 F201FA /var><var 49 F201FB /var>Изумрудным арканом<var 49 01 /var><var 48 01 /var>. <var 48 F201F4 /var><var 49 F201F5 /var>Шкала транса<var 49 01 /var><var 48 01 /var> показывает, сколько времени <var 48 F201FA /var><var 49 F201FB /var>Деми-Бахамут<var 49 01 /var><var 48 01 /var> сможет оставаться на поле боя. В это время <var 48 F201F4 /var><var 49 F201F5 /var>Разорение III<var 49 01 /var><var 48 01 /var> заменяется на <var 48 F201F4 /var><var 49 F201F5 /var>Астральный импульс<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Вспышка<var 49 01 /var><var 48 01 /var> — на <var 48 F201F4 /var><var 49 F201F5 /var>Астральное пламя<var 49 01 /var><var 48 01 /var>, а <var 48 F201F4 /var><var 49 F201F5 /var>Астральный поток<var 49 01 /var><var 48 01 /var> — на <var 48 F201F4 /var><var 49 F201F5 /var>Смертельное пламя<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x0000005E",
-      "text": "Upon learning the action <var 48 F201F4 /var><var 49 F201F5 /var>Shoha<var 49 01 /var><var 48 01 /var>, the <var 48 F201F4 /var><var 49 F201F5 /var>Meditation Gauge<var 49 01 /var><var 48 01 /var> will be displayed, indicating the number of stacks of <var 48 F201FA /var><var 49 F201FB /var>Meditation<var 49 01 /var><var 48 01 /var> you have accumulated while in combat. Stacks are acquired by executing <var 48 F201F4 /var><var 49 F201F5 /var>Iaijutsu<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Meditate<var 49 01 /var><var 48 01 /var>, or <var 48 F201F4 /var><var 49 F201F5 /var>Ogi Namikiri<var 49 01 /var><var 48 01 /var> (acquired at level 90), and are expended after executing <var 48 F201F4 /var><var 49 F201F5 /var>Shoha<var 49 01 /var><var 48 01 /var>."
+      "text": "После получения действия <var 48 F201F4 /var><var 49 F201F5 /var>Shoha<var 49 01 /var><var 48 01 /var> появится <var 48 F201F4 /var><var 49 F201F5 /var>шкала медитации<var 49 01 /var><var 48 01 /var>, показывающая количество накопленных в бою зарядов <var 48 F201FA /var><var 49 F201FB /var>медитации<var 49 01 /var><var 48 01 /var>. Заряды накапливаются при использовании <var 48 F201F4 /var><var 49 F201F5 /var>Иайдзюцу<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Медитации<var 49 01 /var><var 48 01 /var> или <var 48 F201F4 /var><var 49 F201F5 /var>Оги Намикири<var 49 01 /var><var 48 01 /var> (доступно с 90-го уровня) и расходуются после использования <var 48 F201F4 /var><var 49 F201F5 /var>Shoha<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x0000005F",
-      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Chakra Gauge<var 49 01 /var><var 48 01 /var> indicates the number of chakra currently open. Opening five allows for the execution of <var 48 F201F4 /var><var 49 F201F5 /var>Steel Peak<var 49 01 /var><var 48 01 /var>."
+      "text": "<var 48 F201F4 /var><var 49 F201F5 /var>Шкала чакры<var 49 01 /var><var 48 01 /var> показывает количество открытых чакр. Открыв пять чакр, можно применить <var 48 F201F4 /var><var 49 F201F5 /var>Стальную вершину<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x00000060",
-      "text": "Master's Gauge"
+      "text": "Шкала мастера"
     },
     {
       "id": "0x00000061",
-      "text": "While under the effect of <var 48 F201FA /var><var 49 F201FB /var>Perfect Balance<var 49 01 /var><var 48 01 /var>, executing certain weaponskills will open <var 48 F201FA /var><var 49 F201FB /var>Beast Chakra<var 49 01 /var><var 48 01 /var>─<var 48 F201FA /var><var 49 F201FB /var>Opo-opo Chakra<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>Coeurl Chakra<var 49 01 /var><var 48 01 /var>, or <var 48 F201FA /var><var 49 F201FB /var>Raptor Chakra<var 49 01 /var><var 48 01 /var>─in accordance with the form normally required to execute them. Opening three of the same <var 48 F201FA /var><var 49 F201FB /var>Beast Chakra<var 49 01 /var><var 48 01 /var> allows the execution of <var 48 F201F4 /var><var 49 F201F5 /var>Elixir Field<var 49 01 /var><var 48 01 /var>, while three distinct chakra allow the execution of <var 48 F201F4 /var><var 49 F201F5 /var>Flint Strike<var 49 01 /var><var 48 01 /var>. It is also possible to open the <var 48 F201FA /var><var 49 F201FB /var>Lunar Nadi<var 49 01 /var><var 48 01 /var> and <var 48 F201FA /var><var 49 F201FB /var>Solar Nadi<var 49 01 /var><var 48 01 /var> by executing <var 48 F201F4 /var><var 49 F201F5 /var>Elixir Field<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Flint Strike<var 49 01 /var><var 48 01 /var> respectively. Opening three <var 48 F201FA /var><var 49 F201FB /var>Beast Chakra<var 49 01 /var><var 48 01 /var> and both nadi allows the execution of <var 48 F201F4 /var><var 49 F201F5 /var>Tornado Kick<var 49 01 /var><var 48 01 /var>."
+      "text": "Под действием <var 48 F201FA /var><var 49 F201FB /var>Идеального равновесия<var 49 01 /var><var 48 01 /var> выполнение определённых боевых приёмов открывает <var 48 F201FA /var><var 49 F201FB /var>чакру зверя<var 49 01 /var><var 48 01 /var>─<var 48 F201FA /var><var 49 F201FB /var>чакру опо-опо<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>чакру коэрла<var 49 01 /var><var 48 01 /var> или <var 48 F201FA /var><var 49 F201FB /var>чакру раптора<var 49 01 /var><var 48 01 /var> — в зависимости от формы, обычно необходимой для их выполнения. Открыв три одинаковые <var 48 F201FA /var><var 49 F201FB /var>чакры зверя<var 49 01 /var><var 48 01 /var>, можно выполнить <var 48 F201F4 /var><var 49 F201F5 /var>эликсирное поле<var 49 01 /var><var 48 01 /var>, а три разные чакры позволяют выполнить <var 48 F201F4 /var><var 49 F201F5 /var>огненный удар<var 49 01 /var><var 48 01 /var>. Выполнение <var 48 F201F4 /var><var 49 F201F5 /var>эликсирного поля<var 49 01 /var><var 48 01 /var> и <var 48 F201F4 /var><var 49 F201F5 /var>огненного удара<var 49 01 /var><var 48 01 /var> также позволяет открыть соответственно <var 48 F201FA /var><var 49 F201FB /var>лунную нади<var 49 01 /var><var 48 01 /var> и <var 48 F201FA /var><var 49 F201FB /var>солнечную нади<var 49 01 /var><var 48 01 /var>. Открыв три <var 48 F201FA /var><var 49 F201FB /var>чакры зверя<var 49 01 /var><var 48 01 /var> и обе нади, можно выполнить <var 48 F201F4 /var><var 49 F201F5 /var>удар торнадо<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x00000062",
-      "text": "Master's Gauge and Nadi"
+      "text": "Шкала мастера и нади"
     },
     {
       "id": "0x00000063",
-      "text": "特性<var 48 F201F4 /var><var 49 F201F5 /var>「必殺技効果アップ」<var 49 01 /var><var 48 01 /var>を修得し、<var 48 F201F4 /var><var 49 F201F5 /var>「陰陽の闘気」<var 49 01 /var><var 48 01 /var>が表示されるように\nなりました！\n必殺技「天宙脚」を実行すると<var 48 F201F4 /var><var 49 F201F5 /var>「陰の闘気」<var 49 01 /var><var 48 01 /var>が付与され、「鳳凰の舞」を実行すると<var 48 F201F4 /var><var 49 F201F5 /var>「陽の闘気」<var 49 01 /var><var 48 01 /var>が付与され、さらに「闘魂」3種が種類を問わず付与された状態になると、最強の必殺技<var 48 F201F4 /var><var 49 F201F5 /var>「夢幻闘舞」<var 49 01 /var><var 48 01 /var>が実行できます。"
+      "text": "Изучив особенность <var 48 F201F4 /var><var 49 F201F5 /var>«Усиление эффекта добивающих приёмов»<var 49 01 /var><var 48 01 /var>, вы теперь можете видеть <var 48 F201F4 /var><var 49 F201F5 /var>«Энергию Инь и Ян»<var 49 01 /var><var 48 01 /var>!\nПри использовании добивающего приёма «Небесный удар» вы получаете <var 48 F201F4 /var><var 49 F201F5 /var>«Энергию Инь»<var 49 01 /var><var 48 01 /var>, а при использовании «Танца Феникса» — <var 48 F201F4 /var><var 49 F201F5 /var>«Энергию Ян»<var 49 01 /var><var 48 01 /var>. Когда вы получаете три вида «боевого духа» — независимо от их разновидности, — становится доступен сильнейший добивающий приём <var 48 F201F4 /var><var 49 F201F5 /var>«Призрачный шквал»<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x00000064",
-      "text": "Arcana Gauge and Minor Arcana"
+      "text": "Шкала арканов и Младшие арканы"
     },
     {
       "id": "0x00000065",
-      "text": "<var 48 F201F4 /var><var 49 F201F5 /var>Minor Arcana<var 49 01 /var><var 48 01 /var> can be used to draw either <var 48 F201FA /var><var 49 F201FB /var>Lord of Crowns<var 49 01 /var><var 48 01 /var> or <var 48 F201FA /var><var 49 F201FB /var>Lady of Crowns<var 49 01 /var><var 48 01 /var>, which will appear in the <var 48 F201F4 /var><var 49 F201F5 /var>Arcana Gauge<var 49 01 /var><var 48 01 /var>."
+      "text": "<var 48 F201F4 /var><var 49 F201F5 /var>Младшие арканы<var 49 01 /var><var 48 01 /var> позволяют вытянуть либо <var 48 F201FA /var><var 49 F201FB /var>Владыку корон<var 49 01 /var><var 48 01 /var>, либо <var 48 F201FA /var><var 49 F201FB /var>Владычицу корон<var 49 01 /var><var 48 01 /var>. Они появятся на <var 48 F201F4 /var><var 49 F201F5 /var>шкале арканов<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x00000066",
-      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Trance Gauge<var 49 01 /var><var 48 01 /var> indicates the time remaining for the effects of <var 48 F201F4 /var><var 49 F201F5 /var>Aethercharge<var 49 01 /var><var 48 01 /var>. Executing this action also grants <var 48 F201FA /var><var 49 F201FB /var>Ruby Arcanum<var 49 01 /var><var 48 01 /var>, which is used to summon <var 48 F201FA /var><var 49 F201FB /var>Ruby Carbuncle<var 49 01 /var><var 48 01 /var>. Upon reaching level 15, <var 48 F201F4 /var><var 49 F201F5 /var>Aethercharge<var 49 01 /var><var 48 01 /var> will also grant <var 48 F201FA /var><var 49 F201FB /var>Topaz Arcanum<var 49 01 /var><var 48 01 /var> for the summoning of <var 48 F201FA /var><var 49 F201FB /var>Topaz Carbuncle<var 49 01 /var><var 48 01 /var>, and at level 22 <var 48 F201FA /var><var 49 F201FB /var>Emerald Arcanum<var 49 01 /var><var 48 01 /var> for the summoning of <var 48 F201FA /var><var 49 F201FB /var>Emerald Carbuncle<var 49 01 /var><var 48 01 /var>."
+      "text": "Шкала транса<var 48 F201F4 /var><var 49 F201F5 /var>Trance Gauge<var 49 01 /var><var 48 01 /var> показывает оставшееся время действия эффекта <var 48 F201F4 /var><var 49 F201F5 /var>Эфирный заряд<var 49 01 /var><var 48 01 /var>. Использование этого действия также дарует <var 48 F201FA /var><var 49 F201FB /var>Рубиновый аркан<var 49 01 /var><var 48 01 /var>, необходимый для призыва <var 48 F201FA /var><var 49 F201FB /var>Рубинового карбункула<var 49 01 /var><var 48 01 /var>. На 15-м уровне <var 48 F201F4 /var><var 49 F201F5 /var>Эфирный заряд<var 49 01 /var><var 48 01 /var> также дарует <var 48 F201FA /var><var 49 F201FB /var>Топазовый аркан<var 49 01 /var><var 48 01 /var> для призыва <var 48 F201FA /var><var 49 F201FB /var>Топазового карбункула<var 49 01 /var><var 48 01 /var>, а на 22-м уровне — <var 48 F201FA /var><var 49 F201FB /var>Изумрудный аркан<var 49 01 /var><var 48 01 /var> для призыва <var 48 F201FA /var><var 49 F201FB /var>Изумрудного карбункула<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x00000067",
-      "text": "Each summon, when called forth, will tap into its respective <var 48 F201FA /var><var 49 F201FB /var>Arcanum<var 49 01 /var><var 48 01 /var>, granting you stacks of an elemental attunement, indicated on the <var 48 F201F4 /var><var 49 F201F5 /var>Trance Gauge<var 49 01 /var><var 48 01 /var>. These elemental attunements will augment <var 48 F201F4 /var><var 49 F201F5 /var>Gemshine<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Precious Brilliance<var 49 01 /var><var 48 01 /var> (acquired at level 26)."
+      "text": "Каждый призыв черпает силу из соответствующего <var 48 F201FA /var><var 49 F201FB /var>Арканума<var 49 01 /var><var 48 01 /var>, даруя вам уровни настройки на стихию, отображаемые на <var 48 F201F4 /var><var 49 F201F5 /var>шкале транса<var 49 01 /var><var 48 01 /var>. Эта настройка на стихию усиливает <var 48 F201F4 /var><var 49 F201F5 /var>Самоцветное сияние<var 49 01 /var><var 48 01 /var> и <var 48 F201F4 /var><var 49 F201F5 /var>Драгоценное сияние<var 49 01 /var><var 48 01 /var> (доступно с 26-го уровня)."
     },
     {
       "id": "0x00000068",
-      "text": "Each summon, when called forth, will tap into its respective <var 48 F201FA /var><var 49 F201FB /var>Arcanum<var 49 01 /var><var 48 01 /var>, granting you stacks of an elemental attunement, indicated on the <var 48 F201F4 /var><var 49 F201F5 /var>Trance Gauge<var 49 01 /var><var 48 01 /var>. These elemental attunements will augment <var 48 F201F4 /var><var 49 F201F5 /var>Gemshine<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Precious Brilliance<var 49 01 /var><var 48 01 /var>."
+      "text": "Каждый призыв при вызове задействует соответствующую ему <var 48 F201FA /var><var 49 F201FB /var>Аркану<var 49 01 /var><var 48 01 /var>, наделяя вас зарядами стихийной гармонии, отображаемыми на <var 48 F201F4 /var><var 49 F201F5 /var>шкале транса<var 49 01 /var><var 48 01 /var>. Эта стихийная гармония усилит <var 48 F201F4 /var><var 49 F201F5 /var>Самоцветное сияние<var 49 01 /var><var 48 01 /var> и <var 48 F201F4 /var><var 49 F201F5 /var>Драгоценное сияние<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x00000069",
-      "text": "Upon learning the trait <var 48 F201FA /var><var 49 F201FB /var>Enhanced Summon Bahamut<var 49 01 /var><var 48 01 /var>, it is possible to summon <var 48 F201FA /var><var 49 F201FB /var>Demi-Phoenix<var 49 01 /var><var 48 01 /var> to fight at your side. Summoning <var 48 F201FA /var><var 49 F201FB /var>Demi-Phoenix<var 49 01 /var><var 48 01 /var> also grants you <var 48 F201FA /var><var 49 F201FB /var>Ruby Arcanum<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>Topaz Arcanum<var 49 01 /var><var 48 01 /var>, and <var 48 F201FA /var><var 49 F201FB /var>Emerald Arcanum<var 49 01 /var><var 48 01 /var>. The <var 48 F201F4 /var><var 49 F201F5 /var>Trance Gauge<var 49 01 /var><var 48 01 /var> will indicate <var 48 F201FA /var><var 49 F201FB /var>Demi-Phoenix<var 49 01 /var><var 48 01 /var>'s time remaining on the battlefield, during which <var 48 F201F4 /var><var 49 F201F5 /var>Ruin III<var 49 01 /var><var 48 01 /var> will be upgraded to <var 48 F201F4 /var><var 49 F201F5 /var>Fountain of Fire<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Tri-disaster<var 49 01 /var><var 48 01 /var> to <var 48 F201F4 /var><var 49 F201F5 /var>Brand of Purgatory<var 49 01 /var><var 48 01 /var>, and <var 48 F201F4 /var><var 49 F201F5 /var>Astral Flow<var 49 01 /var><var 48 01 /var> to <var 48 F201F4 /var><var 49 F201F5 /var>Rekindle<var 49 01 /var><var 48 01 /var>."
+      "text": "После получения свойства <var 48 F201FA /var><var 49 F201FB /var>Усиленное призывание Бахамута<var 49 01 /var><var 48 01 /var> вы сможете призывать <var 48 F201FA /var><var 49 F201FB /var>демифеникса<var 49 01 /var><var 48 01 /var>, который будет сражаться на вашей стороне. Призыв <var 48 F201FA /var><var 49 F201FB /var>демифеникса<var 49 01 /var><var 48 01 /var> также дарует вам <var 48 F201FA /var><var 49 F201FB /var>рубиновый арканум<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>топазовый арканум<var 49 01 /var><var 48 01 /var> и <var 48 F201FA /var><var 49 F201FB /var>изумрудный арканум<var 49 01 /var><var 48 01 /var>. <var 48 F201F4 /var><var 49 F201F5 /var>Шкала транса<var 49 01 /var><var 48 01 /var> будет показывать, сколько времени <var 48 F201FA /var><var 49 F201FB /var>демифеникс<var 49 01 /var><var 48 01 /var> ещё пробудет на поле боя. В это время <var 48 F201F4 /var><var 49 F201F5 /var>Разорение III<var 49 01 /var><var 48 01 /var> сменится на <var 48 F201F4 /var><var 49 F201F5 /var>Огненный фонтан<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Тройное бедствие<var 49 01 /var><var 48 01 /var> — на <var 48 F201F4 /var><var 49 F201F5 /var>Клеймо чистилища<var 49 01 /var><var 48 01 /var>, а <var 48 F201F4 /var><var 49 F201F5 /var>Астральный поток<var 49 01 /var><var 48 01 /var> — на <var 48 F201F4 /var><var 49 F201F5 /var>Возрождение<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x0000006A",
-      "text": "Each summon, when called forth, will tap into its respective <var 48 F201FA /var><var 49 F201FB /var>Arcanum<var 49 01 /var><var 48 01 /var>, granting you stacks of an elemental attunement, indicated on the <var 48 F201F4 /var><var 49 F201F5 /var>Trance Gauge<var 49 01 /var><var 48 01 /var>. These elemental attunements will augment <var 48 F201F4 /var><var 49 F201F5 /var>Gemshine<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Precious Brilliance<var 49 01 /var><var 48 01 /var>. Upon learning the trait <var 48 F201FA /var><var 49 F201FB /var>Elemental Mastery<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Astral Flow<var 49 01 /var><var 48 01 /var> will also be enhanced by elemental attunement."
+      "text": "Каждый призыв при вызове задействует соответствующий <var 48 F201FA /var><var 49 F201FB /var>Арканум<var 49 01 /var><var 48 01 /var>, накапливая заряды элементальной настройки, отображаемые на <var 48 F201F4 /var><var 49 F201F5 /var>шкале транса<var 49 01 /var><var 48 01 /var>. Элементальная настройка усиливает <var 48 F201F4 /var><var 49 F201F5 /var>самоцветное сияние<var 49 01 /var><var 48 01 /var> и <var 48 F201F4 /var><var 49 F201F5 /var>драгоценное великолепие<var 49 01 /var><var 48 01 /var>. После изучения свойства <var 48 F201FA /var><var 49 F201FB /var>«Владыка стихий»<var 49 01 /var><var 48 01 /var> элементальная настройка также будет усиливать <var 48 F201F4 /var><var 49 F201F5 /var>астральный поток<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x0000006B",
-      "text": "Coda"
+      "text": "Кода"
     },
     {
       "id": "0x0000006C",
-      "text": "Upon learning the trait <var 48 F201FA /var><var 49 F201FB /var>Minstrel's Coda<var 49 01 /var><var 48 01 /var>, singing the <var 48 F201F4 /var><var 49 F201F5 /var>Mage's Ballad<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Army's Paeon<var 49 01 /var><var 48 01 /var>, or the <var 48 F201F4 /var><var 49 F201F5 /var>Wanderer's Minuet<var 49 01 /var><var 48 01 /var> will grant a corresponding <var 48 F201FA /var><var 49 F201FB /var>Coda<var 49 01 /var><var 48 01 /var>. With at least one <var 48 F201FA /var><var 49 F201FB /var>Coda<var 49 01 /var><var 48 01 /var> active, you can execute <var 48 F201F4 /var><var 49 F201F5 /var>Radiant Finale<var 49 01 /var><var 48 01 /var>."
+      "text": "После изучения свойства <var 48 F201FA /var><var 49 F201FB /var>Кода менестреля<var 49 01 /var><var 48 01 /var> исполнение <var 48 F201F4 /var><var 49 F201F5 /var>Баллады мага<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Песни воинства<var 49 01 /var><var 48 01 /var> или <var 48 F201F4 /var><var 49 F201F5 /var>Менуэта странника<var 49 01 /var><var 48 01 /var> дарует соответствующую <var 48 F201FA /var><var 49 F201FB /var>коду<var 49 01 /var><var 48 01 /var>. При наличии хотя бы одной активной <var 48 F201FA /var><var 49 F201FB /var>коды<var 49 01 /var><var 48 01 /var> можно исполнить <var 48 F201F4 /var><var 49 F201F5 /var>Сияющий финал<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x0000006D",
-      "text": "While under the effect of <var 48 F201FA /var><var 49 F201FB /var>Astral Fire III<var 49 01 /var><var 48 01 /var> or when possessing maximum stacks of <var 48 F201FA /var><var 49 F201FB /var>Umbral Ice<var 49 01 /var><var 48 01 /var> and <var 48 F201FA /var><var 49 F201FB /var>Umbral Hearts<var 49 01 /var><var 48 01 /var>, swapping to the opposite element will allow you to execute <var 48 F201F4 /var><var 49 F201F5 /var>Paradox<var 49 01 /var><var 48 01 /var>."
+      "text": "Если на вас действует <var 48 F201FA /var><var 49 F201FB /var>Астральный огонь III<var 49 01 /var><var 48 01 /var> или вы накопили максимальное количество уровней <var 48 F201FA /var><var 49 F201FB /var>Умбрального льда<var 49 01 /var><var 48 01 /var> и <var 48 F201FA /var><var 49 F201FB /var>умбральных сердец<var 49 01 /var><var 48 01 /var>, переход к противоположной стихии позволит применить <var 48 F201F4 /var><var 49 F201F5 /var>Парадокс<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x0000006E",
-      "text": "Upon learning the trait <var 48 F201FA /var><var 49 F201FB /var>Cartridge Charge II<var 49 01 /var><var 48 01 /var>, a third <var 48 F201FA /var><var 49 F201FB /var>Cartridge<var 49 01 /var><var 48 01 /var> can be stored in the <var 48 F201F4 /var><var 49 F201F5 /var>Powder Gauge<var 49 01 /var><var 48 01 /var>. <var 48 F201FA /var><var 49 F201FB /var>Cartridges<var 49 01 /var><var 48 01 /var> are added to the gauge by using combo actions such as <var 48 F201F4 /var><var 49 F201F5 /var>Solid Barrel<var 49 01 /var><var 48 01 /var> or <var 48 F201F4 /var><var 49 F201F5 /var>Demon Slaughter<var 49 01 /var><var 48 01 /var> (acquired at level 40). <var 48 F201FA /var><var 49 F201FB /var>Cartridges<var 49 01 /var><var 48 01 /var> can then be used to execute several actions such as <var 48 F201F4 /var><var 49 F201F5 /var>Burst Strike<var 49 01 /var><var 48 01 /var> or <var 48 F201F4 /var><var 49 F201F5 /var>Gnashing Fang<var 49 01 /var><var 48 01 /var> (acquired at level 60)."
+      "text": "После изучения особенности <var 48 F201FA /var><var 49 F201FB /var>Заряд патрона II<var 49 01 /var><var 48 01 /var> в <var 48 F201F4 /var><var 49 F201F5 /var>шкале пороха<var 49 01 /var><var 48 01 /var> можно хранить третий <var 48 F201FA /var><var 49 F201FB /var>патрон<var 49 01 /var><var 48 01 /var>. <var 48 F201FA /var><var 49 F201FB /var>Патроны<var 49 01 /var><var 48 01 /var> добавляются на шкалу при использовании таких комбинаций, как <var 48 F201F4 /var><var 49 F201F5 /var>сплошной ствол<var 49 01 /var><var 48 01 /var> или <var 48 F201F4 /var><var 49 F201F5 /var>демоническая жатва<var 49 01 /var><var 48 01 /var> (обретается на 40-м уровне). Затем <var 48 F201FA /var><var 49 F201FB /var>патроны<var 49 01 /var><var 48 01 /var> можно использовать для выполнения таких действий, как <var 48 F201F4 /var><var 49 F201F5 /var>разрывной удар<var 49 01 /var><var 48 01 /var> или <var 48 F201F4 /var><var 49 F201F5 /var>клыкастый выпад<var 49 01 /var><var 48 01 /var> (обретается на 60-м уровне)."
     },
     {
       "id": "0x0000006F",
-      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Soul Gauge<var 49 01 /var><var 48 01 /var> can be filled via the execution of certain weaponskills, or by defeating enemies afflicted with <var 48 F201FA /var><var 49 F201FB /var>Death's Design<var 49 01 /var><var 48 01 /var>. With sufficient souls stored in the gauge, you can execute actions such as <var 48 F201F4 /var><var 49 F201F5 /var>Blood Stalk<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Grim Swathe<var 49 01 /var><var 48 01 /var> (acquired at level 55), or <var 48 F201F4 /var><var 49 F201F5 /var>Gluttony<var 49 01 /var><var 48 01 /var> (acquired at level 76)."
+      "text": "Шкала душ заполняется при выполнении определённых оружейных навыков или при победе над врагами, поражёнными эффектом «Замысел смерти». Накопив достаточно душ, вы сможете применять такие действия, как «Кровавый след», «Мрачный размах» (доступен с 55-го уровня) и «Обжорство» (доступно с 76-го уровня)."
     },
     {
       "id": "0x00000070",
-      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Shroud Gauge<var 49 01 /var><var 48 01 /var> signifies the strength of your bond with your avatar. When the gauge is sufficiently filled, you can execute <var 48 F201F4 /var><var 49 F201F5 /var>Enshroud<var 49 01 /var><var 48 01 /var> to temporarily serve as host to your avatar."
+      "text": "Шкала <var 48 F201F4 /var><var 49 F201F5 /var>Покрова<var 49 01 /var><var 48 01 /var> показывает силу вашей связи с аватаром. Когда шкала достаточно заполнится, вы сможете применить <var 48 F201F4 /var><var 49 F201F5 /var>Вселение<var 49 01 /var><var 48 01 /var>, чтобы на время стать вместилищем своего аватара."
     },
     {
       "id": "0x00000071",
-      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Shroud Gauge<var 49 01 /var><var 48 01 /var> can be filled via the execution of certain weaponskills. With sufficient energy stored in the gauge, you can execute <var 48 F201F4 /var><var 49 F201F5 /var>Enshroud<var 49 01 /var><var 48 01 /var>."
+      "text": "Шкалу <var 48 F201F4 /var><var 49 F201F5 /var>Покрова<var 49 01 /var><var 48 01 /var> можно заполнять, выполняя определённые оружейные навыки. Накопив достаточно энергии, вы сможете применить <var 48 F201F4 /var><var 49 F201F5 /var>Покров<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x00000072",
-      "text": "Stacks of <var 48 F201FA /var><var 49 F201FB /var>Lemure Shroud<var 49 01 /var><var 48 01 /var> can be consumed to execute <var 48 F201F4 /var><var 49 F201F5 /var>Void Reaping<var 49 01 /var><var 48 01 /var> or <var 48 F201F4 /var><var 49 F201F5 /var>Communio<var 49 01 /var><var 48 01 /var> (acquired at level 90)."
+      "text": "Заряды <var 48 F201FA /var><var 49 F201FB /var>Покрова лемура<var 49 01 /var><var 48 01 /var> можно израсходовать для применения <var 48 F201F4 /var><var 49 F201F5 /var>Пожинания пустоты<var 49 01 /var><var 48 01 /var> или <var 48 F201F4 /var><var 49 F201F5 /var>Коммунио<var 49 01 /var><var 48 01 /var> (доступно с 90-го уровня)."
     },
     {
       "id": "0x00000073",
-      "text": "Soul Gauge"
+      "text": "Шкала душ"
     },
     {
       "id": "0x00000074",
-      "text": "Death Gauge"
+      "text": "Шкала смерти"
     },
     {
       "id": "0x00000075",
-      "text": "Eukrasia"
+      "text": "Эвкразия"
     },
     {
       "id": "0x00000076",
-      "text": "Addersgall Gauge"
+      "text": "Шкала змеиной желчи"
     },
     {
       "id": "0x00000077",
-      "text": "<var 48 F201FA /var><var 49 F201FB /var>Eukrasia<var 49 01 /var><var 48 01 /var>, when active, can be used to enhance the effects of <var 48 F201F4 /var><var 49 F201F5 /var>Dosis<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Diagnosis<var 49 01 /var><var 48 01 /var>, and <var 48 F201F4 /var><var 49 F201F5 /var>Prognosis<var 49 01 /var><var 48 01 /var>."
+      "text": "<var 48 F201FA /var><var 49 F201FB /var>Евкрасия<var 49 01 /var><var 48 01 /var> позволяет усилить эффекты <var 48 F201F4 /var><var 49 F201F5 /var>Дозиса<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Диагноза<var 49 01 /var><var 48 01 /var> и <var 48 F201F4 /var><var 49 F201F5 /var>Прогноза<var 49 01 /var><var 48 01 /var>, пока активна."
     },
     {
       "id": "0x00000078",
-      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Addersgall Gauge<var 49 01 /var><var 48 01 /var> indicates accumulated stacks of <var 48 F201FA /var><var 49 F201FB /var>Addersgall<var 49 01 /var><var 48 01 /var>, which are restored automatically over time. <var 48 F201FA /var><var 49 F201FB /var>Addersgall<var 49 01 /var><var 48 01 /var> can be consumed to execute actions such as <var 48 F201F4 /var><var 49 F201F5 /var>Druochole<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Kerachole<var 49 01 /var><var 48 01 /var> (acquired at level 50)."
+      "text": "Шкала <var 48 F201F4 /var><var 49 F201F5 /var>Addersgall<var 49 01 /var><var 48 01 /var> показывает накопленные заряды <var 48 F201FA /var><var 49 F201FB /var>Addersgall<var 49 01 /var><var 48 01 /var>, которые автоматически восстанавливаются со временем. <var 48 F201FA /var><var 49 F201FB /var>Addersgall<var 49 01 /var><var 48 01 /var> можно расходовать на применение таких действий, как <var 48 F201F4 /var><var 49 F201F5 /var>Druochole<var 49 01 /var><var 48 01 /var> и <var 48 F201F4 /var><var 49 F201F5 /var>Kerachole<var 49 01 /var><var 48 01 /var> (изучаются на 50-м уровне)."
     },
     {
       "id": "0x00000079",
-      "text": "The gauge builds stacks of <var 48 F201FA /var><var 49 F201FB /var>Addersting<var 49 01 /var><var 48 01 /var> when the barrier effect of <var 48 F201F4 /var><var 49 F201F5 /var>Eukrasian Diagnosis<var 49 01 /var><var 48 01 /var> or <var 48 F201F4 /var><var 49 F201F5 /var>Eukrasian Prognosis<var 49 01 /var><var 48 01 /var> is completely absorbed. <var 48 F201FA /var><var 49 F201FB /var>Addersting<var 49 01 /var><var 48 01 /var> stacks can be used to execute actions such as <var 48 F201F4 /var><var 49 F201F5 /var>Toxikon<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Toxikon II<var 49 01 /var><var 48 01 /var>."
+      "text": "Шкала накапливает заряды <var 48 F201FA /var><var 49 F201FB /var>Жала гадюки<var 49 01 /var><var 48 01 /var>, когда эффект барьера <var 48 F201F4 /var><var 49 F201F5 /var>Эукразийского диагноза<var 49 01 /var><var 48 01 /var> или <var 48 F201F4 /var><var 49 F201F5 /var>Эукразийского прогноза<var 49 01 /var><var 48 01 /var> полностью поглощает урон. Заряды <var 48 F201FA /var><var 49 F201FB /var>Жала гадюки<var 49 01 /var><var 48 01 /var> можно использовать для выполнения таких действий, как <var 48 F201F4 /var><var 49 F201F5 /var>Токсикон<var 49 01 /var><var 48 01 /var> и <var 48 F201F4 /var><var 49 F201F5 /var>Токсикон II<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x0000007A",
-      "text": "バランスゲージ/マナスタックシンボル"
+      "text": "Шкала баланса/значок накопления маны"
     },
     {
       "id": "0x0000007B",
-      "text": "<var 48 F201FA /var><var 49 F201FB /var>Mana Stacks<var 49 01 /var><var 48 01 /var> are gained by executing <var 48 F201F4 /var><var 49 F201F5 /var>Enchanted Riposte<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Enchanted Zwerchhau<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Enchanted Redoublement<var 49 01 /var><var 48 01 /var>, or <var 48 F201F4 /var><var 49 F201F5 /var>Enchanted Moulinet<var 49 01 /var><var 48 01 /var>, and are consumed by casting spells. At maximum stacks, you can cast <var 48 F201F4 /var><var 49 F201F5 /var>Verflare<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Verholy<var 49 01 /var><var 48 01 /var> (acquired at level 70)."
+      "text": "<var 48 F201FA /var><var 49 F201FB /var>Заряды маны<var 49 01 /var><var 48 01 /var> накапливаются при применении умений <var 48 F201F4 /var><var 49 F201F5 /var>Усиленный рипост<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Усиленный цверхау<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Усиленный редублиман<var 49 01 /var><var 48 01 /var> или <var 48 F201F4 /var><var 49 F201F5 /var>Усиленный мулине<var 49 01 /var><var 48 01 /var>, а расходуются при применении заклинаний. Накопив максимальное количество зарядов, вы сможете применить <var 48 F201F4 /var><var 49 F201F5 /var>Верфлэр<var 49 01 /var><var 48 01 /var> и <var 48 F201F4 /var><var 49 F201F5 /var>Версвятость<var 49 01 /var><var 48 01 /var> (доступны с 70-го уровня)."
     },
     {
       "id": "0x0000007C",
-      "text": "Once <var 48 F201FA /var><var 49 F201FB /var>Enshrouded<var 49 01 /var><var 48 01 /var>, the <var 48 F201F4 /var><var 49 F201F5 /var>Death Gauge<var 49 01 /var><var 48 01 /var> will display the time remaining to play host to your avatar, as well as your stacks of <var 48 F201FA /var><var 49 F201FB /var>Lemure Shroud<var 49 01 /var><var 48 01 /var>, which are consumed to use powerful attacks such as <var 48 F201F4 /var><var 49 F201F5 /var>Void Reaping<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Communio<var 49 01 /var><var 48 01 /var> (acquired at level 90)."
+      "text": "После получения эффекта «<var 48 F201FA /var><var 49 F201FB /var>Окутан<var 49 01 /var><var 48 01 /var>» на <var 48 F201F4 /var><var 49 F201F5 /var>шкале смерти<var 49 01 /var><var 48 01 /var> будет отображаться время, оставшееся до окончания действия эффекта, а также количество зарядов <var 48 F201FA /var><var 49 F201FB /var>покрова лемура<var 49 01 /var><var 48 01 /var>. Они расходуются на мощные атаки, такие как <var 48 F201F4 /var><var 49 F201F5 /var>пожинание пустоты<var 49 01 /var> и <var 48 F201F4 /var><var 49 F201F5 /var>коммунио<var 49 01 /var><var 48 01 /var> (изучается на 90-м уровне)."
     },
     {
       "id": "0x0000007D",
-      "text": "The actions <var 48 F201F4 /var><var 49 F201F5 /var>Twin Snakes<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Demolish<var 49 01 /var><var 48 01 /var> (acquired at level 30), and <var 48 F201F4 /var><var 49 F201F5 /var>Dragon Kick<var 49 01 /var><var 48 01 /var> (acquired at level 50) will grant stacks of <var 48 F201FA /var><var 49 F201FB /var>Opo-opo Fury<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>Raptor Fury<var 49 01 /var><var 48 01 /var>, or <var 48 F201FA /var><var 49 F201FB /var>Coeurl Fury<var 49 01 /var><var 48 01 /var>. The fury granted is commensurate with the form required for their execution. Other weaponskills that require these forms will consume stacks of fury to deal increased damage."
+      "text": "Действия <var 48 F201F4 /var><var 49 F201F5 /var>Двойные змеи<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Разрушение<var 49 01 /var><var 48 01 /var> (доступно с 30-го уровня) и <var 48 F201F4 /var><var 49 F201F5 /var>Удар дракона<var 49 01 /var><var 48 01 /var> (доступно с 50-го уровня) дают заряды <var 48 F201FA /var><var 49 F201FB /var>ярости опо-опо<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>ярости раптора<var 49 01 /var><var 48 01 /var> или <var 48 F201FA /var><var 49 F201FB /var>ярости коурла<var 49 01 /var><var 48 01 /var>. Тип получаемой ярости соответствует форме, необходимой для их применения. Другие оружейные навыки, требующие этих форм, расходуют заряды ярости, чтобы наносить повышенный урон."
     },
     {
       "id": "0x0000007E",
-      "text": "This timer indicates the duration of <var 48 F201FA /var><var 49 F201FB /var>Life of the Dragon<var 49 01 /var><var 48 01 /var>, which increases damage dealt. Using <var 48 F201F4 /var><var 49 F201F5 /var>Geirskogul<var 49 01 /var><var 48 01 /var> grants <var 48 F201FA /var><var 49 F201FB /var>Life of the Dragon<var 49 01 /var><var 48 01 /var>, and allows for the execution of more powerful actions such as <var 48 F201F4 /var><var 49 F201F5 /var>Nastrond<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Stardiver<var 49 01 /var><var 48 01 /var> (acquired at level 80)."
+      "text": "Этот таймер показывает длительность действия <var 48 F201FA /var><var 49 F201FB /var>Жизни дракона<var 49 01 /var><var 48 01 /var>, повышающей наносимый урон. Использование <var 48 F201F4 /var><var 49 F201F5 /var>Гейрскогуля<var 49 01 /var><var 48 01 /var> активирует <var 48 F201FA /var><var 49 F201FB /var>Жизнь дракона<var 49 01 /var><var 48 01 /var> и позволяет применять более мощные действия, такие как <var 48 F201F4 /var><var 49 F201F5 /var>Настронд<var 49 01 /var><var 48 01 /var> и <var 48 F201F4 /var><var 49 F201F5 /var>Звёздный нырок<var 49 01 /var><var 48 01 /var> (доступен с 80-го уровня)."
     },
     {
       "id": "0x0000007F",
-      "text": "Using <var 48 F201F4 /var><var 49 F201F5 /var>Raiden Thrust<var 49 01 /var><var 48 01 /var> or <var 48 F201F4 /var><var 49 F201F5 /var>Draconian Fury<var 49 01 /var><var 48 01 /var> will sharpen the <var 48 F201FA /var><var 49 F201FB /var>Firstminds' Focus<var 49 01 /var><var 48 01 /var>, up to a maximum of 2 units. Once their focus is fully sharpened, you can execute <var 48 F201F4 /var><var 49 F201F5 /var>Wyrmwind Thrust<var 49 01 /var><var 48 01 /var>."
+      "text": "Применение <var 48 F201F4 /var><var 49 F201F5 /var>Удара райдэн<var 49 01 /var><var 48 01 /var> или <var 48 F201F4 /var><var 49 F201F5 /var>Драконьей ярости<var 49 01 /var><var 48 01 /var> повышает уровень <var 48 F201FA /var><var 49 F201FB /var>Сосредоточия первородных умов<var 49 01 /var><var 48 01 /var>, максимум до 2 единиц. Когда сосредоточие полностью накоплено, можно применить <var 48 F201F4 /var><var 49 F201F5 /var>Удар драконьего ветра<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x00000080",
-      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Enochian<var 49 01 /var><var 48 01 /var> bar will fill every 30 seconds the status is maintained. When one or more crystals at the bottom of the <var 48 F201F4 /var><var 49 F201F5 /var>Elemental Gauge<var 49 01 /var><var 48 01 /var> glow pink, you will be under effect of <var 48 F201FA /var><var 49 F201FB /var>Polyglot<var 49 01 /var><var 48 01 /var>, which allows the spells <var 48 F201F4 /var><var 49 F201F5 /var>Foul<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Xenoglossy<var 49 01 /var><var 48 01 /var> (acquired at level 80) to be cast, consuming a crystal."
+      "text": "Шкала <var 48 F201F4 /var><var 49 F201F5 /var>Энохиана<var 49 01 /var><var 48 01 /var> заполняется каждые 30 секунд, пока действует этот эффект. Когда один или несколько кристаллов в нижней части <var 48 F201F4 /var><var 49 F201F5 /var>стихийной шкалы<var 49 01 /var><var 48 01 /var> начинают светиться розовым, на вас действует эффект <var 48 F201FA /var><var 49 F201FB /var>«Полиглот»<var 49 01 /var><var 48 01 /var>, позволяющий применять заклинания <var 48 F201F4 /var><var 49 F201F5 /var>«Осквернение»<var 49 01 /var><var 48 01 /var> и <var 48 F201F4 /var><var 49 F201F5 /var>«Ксеноглоссия»<var 49 01 /var><var 48 01 /var> (доступно с 80-го уровня), расходуя кристалл."
     },
     {
       "id": "0x00000081",
-      "text": "While under the effect of <var 48 F201FA /var><var 49 F201FB /var>Astral Fire<var 49 01 /var><var 48 01 /var>, casting <var 48 F201F4 /var><var 49 F201F5 /var>Fire IV<var 49 01 /var><var 48 01 /var> or <var 48 F201F4 /var><var 49 F201F5 /var>Flare<var 49 01 /var><var 48 01 /var> will grant stacks of <var 48 F201FA /var><var 49 F201FB /var>Astral Soul<var 49 01 /var><var 48 01 /var>. At maximum stacks, you can cast <var 48 F201F4 /var><var 49 F201F5 /var>Flare Star<var 49 01 /var><var 48 01 /var>."
+      "text": "Под действием <var 48 F201FA /var><var 49 F201FB /var>Астрального огня<var 49 01 /var><var 48 01 /var> применение <var 48 F201F4 /var><var 49 F201F5 /var>Огня IV<var 49 01 /var><var 48 01 /var> или <var 48 F201F4 /var><var 49 F201F5 /var>Вспышки<var 49 01 /var><var 48 01 /var> увеличивает количество зарядов эффекта <var 48 F201FA /var><var 49 F201FB /var>Астральная душа<var 49 01 /var><var 48 01 /var>. Накопив максимум зарядов, вы сможете применить <var 48 F201F4 /var><var 49 F201F5 /var>Звезду вспышки<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x00000082",
-      "text": "Astral Gauge"
+      "text": "Астральная шкала"
     },
     {
       "id": "0x00000083",
-      "text": "Upon learning the trait <var 48 F201FA /var><var 49 F201FB /var>Enhanced Summon Bahamut II<var 49 01 /var><var 48 01 /var>, it is possible to summon <var 48 F201FA /var><var 49 F201FB /var>Solar Bahamut<var 49 01 /var><var 48 01 /var> to fight at your side.\nSummoning <var 48 F201FA /var><var 49 F201FB /var>Solar Bahamut<var 49 01 /var><var 48 01 /var> also grants you <var 48 F201FA /var><var 49 F201FB /var>Ruby Arcanum<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>Topaz Arcanum<var 49 01 /var><var 48 01 /var>, and <var 48 F201FA /var><var 49 F201FB /var>Emerald Arcanum<var 49 01 /var><var 48 01 /var>. The <var 48 F201F4 /var><var 49 F201F5 /var>Trance Gauge<var 49 01 /var><var 48 01 /var> will indicate <var 48 F201FA /var><var 49 F201FB /var>Solar Bahamut<var 49 01 /var><var 48 01 /var>'s time remaining on the battlefield, during which <var 48 F201F4 /var><var 49 F201F5 /var>Ruin III<var 49 01 /var><var 48 01 /var> will be upgraded to <var 48 F201F4 /var><var 49 F201F5 /var>Umbral Impulse<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Tri-disaster<var 49 01 /var><var 48 01 /var> to <var 48 F201F4 /var><var 49 F201F5 /var>Umbral Flare<var 49 01 /var><var 48 01 /var>, and <var 48 F201F4 /var><var 49 F201F5 /var>Astral Flow<var 49 01 /var><var 48 01 /var> to <var 48 F201F4 /var><var 49 F201F5 /var>Sunflare<var 49 01 /var><var 48 01 /var>."
+      "text": "Изучив свойство <var 48 F201FA /var><var 49 F201FB /var>«Усиленный призыв Бахамута II»<var 49 01 /var><var 48 01 /var>, вы сможете призывать <var 48 F201FA /var><var 49 F201FB /var>Солнечного Бахамута<var 49 01 /var><var 48 01 /var> сражаться на вашей стороне.\n\nПризыв <var 48 F201FA /var><var 49 F201FB /var>Солнечного Бахамута<var 49 01 /var><var 48 01 /var> также дарует вам <var 48 F201FA /var><var 49 F201FB /var>Рубиновый аркан<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>Топазовый аркан<var 49 01 /var><var 48 01 /var> и <var 48 F201FA /var><var 49 F201FB /var>Изумрудный аркан<var 49 01 /var><var 48 01 /var>. <var 48 F201F4 /var><var 49 F201F5 /var>Шкала транса<var 49 01 /var><var 48 01 /var> показывает, сколько времени <var 48 F201FA /var><var 49 F201FB /var>Солнечному Бахамуту<var 49 01 /var><var 48 01 /var> осталось находиться на поле боя. Пока он находится на поле боя, <var 48 F201F4 /var><var 49 F201F5 /var>Разорение III<var 49 01 /var><var 48 01 /var> заменяется на <var 48 F201F4 /var><var 49 F201F5 /var>Теневой импульс<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>Тройная беда<var 49 01 /var><var 48 01 /var> — на <var 48 F201F4 /var><var 49 F201F5 /var>Теневой взрыв<var 49 01 /var><var 48 01 /var>, а <var 48 F201F4 /var><var 49 F201F5 /var>Астральный поток<var 49 01 /var><var 48 01 /var> — на <var 48 F201F4 /var><var 49 F201F5 /var>Солнечную вспышку<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x00000084",
-      "text": "Each summon, when called forth, will tap into its respective <var 48 F201FA /var><var 49 F201FB /var>Arcanum<var 49 01 /var><var 48 01 /var>, granting you stacks of an elemental attunement, indicated on the <var 48 F201F4 /var><var 49 F201F5 /var>Trance Gauge<var 49 01 /var><var 48 01 /var>. These elemental attunements will augment <var 48 F201F4 /var><var 49 F201F5 /var>Gemshine<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Precious Brilliance<var 49 01 /var><var 48 01 /var>. Upon learning the trait <var 48 F201FA /var><var 49 F201FB /var>Elemental Mastery<var 49 01 /var><var 48 01 /var> (acquired at level 86), <var 48 F201F4 /var><var 49 F201F5 /var>Astral Flow<var 49 01 /var><var 48 01 /var> will also be enhanced by elemental attunement."
+      "text": "Каждый призыв при вызове обращается к соответствующему <var 48 F201FA /var><var 49 F201FB /var>Аркануму<var 49 01 /var><var 48 01 /var>, наделяя вас уровнями стихийной настройки, отображаемыми на <var 48 F201F4 /var><var 49 F201F5 /var>шкале транса<var 49 01 /var><var 48 01 /var>. Стихийная настройка усиливает эффекты <var 48 F201F4 /var><var 49 F201F5 /var>Самоцветного сияния<var 49 01 /var><var 48 01 /var> и <var 48 F201F4 /var><var 49 F201F5 /var>Драгоценного блеска<var 49 01 /var><var 48 01 /var>. После изучения свойства <var 48 F201FA /var><var 49 F201FB /var>Мастерство стихий<var 49 01 /var><var 48 01 /var> (доступно с 86-го уровня) стихийная настройка также будет усиливать <var 48 F201F4 /var><var 49 F201F5 /var>Астральный поток<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x00000085",
-      "text": "Vipersight"
+      "text": "Змеиный взор"
     },
     {
       "id": "0x00000086",
-      "text": "Serpent Offerings Gauge"
+      "text": "Шкала подношений змеям"
     },
     {
       "id": "0x00000087",
-      "text": "Viper engages enemies mainly through the use of three-step combos, their primary combos beginning with either <var 48 F201F4 /var><var 49 F201F5 /var>Steel Fangs<var 49 01 /var><var 48 01 /var> or <var 48 F201F4 /var><var 49 F201F5 /var>Reaving Fangs<var 49 01 /var><var 48 01 /var>. The third step can end with one of several weaponskills, each of which grants an effect to strengthen a different combo-ending action. To reach these actions will require the use of specific combo routes.\nThe glow of <var 48 F201F4 /var><var 49 F201F5 /var>Vipersight<var 49 01 /var><var 48 01 /var>'s blades correspond with the outlining of hotbar icons to indicate the next step in a combo.\nFor example, when <var 48 F201F4 /var><var 49 F201F5 /var>Steel Fangs<var 49 01 /var><var 48 01 /var> is highlighted, the left blade of <var 48 F201F4 /var><var 49 F201F5 /var>Vipersight<var 49 01 /var><var 48 01 /var> will glow. When <var 48 F201F4 /var><var 49 F201F5 /var>Reaving Fangs<var 49 01 /var><var 48 01 /var> is highlighted, the right blade of <var 48 F201F4 /var><var 49 F201F5 /var>Vipersight<var 49 01 /var><var 48 01 /var> will glow. Moreover, the color of the gauge will indicate the step of the combo you've reached.\nFollowing these indicators will help ensure the use of combos that finish with a strengthened attack."
+      "text": "Випер сражается с противниками преимущественно с помощью трехэтапных серий приемов. Основные серии начинаются либо с <var 48 F201F4 /var><var 49 F201F5 /var>Стальных клыков<var 49 01 /var><var 48 01 /var>, либо с <var 48 F201F4 /var><var 49 F201F5 /var>Разящих клыков<var 49 01 /var><var 48 01 /var>. Третий этап может завершаться одним из нескольких оружейных навыков, каждый из которых накладывает эффект, усиливающий определенный завершающий прием. Чтобы применить эти приемы, потребуется выбрать определенный путь развития серии.\n\nСвечение лезвий <var 48 F201F4 /var><var 49 F201F5 /var>Змеиного взора<var 49 01 /var><var 48 01 /var> соответствует подсветке контуров значков панели действий и указывает следующий этап серии.\n\nНапример, когда подсвечены <var 48 F201F4 /var><var 49 F201F5 /var>Стальные клыки<var 49 01 /var><var 48 01 /var>, левое лезвие <var 48 F201F4 /var><var 49 F201F5 /var>Змеиного взора<var 49 01 /var><var 48 01 /var> начинает светиться. Когда подсвечены <var 48 F201F4 /var><var 49 F201F5 /var>Разящие клыки<var 49 01 /var><var 48 01 /var>, начинает светиться правое лезвие <var 48 F201F4 /var><var 49 F201F5 /var>Змеиного взора<var 49 01 /var><var 48 01 /var>. Кроме того, цвет шкалы указывает, какого этапа серии вы достигли.\n\nСледуя этим указателям, вы сможете завершать серии усиленной атакой."
     },
     {
       "id": "0x00000088",
-      "text": "The use of certain weaponskills will grant a <var 48 F201FA /var><var 49 F201FB /var>Rattling Coil<var 49 01 /var><var 48 01 /var>, up to a maximum of 2 stacks, indicated by <var 48 F201F4 /var><var 49 F201F5 /var>Vipersight<var 49 01 /var><var 48 01 /var>. <var 48 F201FA /var><var 49 F201FB /var>Rattling Coils<var 49 01 /var><var 48 01 /var> can be spent to execute <var 48 F201F4 /var><var 49 F201F5 /var>Uncoiled Fury<var 49 01 /var><var 48 01 /var>."
+      "text": "Использование определённых оружейных навыков дарует <var 48 F201FA /var><var 49 F201FB /var>Гремящую спираль<var 49 01 /var><var 48 01 /var> — максимум 2 заряда, отображаемых на шкале <var 48 F201F4 /var><var 49 F201F5 /var>Змеиного взора<var 49 01 /var><var 48 01 /var>. <var 48 F201FA /var><var 49 F201FB /var>Заряды гремящей спирали<var 49 01 /var><var 48 01 /var> можно потратить на применение <var 48 F201F4 /var><var 49 F201F5 /var>Неистовой ярости<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x00000089",
-      "text": "Upon learning the trait <var 48 F201FA /var><var 49 F201FB /var>Enhanced Viper's Rattle<var 49 01 /var><var 48 01 /var>, a third <var 48 F201FA /var><var 49 F201FB /var>Rattling Coil<var 49 01 /var><var 48 01 /var> can be stored. <var 48 F201FA /var><var 49 F201FB /var>Rattling Coils<var 49 01 /var><var 48 01 /var> are accumulated through the use of certain actions, and can be spent to execute <var 48 F201F4 /var><var 49 F201F5 /var>Uncoiled Fury<var 49 01 /var><var 48 01 /var>."
+      "text": "После изучения свойства <var 48 F201FA /var><var 49 F201FB /var>Улучшенная погремушка гадюки<var 49 01 /var><var 48 01 /var> можно накапливать третий <var 48 F201FA /var><var 49 F201FB /var>гремучий виток<var 49 01 /var><var 48 01 /var>. <var 48 F201FA /var><var 49 F201FB /var>Гремучие витки<var 49 01 /var><var 48 01 /var> накапливаются при использовании определённых действий и расходуются на применение <var 48 F201F4 /var><var 49 F201F5 /var>Неистовой ярости<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x0000008A",
-      "text": "The use of certain weaponskills in the execution of combos will serve to fill the <var 48 F201F4 /var><var 49 F201F5 /var>Serpent Offerings Gauge<var 49 01 /var><var 48 01 /var>. Once sufficient energy has been stored, you can activate <var 48 F201F4 /var><var 49 F201F5 /var>Reawaken<var 49 01 /var><var 48 01 /var>, which will open the <var 48 F201FA /var><var 49 F201FB /var>Anguine Tributes<var 49 01 /var><var 48 01 /var> on the gauge. These tributes can be used to execute several special weaponskills unique to your reawakened state."
+      "text": "Использование определённых боевых приёмов в комбинациях заполняет <var 48 F201F4 /var><var 49 F201F5 /var>шкалу змеиных подношений<var 49 01 /var><var 48 01 /var>. Когда накопится достаточно энергии, вы сможете активировать <var 48 F201F4 /var><var 49 F201F5 /var>Пробуждение<var 49 01 /var><var 48 01 /var>, открывающее на шкале <var 48 F201FA /var><var 49 F201FB /var>змеиные дары<var 49 01 /var><var 48 01 /var>. Эти дары позволяют применять несколько особых боевых приёмов, доступных только в пробуждённом состоянии."
     },
     {
       "id": "0x0000008B",
-      "text": "Upon learning the trait <var 48 F201FA /var><var 49 F201FB /var>Enhanced Serpent's Lineage<var 49 01 /var><var 48 01 /var>, a fifth <var 48 F201FA /var><var 49 F201FB /var>Anguine Tribute<var 49 01 /var><var 48 01 /var> will be added to the gauge. Once sufficient energy has been stored, you can activate <var 48 F201F4 /var><var 49 F201F5 /var>Reawaken<var 49 01 /var><var 48 01 /var>, which will open the <var 48 F201FA /var><var 49 F201FB /var>Anguine Tributes<var 49 01 /var><var 48 01 /var> on the gauge. These tributes can be used to execute several special weaponskills unique to your reawakened state."
+      "text": "После изучения свойства <var 48 F201FA /var><var 49 F201FB /var>Усиленное змеиное наследие<var 49 01 /var><var 48 01 /var> на шкале появится пятая <var 48 F201FA /var><var 49 F201FB /var>Змеиная дань<var 49 01 /var><var 48 01 /var>. Когда накопится достаточно энергии, вы сможете активировать <var 48 F201F4 /var><var 49 F201F5 /var>Пробуждение<var 49 01 /var><var 48 01 /var>, открывающее <var 48 F201FA /var><var 49 F201FB /var>Змеиные дани<var 49 01 /var><var 48 01 /var> на шкале. С их помощью можно применять особые боевые приёмы, доступные в состоянии пробуждения."
     },
     {
       "id": "0x0000008C",
-      "text": "Canvases"
+      "text": "Холсты"
     },
     {
       "id": "0x0000008D",
-      "text": "Palette Gauge"
+      "text": "Шкала палитры"
     },
     {
       "id": "0x0000008E",
-      "text": "Pictomancer eschews the stave for a brush, painting their imaginings upon a canvas and bringing them to life through magic.\n\n<var 48 F201F4 /var><var 49 F201F5 /var>Creature Motifs<var 49 01 /var><var 48 01 /var> are painted on the <var 48 F201F4 /var><var 49 F201F5 /var>Creature Canvas<var 49 01 /var><var 48 01 /var> and can be rendered to life through <var 48 F201F4 /var><var 49 F201F5 /var>Living Muse<var 49 01 /var><var 48 01 /var>, simultaneously granting a depiction of the rendered motif. Assembling <var 48 F201FA /var><var 49 F201FB /var>Depiction of Pom<var 49 01 /var><var 48 01 /var> and <var 48 F201FA /var><var 49 F201FB /var>Depiction of Wings<var 49 01 /var><var 48 01 /var> creates a <var 48 F201FA /var><var 49 F201FB /var>Moogle Portrait<var 49 01 /var><var 48 01 /var>, allowing the execution of <var 48 F201F4 /var><var 49 F201F5 /var>Mog of the Ages<var 49 01 /var><var 48 01 /var>."
+      "text": "Живописец отказывается от посоха в пользу кисти, перенося свои фантазии на холст и оживляя их с помощью магии.\n\n<var 48 F201F4 /var><var 49 F201F5 /var>Образы существ<var 49 01 /var><var 48 01 /var> наносятся на <var 48 F201F4 /var><var 49 F201F5 /var>Полотно существ<var 49 01 /var><var 48 01 /var> и могут быть воплощены в жизнь с помощью <var 48 F201F4 /var><var 49 F201F5 /var>Живого образа<var 49 01 /var><var 48 01 /var>, одновременно создавая изображение воплощённого образа. Сочетание <var 48 F201FA /var><var 49 F201FB /var>Изображения пома<var 49 01 /var><var 48 01 /var> и <var 48 F201FA /var><var 49 F201FB /var>Изображения крыльев<var 49 01 /var><var 48 01 /var> создаёт <var 48 F201FA /var><var 49 F201FB /var>Портрет мугла<var 49 01 /var><var 48 01 /var>, позволяя применить <var 48 F201F4 /var><var 49 F201F5 /var>Мугла сквозь века<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x0000008F",
-      "text": "<var 48 F201F4 /var><var 49 F201F5 /var>Weapon Motifs<var 49 01 /var><var 48 01 /var> are painted on the <var 48 F201F4 /var><var 49 F201F5 /var>Weapon Canvas<var 49 01 /var><var 48 01 /var> and can be rendered to life through <var 48 F201F4 /var><var 49 F201F5 /var>Steel Muse<var 49 01 /var><var 48 01 /var>. When a <var 48 F201FA /var><var 49 F201FB /var>hammer<var 49 01 /var><var 48 01 /var> is painted on the canvas, <var 48 F201F4 /var><var 49 F201F5 /var>Striking Muse<var 49 01 /var><var 48 01 /var> can be performed, allowing the execution of <var 48 F201F4 /var><var 49 F201F5 /var>Hammer Stamp<var 49 01 /var><var 48 01 /var>."
+      "text": "<var 48 F201F4 /var><var 49 F201F5 /var>Мотивы оружия<var 49 01 /var><var 48 01 /var> наносятся на <var 48 F201F4 /var><var 49 F201F5 /var>Холст оружия<var 49 01 /var><var 48 01 /var> и могут оживать благодаря <var 48 F201F4 /var><var 49 F201F5 /var>Стальной музе<var 49 01 /var><var 48 01 /var>. Если на холсте изображён <var 48 F201FA /var><var 49 F201FB /var>молот<var 49 01 /var><var 48 01 /var>, можно применить <var 48 F201F4 /var><var 49 F201F5 /var>Ударную музу<var 49 01 /var><var 48 01 /var> и выполнить <var 48 F201F4 /var><var 49 F201F5 /var>Молотковый удар<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x00000090",
-      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Palette Gauge<var 49 01 /var><var 48 01 /var> can be accumulated by executing certain aetherhue spells. Once your palette is sufficiently saturated with aether, you can consume a portion of the <var 48 F201F4 /var><var 49 F201F5 /var>Palette Gauge<var 49 01 /var><var 48 01 /var> to execute <var 48 F201F4 /var><var 49 F201F5 /var>Subtractive Palette<var 49 01 /var><var 48 01 /var>, which will temporarily alter the properties of your aetherhue spells, significantly enhancing them."
+      "text": "<var 48 F201F4 /var><var 49 F201F5 /var>Шкала палитры<var 49 01 /var><var 48 01 /var> заполняется при использовании определённых заклинаний эфирных оттенков. Когда палитра достаточно насыщена эфиром, вы можете израсходовать часть <var 48 F201F4 /var><var 49 F201F5 /var>шкалы палитры<var 49 01 /var><var 48 01 /var>, чтобы применить <var 48 F201F4 /var><var 49 F201F5 /var>Вычитающую палитру<var 49 01 /var><var 48 01 /var>. Она временно изменит свойства ваших заклинаний эфирных оттенков и значительно усилит их."
     },
     {
       "id": "0x00000091",
-      "text": "<var 48 F201F4 /var><var 49 F201F5 /var>Landscape Motifs<var 49 01 /var><var 48 01 /var> are painted on the <var 48 F201F4 /var><var 49 F201F5 /var>Landscape Canvas<var 49 01 /var><var 48 01 /var> and can be rendered to life through <var 48 F201F4 /var><var 49 F201F5 /var>Scenic Muse<var 49 01 /var><var 48 01 /var>. When a <var 48 F201FA /var><var 49 F201FB /var>starry sky<var 49 01 /var><var 48 01 /var> is painted on the canvas, <var 48 F201F4 /var><var 49 F201F5 /var>Starry Muse<var 49 01 /var><var 48 01 /var> can be performed, increasing the damage dealt by self and party members."
+      "text": "<var 48 F201F4 /var><var 49 F201F5 /var>Пейзажные мотивы<var 49 01 /var><var 48 01 /var> наносятся на <var 48 F201F4 /var><var 49 F201F5 /var>пейзажный холст<var 49 01 /var><var 48 01 /var> и могут быть оживлены с помощью <var 48 F201F4 /var><var 49 F201F5 /var>Пейзажной музы<var 49 01 /var><var 48 01 /var>. Если на холсте изображено <var 48 F201FA /var><var 49 F201FB /var>звёздное небо<var 49 01 /var><var 48 01 /var>, можно исполнить <var 48 F201F4 /var><var 49 F201F5 /var>Звёздную музу<var 49 01 /var><var 48 01 /var>, повысив наносимый вами и членами группы урон."
     },
     {
       "id": "0x00000092",
-      "text": "Pictomancer eschews the stave for a brush, painting their imaginings upon a canvas and bringing them to life through magic. By utilizing the <var 48 F201F4 /var><var 49 F201F5 /var>Creature Canvas<var 49 01 /var><var 48 01 /var>, the <var 48 F201F4 /var><var 49 F201F5 /var>Weapon Canvas<var 49 01 /var><var 48 01 /var>, and the <var 48 F201F4 /var><var 49 F201F5 /var>Landscape Canvas<var 49 01 /var><var 48 01 /var>, a variety of effects can be produced."
+      "text": "Живописец отказывается от посоха в пользу кисти, перенося свои фантазии на холст и воплощая их в жизнь с помощью магии. Используя <var 48 F201F4 /var><var 49 F201F5 /var>холст существа<var 49 01 /var><var 48 01 /var>, <var 48 F201F4 /var><var 49 F201F5 /var>холст оружия<var 49 01 /var><var 48 01 /var> и <var 48 F201F4 /var><var 49 F201F5 /var>холст пейзажа<var 49 01 /var><var 48 01 /var>, можно создавать самые разные эффекты."
     },
     {
       "id": "0x00000093",
-      "text": "<var 48 F201F4 /var><var 49 F201F5 /var>Creature Motifs<var 49 01 /var><var 48 01 /var> are painted on the <var 48 F201F4 /var><var 49 F201F5 /var>Creature Canvas<var 49 01 /var><var 48 01 /var> and can be rendered to life through <var 48 F201F4 /var><var 49 F201F5 /var>Living Muse<var 49 01 /var><var 48 01 /var>, simultaneously granting a depiction of the rendered motif. Assembling <var 48 F201FA /var><var 49 F201FB /var>Depiction of Pom<var 49 01 /var><var 48 01 /var> and <var 48 F201FA /var><var 49 F201FB /var>Depiction of Wings<var 49 01 /var><var 48 01 /var> creates a <var 48 F201FA /var><var 49 F201FB /var>Moogle Portrait<var 49 01 /var><var 48 01 /var>, allowing the execution of <var 48 F201F4 /var><var 49 F201F5 /var>Mog of the Ages<var 49 01 /var><var 48 01 /var>."
+      "text": "<var 48 F201F4 /var><var 49 F201F5 /var>Мотивы существ<var 49 01 /var><var 48 01 /var> наносятся на <var 48 F201F4 /var><var 49 F201F5 /var>Холст существ<var 49 01 /var><var 48 01 /var> и могут оживляться с помощью <var 48 F201F4 /var><var 49 F201F5 /var>Живой музы<var 49 01 /var><var 48 01 /var>, одновременно создавая изображение оживлённого мотива. Сочетание <var 48 F201FA /var><var 49 F201FB /var>Изображения пома<var 49 01 /var><var 48 01 /var> и <var 48 F201FA /var><var 49 F201FB /var>Изображения крыльев<var 49 01 /var><var 48 01 /var> создаёт <var 48 F201FA /var><var 49 F201FB /var>Портрет мугла<var 49 01 /var><var 48 01 /var>, позволяя применить <var 48 F201F4 /var><var 49 F201F5 /var>Мога века<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x00000094",
-      "text": "<var 48 F201F4 /var><var 49 F201F5 /var>Weapon Motifs<var 49 01 /var><var 48 01 /var> are painted on the <var 48 F201F4 /var><var 49 F201F5 /var>Weapon Canvas<var 49 01 /var><var 48 01 /var> and can be rendered to life through <var 48 F201F4 /var><var 49 F201F5 /var>Steel Muse<var 49 01 /var><var 48 01 /var>. When a <var 48 F201FA /var><var 49 F201FB /var>hammer<var 49 01 /var><var 48 01 /var> is painted on the canvas, <var 48 F201F4 /var><var 49 F201F5 /var>Striking Muse<var 49 01 /var><var 48 01 /var> can be performed, allowing the execution of <var 48 F201F4 /var><var 49 F201F5 /var>Hammer Stamp<var 49 01 /var><var 48 01 /var>.\n\n<var 48 F201F4 /var><var 49 F201F5 /var>Landscape Motifs<var 49 01 /var><var 48 01 /var> are painted on the <var 48 F201F4 /var><var 49 F201F5 /var>Landscape Canvas<var 49 01 /var><var 48 01 /var> and can be rendered to life through <var 48 F201F4 /var><var 49 F201F5 /var>Scenic Muse<var 49 01 /var><var 48 01 /var>. When a <var 48 F201FA /var><var 49 F201FB /var>starry sky<var 49 01 /var><var 48 01 /var> is painted on the canvas, <var 48 F201F4 /var><var 49 F201F5 /var>Starry Muse<var 49 01 /var><var 48 01 /var> can be performed, increasing the damage dealt by self and party members."
+      "text": "<var 48 F201F4 /var><var 49 F201F5 /var>Мотивы оружия<var 49 01 /var><var 48 01 /var> наносятся на <var 48 F201F4 /var><var 49 F201F5 /var>Холст оружия<var 49 01 /var><var 48 01 /var> и могут оживляться с помощью <var 48 F201F4 /var><var 49 F201F5 /var>Стальной музы<var 49 01 /var><var 48 01 /var>. Если на холсте изображён <var 48 F201FA /var><var 49 F201FB /var>молот<var 49 01 /var><var 48 01 /var>, можно использовать <var 48 F201F4 /var><var 49 F201F5 /var>Ударную музу<var 49 01 /var><var 48 01 /var>, чтобы выполнить <var 48 F201F4 /var><var 49 F201F5 /var>Удар молота<var 49 01 /var><var 48 01 /var>.\n\n<var 48 F201F4 /var><var 49 F201F5 /var>Пейзажные мотивы<var 49 01 /var><var 48 01 /var> наносятся на <var 48 F201F4 /var><var 49 F201F5 /var>Пейзажный холст<var 49 01 /var><var 48 01 /var> и могут оживляться с помощью <var 48 F201F4 /var><var 49 F201F5 /var>Пейзажной музы<var 49 01 /var><var 48 01 /var>. Если на холсте изображено <var 48 F201FA /var><var 49 F201FB /var>звёздное небо<var 49 01 /var><var 48 01 /var>, можно использовать <var 48 F201F4 /var><var 49 F201F5 /var>Звёздную музу<var 49 01 /var><var 48 01 /var>, повышая урон, наносимый вами и членами группы."
     },
     {
       "id": "0x00000095",
-      "text": "The <var 48 F201F4 /var><var 49 F201F5 /var>Palette Gauge<var 49 01 /var><var 48 01 /var> and <var 48 F201FA /var><var 49 F201FB /var>White Paint<var 49 01 /var><var 48 01 /var> can be accumulated by executing certain aetherhue spells. Once your palette is sufficiently saturated with aether, you can consume a portion of the <var 48 F201F4 /var><var 49 F201F5 /var>Palette Gauge<var 49 01 /var><var 48 01 /var> to execute <var 48 F201F4 /var><var 49 F201F5 /var>Subtractive Palette<var 49 01 /var><var 48 01 /var>, which will temporarily alter the properties of your aetherhue spells, significantly enhancing them. Additionally, <var 48 F201FA /var><var 49 F201FB /var>White Paint<var 49 01 /var><var 48 01 /var> can be spent to execute <var 48 F201F4 /var><var 49 F201F5 /var>Holy in White<var 49 01 /var><var 48 01 /var>."
+      "text": "Шкалу палитры<var 48 F201F4 /var><var 49 F201F5 /var>Palette Gauge<var 49 01 /var><var 48 01 /var> и <var 48 F201FA /var><var 49 F201FB /var>Белую краску<var 49 01 /var><var 48 01 /var> можно накапливать, применяя определённые заклинания эфирных оттенков. Когда палитра достаточно насытится эфиром, вы сможете израсходовать часть <var 48 F201F4 /var><var 49 F201F5 /var>Шкалы палитры<var 49 01 /var><var 48 01 /var>, чтобы применить <var 48 F201F4 /var><var 49 F201F5 /var>Вычитающую палитру<var 49 01 /var><var 48 01 /var>. Она временно изменит свойства ваших заклинаний эфирных оттенков, значительно усилив их. Кроме того, <var 48 F201FA /var><var 49 F201FB /var>Белую краску<var 49 01 /var><var 48 01 /var> можно потратить на применение <var 48 F201F4 /var><var 49 F201F5 /var>Святости в белом<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x00000096",
-      "text": "Upon learning the trait <var 48 F201FA /var><var 49 F201FB /var>Enhanced Palette<var 49 01 /var><var 48 01 /var>, a splash of <var 48 F201FA /var><var 49 F201FB /var>White Paint<var 49 01 /var><var 48 01 /var>, when accumulated, will be converted to <var 48 F201FA /var><var 49 F201FB /var>Black Paint<var 49 01 /var><var 48 01 /var> upon the execution of <var 48 F201F4 /var><var 49 F201F5 /var>Subtractive Palette<var 49 01 /var><var 48 01 /var>, which can be spent to perform <var 48 F201F4 /var><var 49 F201F5 /var>Comet in Black<var 49 01 /var><var 48 01 /var>."
+      "text": "После изучения свойства <var 48 F201FA /var><var 49 F201FB /var>Enhanced Palette<var 49 01 /var><var 48 01 /var> накопленная единица <var 48 F201FA /var><var 49 F201FB /var>White Paint<var 49 01 /var><var 48 01 /var> преобразуется в <var 48 F201FA /var><var 49 F201FB /var>Black Paint<var 49 01 /var><var 48 01 /var> при применении <var 48 F201F4 /var><var 49 F201F5 /var>Subtractive Palette<var 49 01 /var><var 48 01 /var>. Её можно потратить на использование <var 48 F201F4 /var><var 49 F201F5 /var>Comet in Black<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x00000097",
-      "text": "Executing <var 48 F201F4 /var><var 49 F201F5 /var>Creature Motif<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Living Muse<var 49 01 /var><var 48 01 /var> in succession to assemble <var 48 F201FA /var><var 49 F201FB /var>Depiction of Pom<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>Depiction of Wings<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>Depiction of Claw<var 49 01 /var><var 48 01 /var>, and <var 48 F201FA /var><var 49 F201FB /var>Depiction of Fangs<var 49 01 /var><var 48 01 /var> creates a <var 48 F201FA /var><var 49 F201FB /var>Madeen Portrait<var 49 01 /var><var 48 01 /var>, allowing the execution of <var 48 F201F4 /var><var 49 F201F5 /var>Retribution of the Madeen<var 49 01 /var><var 48 01 /var>."
+      "text": "Последовательное применение <var 48 F201F4 /var><var 49 F201F5 /var>Мотив существа<var 49 01 /var><var 48 01 /var> и <var 48 F201F4 /var><var 49 F201F5 /var>Живая муза<var 49 01 /var><var 48 01 /var> позволяет создать <var 48 F201FA /var><var 49 F201FB /var>Изображение пома<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>Изображение крыльев<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>Изображение когтя<var 49 01 /var><var 48 01 /var> и <var 48 F201FA /var><var 49 F201FB /var>Изображение клыков<var 49 01 /var><var 48 01 /var>, в результате чего создаётся <var 48 F201FA /var><var 49 F201FB /var>Портрет Мадин<var 49 01 /var><var 48 01 /var>, позволяющий применить <var 48 F201F4 /var><var 49 F201F5 /var>Возмездие Мадин<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x00000098",
-      "text": "Upon learning the trait <var 48 F201FA /var><var 49 F201FB /var>Void Soul<var 49 01 /var><var 48 01 /var>, weaponskills which cost <var 48 F201FA /var><var 49 F201FB /var>Lemure Shroud<var 49 01 /var><var 48 01 /var> will grant <var 48 F201FA /var><var 49 F201FB /var>Void Shroud<var 49 01 /var><var 48 01 /var> when executed. With sufficient stacks, you can execute actions such as <var 48 F201F4 /var><var 49 F201F5 /var>Lemure's Slice<var 49 01 /var><var 48 01 /var> and <var 48 F201F4 /var><var 49 F201F5 /var>Lemure's Scythe<var 49 01 /var><var 48 01 /var>."
+      "text": "После изучения свойства <var 48 F201FA /var><var 49 F201FB /var>Душа пустоты<var 49 01 /var><var 48 01 /var> оружейные навыки, расходующие <var 48 F201FA /var><var 49 F201FB /var>покров лемура<var 49 01 /var><var 48 01 /var>, при применении будут давать <var 48 F201FA /var><var 49 F201FB /var>покров пустоты<var 49 01 /var><var 48 01 /var>. Накопив достаточно зарядов, вы сможете применять такие действия, как <var 48 F201F4 /var><var 49 F201F5 /var>разрез лемура<var 49 01 /var><var 48 01 /var> и <var 48 F201F4 /var><var 49 F201F5 /var>коса лемура<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x00000099",
-      "text": "Stacks of <var 48 F201FA /var><var 49 F201FB /var>Lemure Shroud<var 49 01 /var><var 48 01 /var> can be consumed to execute <var 48 F201F4 /var><var 49 F201F5 /var>Void Reaping<var 49 01 /var><var 48 01 /var> or <var 48 F201F4 /var><var 49 F201F5 /var>Communio<var 49 01 /var><var 48 01 /var> (acquired at level 90)."
+      "text": "Заряды <var 48 F201FA /var><var 49 F201FB /var>Покрова лемура<var 49 01 /var><var 48 01 /var> можно израсходовать для применения <var 48 F201F4 /var><var 49 F201F5 /var>Пожинания пустоты<var 49 01 /var><var 48 01 /var> или <var 48 F201F4 /var><var 49 F201F5 /var>Коммунио<var 49 01 /var><var 48 01 /var> (доступно с 90-го уровня)."
     },
     {
       "id": "0x0000009D",
-      "text": "Execution of <var 48 F201F4 /var><var 49 F201F5 /var>Bloodfest<var 49 01 /var><var 48 01 /var> will grant an affect that increases the maximum number of cartridges to 4. Upon learning the trait <var 48 F201FA /var><var 49 F201FB /var>Cartridge Charge II<var 49 01 /var><var 48 01 /var> (acquired at level 88), <var 48 F201F4 /var><var 49 F201F5 /var>Bloodfest<var 49 01 /var><var 48 01 /var> will increase the maximum number of cartridges to 6."
+      "text": "Применение <var 48 F201F4 /var><var 49 F201F5 /var>Кровавый пир<var 49 01 /var><var 48 01 /var> дарует эффект, увеличивающий максимальное количество патронов до 4. После изучения черты <var 48 F201FA /var><var 49 F201FB /var>Зарядка патронов II<var 49 01 /var><var 48 01 /var> (на 88-м уровне) <var 48 F201F4 /var><var 49 F201F5 /var>Кровавый пир<var 49 01 /var><var 48 01 /var> увеличит максимальное количество патронов до 6."
     },
     {
       "id": "0x0000009E",
-      "text": "TP Gauge"
+      "text": "Шкала TP"
     },
     {
       "id": "0x0000009F",
-      "text": "Inner Compass"
+      "text": "Внутренний компас"
     },
     {
       "id": "0x000000A0",
-      "text": "Upon learning the trait <var 48 F201FA /var><var 49 F201FB /var>Wild Heart<var 49 01 /var><var 48 01 /var>, you may now accumulate TP by completing combos. After accumulating at least 100 TP, you may expend it all to perform weaponskills with power proportionate to the amount of TP used. Weaponskills that require TP to execute are known as <var 48 F201F4 /var><var 49 F201F5 /var>instinctual skills<var 49 01 /var><var 48 01 /var>."
+      "text": "Изучив особенность <var 48 F201FA /var><var 49 F201FB /var>Дикое сердце<var 49 01 /var><var 48 01 /var>, вы сможете накапливать ОТ, выполняя серии приёмов. Накопив не менее 100 ОТ, вы сможете потратить их все на оружейные навыки, сила которых зависит от количества израсходованных ОТ. Оружейные навыки, требующие ОТ для применения, называются <var 48 F201F4 /var><var 49 F201F5 /var>инстинктивными навыками<var 49 01 /var><var 48 01 /var>."
     },
     {
       "id": "0x000000A1",
-      "text": "The Inner Compass reflects cooperation between you and your familiars. Four instinctual affinities exist for both beastmaster and familiar weaponskills: <var 48 F201FA /var><var 49 F201FB /var>Volant<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>Rampant<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>Durant<var 49 01 /var><var 48 01 /var>, and <var 48 F201FA /var><var 49 F201FB /var>Eldritch<var 49 01 /var><var 48 01 /var>. When an instinctual skill with one such affinity is executed, its corresponding symbol will light up. If either the beastmaster or familiar executes another instinctual skill within seven seconds of the previous one, an <var 48 F201FA /var><var 49 F201FB /var>instinctual combo<var 49 01 /var><var 48 01 /var> will be completed, dealing extra damage."
+      "text": "Внутренний компас отражает взаимодействие между вами и вашими питомцами. У приёмов оружия зверолова и питомца есть четыре инстинктивные склонности: <var 48 F201FA /var><var 49 F201FB /var>Воздушная<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>Неистовая<var 49 01 /var><var 48 01 /var>, <var 48 F201FA /var><var 49 F201FB /var>Стойкая<var 49 01 /var><var 48 01 /var> и <var 48 F201FA /var><var 49 F201FB /var>Потусторонняя<var 49 01 /var><var 48 01 /var>. Когда применяется инстинктивный навык с одной из этих склонностей, загорается соответствующий символ. Если зверолов или его питомец применит другой инстинктивный навык в течение семи секунд после предыдущего, будет выполнена <var 48 F201FA /var><var 49 F201FB /var>инстинктивная комбинация<var 49 01 /var><var 48 01 /var>, наносящая дополнительный урон."
     },
     {
       "id": "0x000000A2",
-      "text": "Furthermore, if the second instinctual skill performed runs clockwise on the Inner Compass, an <var 48 F201FA /var><var 49 F201FB /var>intentional combo<var 49 01 /var><var 48 01 /var> will be completed. Examples of intentional combo affinities are as follows:\n　・Volant → Rampant\n　・Rampant → Durant\n　・Durant → Eldritch\n　・Eldritch → Volant\n<var 48 F201FA /var><var 49 F201FB /var>Intentional combos<var 49 01 /var><var 48 01 /var> are additionally categorized by two instinctual affinities: <var 48 F201FA /var><var 49 F201FB /var>Sunstrider<var 49 01 /var><var 48 01 /var> and <var 48 F201FA /var><var 49 F201FB /var>Moonstalker<var 49 01 /var><var 48 01 /var>. Upon completion of these combos, the corresponding side of the Inner Compass will light up. Illuminating the entire Compass may trigger an incredibly powerful attack, so keep honing your skills as a beastmaster until you can accomplish such a feat.\n\nNote that the number of chained instinctual skills is recorded beneath the compass. A higher number increases the potency of extra damage dealt by combos."
+      "text": "Кроме того, если второе использованное инстинктивное умение соответствует движению по часовой стрелке на Внутреннем компасе, будет выполнено <var 48 F201FA /var><var 49 F201FB /var>комбо по намерению<var 49 01 /var><var 48 01 /var>. Примеры сочетаний для комбо по намерению:\n　・Летучий → Неистовый\n　・Неистовый → Стойкий\n　・Стойкий → Потусторонний\n　・Потусторонний → Летучий\n<var 48 F201FA /var><var 49 F201FB /var>Комбо по намерению<var 49 01 /var><var 48 01 /var> также делятся на два инстинктивных типа: <var 48 F201FA /var><var 49 F201FB /var>Солнечный странник<var 49 01 /var><var 48 01 /var> и <var 48 F201FA /var><var 49 F201FB /var>Лунный охотник<var 49 01 /var><var 48 01 /var>. После выполнения этих комбо загорается соответствующая сторона Внутреннего компаса. Освещение всего компаса может вызвать невероятно мощную атаку, так что продолжай оттачивать навыки повелителя зверей, пока не сможешь совершить такой подвиг.\n\nОбрати внимание: количество связанных инстинктивных умений отображается под компасом. Чем оно выше, тем сильнее дополнительный урон от комбо."
     },
     {
       "id": "0x000000A3",
-      "text": "Upon learning the trait <var 48 F201FA /var><var 49 F201FB /var>Wild Heart II<var 49 01 /var><var 48 01 /var>, your familiar may now accumulate TP via its auto-attacks or by executing <var 48 F201F4 /var><var 49 F201F5 /var>Parting Blow<var 49 01 /var><var 48 01 /var>. After accumulating at least 100 TP, you may order your familiar to perform its <var 48 F201F4 /var><var 49 F201F5 /var>Trick<var 49 01 /var><var 48 01 /var>, thereby expending TP to execute an instinctual skill."
+      "text": "Изучив свойство <var 48 F201FA /var><var 49 F201FB /var>Дикое сердце II<var 49 01 /var><var 48 01 /var>, ваш питомец сможет накапливать ТП с помощью автоатак или применяя <var 48 F201F4 /var><var 49 F201F5 /var>Прощальный удар<var 49 01 /var><var 48 01 /var>. Накопив не менее 100 ТП, вы сможете приказать питомцу применить свою <var 48 F201F4 /var><var 49 F201F5 /var>Хитрость<var 49 01 /var><var 48 01 /var>, потратив ТП на выполнение инстинктивного умения."
     },
     {
       "id": "0x000000A4",
-      "text": "Upon learning the trait <var 48 F201FA /var><var 49 F201FB /var>Wild Heart III<var 49 01 /var><var 48 01 /var>, you may now accumulate stacks of <var 48 F201FA /var><var 49 F201FB /var>Mastered Instinct<var 49 01 /var><var 48 01 /var> by completing combos with beastmaster instinctual skills. All accumulated stacks of <var 48 F201FA /var><var 49 F201FB /var>Mastered Instinct<var 49 01 /var><var 48 01 /var> will be spent upon executing <var 48 F201F4 /var><var 49 F201F5 /var>Rally<var 49 01 /var><var 48 01 /var>, which instantly increases your TP Gauge proportionate to the number of stacks spent."
+      "text": "Изучив свойство <var 48 F201FA /var><var 49 F201FB /var>Дикое сердце III<var 49 01 /var><var 48 01 /var>, вы сможете накапливать заряды <var 48 F201FA /var><var 49 F201FB /var>Освоенный инстинкт<var 49 01 /var><var 48 01 /var>, выполняя серии приёмов с помощью инстинктивных навыков повелителя зверей. Все накопленные заряды <var 48 F201FA /var><var 49 F201FB /var>Освоенного инстинкта<var 49 01 /var><var 48 01 /var> расходуются при применении <var 48 F201F4 /var><var 49 F201F5 /var>Сплочения<var 49 01 /var><var 48 01 /var>, мгновенно увеличивая шкалу ОТ пропорционально числу потраченных зарядов."
     },
     {
       "id": "0x000000A5",
-      "text": "Upon learning the trait <var 48 F201FA /var><var 49 F201FB /var>Wild Heart IV<var 49 01 /var><var 48 01 /var>, your familiar may now accumulate stacks of <var 48 F201FA /var><var 49 F201FB /var>Natural Instinct<var 49 01 /var><var 48 01 /var> by completing combos with familiar instinctual skills. All accumulated stacks of <var 48 F201FA /var><var 49 F201FB /var>Natural Instinct<var 49 01 /var><var 48 01 /var> will be spent upon executing <var 48 F201F4 /var><var 49 F201F5 /var>Rallying Cheer<var 49 01 /var><var 48 01 /var>, which instantly increases the Familiar TP Gauge proportionate to the number of stacks spent."
+      "text": "После изучения свойства <var 48 F201FA /var><var 49 F201FB /var>Дикое сердце IV<var 49 01 /var><var 48 01 /var> ваш фамильяр сможет накапливать заряды <var 48 F201FA /var><var 49 F201FB /var>Природный инстинкт<var 49 01 /var><var 48 01 /var>, выполняя комбинации с помощью инстинктивных навыков фамильяра. Все накопленные заряды <var 48 F201FA /var><var 49 F201FB /var>Природного инстинкта<var 49 01 /var><var 48 01 /var> расходуются при применении <var 48 F201F4 /var><var 49 F201F5 /var>Боевого клича<var 49 01 /var><var 48 01 /var>, мгновенно повышая шкалу очков тактики фамильяра пропорционально числу израсходованных зарядов."
     },
     {
       "id": "0x000000A6",
-      "text": "TP Gauge/Wild Heart"
+      "text": "Шкала ТП/Дикое сердце"
     }
   ]
 }
